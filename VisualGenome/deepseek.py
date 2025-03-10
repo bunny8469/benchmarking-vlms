@@ -1,9 +1,11 @@
-import requests
+import os
 import json
+from groq import Groq
 
-# Replace with your Grok API endpoint and API key
-GROK_API_URL = "https://api.grok.ai/v1/generate"  # Example URL, replace with actual Grok API endpoint
-API_KEY = "your_grok_api_key_here"  # Replace with your actual API key
+# Initialize Groq API Client
+os.environ["GROQ_API_KEY"] = "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"  # Replace with your API key
+client = Groq()
+model = "llama-3.2-90b-vision-preview"  # Replace with the appropriate model name
 
 def generate_hallucination_query(image_id, relations):
     """Generate misleading questions based on the scene graph using Grok API."""
@@ -28,26 +30,23 @@ def generate_hallucination_query(image_id, relations):
         prompt = f"### Instruction: {system_prompt}\n### Input: {user_input}\n### Response:"
         
         # Call Grok API to generate the query
-        headers = {
-            "Authorization": f"Bearer {API_KEY}",
-            "Content-Type": "application/json"
-        }
-        payload = {
-            "prompt": prompt,
-            "max_tokens": 100,  # Adjust as needed
-            "temperature": 0.7,  # Adjust as needed
-            "do_sample": True
-        }
+        response = client.chat.completions.create(
+            messages=[
+                {
+                    "role": "user",
+                    "content": prompt
+                }
+            ],
+            model=model,
+            max_tokens=100,  # Adjust as needed
+            temperature=0.7,  # Adjust as needed
+        )
         
-        response = requests.post(GROK_API_URL, headers=headers, json=payload)
-        if response.status_code == 200:
-            generated_response = response.json().get("generated_text", "").strip()
-            # Extract only the response part (after "### Response:")
-            generated_query = generated_response.split("### Response:")[-1].strip()
-            queries.append(generated_query)
-        else:
-            print(f"Error calling Grok API for image {image_id}: {response.status_code}, {response.text}")
-            queries.append("")  # Append an empty string in case of API failure
+        # Extract the generated response
+        generated_response = response.choices[0].message.content.strip()
+        # Extract only the response part (after "### Response:")
+        generated_query = generated_response.split("### Response:")[-1].strip()
+        queries.append(generated_query)
     
     return queries
 
