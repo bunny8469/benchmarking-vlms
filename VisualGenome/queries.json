@@ -1,0 +1,465 @@
+[
+    {
+        "image_id": 1,
+        "queries": [
+            {
+                "question": "What is the relationship between the man and the sneakers in the image? Answer in one verb.",
+                "answer": "wear"
+            },
+            {
+                "question": "What is the relationship between the car and the headlight in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the man and the shirt in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the car and the back in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the man and the glasses in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the man and the shoes in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the man and the pants in the image? Answer in one verb.",
+                "answer": "wear"
+            },
+            {
+                "question": "What is the relationship between the man and the jacket in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the guy and the chin in the image? Answer in one verb.",
+                "answer": "hold"
+            },
+            {
+                "question": "What is the relationship between the man and the chin in the image? Answer in one verb.",
+                "answer": "hold"
+            }
+        ]
+    },
+    {
+        "image_id": 2,
+        "queries": [
+            {
+                "question": "What is the relationship between the man and the backpack in the image? Answer in one verb.",
+                "answer": "wear"
+            },
+            {
+                "question": "What is the relationship between the building and the window in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the man and the sneakers in the image? Answer in one verb.",
+                "answer": "wear"
+            },
+            {
+                "question": "What is the relationship between the walk sign and the \"walk\" in the image? Answer in one verb.",
+                "answer": "say"
+            }
+        ]
+    },
+    {
+        "image_id": 3,
+        "queries": [
+            {
+                "question": "What is the relationship between the filing cabinet and the drawer in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the multiple outlet and the plug in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the girl and the hair in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the girl and the chain in the image? Answer in one verb.",
+                "answer": "wear"
+            },
+            {
+                "question": "What is the relationship between the wall and the pluged in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the girl and the black hair in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the girl and the white top in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the drawer and the handle in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the girl and the necklace in the image? Answer in one verb.",
+                "answer": "wear"
+            }
+        ]
+    },
+    {
+        "image_id": 4,
+        "queries": [
+            {
+                "question": "What is the relationship between the chair and the padding in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the couch and the frame in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the teddy bear and the cloths in the image? Answer in one verb.",
+                "answer": "have"
+            }
+        ]
+    },
+    {
+        "image_id": 6,
+        "queries": [
+            {
+                "question": "What is the relationship between the drinking bottle and the lid in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the counter and the apple in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the granite and the drinking bottle in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the lid and the handle in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the counter and the liquid in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the chair and the leg in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the bottle and the logo in the image? Answer in one verb.",
+                "answer": "have"
+            }
+        ]
+    },
+    {
+        "image_id": 7,
+        "queries": [
+            {
+                "question": "What is the relationship between the white board and the writing in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the woman and the pants in the image? Answer in one verb.",
+                "answer": "wear"
+            },
+            {
+                "question": "What is the relationship between the cd player and the headphones in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the woman and the earring in the image? Answer in one verb.",
+                "answer": "wear"
+            },
+            {
+                "question": "What is the relationship between the laptop and the lid in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the juice bottle and the lid in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the woman and the sweater in the image? Answer in one verb.",
+                "answer": "wear"
+            },
+            {
+                "question": "What is the relationship between the woman and the blue jeans in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the water bottle and the label in the image? Answer in one verb.",
+                "answer": "have"
+            }
+        ]
+    },
+    {
+        "image_id": 8,
+        "queries": [
+            {
+                "question": "What is the relationship between the man and the sleeves in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the man and the glasses in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the man and the shirt in the image? Answer in one verb.",
+                "answer": "wear"
+            },
+            {
+                "question": "What is the relationship between the man and the chin in the image? Answer in one verb.",
+                "answer": "hold"
+            },
+            {
+                "question": "What is the relationship between the folder and the papers in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the man and the hand in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the cpu and the books in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the man and the pants in the image? Answer in one verb.",
+                "answer": "wear"
+            }
+        ]
+    },
+    {
+        "image_id": 9,
+        "queries": [
+            {
+                "question": "What is the relationship between the room and the lights in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the windows and the outside in the image? Answer in one verb.",
+                "answer": "show"
+            },
+            {
+                "question": "What is the relationship between the shelves and the books in the image? Answer in one verb.",
+                "answer": "hold"
+            }
+        ]
+    },
+    {
+        "image_id": 10,
+        "queries": [
+            {
+                "question": "What is the relationship between the man and the coat in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the coat and the floor in the image? Answer in one verb.",
+                "answer": "touch"
+            },
+            {
+                "question": "What is the relationship between the chair and the back in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the headphones and the desk in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the shelf and the books in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the man and the computer in the image? Answer in one verb.",
+                "answer": "use"
+            },
+            {
+                "question": "What is the relationship between the man and the shirt in the image? Answer in one verb.",
+                "answer": "wear"
+            },
+            {
+                "question": "What is the relationship between the computer and the keyboard in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the monitor and the screen in the image? Answer in one verb.",
+                "answer": "have"
+            }
+        ]
+    },
+    {
+        "image_id": 11,
+        "queries": [
+            {
+                "question": "What is the relationship between the pot and the flowers in the image? Answer in one verb.",
+                "answer": "have"
+            }
+        ]
+    },
+    {
+        "image_id": 12,
+        "queries": [
+            {
+                "question": "What is the relationship between the office chair and the armrest in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the composition book and the spots in the image? Answer in one verb.",
+                "answer": "have"
+            }
+        ]
+    },
+    {
+        "image_id": 13,
+        "queries": [
+            {
+                "question": "What is the relationship between the telephone and the cord in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the cup and the pen in the image? Answer in one verb.",
+                "answer": "have"
+            }
+        ]
+    },
+    {
+        "image_id": 14,
+        "queries": [
+            {
+                "question": "What is the relationship between the lamp and the shade in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the computer keyboard and the wrist rest in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the mouse pad and the wrist rest in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the bottle and the cap in the image? Answer in one verb.",
+                "answer": "have"
+            }
+        ]
+    },
+    {
+        "image_id": 15,
+        "queries": [
+            {
+                "question": "What is the relationship between the keyboard and the grey in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the gazette and the key in the image? Answer in one verb.",
+                "answer": "have"
+            }
+        ]
+    },
+    {
+        "image_id": 16,
+        "queries": [
+            {
+                "question": "What is the relationship between the man and the jeans in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the boy and the jacket in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the building and the window in the image? Answer in one verb.",
+                "answer": "have"
+            }
+        ]
+    },
+    {
+        "image_id": 17,
+        "queries": [
+            {
+                "question": "What is the relationship between the poster and the alphabet in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the poster and the bending rules in the image? Answer in one verb.",
+                "answer": "say"
+            },
+            {
+                "question": "What is the relationship between the cabinet and the monitor in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the cabinet and the door in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the chair and the wheels in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the monitor and the lights in the image? Answer in one verb.",
+                "answer": "have"
+            }
+        ]
+    },
+    {
+        "image_id": 18,
+        "queries": [
+            {
+                "question": "What is the relationship between the man and the hair in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the bottle and the soda in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the man and the monitor in the image? Answer in one verb.",
+                "answer": "use"
+            }
+        ]
+    },
+    {
+        "image_id": 19,
+        "queries": [
+            {
+                "question": "What is the relationship between the mouse and the connection wire in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the keyboard and the connection wire in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the keyboard and the cable in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the tape and the cords in the image? Answer in one verb.",
+                "answer": "hold"
+            }
+        ]
+    },
+    {
+        "image_id": 20,
+        "queries": [
+            {
+                "question": "What is the relationship between the man and the shirt in the image? Answer in one verb.",
+                "answer": "wear"
+            },
+            {
+                "question": "What is the relationship between the computer and the mouse in the image? Answer in one verb.",
+                "answer": "have"
+            },
+            {
+                "question": "What is the relationship between the chair and the back in the image? Answer in one verb.",
+                "answer": "have"
+            }
+        ]
+    }
+]
