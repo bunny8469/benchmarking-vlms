@@ -9,5 +9,10 @@ conda env create -f environment.yml
 ```
 
 ```
+conda env export > environment.yml
+
+```
+
+```
 conda activate myenv
 ```

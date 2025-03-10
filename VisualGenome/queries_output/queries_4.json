@@ -1,0 +1,479 @@
+[
+    {
+        "image_id": 61,
+        "queries": []
+    },
+    {
+        "image_id": 62,
+        "queries": [
+            {
+                "question": "Where is the balcony in relation to the building? Answer in one verb or preposition strictly",
+                "expected_answer": "on",
+                "subject_id": 1025685,
+                "object_id": 1025655,
+                "relationship_id": 3063065
+            },
+            {
+                "question": "Where is the window in relation to the building? Answer in one verb or preposition strictly",
+                "expected_answer": "on",
+                "subject_id": 1025659,
+                "object_id": 1025655,
+                "relationship_id": 3063046
+            },
+            {
+                "question": "Where is the window in relation to the building? Answer in one verb or preposition strictly",
+                "expected_answer": "on",
+                "subject_id": 1025654,
+                "object_id": 1025655,
+                "relationship_id": 3063056
+            }
+        ]
+    },
+    {
+        "image_id": 63,
+        "queries": [
+            {
+                "question": "Where is the plate in relation to the table? Answer in one verb or preposition strictly",
+                "expected_answer": "on",
+                "subject_id": 1533910,
+                "object_id": 1533887,
+                "relationship_id": 4245100
+            },
+            {
+                "question": "Where is the plate in relation to the table? Answer in one verb or preposition strictly",
+                "expected_answer": "on",
+                "subject_id": 1533910,
+                "object_id": 1533887,
+                "relationship_id": 4245085
+            },
+            {
+                "question": "Where is the fork in relation to the table? Answer in one verb or preposition strictly",
+                "expected_answer": "on",
+                "subject_id": 1533856,
+                "object_id": 1533887,
+                "relationship_id": 4245084
+            }
+        ]
+    },
+    {
+        "image_id": 64,
+        "queries": [
+            {
+                "question": "Where is the blade in relation to the windmill? Answer in one verb or preposition strictly",
+                "expected_answer": "on",
+                "subject_id": 1025712,
+                "object_id": 1025707,
+                "relationship_id": 3063181
+            },
+            {
+                "question": "Where is the tree in relation to the windmill? Answer in one verb or preposition strictly",
+                "expected_answer": "in front of",
+                "subject_id": 1062063,
+                "object_id": 1025707,
+                "relationship_id": 3188561
+            },
+            {
+                "question": "Where is the pole in relation to the ground? Answer in one verb or preposition strictly",
+                "expected_answer": "on top of",
+                "subject_id": 1062068,
+                "object_id": 1062075,
+                "relationship_id": 3188572
+            }
+        ]
+    },
+    {
+        "image_id": 65,
+        "queries": [
+            {
+                "question": "What is the license plate doing to the car? Answer in one verb or preposition strictly",
+                "expected_answer": "placed on",
+                "subject_id": 1533949,
+                "object_id": 3786856,
+                "relationship_id": 4245122
+            },
+            {
+                "question": "What is the cars doing to the road? Answer in one verb or preposition strictly",
+                "expected_answer": "driving on",
+                "subject_id": 1533956,
+                "object_id": 3786866,
+                "relationship_id": 4245124
+            },
+            {
+                "question": "What is the man doing to the car? Answer in one verb or preposition strictly",
+                "expected_answer": "standing behind",
+                "subject_id": 1533954,
+                "object_id": 3786854,
+                "relationship_id": 4245123
+            }
+        ]
+    },
+    {
+        "image_id": 66,
+        "queries": [
+            {
+                "question": "Where is the dvd in relation to the shelf? Answer in one verb or preposition strictly",
+                "expected_answer": "on",
+                "subject_id": 1533964,
+                "object_id": 1533965,
+                "relationship_id": 4256273
+            },
+            {
+                "question": "Where is the dvd in relation to the shelf? Answer in one verb or preposition strictly",
+                "expected_answer": "on",
+                "subject_id": 1533970,
+                "object_id": 3792785,
+                "relationship_id": 4256277
+            },
+            {
+                "question": "Where is the dvd in relation to the shelf? Answer in one verb or preposition strictly",
+                "expected_answer": "on",
+                "subject_id": 1533966,
+                "object_id": 3792780,
+                "relationship_id": 4256274
+            }
+        ]
+    },
+    {
+        "image_id": 67,
+        "queries": [
+            {
+                "question": "Where is the an outlet in relation to the wall? Answer in one verb or preposition strictly",
+                "expected_answer": "on",
+                "subject_id": 1533994,
+                "object_id": 3786868,
+                "relationship_id": 4245127
+            },
+            {
+                "question": "Where is the purple flowers in relation to the vase? Answer in one verb or preposition strictly",
+                "expected_answer": "in",
+                "subject_id": 1533989,
+                "object_id": 3786867,
+                "relationship_id": 4245126
+            },
+            {
+                "question": "Where is the an outlet in relation to the wall? Answer in one verb or preposition strictly",
+                "expected_answer": "on",
+                "subject_id": 1533995,
+                "object_id": 3786869,
+                "relationship_id": 4245128
+            }
+        ]
+    },
+    {
+        "image_id": 68,
+        "queries": [
+            {
+                "question": "Where is the wire in relation to the wall? Answer in one verb or preposition strictly",
+                "expected_answer": "on",
+                "subject_id": 1062095,
+                "object_id": 1062101,
+                "relationship_id": 3188595
+            },
+            {
+                "question": "Where is the socket in relation to the wall? Answer in one verb or preposition strictly",
+                "expected_answer": "on",
+                "subject_id": 1062102,
+                "object_id": 1062101,
+                "relationship_id": 3188597
+            },
+            {
+                "question": "Where is the socket in relation to the wall? Answer in one verb or preposition strictly",
+                "expected_answer": "on",
+                "subject_id": 1062102,
+                "object_id": 1062101,
+                "relationship_id": 3188598
+            }
+        ]
+    },
+    {
+        "image_id": 69,
+        "queries": [
+            {
+                "question": "Where is the table in relation to the plate? Answer in one verb or preposition strictly",
+                "expected_answer": "under",
+                "subject_id": 1025730,
+                "object_id": 1025723,
+                "relationship_id": 3063402
+            },
+            {
+                "question": "Where is the potato in relation to the plate? Answer in one verb or preposition strictly",
+                "expected_answer": "on",
+                "subject_id": 1025718,
+                "object_id": 1025723,
+                "relationship_id": 3063392
+            },
+            {
+                "question": "Where is the mark in relation to the chicken? Answer in one verb or preposition strictly",
+                "expected_answer": "on",
+                "subject_id": 1025732,
+                "object_id": 1025714,
+                "relationship_id": 3063403
+            }
+        ]
+    },
+    {
+        "image_id": 70,
+        "queries": [
+            {
+                "question": "What one word describes the relationship between picture and right? Answer in one verb or preposition strictly",
+                "expected_answer": "to",
+                "subject_id": 1058746,
+                "object_id": 1058747,
+                "relationship_id": 3186310
+            },
+            {
+                "question": "Where is the man in relation to the shirt? Answer in one verb or preposition strictly",
+                "expected_answer": "in",
+                "subject_id": 1058741,
+                "object_id": 1058731,
+                "relationship_id": 3186314
+            },
+            {
+                "question": "Where is the white box in relation to the wall? Answer in one verb or preposition strictly",
+                "expected_answer": "on",
+                "subject_id": 1058748,
+                "object_id": 1058725,
+                "relationship_id": 3186311
+            }
+        ]
+    },
+    {
+        "image_id": 71,
+        "queries": [
+            {
+                "question": "What is the box doing to the metal? Answer in one verb or preposition strictly",
+                "expected_answer": "made of",
+                "subject_id": 1062119,
+                "object_id": 1062120,
+                "relationship_id": 3188607
+            },
+            {
+                "question": "What is the woman doing to the bangs? Answer in one verb or preposition strictly",
+                "expected_answer": "has",
+                "subject_id": 1062105,
+                "object_id": 1062109,
+                "relationship_id": 3188601
+            },
+            {
+                "question": "What is the woman doing to the pants? Answer in one verb or preposition strictly",
+                "expected_answer": "wearing",
+                "subject_id": 1025737,
+                "object_id": 1062114,
+                "relationship_id": 3188603
+            }
+        ]
+    },
+    {
+        "image_id": 72,
+        "queries": [
+            {
+                "question": "Where is the person in relation to the head? Answer in one verb or preposition strictly",
+                "expected_answer": "with",
+                "subject_id": 1062169,
+                "object_id": 1062170,
+                "relationship_id": 3188642
+            },
+            {
+                "question": "Where is the glass in relation to the table? Answer in one verb or preposition strictly",
+                "expected_answer": "on",
+                "subject_id": 1062141,
+                "object_id": 1062142,
+                "relationship_id": 3188628
+            },
+            {
+                "question": "Where is the glass in relation to the table? Answer in one verb or preposition strictly",
+                "expected_answer": "on",
+                "subject_id": 1062141,
+                "object_id": 1062142,
+                "relationship_id": 3188630
+            }
+        ]
+    },
+    {
+        "image_id": 73,
+        "queries": [
+            {
+                "question": "Where is the man in relation to the hair? Answer in one verb or preposition strictly",
+                "expected_answer": "with",
+                "subject_id": 1025751,
+                "object_id": 1025763,
+                "relationship_id": 3063578
+            },
+            {
+                "question": "Where is the hair in relation to the table? Answer in one verb or preposition strictly",
+                "expected_answer": "at",
+                "subject_id": 1025769,
+                "object_id": 1025768,
+                "relationship_id": 3063584
+            },
+            {
+                "question": "Where is the woman in relation to the hair? Answer in one verb or preposition strictly",
+                "expected_answer": "with",
+                "subject_id": 1025753,
+                "object_id": 1025765,
+                "relationship_id": 3063587
+            }
+        ]
+    },
+    {
+        "image_id": 74,
+        "queries": [
+            {
+                "question": "Where is the chair in relation to the table? Answer in one verb or preposition strictly",
+                "expected_answer": "near",
+                "subject_id": 1062212,
+                "object_id": 1062176,
+                "relationship_id": 3188667
+            },
+            {
+                "question": "Where is the light in relation to the ceiling? Answer in one verb or preposition strictly",
+                "expected_answer": "on",
+                "subject_id": 1062211,
+                "object_id": 1062210,
+                "relationship_id": 3188666
+            },
+            {
+                "question": "What one word describes the relationship between people and screen? Answer in one verb or preposition strictly",
+                "expected_answer": "are on",
+                "subject_id": 1062199,
+                "object_id": 1025777,
+                "relationship_id": 3188660
+            }
+        ]
+    },
+    {
+        "image_id": 75,
+        "queries": [
+            {
+                "question": "Where is the faucet in relation to the sink? Answer in one verb or preposition strictly",
+                "expected_answer": "on",
+                "subject_id": 1534035,
+                "object_id": 1534036,
+                "relationship_id": 4245132
+            }
+        ]
+    },
+    {
+        "image_id": 76,
+        "queries": [
+            {
+                "question": "Where is the white board in relation to the yellow wall? Answer in one verb or preposition strictly",
+                "expected_answer": "on a",
+                "subject_id": 1534052,
+                "object_id": 1534053,
+                "relationship_id": 4245133
+            },
+            {
+                "question": "Where is the framed picture in relation to the wall? Answer in one verb or preposition strictly",
+                "expected_answer": "on",
+                "subject_id": 1534058,
+                "object_id": 1534059,
+                "relationship_id": 4245134
+            }
+        ]
+    },
+    {
+        "image_id": 77,
+        "queries": [
+            {
+                "question": "Where is the computer in relation to the desk? Answer in one verb or preposition strictly",
+                "expected_answer": "on a wood grain",
+                "subject_id": 1534133,
+                "object_id": 1534160,
+                "relationship_id": 4245137
+            },
+            {
+                "question": "What is the wires doing to the desk? Answer in one verb or preposition strictly",
+                "expected_answer": "hanging behind",
+                "subject_id": 1534159,
+                "object_id": 1534160,
+                "relationship_id": 4245142
+            },
+            {
+                "question": "What is the man doing to the shirt? Answer in one verb or preposition strictly",
+                "expected_answer": "wearing",
+                "subject_id": 1534175,
+                "object_id": 1534176,
+                "relationship_id": 4256284
+            }
+        ]
+    },
+    {
+        "image_id": 78,
+        "queries": [
+            {
+                "question": "Where is the keyboard in relation to the table? Answer in one verb or preposition strictly",
+                "expected_answer": "on",
+                "subject_id": 1025787,
+                "object_id": 1025783,
+                "relationship_id": 3063661
+            },
+            {
+                "question": "What is the computer doing to the monitor.? Answer in one verb or preposition strictly",
+                "expected_answer": "has",
+                "subject_id": 1025780,
+                "object_id": 1025781,
+                "relationship_id": 3063654
+            },
+            {
+                "question": "What is the chair doing to the leg? Answer in one verb or preposition strictly",
+                "expected_answer": "has",
+                "subject_id": 1025790,
+                "object_id": 1025791,
+                "relationship_id": 3063662
+            }
+        ]
+    },
+    {
+        "image_id": 79,
+        "queries": [
+            {
+                "question": "Where is the couch in relation to the cushion? Answer in one verb or preposition strictly",
+                "expected_answer": "with",
+                "subject_id": 1025802,
+                "object_id": 1025801,
+                "relationship_id": 3063680
+            },
+            {
+                "question": "Where is the window in relation to the curtain? Answer in one verb or preposition strictly",
+                "expected_answer": "with",
+                "subject_id": 1025806,
+                "object_id": 1025797,
+                "relationship_id": 3063671
+            },
+            {
+                "question": "Where is the couch in relation to the fireplace? Answer in one verb or preposition strictly",
+                "expected_answer": "near",
+                "subject_id": 1025802,
+                "object_id": 1025804,
+                "relationship_id": 3063669
+            }
+        ]
+    },
+    {
+        "image_id": 80,
+        "queries": [
+            {
+                "question": "Where is the rug in relation to the floor? Answer in one verb or preposition strictly",
+                "expected_answer": "on",
+                "subject_id": 1534226,
+                "object_id": 1534228,
+                "relationship_id": 4245147
+            },
+            {
+                "question": "What is the jar doing to the utensil? Answer in one verb or preposition strictly",
+                "expected_answer": "holding",
+                "subject_id": 1534219,
+                "object_id": 1534220,
+                "relationship_id": 4245146
+            },
+            {
+                "question": "What is the jar doing to the utensil? Answer in one verb or preposition strictly",
+                "expected_answer": "holding",
+                "subject_id": 1534219,
+                "object_id": 1534223,
+                "relationship_id": 4245143
+            }
+        ]
+    }
+]

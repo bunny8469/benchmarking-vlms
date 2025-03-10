@@ -3,9 +3,10 @@ import json
 from groq import Groq
 
 # Initialize Groq API Client
-os.environ["GROQ_API_KEY"] = "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"  # Replace with your API key
+os.environ["GROQ_API_KEY"] = "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"  # Replace with your API key
 client = Groq()
 model = "llama-3.2-90b-vision-preview"  # Replace with the appropriate model name
+output_file = "hallucination_queries.json"
 
 def generate_hallucination_query(image_id, relations):
     """Generate misleading questions based on the scene graph using Grok API."""
@@ -41,13 +42,14 @@ def generate_hallucination_query(image_id, relations):
             max_tokens=100,  # Adjust as needed
             temperature=0.7,  # Adjust as needed
         )
-        
+        print("done")
         # Extract the generated response
         generated_response = response.choices[0].message.content.strip()
         # Extract only the response part (after "### Response:")
         generated_query = generated_response.split("### Response:")[-1].strip()
         queries.append(generated_query)
-    
+        with open(output_file, "a") as file:
+            json.dump(queries, file, indent=4)
     return queries
 
 def load_scene_graph(file_path):
@@ -67,9 +69,8 @@ for image_data in scene_graph:
     
     all_hallucination_queries.append({"image_id": image_id, "queries": hallucination_queries})
 
-# Save to JSON file
-output_file = "hallucination_queries.json"
-with open(output_file, "w") as file:
-    json.dump(all_hallucination_queries, file, indent=4)
+# # Save to JSON file
+# with open(output_file, "w") as file:
+#     json.dump(all_hallucination_queries, file, indent=4)
 
 print(f"Hallucination queries saved to {output_file}.")

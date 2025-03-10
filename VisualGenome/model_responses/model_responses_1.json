@@ -1,0 +1,317 @@
+[
+    {
+        "image_id": 1,
+        "question": "What is the man doing to the shoes? Answer in one verb or preposition strictly",
+        "expected_answer": "has",
+        "model_answer": "wears",
+        "evaluation": "Hallucination"
+    },
+    {
+        "image_id": 1,
+        "question": "Where is the tree trunk in relation to the sidewalk? Answer in one verb or preposition strictly",
+        "expected_answer": "on",
+        "model_answer": "beside.",
+        "evaluation": "Hallucination"
+    },
+    {
+        "image_id": 1,
+        "question": "What is the car doing to the headlight? Answer in one verb or preposition strictly",
+        "expected_answer": "has",
+        "model_answer": "Obstructing.",
+        "evaluation": "Hallucination"
+    },
+    {
+        "image_id": 2,
+        "question": "What is the building doing to the window? Answer in one verb or preposition strictly",
+        "expected_answer": "has",
+        "model_answer": "Reflecting.",
+        "evaluation": "Hallucination"
+    },
+    {
+        "image_id": 2,
+        "question": "Where is the crosswalk in relation to the man? Answer in one verb or preposition strictly",
+        "expected_answer": "in front of",
+        "model_answer": "in front of",
+        "evaluation": "Correct Prediction"
+    },
+    {
+        "image_id": 2,
+        "question": "Where is the tree in relation to the road? Answer in one verb or preposition strictly",
+        "expected_answer": "along",
+        "model_answer": "beside",
+        "evaluation": "Correct Prediction"
+    },
+    {
+        "image_id": 3,
+        "question": "What one word describes the relationship between cables and pluged? Answer in one verb or preposition strictly",
+        "expected_answer": "are fully",
+        "model_answer": "Plugged.",
+        "evaluation": "Hallucination"
+    },
+    {
+        "image_id": 3,
+        "question": "Where is the girl in relation to the monitor? Answer in one verb or preposition strictly",
+        "expected_answer": "in front of",
+        "model_answer": "beside",
+        "evaluation": "Correct Prediction"
+    },
+    {
+        "image_id": 3,
+        "question": "What is the girl doing to the necklace? Answer in one verb or preposition strictly",
+        "expected_answer": "wearing",
+        "model_answer": "wearing",
+        "evaluation": "Correct Prediction"
+    },
+    {
+        "image_id": 4,
+        "question": "Where is the chair in relation to the table top? Answer in one verb or preposition strictly",
+        "expected_answer": "by",
+        "model_answer": "Under.",
+        "evaluation": "Hallucination"
+    },
+    {
+        "image_id": 4,
+        "question": "Where is the pillow in relation to the couch? Answer in one verb or preposition strictly",
+        "expected_answer": "on",
+        "model_answer": "on",
+        "evaluation": "Correct Prediction"
+    },
+    {
+        "image_id": 4,
+        "question": "Where is the teddy bear in relation to the pillow? Answer in one verb or preposition strictly",
+        "expected_answer": "against",
+        "model_answer": "on",
+        "evaluation": "Hallucination"
+    },
+    {
+        "image_id": 5,
+        "question": "Where is the computer monitor in relation to the desk? Answer in one verb or preposition strictly",
+        "expected_answer": "on",
+        "model_answer": "on",
+        "evaluation": "Correct Prediction"
+    },
+    {
+        "image_id": 5,
+        "question": "Where is the paper in relation to the cork-board? Answer in one verb or preposition strictly",
+        "expected_answer": "on",
+        "model_answer": "on",
+        "evaluation": "Correct Prediction"
+    },
+    {
+        "image_id": 5,
+        "question": "Where is the chair in relation to the wall? Answer in one verb or preposition strictly",
+        "expected_answer": "against",
+        "model_answer": "Against.",
+        "evaluation": "Correct Prediction"
+    },
+    {
+        "image_id": 6,
+        "question": "Where is the fork in relation to the plate? Answer in one verb or preposition strictly",
+        "expected_answer": "on",
+        "model_answer": "On",
+        "evaluation": "Correct Prediction"
+    },
+    {
+        "image_id": 6,
+        "question": "Where is the apple in relation to the counter? Answer in one verb or preposition strictly",
+        "expected_answer": "in",
+        "model_answer": "on",
+        "evaluation": "Correct Prediction"
+    },
+    {
+        "image_id": 6,
+        "question": "Where is the glass in relation to the counter? Answer in one verb or preposition strictly",
+        "expected_answer": "on",
+        "model_answer": "Above",
+        "evaluation": "Correct Prediction"
+    },
+    {
+        "image_id": 7,
+        "question": "Where is the juice bottle in relation to the desk? Answer in one verb or preposition strictly",
+        "expected_answer": "on top of",
+        "model_answer": "On.",
+        "evaluation": "Correct Prediction"
+    },
+    {
+        "image_id": 7,
+        "question": "What is the white board doing to the writing? Answer in one verb or preposition strictly",
+        "expected_answer": "has",
+        "model_answer": "erasing",
+        "evaluation": "Hallucination"
+    },
+    {
+        "image_id": 7,
+        "question": "Where is the mouse in relation to the desk? Answer in one verb or preposition strictly",
+        "expected_answer": "on top of",
+        "model_answer": "on",
+        "evaluation": "Correct Prediction"
+    },
+    {
+        "image_id": 8,
+        "question": "What is the man doing to the chin? Answer in one verb or preposition strictly",
+        "expected_answer": "holding",
+        "model_answer": "Resting",
+        "evaluation": "Hallucination"
+    },
+    {
+        "image_id": 8,
+        "question": "What is the man doing to the hand? Answer in one verb or preposition strictly",
+        "expected_answer": "has",
+        "model_answer": "touching",
+        "evaluation": "Hallucination"
+    },
+    {
+        "image_id": 8,
+        "question": "Where is the hand in relation to the keyboard? Answer in one verb or preposition strictly",
+        "expected_answer": "on",
+        "model_answer": "above.",
+        "evaluation": "Correct Prediction"
+    },
+    {
+        "image_id": 9,
+        "question": "Where is the lights in relation to the room? Answer in one verb or preposition strictly",
+        "expected_answer": "in",
+        "model_answer": "Above",
+        "evaluation": "Correct Prediction"
+    },
+    {
+        "image_id": 9,
+        "question": "Where is the chair in relation to the wheels? Answer in one verb or preposition strictly",
+        "expected_answer": "with",
+        "model_answer": "in",
+        "evaluation": "Correct Prediction"
+    },
+    {
+        "image_id": 9,
+        "question": "Where is the monitor in relation to the bottle? Answer in one verb or preposition strictly",
+        "expected_answer": "by",
+        "model_answer": "next to",
+        "evaluation": "Hallucination"
+    },
+    {
+        "image_id": 10,
+        "question": "What one word describes the relationship between papers and shelf? Answer in one verb or preposition strictly",
+        "expected_answer": "below",
+        "model_answer": "on",
+        "evaluation": "Correct Prediction"
+    },
+    {
+        "image_id": 10,
+        "question": "What is the man doing to the computer? Answer in one verb or preposition strictly",
+        "expected_answer": "looking at",
+        "model_answer": "working on",
+        "evaluation": "Correct Prediction"
+    },
+    {
+        "image_id": 10,
+        "question": "What is the man doing to the shirt? Answer in one verb or preposition strictly",
+        "expected_answer": "wears",
+        "model_answer": "wearing",
+        "evaluation": "Correct Prediction"
+    },
+    {
+        "image_id": 11,
+        "question": "Where is the bowl in relation to the desk? Answer in one verb or preposition strictly",
+        "expected_answer": "on",
+        "model_answer": "on",
+        "evaluation": "Correct Prediction"
+    },
+    {
+        "image_id": 11,
+        "question": "What is the building doing to the window? Answer in one verb or preposition strictly",
+        "expected_answer": "seen from",
+        "model_answer": "Supporting.",
+        "evaluation": "Hallucination"
+    },
+    {
+        "image_id": 11,
+        "question": "What is the pot doing to the flowers? Answer in one verb or preposition strictly",
+        "expected_answer": "has",
+        "model_answer": "holding",
+        "evaluation": "Hallucination"
+    },
+    {
+        "image_id": 12,
+        "question": "What one word describes the relationship between cpu and desk? Answer in one verb or preposition strictly",
+        "expected_answer": "below",
+        "model_answer": "on.",
+        "evaluation": "Correct Prediction"
+    },
+    {
+        "image_id": 12,
+        "question": "What is the composition book doing to the spots? Answer in one verb or preposition strictly",
+        "expected_answer": "has",
+        "model_answer": "over.",
+        "evaluation": "Hallucination"
+    },
+    {
+        "image_id": 12,
+        "question": "What is the office chair doing to the armrest? Answer in one verb or preposition strictly",
+        "expected_answer": "has",
+        "model_answer": "Going up",
+        "evaluation": "Hallucination"
+    },
+    {
+        "image_id": 13,
+        "question": "Where is the orange cloth in relation to the chair? Answer in one verb or preposition strictly",
+        "expected_answer": "on",
+        "model_answer": "on",
+        "evaluation": "Correct Prediction"
+    },
+    {
+        "image_id": 13,
+        "question": "What is the calendar doing to the wall? Answer in one verb or preposition strictly",
+        "expected_answer": "hangs on",
+        "model_answer": "hanging",
+        "evaluation": "Correct Prediction"
+    },
+    {
+        "image_id": 13,
+        "question": "Where is the orange cloth in relation to the chair? Answer in one verb or preposition strictly",
+        "expected_answer": "on",
+        "model_answer": "on",
+        "evaluation": "Correct Prediction"
+    },
+    {
+        "image_id": 14,
+        "question": "Where is the computer mouse in relation to the mouse pad? Answer in one verb or preposition strictly",
+        "expected_answer": "on",
+        "model_answer": "on",
+        "evaluation": "Correct Prediction"
+    },
+    {
+        "image_id": 14,
+        "question": "Where is the people in relation to the jigsaw puzzle? Answer in one verb or preposition strictly",
+        "expected_answer": "on",
+        "model_answer": "behind",
+        "evaluation": "Hallucination"
+    },
+    {
+        "image_id": 14,
+        "question": "Where is the computer monitor in relation to the desk? Answer in one verb or preposition strictly",
+        "expected_answer": "on",
+        "model_answer": "on",
+        "evaluation": "Correct Prediction"
+    },
+    {
+        "image_id": 15,
+        "question": "Where is the papers in relation to the desk? Answer in one verb or preposition strictly",
+        "expected_answer": "on top of",
+        "model_answer": "on",
+        "evaluation": "Correct Prediction"
+    },
+    {
+        "image_id": 15,
+        "question": "Where is the gazette in relation to the desk? Answer in one verb or preposition strictly",
+        "expected_answer": "on top of",
+        "model_answer": "on",
+        "evaluation": "Correct Prediction"
+    },
+    {
+        "image_id": 15,
+        "question": "Where is the mouse in relation to the pad? Answer in one verb or preposition strictly",
+        "expected_answer": "on",
+        "model_answer": "on",
+        "evaluation": "Correct Prediction"
+    }
+]

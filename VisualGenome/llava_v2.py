@@ -53,7 +53,7 @@ def evaluate_prediction(scene_graph, predicted_word, actual_word, threshold=0.4)
         return "Correct Prediction"
 
 # Load dataset
-with open("queries_v2.json", "r") as f:
+with open("queries_output/queries_4.json", "r") as f:
     dataset = json.load(f)
 
 # Function to convert image to Base64
@@ -136,7 +136,7 @@ for entry in dataset:
         })
 
 # Save results to JSON
-with open("model_responses.json", "w") as f:
+with open("model_responses_4.json", "w") as f:
     json.dump(results, f, indent=4)
 
 # Print summary statistics
