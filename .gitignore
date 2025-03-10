@@ -7,6 +7,7 @@ archives
 cache
 images
 myenv
+query_gpt.py
 query_type_2
 # region_descriptions_chunks
 # relationships_chunks

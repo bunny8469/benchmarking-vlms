@@ -26,11 +26,11 @@ def generate_queries(data):
         if subject and obj:
             sub_name = subject["names"][0]
             obj_name = obj["names"][0]
-            predicate = clean_predicate(rel["predicate"])
+            predicate = rel["predicate"]
 
             # Ensure valid predicate and non-redundant relationship
             if sub_name != obj_name and is_valid_answer(predicate):
-                question = f"What is the relationship between the {sub_name} and the {obj_name} in the image? Answer in one word."
+                question = f"What is the relationship between the {sub_name} and the {obj_name} in the image? Answer in one verb strictly."
 
                 if question not in seen_questions:  # Check for duplicates
                     seen_questions.add(question)

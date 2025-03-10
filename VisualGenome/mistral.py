@@ -23,12 +23,26 @@ def load_scene_graph(file_path):
 
 def generate_hallucination_query(image_id, relations, tokenizer, model):
     """Generate misleading questions based on the scene graph."""
+    
     system_prompt = (
-        "You are an expert in scene understanding. Given a scene graph describing an image, your task is to "
-        "generate misleading questions that alter the spatial or relational context between objects. "
-        "Focus on plausible but incorrect modifications of object relationships, such as reversing, swapping, "
-        "or subtly distorting their interactions. The goal is to test whether a vision-language model can "
-        "accurately reason about object relationships and avoid hallucinating incorrect details."
+        "You are an AI assistant designed to generate queries that test hallucinations in Vision-Language Models (VLMs) "
+        "by modifying relationships (predicates) in a scene graph.\n\n"
+        "### Task:\n"
+        "Given a structured scene graph with subjects, actions (predicates), and objects, your goal is to:\n"
+        "1. Analyze the Scene Graph:\n"
+        "   - Identify the subject, predicate (action), and object.\n"
+        "2. Modify the Predicate (Action) to Introduce a Hallucination:\n"
+        "   - Replace the predicate with a factually incorrect but grammatically valid alternative.\n"
+        "   - The new predicate should be plausible in real-world contexts but should NOT match the given scene graph.\n"
+        "   - Do not change the subject or object—only modify the relationship.\n"
+        "3. Generate Queries Based on the Modified Relationship:\n"
+        "   - Yes/No Question: 'Is the [subject] [new predicate] the [object]?'\n"
+        "   - Descriptive Prompt: 'Describe the [subject] [new predicate] the [object].'\n"
+        "   - Open-ended Query: 'How is the [subject] interacting with the [object]?'\n\n"
+        "### Guidelines:\n"
+        "- Ensure that the new predicate makes sense grammatically but distorts the actual relationship in the scene.\n"
+        "- Avoid relationships that are impossible or absurd (e.g., 'The car eats headlights').\n"
+        "- Generate queries in natural, fluent English to effectively test hallucination in the VLM."
     )
     
     queries = []
@@ -42,7 +56,7 @@ def generate_hallucination_query(image_id, relations, tokenizer, model):
         inputs = tokenizer(prompt, return_tensors="pt").to("cuda" if torch.cuda.is_available() else "cpu")
         outputs = model.generate(
             **inputs,
-            max_new_tokens=100,  # Changed from max_length to max_new_tokens
+            max_new_tokens=100,
             do_sample=True,
             temperature=0.7
         )

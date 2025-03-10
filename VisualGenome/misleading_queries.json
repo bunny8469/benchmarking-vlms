@@ -1,0 +1,216 @@
+[
+    {
+        "image_id": 1,
+        "queries": [
+            {
+                "question": "Is the car parked on the street?",
+                "answer": "Yes"
+            },
+            {
+                "question": "Describe the man wearing the glasses next to the bicycle.",
+                "answer": "The man is wearing a pair of glasses and is next to a bicycle on a street."
+            },
+            {
+                "question": "Yes/No Question: Does the street have a paved surface?",
+                "answer": "Yes"
+            },
+            {
+                "question": "Describe the bicycle in front of the tree wearing the hat.",
+                "answer": "The bicycle is in front of a tree wearing a gray hat."
+            },
+            {
+                "question": "How is the person parking the car on the sidewalk?",
+                "answer": "The person is parking the car on the sidewalk."
+            },
+            {
+                "question": "Oh, I can see it. So nearby the 17th and Main street a a large wall covered with graffiti and a bike has a big green wheel under a big red clock to the right with some faded blue tags behind which holds an old broom to the left and a brown bear seems waiting for you dressed in a suit.",
+                "answer": "The bicycle is near the wall on the corner of 17th and Main street with a brown bear waiting for you dressed in a suit."
+            }
+        ]
+    },
+    {
+        "image_id": 2,
+        "queries": [
+            {
+                "question": "Is the man holding a backpack the tree?",
+                "answer": "Yes"
+            },
+            {
+                "question": "Describe the car parked on the road?",
+                "answer": "The car is parked on the road, it is a black sedan with the engine running. It is about 15 feet away from the crosswalk."
+            },
+            {
+                "question": "How is the man interacting with the tree?",
+                "answer": "The man is sitting on the trunk of the tree, he has his eyes closed and he is humming a tune."
+            }
+        ]
+    },
+    {
+        "image_id": 3,
+        "queries": [
+            {
+                "question": "Is the office phone the baggage of the waitress at the booth? yes.",
+                "answer": "Yes, the office phone is the baggage of the waitress at the booth."
+            }
+        ]
+    },
+    {
+        "image_id": 4,
+        "queries": [
+            {
+                "question": "Is the curtain near the chair the rug?",
+                "answer": "Yes"
+            },
+            {
+                "question": "Describe the chair the rug the curtain",
+                "answer": "The chair and rug are situated near each other, formed by the curtain running a lengthwise, elegantly, in between the chair's rounded chair-side. They show signs of living in the living room: curtains blend to create an unbreakable fabric made up of red threads."
+            },
+            {
+                "question": "How is the window interacting with the fireplace?",
+                "answer": "The window is empty but looks out towards the fireplace situated to the left, reminding one of the view through a stunning mosaic mirror leaning against a wall, surrounded by dust, cobwebs and a faded rose pattern on the picture hanging beside it."
+            }
+        ]
+    },
+    {
+        "image_id": 8,
+        "queries": [
+            {
+                "question": "Is the car speeding the book on the table?",
+                "answer": "No"
+            },
+            {
+                "question": "Is the book playing with the car in the room?",
+                "answer": "No"
+            },
+            {
+                "question": "Is the car wearing a jacket the book on the table?",
+                "answer": "Yes"
+            },
+            {
+                "question": "Is the car eating the book in the room?",
+                "answer": "No"
+            }
+        ]
+    },
+    {
+        "image_id": 9,
+        "queries": [
+            {
+                "question": "Is the [subject] [new predicate] the [object]?",
+                "answer": "the [object] has it"
+            },
+            {
+                "question": "Describe the [subject] [new predicate] the [object].",
+                "answer": "The subject, [object], has the [new predicate] to the [subject]."
+            },
+            {
+                "question": "How is the [subject] interacting with the [object]?",
+                "answer": "The subject is interacting with the [object] in a very gentle manner."
+            }
+        ]
+    },
+    {
+        "image_id": 10,
+        "queries": [
+            {
+                "question": "Is the chair the car the paper?",
+                "answer": "Yes"
+            },
+            {
+                "question": "Describe the desk against the wall",
+                "answer": "A desk is placed against a wall to hold papers and other office supplies. The desk is typically a rectangular piece of furniture with a flat surface and legs. It is usually placed in a corner of a room to make the most efficient use of space."
+            },
+            {
+                "question": "How is the camera interacting with the curtain?",
+                "answer": "The camera is interacting with the curtain by adjusting its position and angle to see through the folds of the fabric. The camera is a device that captures images of the world around it using a combination of lenses and light sensors."
+            },
+            {
+                "question": "Is the bicycle hanging on the wall?",
+                "answer": "No, the bicycle is lying on the floor."
+            },
+            {
+                "question": "Describe the expression on the face of the computer",
+                "answer": "The computer's computer face is a representation of it as it greets the user, with a virtual smile and a relieved expression. This is created using various designs and animations that are generated by the computer program itself."
+            }
+        ]
+    },
+    {
+        "image_id": 11,
+        "queries": [
+            {
+                "question": "Is the professor the one who ordered the cake?",
+                "answer": "Yes,"
+            },
+            {
+                "question": "Does the car have the power button to lock the doors?",
+                "answer": "Yes,"
+            },
+            {
+                "question": "Is the book on the desk across from the chair occupied?",
+                "answer": "No,"
+            },
+            {
+                "question": "Does the astronaut have a spacesuit on when they jump into the pool?",
+                "answer": "No,"
+            }
+        ]
+    },
+    {
+        "image_id": 19,
+        "queries": [
+            {
+                "question": "Is [subject] sitting on top of [object]?",
+                "answer": "Yes"
+            },
+            {
+                "question": "Is [subject] facing off against [object]?",
+                "answer": "Yes"
+            },
+            {
+                "question": "Is [subject] holding [object] in its paws?",
+                "answer": "Yes"
+            },
+            {
+                "question": "Has [subject] fallen asleep on someone's arms?",
+                "answer": "Yes"
+            },
+            {
+                "question": "Are there multiple [objects] on the floor with the same color pattern?",
+                "answer": "No"
+            },
+            {
+                "question": "Do two [objects] not have the same type of hole in their bodies?",
+                "answer": "No"
+            }
+        ]
+    },
+    {
+        "image_id": 20,
+        "queries": [
+            {
+                "question": "Is the bookshelf ON the desk?",
+                "answer": "yes"
+            },
+            {
+                "question": "Is the desk empty?",
+                "answer": "yes"
+            },
+            {
+                "question": "Is the picture IN the book?",
+                "answer": "no"
+            },
+            {
+                "question": "Is the person OR sitting ON the chair?",
+                "answer": "yes"
+            },
+            {
+                "question": "Is the bookshelf IN the book?",
+                "answer": "no"
+            },
+            {
+                "question": "Is the file in the file cabinet?",
+                "answer": "no"
+            }
+        ]
+    }
+]

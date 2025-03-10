@@ -56,19 +56,20 @@ try:
     #     requests.get("https://www.ilankelman.org/stopsigns/australia.jpg", stream=True).raw
     # ).resize((64, 64))
     
-    snow_image = Image.open(
-        requests.get(
-            "https://huggingface.co/microsoft/kosmos-2-patch14-224/resolve/main/snowman.jpg", stream=True
-        ).raw
-    ).resize((64, 64))
+    # snow_image = Image.open(
+    #     requests.get(
+    #         "https://huggingface.co/microsoft/kosmos-2-patch14-224/resolve/main/snowman.jpg", stream=True
+    #     ).raw
+    # ).resize((64, 64))
     
+    snow_image=Image.open("images/1.jpg").resize((64,64))
     # Explicitly add image tokens to prompt
-    prompt = "<image> Describe the snowman"
+    prompt = "<image> answer en what is the red shirt person riding?"
     print(f"Using prompt: {prompt}")
     
     # Process inputs
     print("Processing inputs...")
-    inputs = processor(images=[[snow_image]], text=prompt, return_tensors="pt")
+    inputs = processor(images=[snow_image], text=prompt, return_tensors="pt")
     
     # Move all inputs to the same device as the model
     # First identify the model device
@@ -85,10 +86,10 @@ try:
     print("Generating output...")
     output = model.generate(
         **inputs,
-        max_new_tokens=20,
-        min_new_tokens=10,
-        num_beams=1,
-        do_sample=False,
+        # max_new_tokens=20,
+        # min_new_tokens=10,
+        num_beams=3,
+        # do_sample=True,
         pad_token_id=processor.tokenizer.pad_token_id
     )
     

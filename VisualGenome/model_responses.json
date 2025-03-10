@@ -1,440 +1,317 @@
 [
     {
         "image_id": 1,
-        "question": "What is the relationship between the man and the sneakers in the image? Answer in one verb.",
-        "expected_answer": "wear",
-        "model_answer": "Wearing."
+        "question": "What is the bike doing to the sidewalk? Answer in one verb or preposition strictly.",
+        "expected_answer": "parked on",
+        "model_answer": "parked",
+        "evaluation": "Correct Prediction"
     },
     {
         "image_id": 1,
-        "question": "What is the relationship between the car and the headlight in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "Looking."
+        "question": "Where is the man in relation to the shirt? Answer in one verb or preposition strictly.",
+        "expected_answer": "in",
+        "model_answer": "Wearing.",
+        "evaluation": "Hallucination"
     },
     {
         "image_id": 1,
-        "question": "What is the relationship between the man and the shirt in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "Wearing."
-    },
-    {
-        "image_id": 1,
-        "question": "What is the relationship between the car and the back in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "The back of the car cannot be seen."
-    },
-    {
-        "image_id": 1,
-        "question": "What is the relationship between the man and the glasses in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "The man is looking at the glasses."
-    },
-    {
-        "image_id": 1,
-        "question": "What is the relationship between the man and the shoes in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "standing."
-    },
-    {
-        "image_id": 1,
-        "question": "What is the relationship between the man and the pants in the image? Answer in one verb.",
-        "expected_answer": "wear",
-        "model_answer": "wearing"
-    },
-    {
-        "image_id": 1,
-        "question": "What is the relationship between the man and the jacket in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "Wearing."
-    },
-    {
-        "image_id": 1,
-        "question": "What is the relationship between the guy and the chin in the image? Answer in one verb.",
-        "expected_answer": "hold",
-        "model_answer": "The guy is looking at the chin."
-    },
-    {
-        "image_id": 1,
-        "question": "What is the relationship between the man and the chin in the image? Answer in one verb.",
-        "expected_answer": "hold",
-        "model_answer": "Touching."
+        "question": "Where is the tree trunk in relation to the sidewalk? Answer in one verb or preposition strictly.",
+        "expected_answer": "on",
+        "model_answer": "On.",
+        "evaluation": "Correct Prediction"
     },
     {
         "image_id": 2,
-        "question": "What is the relationship between the man and the backpack in the image? Answer in one verb.",
-        "expected_answer": "wear",
-        "model_answer": "Carrying."
+        "question": "Where is the man in relation to the crosswalk? Answer in one verb or preposition strictly.",
+        "expected_answer": "at",
+        "model_answer": "At.",
+        "evaluation": "Correct Prediction"
     },
     {
         "image_id": 2,
-        "question": "What is the relationship between the building and the window in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "Is."
+        "question": "What one word describes the relationship between tree and road? Answer in one verb or preposition strictly.",
+        "expected_answer": "next to",
+        "model_answer": "beside",
+        "evaluation": "Correct Prediction"
     },
     {
         "image_id": 2,
-        "question": "What is the relationship between the man and the sneakers in the image? Answer in one verb.",
-        "expected_answer": "wear",
-        "model_answer": "walking"
-    },
-    {
-        "image_id": 2,
-        "question": "What is the relationship between the walk sign and the \"walk\" in the image? Answer in one verb.",
-        "expected_answer": "say",
-        "model_answer": "Indicates."
+        "question": "What is the building doing to the window? Answer in one verb or preposition strictly.",
+        "expected_answer": "has",
+        "model_answer": "Reflecting.",
+        "evaluation": "Hallucination"
     },
     {
         "image_id": 3,
-        "question": "What is the relationship between the filing cabinet and the drawer in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "The filing cabinet supports the drawer."
+        "question": "What is the filing cabinet doing to the drawer? Answer in one verb or preposition strictly.",
+        "expected_answer": "has",
+        "model_answer": "Blocking.",
+        "evaluation": "Hallucination"
     },
     {
         "image_id": 3,
-        "question": "What is the relationship between the multiple outlet and the plug in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "Plugs."
+        "question": "Where is the bag in relation to the desk? Answer in one verb or preposition strictly.",
+        "expected_answer": "on",
+        "model_answer": "on",
+        "evaluation": "Correct Prediction"
     },
     {
         "image_id": 3,
-        "question": "What is the relationship between the girl and the hair in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "Tying."
-    },
-    {
-        "image_id": 3,
-        "question": "What is the relationship between the girl and the chain in the image? Answer in one verb.",
-        "expected_answer": "wear",
-        "model_answer": "Observing."
-    },
-    {
-        "image_id": 3,
-        "question": "What is the relationship between the wall and the pluged in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "connects."
-    },
-    {
-        "image_id": 3,
-        "question": "What is the relationship between the girl and the black hair in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "Shares."
-    },
-    {
-        "image_id": 3,
-        "question": "What is the relationship between the girl and the white top in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "Wearing"
-    },
-    {
-        "image_id": 3,
-        "question": "What is the relationship between the drawer and the handle in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "The drawer is attached to the handle."
-    },
-    {
-        "image_id": 3,
-        "question": "What is the relationship between the girl and the necklace in the image? Answer in one verb.",
-        "expected_answer": "wear",
-        "model_answer": "Looking."
+        "question": "What one word describes the relationship between cables and pluged? Answer in one verb or preposition strictly.",
+        "expected_answer": "have been",
+        "model_answer": "in.",
+        "evaluation": "Hallucination"
     },
     {
         "image_id": 4,
-        "question": "What is the relationship between the chair and the padding in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "The chair is sitting on the padding."
+        "question": "What is the couch doing to the frame? Answer in one verb or preposition strictly.",
+        "expected_answer": "has",
+        "model_answer": "Following.",
+        "evaluation": "Hallucination"
     },
     {
         "image_id": 4,
-        "question": "What is the relationship between the couch and the frame in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "There is a lamp behind the couch."
+        "question": "Where is the lamp in relation to the couch? Answer in one verb or preposition strictly.",
+        "expected_answer": "behind",
+        "model_answer": "Behind.",
+        "evaluation": "Correct Prediction"
     },
     {
         "image_id": 4,
-        "question": "What is the relationship between the teddy bear and the cloths in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "The teddy bear is sitting on the cloth."
+        "question": "What one word describes the relationship between door and patio? Answer in one verb or preposition strictly.",
+        "expected_answer": "to",
+        "model_answer": "leads to",
+        "evaluation": "Correct Prediction"
+    },
+    {
+        "image_id": 5,
+        "question": "Where is the books in relation to the shelves? Answer in one verb or preposition strictly.",
+        "expected_answer": "on",
+        "model_answer": "above",
+        "evaluation": "Correct Prediction"
+    },
+    {
+        "image_id": 5,
+        "question": "Where is the books in relation to the shelf? Answer in one verb or preposition strictly.",
+        "expected_answer": "on",
+        "model_answer": "on",
+        "evaluation": "Correct Prediction"
+    },
+    {
+        "image_id": 5,
+        "question": "Where is the chairs in relation to the desk? Answer in one verb or preposition strictly.",
+        "expected_answer": "before",
+        "model_answer": "Around.",
+        "evaluation": "Correct Prediction"
     },
     {
         "image_id": 6,
-        "question": "What is the relationship between the drinking bottle and the lid in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "sitting"
+        "question": "What is the counter doing to the apple? Answer in one verb or preposition strictly.",
+        "expected_answer": "contains",
+        "model_answer": "supporting",
+        "evaluation": "Hallucination"
     },
     {
         "image_id": 6,
-        "question": "What is the relationship between the counter and the apple in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "on"
+        "question": "What is the chair doing to the leg? Answer in one verb or preposition strictly.",
+        "expected_answer": "has",
+        "model_answer": "touching.",
+        "evaluation": "Hallucination"
     },
     {
         "image_id": 6,
-        "question": "What is the relationship between the granite and the drinking bottle in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "The relationship between the granite and the drinking bottle in the image is that they are side by side."
-    },
-    {
-        "image_id": 6,
-        "question": "What is the relationship between the lid and the handle in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "The button on the lid and the handle are related is not a correct pair as the description is not suitable for comparing objects, replacing the relationship between the lid and the handle is now  the lid and the handle are positioned next to each other in the image."
-    },
-    {
-        "image_id": 6,
-        "question": "What is the relationship between the counter and the liquid in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "sit."
-    },
-    {
-        "image_id": 6,
-        "question": "What is the relationship between the chair and the leg in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "Supports."
-    },
-    {
-        "image_id": 6,
-        "question": "What is the relationship between the bottle and the logo in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "The bottle and logo are related by being associated with each other."
+        "question": "Where is the pan in relation to the counter? Answer in one verb or preposition strictly.",
+        "expected_answer": "on",
+        "model_answer": "on",
+        "evaluation": "Correct Prediction"
     },
     {
         "image_id": 7,
-        "question": "What is the relationship between the white board and the writing in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "annotated."
+        "question": "Where is the water bottle in relation to the desk? Answer in one verb or preposition strictly.",
+        "expected_answer": "on top of",
+        "model_answer": "on",
+        "evaluation": "Correct Prediction"
     },
     {
         "image_id": 7,
-        "question": "What is the relationship between the woman and the pants in the image? Answer in one verb.",
-        "expected_answer": "wear",
-        "model_answer": "Wearing"
+        "question": "Where is the cables in relation to the desk? Answer in one verb or preposition strictly.",
+        "expected_answer": "under",
+        "model_answer": "Under.",
+        "evaluation": "Correct Prediction"
     },
     {
         "image_id": 7,
-        "question": "What is the relationship between the cd player and the headphones in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "Plugged.\n\nThe cd player is plugged into the headphones, which are on the table next to it."
-    },
-    {
-        "image_id": 7,
-        "question": "What is the relationship between the woman and the earring in the image? Answer in one verb.",
-        "expected_answer": "wear",
-        "model_answer": "wearing."
-    },
-    {
-        "image_id": 7,
-        "question": "What is the relationship between the laptop and the lid in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "The laptop is on."
-    },
-    {
-        "image_id": 7,
-        "question": "What is the relationship between the juice bottle and the lid in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "This image shows the juice bottle on the desk without its matching white cap attached. The white cap is visible on two of the desk drawers. The bottle and the cup-like cap may have been separated from each other as part of the cleaning-up process of the desk area."
-    },
-    {
-        "image_id": 7,
-        "question": "What is the relationship between the woman and the sweater in the image? Answer in one verb.",
-        "expected_answer": "wear",
-        "model_answer": "Wearing"
-    },
-    {
-        "image_id": 7,
-        "question": "What is the relationship between the woman and the blue jeans in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "Wearing."
-    },
-    {
-        "image_id": 7,
-        "question": "What is the relationship between the water bottle and the label in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "next to."
+        "question": "What one word describes the relationship between monitor and keyboard? Answer in one verb or preposition strictly.",
+        "expected_answer": "next to",
+        "model_answer": "Connected.",
+        "evaluation": "Hallucination"
     },
     {
         "image_id": 8,
-        "question": "What is the relationship between the man and the sleeves in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "Matching."
+        "question": "What is the man doing to the glasses? Answer in one verb or preposition strictly.",
+        "expected_answer": "has",
+        "model_answer": "wearing.",
+        "evaluation": "Hallucination"
     },
     {
         "image_id": 8,
-        "question": "What is the relationship between the man and the glasses in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "gazing."
+        "question": "Where is the papers in relation to the desk? Answer in one verb or preposition strictly.",
+        "expected_answer": "on",
+        "model_answer": "on",
+        "evaluation": "Correct Prediction"
     },
     {
         "image_id": 8,
-        "question": "What is the relationship between the man and the shirt in the image? Answer in one verb.",
-        "expected_answer": "wear",
-        "model_answer": "wearing"
-    },
-    {
-        "image_id": 8,
-        "question": "What is the relationship between the man and the chin in the image? Answer in one verb.",
-        "expected_answer": "hold",
-        "model_answer": "The relationship between the man and the chin in the image is that the chin belongs to the man."
-    },
-    {
-        "image_id": 8,
-        "question": "What is the relationship between the folder and the papers in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "Organizing."
-    },
-    {
-        "image_id": 8,
-        "question": "What is the relationship between the man and the hand in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "Touch."
-    },
-    {
-        "image_id": 8,
-        "question": "What is the relationship between the cpu and the books in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "Observing."
-    },
-    {
-        "image_id": 8,
-        "question": "What is the relationship between the man and the pants in the image? Answer in one verb.",
-        "expected_answer": "wear",
-        "model_answer": "talking to the man about the pants in the image."
+        "question": "What is the man doing to the hand? Answer in one verb or preposition strictly.",
+        "expected_answer": "has",
+        "model_answer": "on.",
+        "evaluation": "Hallucination"
     },
     {
         "image_id": 9,
-        "question": "What is the relationship between the room and the lights in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "illuminate"
+        "question": "What is the shelves doing to the books? Answer in one verb or preposition strictly.",
+        "expected_answer": "hold",
+        "model_answer": "Holding.",
+        "evaluation": "Correct Prediction"
     },
     {
         "image_id": 9,
-        "question": "What is the relationship between the windows and the outside in the image? Answer in one verb.",
+        "question": "Where is the bottle in relation to the desk? Answer in one verb or preposition strictly.",
+        "expected_answer": "on",
+        "model_answer": "On.",
+        "evaluation": "Correct Prediction"
+    },
+    {
+        "image_id": 9,
+        "question": "What is the windows doing to the outside? Answer in one verb or preposition strictly.",
         "expected_answer": "show",
-        "model_answer": "The windows in the image allow a view of the outside."
-    },
-    {
-        "image_id": 9,
-        "question": "What is the relationship between the shelves and the books in the image? Answer in one verb.",
-        "expected_answer": "hold",
-        "model_answer": "The shelves are holding the books."
+        "model_answer": "Reflecting.",
+        "evaluation": "Hallucination"
     },
     {
         "image_id": 10,
-        "question": "What is the relationship between the man and the coat in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "The man coats the blue and red coat."
+        "question": "What is the monitor doing to the screen? Answer in one verb or preposition strictly.",
+        "expected_answer": "has",
+        "model_answer": "**Analysis of the Relationship between the Monitor and the Screen**\n\n**Visualization:**\nThe image depicts a room with several computers, each consisting of a monitor and a screen. The monitors are placed on desks or tables, while the screens are attached to the monitors.\n\n**Key Observations:**\n\n*   The monitors are connected to the screens, displaying images or text.\n*   The screens are not separate from the monitors but rather an integral part of them.\n\n**Conclusion:**\nGiven the context provided in the image, the answer to the question \"What is the monitor doing to the screen?\" can be inferred as follows:\n\n**Answer:** The monitor is **displaying** on the screen.\n\nThis conclusion is based on the observation that the monitor is connected to the screen and is displaying content on it. The relationship between the monitor and the screen is one of display, where the monitor projects visual information onto the screen for viewing.",
+        "evaluation": "Hallucination"
     },
     {
         "image_id": 10,
-        "question": "What is the relationship between the coat and the floor in the image? Answer in one verb.",
-        "expected_answer": "touch",
-        "model_answer": "Touch."
+        "question": "Where is the headphones in relation to the desk? Answer in one verb or preposition strictly.",
+        "expected_answer": "on",
+        "model_answer": "On",
+        "evaluation": "Correct Prediction"
     },
     {
         "image_id": 10,
-        "question": "What is the relationship between the chair and the back in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "is overlaying"
-    },
-    {
-        "image_id": 10,
-        "question": "What is the relationship between the headphones and the desk in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "Strapped."
-    },
-    {
-        "image_id": 10,
-        "question": "What is the relationship between the shelf and the books in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "contains."
-    },
-    {
-        "image_id": 10,
-        "question": "What is the relationship between the man and the computer in the image? Answer in one verb.",
-        "expected_answer": "use",
-        "model_answer": "Working."
-    },
-    {
-        "image_id": 10,
-        "question": "What is the relationship between the man and the shirt in the image? Answer in one verb.",
-        "expected_answer": "wear",
-        "model_answer": "The man is wearing the shirt."
-    },
-    {
-        "image_id": 10,
-        "question": "What is the relationship between the computer and the keyboard in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "Facing."
-    },
-    {
-        "image_id": 10,
-        "question": "What is the relationship between the monitor and the screen in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "The monitor is the screen."
+        "question": "Where is the coat in relation to the chair? Answer in one verb or preposition strictly.",
+        "expected_answer": "on back of",
+        "model_answer": "on",
+        "evaluation": "Correct Prediction"
     },
     {
         "image_id": 11,
-        "question": "What is the relationship between the pot and the flowers in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "grow."
+        "question": "Where is the clothing in relation to the desk? Answer in one verb or preposition strictly.",
+        "expected_answer": "on",
+        "model_answer": "on",
+        "evaluation": "Correct Prediction"
+    },
+    {
+        "image_id": 11,
+        "question": "Where is the mouse in relation to the desk? Answer in one verb or preposition strictly.",
+        "expected_answer": "on",
+        "model_answer": "on",
+        "evaluation": "Correct Prediction"
+    },
+    {
+        "image_id": 11,
+        "question": "Where is the chair in relation to the desk? Answer in one verb or preposition strictly.",
+        "expected_answer": "at",
+        "model_answer": "In front of.",
+        "evaluation": "Correct Prediction"
     },
     {
         "image_id": 12,
-        "question": "What is the relationship between the office chair and the armrest in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "Attached."
+        "question": "What one word describes the relationship between cpu and desk? Answer in one verb or preposition strictly.",
+        "expected_answer": "below",
+        "model_answer": "on",
+        "evaluation": "Correct Prediction"
     },
     {
         "image_id": 12,
-        "question": "What is the relationship between the composition book and the spots in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "* The composition book is entangled with the other spots in the image."
+        "question": "Where is the telephone in relation to the desk? Answer in one verb or preposition strictly.",
+        "expected_answer": "on",
+        "model_answer": "Under.",
+        "evaluation": "Correct Prediction"
+    },
+    {
+        "image_id": 12,
+        "question": "Where is the surge protector in relation to the desk? Answer in one verb or preposition strictly.",
+        "expected_answer": "under",
+        "model_answer": "under.",
+        "evaluation": "Correct Prediction"
     },
     {
         "image_id": 13,
-        "question": "What is the relationship between the telephone and the cord in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "connected."
+        "question": "Where is the baby in relation to the picture? Answer in one verb or preposition strictly.",
+        "expected_answer": "on",
+        "model_answer": "There is no baby in the picture.",
+        "evaluation": "Hallucination"
     },
     {
         "image_id": 13,
-        "question": "What is the relationship between the cup and the pen in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "The image shows a cup containing multiple pens."
+        "question": "What is the calendar doing to the wall? Answer in one verb or preposition strictly.",
+        "expected_answer": "hanging on",
+        "model_answer": "Hanging.",
+        "evaluation": "Correct Prediction"
+    },
+    {
+        "image_id": 13,
+        "question": "What is the cup doing to the pen? Answer in one verb or preposition strictly.",
+        "expected_answer": "has",
+        "model_answer": "holding",
+        "evaluation": "Hallucination"
     },
     {
         "image_id": 14,
-        "question": "What is the relationship between the lamp and the shade in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "Supports."
+        "question": "What is the mouse pad doing to the wrist rest? Answer in one verb or preposition strictly.",
+        "expected_answer": "has a",
+        "model_answer": "Over",
+        "evaluation": "Hallucination"
     },
     {
         "image_id": 14,
-        "question": "What is the relationship between the computer keyboard and the wrist rest in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "The computer keyboard and wrist rest are situated side by side."
+        "question": "What is the computer keyboard doing to the wrist rest? Answer in one verb or preposition strictly.",
+        "expected_answer": "has",
+        "model_answer": "Resting.",
+        "evaluation": "Hallucination"
     },
     {
         "image_id": 14,
-        "question": "What is the relationship between the mouse pad and the wrist rest in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "Accommodates."
-    },
-    {
-        "image_id": 14,
-        "question": "What is the relationship between the bottle and the cap in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "The bottle and the cap are touching each other."
+        "question": "Where is the lamp stand in relation to the desk? Answer in one verb or preposition strictly.",
+        "expected_answer": "on",
+        "model_answer": "On.",
+        "evaluation": "Correct Prediction"
     },
     {
         "image_id": 15,
-        "question": "What is the relationship between the keyboard and the grey in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "Matching."
+        "question": "What one word describes the relationship between papers and desk? Answer in one verb or preposition strictly.",
+        "expected_answer": "are on",
+        "model_answer": "On.",
+        "evaluation": "Correct Prediction"
     },
     {
         "image_id": 15,
-        "question": "What is the relationship between the gazette and the key in the image? Answer in one verb.",
-        "expected_answer": "have",
-        "model_answer": "The relationship between the gazette and the key is that the key is used to open and read the gazette."
+        "question": "What one word describes the relationship between desk is grey. and see grey desk.? Answer in one verb or preposition strictly.",
+        "expected_answer": "colour grey",
+        "model_answer": "is",
+        "evaluation": "Hallucination"
+    },
+    {
+        "image_id": 15,
+        "question": "Where is the computer in relation to the room? Answer in one verb or preposition strictly.",
+        "expected_answer": "in",
+        "model_answer": "centered",
+        "evaluation": "Hallucination"
     }
 ]
