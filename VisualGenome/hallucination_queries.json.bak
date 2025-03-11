@@ -26,9 +26,9 @@
       "open_ended_query": "How is the tree trunk interacting with the sidewalk?"
     },
     "sidewalk-street": {
-      "yes_no_question": "Is the sidewalk crossing the street?",
-      "descriptive_prompt": "Describe the sidewalk crossing the street.",
-      "open_ended_query": "How is the sidewalk interacting with the street?"
+      "yes_no_question": "",
+      "descriptive_prompt": "",
+      "open_ended_query": ""
     },
     "parking meter-sidewalk": {
       "yes_no_question": "Is the parking meter overlooking the sidewalk?",

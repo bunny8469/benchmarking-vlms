@@ -1,0 +1,1732 @@
+{
+  "1": {
+    "shade-street": {
+      "yes_no_question": "",
+      "descriptive_prompt": "",
+      "open_ended_query": ""
+    },
+    "man-sneakers": {
+      "yes_no_question": "Is the man eating sneakers?",
+      "descriptive_prompt": "Describe the man eating sneakers.",
+      "open_ended_query": "How is the man interacting with the sneakers?"
+    },
+    "car-headlight": {
+      "yes_no_question": "Is the car moving headlights?",
+      "descriptive_prompt": "Describe the car moving headlights.",
+      "open_ended_query": "How is the car interacting with the headlights?"
+    },
+    "sign-building": {
+      "yes_no_question": "Is the sign inside the building?",
+      "descriptive_prompt": "Describe the sign inside the building.",
+      "open_ended_query": ""
+    },
+    "tree trunk-sidewalk": {
+      "yes_no_question": "Is the tree trunk floating above the sidewalk?",
+      "descriptive_prompt": "Describe the tree trunk floating above the sidewalk.",
+      "open_ended_query": "How is the tree trunk interacting with the sidewalk?"
+    },
+    "sidewalk-street": {
+      "yes_no_question": "Is the sidewalk on the street?",
+      "descriptive_prompt": "Describe the sidewalk on the street.",
+      "open_ended_query": "How is the sidewalk interacting with the street?"
+    },
+    "parking meter-sidewalk": {
+      "yes_no_question": "Is the parking meter painting the sidewalk?",
+      "descriptive_prompt": "Describe the parking meter painting the sidewalk.",
+      "open_ended_query": "How is the parking meter interacting with the sidewalk?"
+    },
+    "bike-sidewalk": {
+      "yes_no_question": "Is the bike standing on the sidewalk?",
+      "descriptive_prompt": "Describe the bike standing on the sidewalk.",
+      "open_ended_query": "How is the bike interacting with the sidewalk?"
+    },
+    "work truck-street": {
+      "yes_no_question": "Is the work truck sitting on the street?",
+      "descriptive_prompt": "Describe the work truck sitting on the street.",
+      "open_ended_query": "How is the work truck interacting with the street?"
+    },
+    "guy-chin": {
+      "yes_no_question": "Is the guy touching his chin?",
+      "descriptive_prompt": "Describe the guy touching his chin.",
+      "open_ended_query": "How is the guy interacting with his chin?"
+    },
+    "bikes-tree": {
+      "yes_no_question": "Is the 'bikes' flying to the 'tree'?",
+      "descriptive_prompt": "Describe the 'bikes' flying to the 'tree'.",
+      "open_ended_query": "How is the 'bikes' interacting with the 'tree'?"
+    },
+    "shirt-man": {
+      "yes_no_question": "Is the shirt fitting the man?",
+      "descriptive_prompt": "Describe the shirt fitting the man.",
+      "open_ended_query": "How is the shirt interacting with the man?"
+    },
+    "lamp post-road": {
+      "yes_no_question": "Is the lamp post along the road?",
+      "descriptive_prompt": "Describe the lamp post along the road.",
+      "open_ended_query": "How is the lamp post interacting with the road?"
+    },
+    "tree-street": {
+      "yes_no_question": "Is the tree beside the street?",
+      "descriptive_prompt": "",
+      "open_ended_query": ""
+    },
+    "trees-sidewalk": {
+      "yes_no_question": "Is the trees by the sidewalk?",
+      "descriptive_prompt": "Describe the trees by the sidewalk.",
+      "open_ended_query": ""
+    },
+    "building-windows": {
+      "yes_no_question": "",
+      "descriptive_prompt": "**Descriptive Prompt:** Describe the building breaking windows.",
+      "open_ended_query": "**Open-ended Query:** How is the building interacting with windows?"
+    }
+  },
+  "2": {
+    "man-backpack": {
+      "yes_no_question": "Is the man carrying the backpack?",
+      "descriptive_prompt": "Describe the man carrying the backpack.",
+      "open_ended_query": "How is the man interacting with the backpack?"
+    },
+    "car-road": {
+      "yes_no_question": "Is the car sitting on the road?",
+      "descriptive_prompt": "Describe the car sitting on the road.",
+      "open_ended_query": "How is the car interacting with the road?"
+    },
+    "tree-road": {
+      "yes_no_question": "",
+      "descriptive_prompt": "2. Describe the tree standing on the road.",
+      "open_ended_query": "3. How is the tree interacting with the road?"
+    },
+    "crosswalk-man": {
+      "yes_no_question": "Is the crosswalk in front of the man?",
+      "descriptive_prompt": "Describe the crosswalk in front of the man.",
+      "open_ended_query": "How is the crosswalk interacting with the man?"
+    },
+    "building-window": {
+      "yes_no_question": "Does the building paint the window?",
+      "descriptive_prompt": "Describe the building painting the window.",
+      "open_ended_query": "How is the building interacting with the window?"
+    },
+    "sign-road": {
+      "yes_no_question": "Is the sign beside the road?",
+      "descriptive_prompt": "",
+      "open_ended_query": ""
+    },
+    "bike-car": {
+      "yes_no_question": "Is the bike parked next to the car?",
+      "descriptive_prompt": "Describe the bike parked next to the car.",
+      "open_ended_query": ""
+    },
+    "walk sign-\"walk\"": {
+      "yes_no_question": "Is the walk sign saying \"walk\"?",
+      "descriptive_prompt": "Describe the walk sign saying \"walk\".",
+      "open_ended_query": "How is the walk sign interacting with \"walk\"?"
+    }
+  },
+  "3": {
+    "keyboard-monitor": {
+      "yes_no_question": "",
+      "descriptive_prompt": "2. \"Describe the keyboard in front of the monitor.\"",
+      "open_ended_query": "3. \"How is the keyboard interacting with the monitor?\""
+    },
+    "cpu-desktop": {
+      "yes_no_question": "Is the cpu floating over the desktop?",
+      "descriptive_prompt": "Describe the cpu floating over the desktop.",
+      "open_ended_query": "How is the cpu interacting with the desktop?"
+    },
+    "filing cabinet-drawer": {
+      "yes_no_question": "Is the filing cabinet making a drawer?",
+      "descriptive_prompt": "Describe the filing cabinet making a drawer.",
+      "open_ended_query": "How is the filing cabinet interacting with the drawer?"
+    },
+    "mouse-keyboard": {
+      "yes_no_question": "Is the mouse touching the keyboard?",
+      "descriptive_prompt": "Describe the mouse touching the keyboard.",
+      "open_ended_query": "How is the mouse interacting with the keyboard?"
+    },
+    "wireless phone-office phone base": {
+      "yes_no_question": "",
+      "descriptive_prompt": "- Describe the wireless phone attached to the office phone base.",
+      "open_ended_query": "- How is the wireless phone interacting with the office phone base?"
+    },
+    "multiple outlet-monitor": {
+      "yes_no_question": "Is the multiple outlet behind the monitor?",
+      "descriptive_prompt": "Describe the multiple outlet behind the monitor.",
+      "open_ended_query": "How is the multiple outlet interacting with the monitor?"
+    },
+    "office phone-desk": {
+      "yes_no_question": "Is the office phone hovering above the desk?",
+      "descriptive_prompt": "",
+      "open_ended_query": ""
+    },
+    "girl-monitor": {
+      "yes_no_question": "Is the girl underneath the monitor?",
+      "descriptive_prompt": "Describe the girl underneath the monitor.",
+      "open_ended_query": "How is the girl interacting with the monitor?"
+    },
+    "outlet-wall": {
+      "yes_no_question": "Is the outlet painted on the wall?",
+      "descriptive_prompt": "Describe the outlet painted on the wall.",
+      "open_ended_query": "How is the outlet interacting with the wall?"
+    },
+    "pen-desk": {
+      "yes_no_question": "Is the pen drawing the desk?",
+      "descriptive_prompt": "Describe the pen drawing the desk.",
+      "open_ended_query": "How is the pen interacting with the desk?"
+    },
+    "cable-floor": {
+      "yes_no_question": "Is the cable covering the floor?",
+      "descriptive_prompt": "Describe the cable covering the floor.",
+      "open_ended_query": "How is the cable interacting with the floor?"
+    },
+    "wall-pluged": {
+      "yes_no_question": "Is the wall hugging the plugged?",
+      "descriptive_prompt": "Describe the wall hugging the plugged.",
+      "open_ended_query": "How is the wall interacting with the plugged?"
+    },
+    "bag-desk": {
+      "yes_no_question": "Is the bag on the desk?",
+      "descriptive_prompt": "",
+      "open_ended_query": ""
+    },
+    "monitor-wall": {
+      "yes_no_question": "Is the monitor on the wall?",
+      "descriptive_prompt": "Describe the monitor on the wall.",
+      "open_ended_query": "How is the monitor interacting with the wall?"
+    },
+    "dividing screen-cubicles": {
+      "yes_no_question": "Is the dividing screen splitting cubicles?",
+      "descriptive_prompt": "Describe the dividing screen splitting cubicles.",
+      "open_ended_query": "How is the dividing screen interacting with the cubicles?"
+    },
+    "picture-wall": {
+      "yes_no_question": "Is the picture hanging on the wall?",
+      "descriptive_prompt": "Describe the picture hanging on the wall.",
+      "open_ended_query": "How is the picture interacting with the wall?"
+    },
+    "telephone-desk": {
+      "yes_no_question": "Is the telephone standing on the desk?",
+      "descriptive_prompt": "Describe the telephone standing on the desk.",
+      "open_ended_query": "How is the telephone interacting with the desk?"
+    },
+    "cables-pluged": {
+      "yes_no_question": "Is the cables covering pluged?",
+      "descriptive_prompt": "Describe the cables covering pluged.",
+      "open_ended_query": "How are the cables interacting with pluged?"
+    },
+    "photos-wall": {
+      "yes_no_question": "",
+      "descriptive_prompt": "- Describe the photos climbing the wall.",
+      "open_ended_query": "- How are the photos interacting with the wall?"
+    },
+    "drawer-handle": {
+      "yes_no_question": "Is the drawer using the handle?",
+      "descriptive_prompt": "Describe the drawer using the handle.",
+      "open_ended_query": "How is the drawer interacting with the handle?"
+    },
+    "computer tower-desk": {
+      "yes_no_question": "Is the computer tower carrying the desk?",
+      "descriptive_prompt": "Describe the computer tower carrying the desk.",
+      "open_ended_query": "How is the computer tower interacting with the desk?"
+    }
+  },
+  "4": {
+    "chair-padding": {
+      "yes_no_question": "Is the chair covering the padding?",
+      "descriptive_prompt": "Describe the chair covering the padding.",
+      "open_ended_query": "How is the chair interacting with the padding?"
+    },
+    "carpet-floor": {
+      "yes_no_question": "",
+      "descriptive_prompt": "2. Describe the carpet covering the floor.",
+      "open_ended_query": "3. How is the carpet interacting with the floor?"
+    },
+    "pillow-couch": {
+      "yes_no_question": "Is the pillow hugging the couch?",
+      "descriptive_prompt": "Describe the pillow hugging the couch.",
+      "open_ended_query": "How is the pillow interacting with the couch?"
+    },
+    "teddy bear-pillow": {
+      "yes_no_question": "Is the teddy bear holding the pillow?",
+      "descriptive_prompt": "Describe the teddy bear holding the pillow.",
+      "open_ended_query": "How is the teddy bear interacting with the pillow?"
+    },
+    "table top-window": {
+      "yes_no_question": "Is the table top pushing the window?",
+      "descriptive_prompt": "Describe the table top pushing the window.",
+      "open_ended_query": "How is the table top interacting with the window?"
+    },
+    "couch-frame": {
+      "yes_no_question": "Is the couch framing the frame?",
+      "descriptive_prompt": "Describe the couch framing the frame.",
+      "open_ended_query": "How is the couch interacting with the frame?"
+    },
+    "door-patio": {
+      "yes_no_question": "Is the door opening the patio?",
+      "descriptive_prompt": "Describe the door opening the patio.",
+      "open_ended_query": "How is the door interacting with the patio?"
+    },
+    "lamp-couch": {
+      "yes_no_question": "Is the lamp behind the couch?",
+      "descriptive_prompt": "Describe the lamp behind the couch.",
+      "open_ended_query": "How does the lamp interact with the couch?"
+    }
+  },
+  "5": {
+    "cables-floor": {
+      "yes_no_question": "Is the cables flying on the floor?",
+      "descriptive_prompt": "Describe the cables flying on the floor.",
+      "open_ended_query": "How are the cables interacting with the floor?"
+    },
+    "books-shelf": {
+      "yes_no_question": "Is the shelf reading the books?",
+      "descriptive_prompt": "Describe the shelf reading the books.",
+      "open_ended_query": "How is the shelf interacting with the books?"
+    },
+    "cpu-floor": {
+      "yes_no_question": "Is the cpu lying on the floor?",
+      "descriptive_prompt": "Describe the cpu lying on the floor.",
+      "open_ended_query": "How is the cpu interacting with the floor?"
+    },
+    "printer-computer monitor": {
+      "yes_no_question": "Is the printer next to the computer monitor?",
+      "descriptive_prompt": "Describe the printer next to the computer monitor.",
+      "open_ended_query": "How is the printer interacting with the computer monitor?"
+    },
+    "railing-window": {
+      "yes_no_question": "Is the railing protecting the window?",
+      "descriptive_prompt": "Describe the railing protecting the window.",
+      "open_ended_query": "How is the railing interacting with the window?"
+    },
+    "chair-desk": {
+      "yes_no_question": "Is the chair sitting on the desk?",
+      "descriptive_prompt": "Describe the chair sitting on the desk.",
+      "open_ended_query": "How is the chair interacting with the desk?"
+    },
+    "computer monitor-desk": {
+      "yes_no_question": "Is the computer monitor on top of the desk?",
+      "descriptive_prompt": "Describe the computer monitor on top of the desk.",
+      "open_ended_query": "How is the computer monitor interacting with the desk?"
+    },
+    "fax machine-desk": {
+      "yes_no_question": "Is the fax machine floating above the desk?",
+      "descriptive_prompt": "Describe the fax machine floating above the desk.",
+      "open_ended_query": "How is the fax machine interacting with the desk?"
+    },
+    "keyboard-desk": {
+      "yes_no_question": "Is the keyboard on the desk?",
+      "descriptive_prompt": "Describe the keyboard on the desk.",
+      "open_ended_query": "How is the keyboard interacting with the desk?"
+    },
+    "cork-board-wall": {
+      "yes_no_question": "",
+      "descriptive_prompt": "2. **Describe the cork-board pressing the wall.**",
+      "open_ended_query": "3. **How is the cork-board interacting with the wall?**"
+    },
+    "paper-cork-board": {
+      "yes_no_question": "Is the paper on the cork-board?",
+      "descriptive_prompt": "Describe the paper on the cork-board.",
+      "open_ended_query": "How is the paper interacting with the cork-board?"
+    },
+    "air conditioner-wall": {
+      "yes_no_question": "",
+      "descriptive_prompt": "- Describe the air conditioner holding the wall.",
+      "open_ended_query": "- How is the air conditioner interacting with the wall?"
+    },
+    "shelves-wall": {
+      "yes_no_question": "Is the shelves on the wall?",
+      "descriptive_prompt": "Describe the shelves on the wall.",
+      "open_ended_query": "How are the shelves interacting with the wall?"
+    },
+    "room-computer": {
+      "yes_no_question": "Is the room containing the computer?",
+      "descriptive_prompt": "Describe the room containing the computer.",
+      "open_ended_query": "How is the room interacting with the computer?"
+    },
+    "chairs-desk": {
+      "yes_no_question": "Is the chairs hiding behind the desk?",
+      "descriptive_prompt": "Describe the chairs hiding behind the desk.",
+      "open_ended_query": "How are the chairs interacting with the desk?"
+    },
+    "clothes-chair": {
+      "yes_no_question": "Is the clothes on the chair?",
+      "descriptive_prompt": "Describe the clothes on the chair.",
+      "open_ended_query": "How is the clothes interacting with the chair?"
+    },
+    "heater-floor": {
+      "yes_no_question": "Is the heater floating on the floor?",
+      "descriptive_prompt": "Describe the heater floating on the floor.",
+      "open_ended_query": "How is the heater interacting with the floor?"
+    }
+  },
+  "6": {
+    "apple-counter": {
+      "yes_no_question": "Is the apple on the counter?",
+      "descriptive_prompt": "Describe the apple on the counter.",
+      "open_ended_query": "How is the apple interacting with the counter?"
+    },
+    "drinking bottle-lid": {
+      "yes_no_question": "Is the drinking bottle holding the lid?",
+      "descriptive_prompt": "Describe the drinking bottle holding the lid.",
+      "open_ended_query": "How is the drinking bottle interacting with the lid?"
+    },
+    "counter-apple": {
+      "yes_no_question": "Is the counter eating the apple?",
+      "descriptive_prompt": "Describe the counter eating the apple.",
+      "open_ended_query": "How is the counter interacting with the apple?"
+    },
+    "granite-drinking bottle": {
+      "yes_no_question": "Does granite hold the drinking bottle?",
+      "descriptive_prompt": "Describe granite holding the drinking bottle.",
+      "open_ended_query": "How is granite interacting with the drinking bottle?"
+    },
+    "lid-handle": {
+      "yes_no_question": "Is the lid holding the handle?",
+      "descriptive_prompt": "Describe the lid holding the handle.",
+      "open_ended_query": "How is the lid interacting with the handle?"
+    },
+    "fork-plate": {
+      "yes_no_question": "Is the fork in the plate?",
+      "descriptive_prompt": "Describe the fork in the plate.",
+      "open_ended_query": "How is the fork interacting with the plate?"
+    },
+    "liquid-counter": {
+      "yes_no_question": "Is the liquid covering the counter?",
+      "descriptive_prompt": "Describe the liquid covering the counter.",
+      "open_ended_query": "How is the liquid interacting with the counter?"
+    },
+    "bar stool-counter": {
+      "yes_no_question": "Is the bar stool next to the counter?",
+      "descriptive_prompt": "Describe the bar stool next to the counter.",
+      "open_ended_query": ""
+    },
+    "bag-counter": {
+      "yes_no_question": "Is the bag under the counter?",
+      "descriptive_prompt": "Describe the bag under the counter.",
+      "open_ended_query": "How is the bag interacting with the counter?"
+    },
+    "bowl-counter": {
+      "yes_no_question": "Is the bowl on top of the counter?",
+      "descriptive_prompt": "Describe the bowl on top of the counter.",
+      "open_ended_query": "How is the bowl interacting with the counter?"
+    },
+    "container-counter": {
+      "yes_no_question": "Is the container on the counter?",
+      "descriptive_prompt": "Describe the container on the counter.",
+      "open_ended_query": "How is the container interacting with the counter?"
+    },
+    "pan-counter": {
+      "yes_no_question": "",
+      "descriptive_prompt": "2. Describe the pan on the counter.",
+      "open_ended_query": "3. How is the pan interacting with the counter?"
+    },
+    "food-bag": {
+      "yes_no_question": "Is the food hiding in the bag?",
+      "descriptive_prompt": "Describe the food hiding in the bag.",
+      "open_ended_query": "How is the food interacting with the bag?"
+    },
+    "glass-counter": {
+      "yes_no_question": "Is the glass sitting on the counter?",
+      "descriptive_prompt": "Describe the glass sitting on the counter.",
+      "open_ended_query": "How is the glass interacting with the counter?"
+    },
+    "leg-counter": {
+      "yes_no_question": "Is the leg under the counter?",
+      "descriptive_prompt": "Describe the leg under the counter.",
+      "open_ended_query": "How is the leg interacting with the counter?"
+    },
+    "chair-leg": {
+      "yes_no_question": "Is the chair building the leg?",
+      "descriptive_prompt": "Describe the chair building the leg.",
+      "open_ended_query": "How is the chair interacting with the leg?"
+    },
+    "crumb-plate": {
+      "yes_no_question": "Is the crumb below the plate?",
+      "descriptive_prompt": "Describe the crumb below the plate.",
+      "open_ended_query": "How is the crumb interacting with the plate?"
+    },
+    "bottle-logo": {
+      "yes_no_question": "Is the bottle wearing the logo?",
+      "descriptive_prompt": "Describe the bottle wearing the logo.",
+      "open_ended_query": "How is the bottle interacting with the logo?"
+    }
+  },
+  "7": {
+    "book-desk": {
+      "yes_no_question": "Is the book on the desk?",
+      "descriptive_prompt": "Describe the book on the desk.",
+      "open_ended_query": "How is the book interacting with the desk?"
+    },
+    "juice bottle-desk": {
+      "yes_no_question": "Is the juice bottle on the desk?",
+      "descriptive_prompt": "",
+      "open_ended_query": ""
+    },
+    "sticky note-monitor": {
+      "yes_no_question": "Is the sticky note on the monitor?",
+      "descriptive_prompt": "Describe the sticky note on the monitor.",
+      "open_ended_query": "How is the sticky note interacting with the monitor?"
+    },
+    "lady-hair": {
+      "yes_no_question": "Is the lady combing her hair?",
+      "descriptive_prompt": "Describe the lady combing her hair",
+      "open_ended_query": "How is the lady interacting with her hair?"
+    },
+    "white board-writing": {
+      "yes_no_question": "Does the white board write on writing?",
+      "descriptive_prompt": "Describe the white board writing on writing.",
+      "open_ended_query": "How is the white board interacting with writing?"
+    },
+    "telephone-desk": {
+      "yes_no_question": "Is the dog running in the park?",
+      "descriptive_prompt": "Describe the dog running in the park.",
+      "open_ended_query": "How is the dog interacting with the park?"
+    },
+    "headphones-desk": {
+      "yes_no_question": "Is the headphones on the desk?",
+      "descriptive_prompt": "",
+      "open_ended_query": ""
+    },
+    "woman-pants": {
+      "yes_no_question": "Is the woman pulling pants?",
+      "descriptive_prompt": "Describe the woman pulling pants.",
+      "open_ended_query": "How is the woman interacting with pants?"
+    },
+    "papers-white board": {
+      "yes_no_question": "Are the papers on the white board?",
+      "descriptive_prompt": "Describe the papers on the white board.",
+      "open_ended_query": "How are the papers interacting with the white board?"
+    },
+    "cpu-floor": {
+      "yes_no_question": "Is the cpu on the floor?",
+      "descriptive_prompt": "Describe the cpu on the floor.",
+      "open_ended_query": "How is the cpu interacting with the floor?"
+    },
+    "pen-book": {
+      "yes_no_question": "Is the pen writing on the book?",
+      "descriptive_prompt": "Describe the pen writing on the book.",
+      "open_ended_query": "How is the pen interacting with the book?"
+    },
+    "mouse-desk": {
+      "yes_no_question": "Is the mouse stepping on the desk?",
+      "descriptive_prompt": "Describe the mouse stepping on the desk.",
+      "open_ended_query": "How is the mouse interacting with the desk?"
+    },
+    "bracelet-wrist": {
+      "yes_no_question": "Is the bracelet on the wrist?",
+      "descriptive_prompt": "Describe the bracelet on the wrist.",
+      "open_ended_query": "How is the bracelet interacting with the wrist?"
+    },
+    "wrist pad-keyboard": {
+      "yes_no_question": "Is the wrist pad covering the keyboard?",
+      "descriptive_prompt": "Describe the wrist pad covering the keyboard.",
+      "open_ended_query": "How is the wrist pad interacting with the keyboard?"
+    },
+    "cd player-headphones": {
+      "yes_no_question": "Is the cd player holding headphones?",
+      "descriptive_prompt": "Describe the cd player holding headphones.",
+      "open_ended_query": "How is the cd player interacting with the headphones?"
+    },
+    "cereal-desk": {
+      "yes_no_question": "Is the cereal under the desk?",
+      "descriptive_prompt": "Describe the cereal under the desk.",
+      "open_ended_query": "How is the cereal interacting with the desk?"
+    },
+    "water bottle-desk": {
+      "yes_no_question": "Is the water bottle on top of the desk?",
+      "descriptive_prompt": "Describe the water bottle on top of the desk.",
+      "open_ended_query": "How is the water bottle interacting with the desk?"
+    },
+    "cables-desk": {
+      "yes_no_question": "Is the cables driving the desk?",
+      "descriptive_prompt": "Describe the cables driving the desk.",
+      "open_ended_query": "How are the cables interacting with the desk?"
+    },
+    "monitor-keyboard": {
+      "yes_no_question": "Is the monitor on top of the keyboard?",
+      "descriptive_prompt": "Describe the monitor on top of the keyboard.",
+      "open_ended_query": "How is the monitor interacting with the keyboard?"
+    },
+    "mug-desk": {
+      "yes_no_question": "Is the mug flying above the desk?",
+      "descriptive_prompt": "Describe the mug flying above the desk.",
+      "open_ended_query": "How is the mug interacting with the desk?"
+    },
+    "laptop-lid": {
+      "yes_no_question": "Does the laptop close the lid?",
+      "descriptive_prompt": "Describe the laptop closing the lid.",
+      "open_ended_query": "How is the laptop interacting with the lid?"
+    },
+    "tape dispenser-desk": {
+      "yes_no_question": "Is the tape dispenser flying over the desk?",
+      "descriptive_prompt": "Describe the tape dispenser flying over the desk.",
+      "open_ended_query": "How is the tape dispenser interacting with the desk?"
+    },
+    "calculator-book": {
+      "yes_no_question": "Is the calculator hovering over the book?",
+      "descriptive_prompt": "Describe the calculator hovering over the book.",
+      "open_ended_query": "How is the calculator interacting with the book?"
+    }
+  },
+  "8": {
+    "man-sleeves": {
+      "yes_no_question": "Is the man eating the sleeves?",
+      "descriptive_prompt": "Describe the man eating the sleeves.",
+      "open_ended_query": "How is the man interacting with the sleeves?"
+    },
+    "cd-desk": {
+      "yes_no_question": "Is the CD on the desk?",
+      "descriptive_prompt": "Describe the CD on the desk.",
+      "open_ended_query": "How is the CD interacting with the desk?"
+    },
+    "cup-desk": {
+      "yes_no_question": "Is the cup under the desk?",
+      "descriptive_prompt": "Describe the cup under the desk.",
+      "open_ended_query": "How is the cup interacting with the desk?"
+    },
+    "hand-keyboard": {
+      "yes_no_question": "Is the hand typing the keyboard?",
+      "descriptive_prompt": "Describe the hand typing the keyboard.",
+      "open_ended_query": "How is the hand interacting with the keyboard?"
+    },
+    "dish-cpu": {
+      "yes_no_question": "",
+      "descriptive_prompt": "Descriptive Prompt: Describe the dish on the CPU.",
+      "open_ended_query": "Open-ended Query: How is the dish interacting with the CPU?"
+    },
+    "picture-wall": {
+      "yes_no_question": "Is the picture hanging on the wall?",
+      "descriptive_prompt": "Describe the picture hanging on the wall.",
+      "open_ended_query": "How is the picture interacting with the wall?"
+    },
+    "stapler-desk": {
+      "yes_no_question": "Does the stapler hold the desk?",
+      "descriptive_prompt": "Describe the stapler holding the desk.",
+      "open_ended_query": "How is the stapler interacting with the desk?"
+    },
+    "bag-papers": {
+      "yes_no_question": "Is the bag carrying the papers?",
+      "descriptive_prompt": "Describe the bag carrying the papers.",
+      "open_ended_query": "How is the bag interacting with the papers?"
+    },
+    "drawer-desk": {
+      "yes_no_question": "Is the drawer on the desk?",
+      "descriptive_prompt": "Describe the drawer on the desk.",
+      "open_ended_query": "How is the drawer interacting with the desk?"
+    },
+    "bulletin board-papers": {
+      "yes_no_question": "Is the bulletin board wearing papers?",
+      "descriptive_prompt": "Describe the bulletin board wearing papers.",
+      "open_ended_query": "How is the bulletin board interacting with the papers?"
+    },
+    "files-desk": {
+      "yes_no_question": "Is the desk on files?",
+      "descriptive_prompt": "Describe the desk on files.",
+      "open_ended_query": "How is the desk interacting with the files?"
+    },
+    "papers-desk": {
+      "yes_no_question": "Is the papers on the desk?",
+      "descriptive_prompt": "",
+      "open_ended_query": ""
+    },
+    "folder-papers": {
+      "yes_no_question": "",
+      "descriptive_prompt": "Descriptive Prompt: Describe the folder carrying papers.",
+      "open_ended_query": "Open-ended Query: How is the folder interacting with the papers?"
+    },
+    "books-shelf": {
+      "yes_no_question": "Is the shelf reading the books?",
+      "descriptive_prompt": "Describe the shelf reading the books.",
+      "open_ended_query": "How is the shelf interacting with the books?"
+    },
+    "mouse-keyboard": {
+      "yes_no_question": "Is the mouse sliding the keyboard?",
+      "descriptive_prompt": "Describe the mouse sliding the keyboard.",
+      "open_ended_query": "How is the mouse interacting with the keyboard?"
+    },
+    "book-shelf": {
+      "yes_no_question": "Is the book carrying the shelf?",
+      "descriptive_prompt": "Describe the book carrying the shelf.",
+      "open_ended_query": "How is the book interacting with the shelf?"
+    },
+    "cpu-books": {
+      "yes_no_question": "Is the cpu reading books?",
+      "descriptive_prompt": "Describe the cpu reading books.",
+      "open_ended_query": "How is the cpu interacting with the books?"
+    },
+    "keyboard-cpu": {
+      "yes_no_question": "Is the keyboard connected to the CPU?",
+      "descriptive_prompt": "Describe the keyboard connected to the CPU.",
+      "open_ended_query": "How is the keyboard interacting with the CPU?"
+    },
+    "shelves-books": {
+      "yes_no_question": "Is the shelves holding books?",
+      "descriptive_prompt": "Describe the shelves holding books.",
+      "open_ended_query": "How is the shelves interacting with the books?"
+    }
+  },
+  "9": {
+    "room-lights": {
+      "yes_no_question": "Is the room emitting lights?",
+      "descriptive_prompt": "Describe the room emitting lights.",
+      "open_ended_query": "How is the room interacting with the lights?"
+    },
+    "mouse pad-desk": {
+      "yes_no_question": "Is the mouse pad under the desk?",
+      "descriptive_prompt": "Describe the mouse pad under the desk.",
+      "open_ended_query": "How is the mouse pad interacting with the desk?"
+    },
+    "bottle-desk": {
+      "yes_no_question": "Is the bottle holding the desk?",
+      "descriptive_prompt": "Describe the bottle holding the desk.",
+      "open_ended_query": "How is the bottle interacting with the desk?"
+    },
+    "windows-outside": {
+      "yes_no_question": "Is the window showing outside?",
+      "descriptive_prompt": "Describe the window showing outside.",
+      "open_ended_query": "How is the window interacting with outside?"
+    },
+    "blinds-window": {
+      "yes_no_question": "Is the blinds opening the window?",
+      "descriptive_prompt": "Describe the blinds opening the window.",
+      "open_ended_query": "How is the blinds interacting with the window?"
+    },
+    "posters-wall": {
+      "yes_no_question": "Is the poster eating the wall?",
+      "descriptive_prompt": "Describe the poster eating the wall.",
+      "open_ended_query": "How is the poster interacting with the wall?"
+    },
+    "monitor-desk": {
+      "yes_no_question": "Is the monitor on the desk?",
+      "descriptive_prompt": "Describe the monitor on the desk.",
+      "open_ended_query": "How is the monitor interacting with the desk?"
+    },
+    "shelves-books": {
+      "yes_no_question": "Is the shelves carry the books?",
+      "descriptive_prompt": "Describe the shelves carry the books.",
+      "open_ended_query": "How is the shelves interacting with the books?"
+    },
+    "keyboard-desk": {
+      "yes_no_question": "Is the keyboard shining on the desk?",
+      "descriptive_prompt": "Describe the keyboard shining on the desk.",
+      "open_ended_query": "How is the keyboard interacting with the desk?"
+    },
+    "lights-room": {
+      "yes_no_question": "Is the lights in the room?",
+      "descriptive_prompt": "Describe the lights in the room.",
+      "open_ended_query": "How is the lights interacting with the room?"
+    },
+    "bin-floor": {
+      "yes_no_question": "Is the bin under the floor?",
+      "descriptive_prompt": "Describe the bin under the floor.",
+      "open_ended_query": "How is the bin interacting with the floor?"
+    },
+    "baby-shelves": {
+      "yes_no_question": "Is the baby hiding on the shelves?",
+      "descriptive_prompt": "Describe the baby hiding on the shelves.",
+      "open_ended_query": "How is the baby interacting with the shelves?"
+    },
+    "computer-desk": {
+      "yes_no_question": "Is the computer on the desk?",
+      "descriptive_prompt": "Describe the computer on the desk.",
+      "open_ended_query": "How is the computer interacting with the desk?"
+    },
+    "corkboard-wall": {
+      "yes_no_question": "Is the corkboard on the wall?",
+      "descriptive_prompt": "Describe the corkboard on the wall.",
+      "open_ended_query": "How is the corkboard interacting with the wall?"
+    },
+    "tower-floor": {
+      "yes_no_question": "Is the tower above the floor?",
+      "descriptive_prompt": "Describe the tower above the floor.",
+      "open_ended_query": "How is the tower interacting with the floor?"
+    },
+    "books-shelves": {
+      "yes_no_question": "Is the books on the shelves?",
+      "descriptive_prompt": "Describe the books on the shelves.",
+      "open_ended_query": "How are the books interacting with the shelves?"
+    },
+    "cables-floor": {
+      "yes_no_question": "Is the cables on the floor?",
+      "descriptive_prompt": "Describe the cables on the floor.",
+      "open_ended_query": "How are the cables interacting with the floor?"
+    },
+    "book-desk": {
+      "yes_no_question": "Is the book hiding the desk?",
+      "descriptive_prompt": "Describe the book hiding the desk.",
+      "open_ended_query": "How is the book interacting with the desk?"
+    },
+    "chair-wheels": {
+      "yes_no_question": "Is the chair carrying wheels?",
+      "descriptive_prompt": "Describe the chair carrying wheels.",
+      "open_ended_query": "How is the chair interacting with the wheels?"
+    },
+    "tube-shelves": {
+      "yes_no_question": "Is the tube on the shelves?",
+      "descriptive_prompt": "Describe the tube on the shelves.",
+      "open_ended_query": "How is the tube interacting with the shelves?"
+    }
+  },
+  "10": {
+    "headphones-desk": {
+      "yes_no_question": "Is the headphones sitting on the desk?",
+      "descriptive_prompt": "Describe the headphones sitting on the desk.",
+      "open_ended_query": "How is the headphones interacting with the desk?"
+    },
+    "charger-cable": {
+      "yes_no_question": "Is the charger connecting the cable?",
+      "descriptive_prompt": "Describe the charger connecting the cable.",
+      "open_ended_query": "How is the charger interacting with the cable?"
+    },
+    "cpu-floor": {
+      "yes_no_question": "Is the cpu on the floor?",
+      "descriptive_prompt": "Describe the cpu on the floor.",
+      "open_ended_query": "How is the cpu interacting with the floor?"
+    },
+    "man-coat": {
+      "yes_no_question": "Is the man wearing the coat?",
+      "descriptive_prompt": "Describe the man wearing the coat.",
+      "open_ended_query": "How is the man interacting with the coat?"
+    },
+    "coat-floor": {
+      "yes_no_question": "Is the coat eating the floor?",
+      "descriptive_prompt": "Describe the coat eating the floor.",
+      "open_ended_query": "How is the coat interacting with the floor?"
+    },
+    "board-wall": {
+      "yes_no_question": "Is the board on the wall?",
+      "descriptive_prompt": "Describe the board on the wall.",
+      "open_ended_query": "How is the board interacting with the wall?"
+    },
+    "chair-back": {
+      "yes_no_question": "Is the chair supporting the back?",
+      "descriptive_prompt": "Describe the chair supporting the back.",
+      "open_ended_query": "How is the chair interacting with the back?"
+    },
+    "bookshelf-wall": {
+      "yes_no_question": "Is the bookshelf crushing the wall?",
+      "descriptive_prompt": "Describe the bookshelf crushing the wall.",
+      "open_ended_query": "How is the bookshelf interacting with the wall?"
+    },
+    "papers-shelf": {
+      "yes_no_question": "",
+      "descriptive_prompt": "2. Describe the shelf sitting on the papers.",
+      "open_ended_query": "3. How is the shelf interacting with the papers?"
+    },
+    "cup-desk": {
+      "yes_no_question": "Is the cup over the desk?",
+      "descriptive_prompt": "Describe the cup over the desk.",
+      "open_ended_query": "How is the cup interacting with the desk?"
+    },
+    "picture frame-wall": {
+      "yes_no_question": "Is the picture frame holding the wall?",
+      "descriptive_prompt": "Describe the picture frame holding the wall.",
+      "open_ended_query": "How is the picture frame interacting with the wall?"
+    },
+    "shelf-books": {
+      "yes_no_question": "Is the shelf reading books?",
+      "descriptive_prompt": "Describe the shelf reading books.",
+      "open_ended_query": "How is the shelf interacting with the books?"
+    },
+    "ostirch-bookshelf": {
+      "yes_no_question": "",
+      "descriptive_prompt": "2. Describe the ostrich on top of the bookshelf.",
+      "open_ended_query": "3. How is the ostrich interacting with the bookshelf?"
+    },
+    "bottle-computer": {
+      "yes_no_question": "Is the bottle standing by the computer?",
+      "descriptive_prompt": "Describe the bottle standing by the computer.",
+      "open_ended_query": "How is the bottle interacting with the computer?"
+    },
+    "monitor-desk": {
+      "yes_no_question": "",
+      "descriptive_prompt": "",
+      "open_ended_query": ""
+    },
+    "computer-keyboard": {
+      "yes_no_question": "Does the computer use the keyboard?",
+      "descriptive_prompt": "Describe the computer using the keyboard.",
+      "open_ended_query": "How is the computer interacting with the keyboard?"
+    },
+    "ostrich-bookshelf": {
+      "yes_no_question": "Is the ostrich storing on the bookshelf?",
+      "descriptive_prompt": "Describe the ostrich storing on the bookshelf.",
+      "open_ended_query": "How is the ostrich interacting with the bookshelf?"
+    },
+    "outlet-floor": {
+      "yes_no_question": "Is the outlet touching the floor?",
+      "descriptive_prompt": "Describe the outlet touching the floor.",
+      "open_ended_query": "How is the outlet interacting with the floor?"
+    },
+    "books-bookshelf": {
+      "yes_no_question": "Is the bookshelf holding books?",
+      "descriptive_prompt": "Describe the bookshelf holding books.",
+      "open_ended_query": "How is the bookshelf interacting with the books?"
+    },
+    "cable-floor": {
+      "yes_no_question": "Is the cable 'climb' the floor?",
+      "descriptive_prompt": "Describe the cable 'climb' the floor.",
+      "open_ended_query": "How is the cable interacting with the floor?"
+    },
+    "panes-screen": {
+      "yes_no_question": "Is the panes interacting with the screen?",
+      "descriptive_prompt": "Describe the panes interacting with the screen.",
+      "open_ended_query": "How is the panes interacting with the screen?"
+    },
+    "corkboard-wall": {
+      "yes_no_question": "Is the corkboard floating on the wall?",
+      "descriptive_prompt": "Describe the corkboard floating on the wall.",
+      "open_ended_query": "How is the corkboard interacting with the wall?"
+    }
+  },
+  "11": {
+    "chair-desk": {
+      "yes_no_question": "Is the chair on the desk?",
+      "descriptive_prompt": "Describe the chair on the desk.",
+      "open_ended_query": "How is the chair interacting with the desk?"
+    },
+    "computer-desk": {
+      "yes_no_question": "Is the computer \"above\" the desk?",
+      "descriptive_prompt": "Describe the computer above the desk.",
+      "open_ended_query": "How is the computer interacting with the desk?"
+    },
+    "box-desk": {
+      "yes_no_question": "Is the box on the desk?",
+      "descriptive_prompt": "Describe the box on the desk.",
+      "open_ended_query": "How is the box interacting with the desk?"
+    },
+    "building-window": {
+      "yes_no_question": "Is the building looking from the window?",
+      "descriptive_prompt": "Describe the building looking from the window.",
+      "open_ended_query": "How is the building interacting with the window?"
+    },
+    "mug-desk": {
+      "yes_no_question": "Is the mug on the desk?",
+      "descriptive_prompt": "Describe the mug on the desk.",
+      "open_ended_query": "How is the mug interacting with the desk?"
+    },
+    "cpu-desk": {
+      "yes_no_question": "Is the cpu on the desk?",
+      "descriptive_prompt": "Describe the cpu on the desk.",
+      "open_ended_query": "How is the cpu interacting with the desk?"
+    },
+    "mouse-desk": {
+      "yes_no_question": "Is the mouse drawing the desk?",
+      "descriptive_prompt": "Describe the mouse drawing the desk.",
+      "open_ended_query": "How is the mouse interacting with the desk?"
+    },
+    "bowl-table": {
+      "yes_no_question": "Is the bowl standing on the table?",
+      "descriptive_prompt": "Describe the bowl standing on the table.",
+      "open_ended_query": "How is the bowl interacting with the table?"
+    },
+    "pot-flowers": {
+      "yes_no_question": "Is the pot holding the flowers?",
+      "descriptive_prompt": "Describe the pot holding the flowers.",
+      "open_ended_query": "How is the pot interacting with the flowers?"
+    },
+    "clothing-desk": {
+      "yes_no_question": "Is the clothing floating above the desk?",
+      "descriptive_prompt": "Describe the clothing floating above the desk.",
+      "open_ended_query": "How is the clothing interacting with the desk?"
+    },
+    "cup-desk": {
+      "yes_no_question": "Is the cup on the desk?",
+      "descriptive_prompt": "Describe the cup on the desk.",
+      "open_ended_query": "How is the cup interacting with the desk?"
+    },
+    "plate-desk": {
+      "yes_no_question": "Is the plate on the desk?",
+      "descriptive_prompt": "Describe the plate on the desk.",
+      "open_ended_query": "How is the plate interacting with the desk?"
+    },
+    "plant-desk": {
+      "yes_no_question": "",
+      "descriptive_prompt": "2. Describe the plant on the desk.",
+      "open_ended_query": "3. How is the plant interacting with the desk?"
+    },
+    "computer tower-floor": {
+      "yes_no_question": "Is the computer tower floating above the floor?",
+      "descriptive_prompt": "Describe the computer tower floating above the floor.",
+      "open_ended_query": "How is the computer tower interacting with the floor?"
+    },
+    "lint-floor": {
+      "yes_no_question": "Is the lint on the floor floating?",
+      "descriptive_prompt": "Describe the lint floating on the floor.",
+      "open_ended_query": "How is the lint interacting with the floor?"
+    },
+    "bag-desk": {
+      "yes_no_question": "Is the bag under the desk?",
+      "descriptive_prompt": "Describe the bag under the desk.",
+      "open_ended_query": "How is the bag interacting with the desk?"
+    },
+    "monitor-keyboard": {
+      "yes_no_question": "Is the monitor using the keyboard?",
+      "descriptive_prompt": "Describe the monitor using the keyboard.",
+      "open_ended_query": "How is the monitor interacting with the keyboard?"
+    }
+  },
+  "12": {
+    "surge protector-desk": {
+      "yes_no_question": "Is the surge protector under the desk?",
+      "descriptive_prompt": "Describe the surge protector under the desk.",
+      "open_ended_query": "How is the surge protector interacting with the desk?"
+    },
+    "office chair-armrest": {
+      "yes_no_question": "Is the office chair displaying the armrest?",
+      "descriptive_prompt": "Describe the office chair displaying the armrest.",
+      "open_ended_query": "How is the office chair interacting with the armrest?"
+    },
+    "composition book-spots": {
+      "yes_no_question": "Is the composition book featuring spots?",
+      "descriptive_prompt": "Describe the composition book featuring spots.",
+      "open_ended_query": "How is the composition book interacting with the spots?"
+    },
+    "cpu-desk": {
+      "yes_no_question": "Is the cpu on the desk?",
+      "descriptive_prompt": "Describe the cpu on the desk.",
+      "open_ended_query": "How is the cpu interacting with the desk?"
+    },
+    "telephone-desk": {
+      "yes_no_question": "Is the telephone beside the desk?",
+      "descriptive_prompt": "Describe the telephone next to the desk.",
+      "open_ended_query": "How is the telephone interacting with the desk?"
+    },
+    "wall-computer monitor": {
+      "yes_no_question": "",
+      "descriptive_prompt": "2. Describe the wall in front of the computer monitor.",
+      "open_ended_query": "3.  How is the wall interacting with the computer monitor?"
+    },
+    "pen-desk": {
+      "yes_no_question": "Is the pen on the desk?",
+      "descriptive_prompt": "Describe the pen on the desk.",
+      "open_ended_query": "How is the pen interacting with the desk?"
+    },
+    "mouse-desk": {
+      "yes_no_question": "Is the mouse under the desk?",
+      "descriptive_prompt": "Describe the mouse under the desk.",
+      "open_ended_query": "How is the mouse interacting with the desk?"
+    },
+    "cup-desk": {
+      "yes_no_question": "Is the cup under the desk?",
+      "descriptive_prompt": "Describe the cup under the desk.",
+      "open_ended_query": "How is the cup interacting with the desk?"
+    },
+    "computer keyboard-water bottle": {
+      "yes_no_question": "Is the computer keyboard drinking the water bottle?",
+      "descriptive_prompt": "Describe the computer keyboard drinking the water bottle.",
+      "open_ended_query": "How is the computer keyboard interacting with the water bottle?"
+    }
+  },
+  "13": {
+    "telephone-desk": {
+      "yes_no_question": "Is the telephone on the desk?",
+      "descriptive_prompt": "Describe the telephone on the desk.",
+      "open_ended_query": "How is the telephone interacting with the desk?"
+    },
+    "baby-picture": {
+      "yes_no_question": "Is the baby holding the picture?",
+      "descriptive_prompt": "Describe the baby holding the picture.",
+      "open_ended_query": "How is the baby interacting with the picture?"
+    },
+    "scissors-desk": {
+      "yes_no_question": "",
+      "descriptive_prompt": "Descriptive Prompt: Describe the scissors on the desk.",
+      "open_ended_query": "Open-ended Query: How is the scissors interacting with the desk?"
+    },
+    "book-desk": {
+      "yes_no_question": "Is the book holding the desk?",
+      "descriptive_prompt": "Describe the book holding the desk.",
+      "open_ended_query": "How is the book interacting with the desk?"
+    },
+    "orange cloth-chair": {
+      "yes_no_question": "Is the orange cloth on the chair?",
+      "descriptive_prompt": "Describe the orange cloth on the chair.",
+      "open_ended_query": "How is the orange cloth interacting with the chair?"
+    },
+    "pens-cup": {
+      "yes_no_question": "Is the pen inside the cup?",
+      "descriptive_prompt": "Describe the pen inside the cup.",
+      "open_ended_query": "How is the pen interacting with the cup?"
+    },
+    "mouse-pad": {
+      "yes_no_question": "Is the mouse hovering over the pad?",
+      "descriptive_prompt": "Describe the mouse hovering over the pad.",
+      "open_ended_query": ""
+    },
+    "pad-mouse": {
+      "yes_no_question": "Is the pad below the mouse?",
+      "descriptive_prompt": "Describe the pad below the mouse.",
+      "open_ended_query": "How is the pad interacting with the mouse?"
+    },
+    "calendar-photo": {
+      "yes_no_question": "Is the calendar on the photo?",
+      "descriptive_prompt": "Describe the calendar on the photo.",
+      "open_ended_query": "How is the calendar interacting with the photo?"
+    },
+    "photo-desk": {
+      "yes_no_question": "Is the photo on the desk?",
+      "descriptive_prompt": "Describe the photo on the desk.",
+      "open_ended_query": "How is the photo interacting with the desk?"
+    },
+    "computer-floor": {
+      "yes_no_question": "Is the computer under the floor?",
+      "descriptive_prompt": "Describe the computer under the floor.",
+      "open_ended_query": "How is the computer interacting with the floor?"
+    },
+    "floor-computer": {
+      "yes_no_question": "Is the floor driving the computer?",
+      "descriptive_prompt": "Describe the floor driving the computer.",
+      "open_ended_query": "How is the floor interacting with the computer?"
+    },
+    "rolodex-desk": {
+      "yes_no_question": "Is the rolodex on the desk?",
+      "descriptive_prompt": "Describe the rolodex on the desk.",
+      "open_ended_query": "How is the rolodex interacting with the desk?"
+    },
+    "cup-desk": {
+      "yes_no_question": "Is the cup on the desk?",
+      "descriptive_prompt": "Describe the cup on the desk.",
+      "open_ended_query": "How is the cup interacting with the desk?"
+    },
+    "picture-baby": {
+      "yes_no_question": "Is the picture holding the baby?",
+      "descriptive_prompt": "Describe the picture holding the baby.",
+      "open_ended_query": "How is the picture interacting with the baby?"
+    },
+    "post it note-keyboard": {
+      "yes_no_question": "Is the post it note around the keyboard?",
+      "descriptive_prompt": "Describe the post it note around the keyboard.",
+      "open_ended_query": "How is the post it note interacting with the keyboard?"
+    },
+    "frame-desk": {
+      "yes_no_question": "Is the frame on top of the desk?",
+      "descriptive_prompt": "Describe the frame on top of the desk.",
+      "open_ended_query": "How is the frame interacting with the desk?"
+    },
+    "pen-cup": {
+      "yes_no_question": "Is the pen in the cup?",
+      "descriptive_prompt": "Describe the pen in the cup.",
+      "open_ended_query": "How is the pen interacting with the cup?"
+    },
+    "monitor-desk": {
+      "yes_no_question": "Is the monitor sitting on the desk?",
+      "descriptive_prompt": "Describe the monitor sitting on the desk.",
+      "open_ended_query": "How is the monitor interacting with the desk?"
+    },
+    "chair-desk": {
+      "yes_no_question": "Is the chair sitting in front of the desk?",
+      "descriptive_prompt": "Describe the chair sitting in front of the desk.",
+      "open_ended_query": "How is the chair interacting with the desk?"
+    }
+  },
+  "14": {
+    "computer monitor-desk": {
+      "yes_no_question": "Is the computer monitor hovering above the desk?",
+      "descriptive_prompt": "Describe the computer monitor hovering above the desk.",
+      "open_ended_query": "How is the computer monitor interacting with the desk?"
+    },
+    "lamp-shade": {
+      "yes_no_question": "Is the lamp producing a shade?",
+      "descriptive_prompt": "Describe the lamp producing a shade.",
+      "open_ended_query": "How is the lamp interacting with the shade?"
+    },
+    "people-jigsaw puzzle": {
+      "yes_no_question": "Are the people playing with the jigsaw puzzle?",
+      "descriptive_prompt": "Describe the people playing with the jigsaw puzzle.",
+      "open_ended_query": "How are the people interacting with the jigsaw puzzle?"
+    },
+    "computer keyboard-wrist rest": {
+      "yes_no_question": "Is the computer keyboard wearing a wrist rest?",
+      "descriptive_prompt": "Describe the computer keyboard wearing a wrist rest.",
+      "open_ended_query": "How is the computer keyboard interacting with the wrist rest?"
+    },
+    "cd-cd case": {
+      "yes_no_question": "Is the cd in the cd case?",
+      "descriptive_prompt": "Describe the cd in the cd case.",
+      "open_ended_query": "How is the cd interacting with the cd case?"
+    },
+    "pen-desk": {
+      "yes_no_question": "Is the pen touching the desk?",
+      "descriptive_prompt": "Describe the pen touching the desk.",
+      "open_ended_query": "How is the pen interacting with the desk?"
+    },
+    "computer mouse-mouse pad": {
+      "yes_no_question": "Is the computer mouse pointing at the mouse pad?",
+      "descriptive_prompt": "Describe the computer mouse pointing at the mouse pad.",
+      "open_ended_query": "How is the computer mouse interacting with the mouse pad?"
+    },
+    "mouse pad-wrist rest": {
+      "yes_no_question": "Does the mouse pad hold the wrist rest?",
+      "descriptive_prompt": "Describe the mouse pad holding the wrist rest.",
+      "open_ended_query": "How is the mouse pad interacting with the wrist rest?"
+    },
+    "computer-picture": {
+      "yes_no_question": "Is the computer containing the picture?",
+      "descriptive_prompt": "Describe the computer containing the picture.",
+      "open_ended_query": "How is the computer interacting with the picture?"
+    },
+    "cd case-picture": {
+      "yes_no_question": "Is the CD case containing the picture?",
+      "descriptive_prompt": "Describe the CD case containing the picture.",
+      "open_ended_query": "How is the CD case interacting with the picture?"
+    },
+    "jigsaw puzzle-picture": {
+      "yes_no_question": "Is the child a picture?",
+      "descriptive_prompt": "Describe the child being a picture.",
+      "open_ended_query": "How is the child interacting with the picture?"
+    },
+    "picture-desk": {
+      "yes_no_question": "Is the picture floating above the desk?",
+      "descriptive_prompt": "Describe the picture floating above the desk.",
+      "open_ended_query": "How is the picture interacting with the desk?"
+    },
+    "envelope-desk": {
+      "yes_no_question": "Is the envelope on the desk?",
+      "descriptive_prompt": "Describe the envelope on the desk.",
+      "open_ended_query": "How is the envelope interacting with the desk?"
+    },
+    "soda cup-desk": {
+      "yes_no_question": "Is the soda cup on the desk?",
+      "descriptive_prompt": "Describe the soda cup on the desk.",
+      "open_ended_query": "How is the soda cup interacting with the desk?"
+    },
+    "lamp stand-desk": {
+      "yes_no_question": "",
+      "descriptive_prompt": "**Describe the lamp stand painting the desk.**",
+      "open_ended_query": "**How is the lamp stand interacting with the desk?**"
+    },
+    "book-desk": {
+      "yes_no_question": "Is the book on the desk?",
+      "descriptive_prompt": "Describe the book on the desk.",
+      "open_ended_query": "How is the book interacting with the desk?"
+    },
+    "bottle-cap": {
+      "yes_no_question": "Is the bottle opening the cap?",
+      "descriptive_prompt": "Describe the bottle opening the cap.",
+      "open_ended_query": "How is the bottle interacting with the cap?"
+    },
+    "sticky note-computer monitor": {
+      "yes_no_question": "Is the sticky note above the computer monitor?",
+      "descriptive_prompt": "Describe the sticky note above the computer monitor.",
+      "open_ended_query": "How is the sticky note interacting with the computer monitor?"
+    },
+    "dart-wall": {
+      "yes_no_question": "Is the dart stuck to the wall?",
+      "descriptive_prompt": "Describe the dart stuck to the wall.",
+      "open_ended_query": "How is the dart interacting with the wall?"
+    },
+    "shade-desk": {
+      "yes_no_question": "Is the shade under the desk?",
+      "descriptive_prompt": "Describe the shade under the desk.",
+      "open_ended_query": "How is the shade interacting with the desk?"
+    }
+  },
+  "15": {
+    "papers are here.-desk": {
+      "yes_no_question": "Is the desk holding the papers?",
+      "descriptive_prompt": "Describe the desk holding the papers.",
+      "open_ended_query": "How is the desk interacting with the papers?"
+    },
+    "desk is grey.-see grey desk.": {
+      "yes_no_question": "Is the desk wearing grey?",
+      "descriptive_prompt": "Describe the desk wearing grey.",
+      "open_ended_query": "How is the desk interacting with grey?"
+    },
+    "paper has corner.-paper on desk.": {
+      "yes_no_question": "Does the paper see the corner?",
+      "descriptive_prompt": "Describe the paper seeing the corner.",
+      "open_ended_query": "How is the paper interacting with the corner?"
+    },
+    "paper shows puzzle.-paper has puzzle.": {
+      "yes_no_question": "Is the paper displaying the puzzle?",
+      "descriptive_prompt": "Describe the paper displaying the puzzle.",
+      "open_ended_query": "How is the paper interacting with the puzzle?"
+    },
+    "ketchup seen here.-desk": {
+      "yes_no_question": "Is the ketchup on the desk?",
+      "descriptive_prompt": "Describe the ketchup on the desk.",
+      "open_ended_query": "How is the ketchup interacting with the desk?"
+    },
+    "button is round.-round button here.": {
+      "yes_no_question": "Is the computer using the button?",
+      "descriptive_prompt": "Describe the computer using the button.",
+      "open_ended_query": "How is the computer interacting with the button?"
+    },
+    "keyboard-grey": {
+      "yes_no_question": "Is the keyboard touching the grey?",
+      "descriptive_prompt": "Describe the keyboard touching the grey.",
+      "open_ended_query": "How is the keyboard interacting with the grey?"
+    },
+    "gazette-key": {
+      "yes_no_question": "Is the gazette printing the key?",
+      "descriptive_prompt": "Describe the gazette printing the key.",
+      "open_ended_query": "How is the gazette interacting with the key?"
+    },
+    "papers-desk": {
+      "yes_no_question": "Is the papers above the desk?",
+      "descriptive_prompt": "Describe the papers above the desk.",
+      "open_ended_query": "How is the papers interacting with the desk?"
+    },
+    "computer-room": {
+      "yes_no_question": "Is the computer in the room?",
+      "descriptive_prompt": "Describe the computer in the room.",
+      "open_ended_query": "How is the computer interacting with the room?"
+    },
+    "red-computer": {
+      "yes_no_question": "Is the red on the computer?",
+      "descriptive_prompt": "Describe the red on the computer.",
+      "open_ended_query": "How is the red interacting with the computer?"
+    },
+    "mouse-desk": {
+      "yes_no_question": "Is the mouse sitting on the desk?",
+      "descriptive_prompt": "Describe the mouse sitting on the desk.",
+      "open_ended_query": "How is the mouse interacting with the desk?"
+    },
+    "pad-mouse": {
+      "yes_no_question": "Is the pad beneath the mouse?",
+      "descriptive_prompt": "Describe the pad beneath the mouse.",
+      "open_ended_query": ""
+    }
+  },
+  "16": {
+    "see four men.-street": {
+      "yes_no_question": "Is the 'see four men.' walking on the street?",
+      "descriptive_prompt": "Describe the 'see four men.' walking on the street.",
+      "open_ended_query": "How is the 'see four men.' interacting with the street?"
+    },
+    "grey car, parked.-street": {
+      "yes_no_question": "Is the grey car standing on the street?",
+      "descriptive_prompt": "Describe the grey car standing on the street.",
+      "open_ended_query": "How is the grey car interacting with the street?"
+    },
+    "green trees seen.-trees on roadside.": {
+      "yes_no_question": "Is the roadside seeing trees?",
+      "descriptive_prompt": "Describe the roadside seeing trees.",
+      "open_ended_query": "How is the roadside interacting with the trees?"
+    },
+    "man has glasses.-see man's glasses.": {
+      "yes_no_question": "Is the man wearing the glasses?",
+      "descriptive_prompt": "Describe the man wearing the glasses.",
+      "open_ended_query": "How is the man interacting with the glasses?"
+    },
+    "boy-pants": {
+      "yes_no_question": "Is the boy hugging the pants?",
+      "descriptive_prompt": "Describe the boy hugging the pants.",
+      "open_ended_query": "How is the boy interacting with the pants?"
+    },
+    "man-jeans": {
+      "yes_no_question": "Is the man wearing jeans?",
+      "descriptive_prompt": "Describe the man wearing jeans.",
+      "open_ended_query": "How is the man interacting with the jeans?"
+    },
+    "sign on pole.-see pole's sign.": {
+      "yes_no_question": "Is the pole displaying the sign?",
+      "descriptive_prompt": "Describe the pole displaying the sign.",
+      "open_ended_query": "How is the pole interacting with the sign?"
+    },
+    "crack is on road.-road": {
+      "yes_no_question": "Is the crack flying on the road?",
+      "descriptive_prompt": "Describe the crack flying on the road.",
+      "open_ended_query": "How is the crack interacting with the road?"
+    },
+    "arrow on sidewalk.-sidewalk has arrow.": {
+      "yes_no_question": "Is the arrow pointing to the sidewalk?",
+      "descriptive_prompt": "Describe the arrow pointing to the sidewalk.",
+      "open_ended_query": "How is the arrow interacting with the sidewalk?"
+    },
+    "man has bag.-see plastic bag.": {
+      "yes_no_question": "Is the man seeing the bag?",
+      "descriptive_prompt": "Describe the man seeing the bag.",
+      "open_ended_query": "How is the man interacting with the bag?"
+    },
+    "cones by road.-see safety cones.": {
+      "yes_no_question": "Is the cone by road for safety?",
+      "descriptive_prompt": "Describe the cone by road for safety.",
+      "open_ended_query": "How is the cone by road interacting with safety?"
+    },
+    "male-street": {
+      "yes_no_question": "Is the male flying on the street?",
+      "descriptive_prompt": "Describe the male flying on the street.",
+      "open_ended_query": "How is the male interacting with the street?"
+    },
+    "car-street": {
+      "yes_no_question": "Is the car walking on the street?",
+      "descriptive_prompt": "Describe the car walking on the street.",
+      "open_ended_query": "How is the car interacting with the street?"
+    },
+    "people-sidewalk": {
+      "yes_no_question": "Is the people crossing the sidewalk?",
+      "descriptive_prompt": "Describe the people crossing the sidewalk.",
+      "open_ended_query": "How are the people interacting with the sidewalk?"
+    },
+    "sign-pole": {
+      "yes_no_question": "",
+      "descriptive_prompt": "- Describe the sign holding the pole.",
+      "open_ended_query": "- How is the sign interacting with the pole?"
+    },
+    "jacket-boy": {
+      "yes_no_question": "Does the boy draw the jacket?",
+      "descriptive_prompt": "Describe the boy drawing the jacket.",
+      "open_ended_query": "How is the boy interacting with the jacket?"
+    },
+    "parking meter-sidewalk": {
+      "yes_no_question": "Is the parking meter on the sidewalk?",
+      "descriptive_prompt": "Describe the parking meter on the sidewalk.",
+      "open_ended_query": "How is the parking meter interacting with the sidewalk?"
+    },
+    "building-window": {
+      "yes_no_question": "Is the building growing a window?",
+      "descriptive_prompt": "Describe the building growing a window.",
+      "open_ended_query": "How is the building interacting with the window?"
+    },
+    "light-street": {
+      "yes_no_question": "Is the light above the street?",
+      "descriptive_prompt": "Describe the light above the street.",
+      "open_ended_query": "How is the light interacting with the street?"
+    },
+    "cone-street": {
+      "yes_no_question": "Is the cone inside the street?",
+      "descriptive_prompt": "Describe the cone inside the street.",
+      "open_ended_query": "How is the cone interacting with the street?"
+    }
+  },
+  "17": {
+    "painting-wall": {
+      "yes_no_question": "Is the painting hanging on the wall?",
+      "descriptive_prompt": "Describe the painting hanging on the wall.",
+      "open_ended_query": "How is the painting interacting with the wall?"
+    },
+    "floor is wood.-see wood floors.": {
+      "yes_no_question": "Is the floor seeing wood floors?",
+      "descriptive_prompt": "Describe the floor seeing wood floors.",
+      "open_ended_query": "How is the floor interacting with wood floors?"
+    },
+    "screen is black.-monitor off.": {
+      "yes_no_question": "Is the screen off.",
+      "descriptive_prompt": "",
+      "open_ended_query": ""
+    },
+    "sign is blue.-wall sign is blue.": {
+      "yes_no_question": "Is the sign painting the wall?",
+      "descriptive_prompt": "Describe the sign painting the wall.",
+      "open_ended_query": "How is the sign interacting with the wall?"
+    },
+    "chair rolls.-chair is black.": {
+      "yes_no_question": "Is the chair dancing with the chair?",
+      "descriptive_prompt": "Describe the chair dancing with the chair.",
+      "open_ended_query": "How is the chair interacting with the chair?"
+    },
+    "desk has tv.-white desk has tv.": {
+      "yes_no_question": "Is the desk holding the tv?",
+      "descriptive_prompt": "Describe the desk holding the tv.",
+      "open_ended_query": "How is the desk interacting with the tv?"
+    },
+    "computer-screen is black.": {
+      "yes_no_question": "Is the computer turning on the screen is black?",
+      "descriptive_prompt": "Describe the computer turning on the screen is black.",
+      "open_ended_query": "How is the computer interacting with the screen is black?"
+    },
+    "laptop-desk": {
+      "yes_no_question": "Is the laptop on top of the desk?",
+      "descriptive_prompt": "Describe the laptop on top of the desk.",
+      "open_ended_query": "How is the laptop interacting with the desk?"
+    },
+    "laptop is silver.-laptop not green.": {
+      "yes_no_question": "Is the laptop made of silver?",
+      "descriptive_prompt": "Describe the laptop being made of silver.",
+      "open_ended_query": "How is the laptop interacting with silver?"
+    },
+    "see cupboard.-cupboard not white.": {
+      "yes_no_question": "Is the cupboard seeing the cupboard?",
+      "descriptive_prompt": "Describe the cupboard seeing the cupboard.",
+      "open_ended_query": "How is the cupboard interacting with the cupboard?"
+    },
+    "black star here.-star is black.": {
+      "yes_no_question": "Is the white star black?",
+      "descriptive_prompt": "Describe the white star being black.",
+      "open_ended_query": "How is the white star interacting with the star being black?"
+    },
+    "star noted, black.-star is black.": {
+      "yes_no_question": "Is the star noted black?",
+      "descriptive_prompt": "",
+      "open_ended_query": ""
+    },
+    "monitor-picture": {
+      "yes_no_question": "Is the monitor containing the picture?",
+      "descriptive_prompt": "Describe the monitor containing the picture.",
+      "open_ended_query": "How is the monitor interacting with the picture?"
+    },
+    "chair-picture": {
+      "yes_no_question": "Is the chair inside the picture?",
+      "descriptive_prompt": "Describe the chair inside the picture.",
+      "open_ended_query": "How is the chair interacting with the picture?"
+    },
+    "poster-wall": {
+      "yes_no_question": "Is the poster floating on the wall?",
+      "descriptive_prompt": "Describe the poster floating on the wall.",
+      "open_ended_query": "How is the poster interacting with the wall?"
+    },
+    "lampstand-desk": {
+      "yes_no_question": "Does the lampstand make the desk?",
+      "descriptive_prompt": "Describe the lampstand making the desk.",
+      "open_ended_query": "How is the lampstand interacting with the desk?"
+    },
+    "chairs-picture": {
+      "yes_no_question": "Is the chair in the picture?",
+      "descriptive_prompt": "Describe the chair in the picture.",
+      "open_ended_query": "How is the chair interacting with the picture?"
+    },
+    "keyboard-wall": {
+      "yes_no_question": "Is the keyboard attached to the wall?",
+      "descriptive_prompt": "Describe the keyboard attached to the wall.",
+      "open_ended_query": "How does the keyboard interact with the wall?"
+    },
+    "cabinet-monitor": {
+      "yes_no_question": "Is the cabinet using the monitor?",
+      "descriptive_prompt": "Describe the cabinet using the monitor.",
+      "open_ended_query": "How is the cabinet interacting with the monitor?"
+    },
+    "phone-monitor": {
+      "yes_no_question": "Is the phone next to the monitor?",
+      "descriptive_prompt": "Describe the phone being next to the monitor.",
+      "open_ended_query": "How is the phone interacting with the monitor?"
+    },
+    "vent-desk": {
+      "yes_no_question": "Is the vent eating the desk?",
+      "descriptive_prompt": "Describe the vent eating the desk.",
+      "open_ended_query": "How is the vent interacting with the desk?"
+    },
+    "star-wall": {
+      "yes_no_question": "Is the star touching the wall?",
+      "descriptive_prompt": "Describe the star touching the wall.",
+      "open_ended_query": "How is the star interacting with the wall?"
+    }
+  },
+  "18": {
+    "man-hair": {
+      "yes_no_question": "Is the man wearing hair?",
+      "descriptive_prompt": "Describe the man wearing hair.",
+      "open_ended_query": "How is the man interacting with the hair?"
+    },
+    "bottle-soda": {
+      "yes_no_question": "Is the bottle pouring soda?",
+      "descriptive_prompt": "Describe the bottle pouring soda.",
+      "open_ended_query": "How is the bottle interacting with the soda?"
+    },
+    "can-table": {
+      "yes_no_question": "Is the can floating above the table?",
+      "descriptive_prompt": "Describe the can floating above the table.",
+      "open_ended_query": "How is the can interacting with the table?"
+    },
+    "mug-table": {
+      "yes_no_question": "Is the mug on the table?",
+      "descriptive_prompt": "",
+      "open_ended_query": ""
+    },
+    "mouse-table": {
+      "yes_no_question": "Is the mouse under the table?",
+      "descriptive_prompt": "Describe the mouse under the table.",
+      "open_ended_query": "How is the mouse interacting with the table?"
+    },
+    "cpu-table": {
+      "yes_no_question": "Is the cpu on the table?",
+      "descriptive_prompt": "Describe the cpu on the table.",
+      "open_ended_query": "How is the cpu interacting with the table?"
+    },
+    "tissue-window": {
+      "yes_no_question": "Is the tissue touching the window?",
+      "descriptive_prompt": "Describe the tissue touching the window.",
+      "open_ended_query": "How is the tissue interacting with the window?"
+    },
+    "bag-table": {
+      "yes_no_question": "Is the bag on the table?",
+      "descriptive_prompt": "Describe the bag on the table.",
+      "open_ended_query": "How is the bag interacting with the table?"
+    },
+    "helmet-shelf": {
+      "yes_no_question": "Is the helmet holding the shelf?",
+      "descriptive_prompt": "Describe the helmet holding the shelf.",
+      "open_ended_query": "How is the helmet interacting with the shelf?"
+    },
+    "table-floor": {
+      "yes_no_question": "Is the table floating above the floor?",
+      "descriptive_prompt": "Describe the table floating above the floor.",
+      "open_ended_query": "How is the table interacting with the floor?"
+    },
+    "monitor-man": {
+      "yes_no_question": "Is the man painting the monitor?",
+      "descriptive_prompt": "Describe the man painting the monitor.",
+      "open_ended_query": "How is the man interacting with the monitor?"
+    }
+  },
+  "19": {
+    "mouse-mousepad": {
+      "yes_no_question": "Is the mouse on top of the mousepad?",
+      "descriptive_prompt": "Describe the mouse on top of the mousepad.",
+      "open_ended_query": "How is the mouse interacting with the mousepad?"
+    },
+    "computer monitor-mouse": {
+      "yes_no_question": "Is the computer monitor surrounding the mouse?",
+      "descriptive_prompt": "Describe the computer monitor surrounding the mouse.",
+      "open_ended_query": "How is the computer monitor interacting with the mouse?"
+    },
+    "tape-wall": {
+      "yes_no_question": "Is the tape painting the wall?",
+      "descriptive_prompt": "Describe the tape painting the wall.",
+      "open_ended_query": "How is the tape interacting with the wall?"
+    },
+    "keyboard-connection wire": {
+      "yes_no_question": "Is the keyboard sewing the connection wire?",
+      "descriptive_prompt": "Describe the keyboard sewing the connection wire.",
+      "open_ended_query": "How is the keyboard interacting with the connection wire?"
+    },
+    "electrical outlet-wall": {
+      "yes_no_question": "Is the electrical outlet on the wall?",
+      "descriptive_prompt": "",
+      "open_ended_query": ""
+    },
+    "computer screen-wall": {
+      "yes_no_question": "Is the computer screen facing the wall?",
+      "descriptive_prompt": "Describe the computer screen facing the wall.",
+      "open_ended_query": "How is the computer screen interacting with the wall?"
+    },
+    "tube-wires": {
+      "yes_no_question": "Is the tube holding the wires?",
+      "descriptive_prompt": "Describe the tube holding the wires.",
+      "open_ended_query": "How is the tube interacting with the wires?"
+    },
+    "computer mouse-mousepad": {
+      "yes_no_question": "Is the computer mouse on the mousepad?",
+      "descriptive_prompt": "",
+      "open_ended_query": ""
+    },
+    "desktop computer-desk": {
+      "yes_no_question": "Is the desktop computer on top of the desk?",
+      "descriptive_prompt": "Describe the desktop computer on top of the desk.",
+      "open_ended_query": "How is the desktop computer interacting with the desk?"
+    },
+    "computer printer-desk": {
+      "yes_no_question": "Is the computer printer above the desk?",
+      "descriptive_prompt": "Describe the computer printer above the desk.",
+      "open_ended_query": "How does the computer printer interact with the desk?"
+    },
+    "chair-desk": {
+      "yes_no_question": "",
+      "descriptive_prompt": "* Describe the chair in front of the desk",
+      "open_ended_query": "* How is the chair interacting with the desk?"
+    },
+    "monitor-monitor": {
+      "yes_no_question": "Is the monitor observing the monitor?",
+      "descriptive_prompt": "Describe the monitor observing the monitor.",
+      "open_ended_query": "How is the monitor interacting with the monitor?"
+    },
+    "cords-electonics": {
+      "yes_no_question": "Is the cords controlling electronics?",
+      "descriptive_prompt": "Describe the cords controlling electronics.",
+      "open_ended_query": "How are the cords interacting with electronics?"
+    },
+    "printer-computer": {
+      "yes_no_question": "Is the printer connected to the computer?",
+      "descriptive_prompt": "Describe the printer connected to the computer.",
+      "open_ended_query": "How is the printer interacting with the computer?"
+    },
+    "pipe-wall": {
+      "yes_no_question": "Is the pipe taped to the wall?",
+      "descriptive_prompt": "Describe the pipe taped to the wall.",
+      "open_ended_query": "How is the pipe interacting with the wall?"
+    },
+    "fire alarm-hallway": {
+      "yes_no_question": "Is the fire alarm in the hallway?",
+      "descriptive_prompt": "Describe the fire alarm in the hallway.",
+      "open_ended_query": "How is the fire alarm interacting with the hallway?"
+    },
+    "cables-desk": {
+      "yes_no_question": "Is the cables painting the desk?",
+      "descriptive_prompt": "Describe the cables painting the desk.",
+      "open_ended_query": "How are the cables interacting with the desk?"
+    },
+    "computers-desk": {
+      "yes_no_question": "Is the computer flying on the desk?",
+      "descriptive_prompt": "Describe the computer flying on the desk.",
+      "open_ended_query": "How is the computer interacting with the desk?"
+    }
+  },
+  "20": {
+    "books-self": {
+      "yes_no_question": "Is the book in the self?",
+      "descriptive_prompt": "Describe the book in the self.",
+      "open_ended_query": "How is the book interacting with the self?"
+    },
+    "computer-desk": {
+      "yes_no_question": "Is the computer supporting the desk?",
+      "descriptive_prompt": "Describe the computer supporting the desk.",
+      "open_ended_query": "How is the computer interacting with the desk?"
+    },
+    "one person-picture": {
+      "yes_no_question": "Is the person inside the picture?",
+      "descriptive_prompt": "Describe the person inside the picture.",
+      "open_ended_query": "How is the person interacting with the picture?"
+    },
+    "bottle-picture": {
+      "yes_no_question": "Is the bottle inside the picture?",
+      "descriptive_prompt": "Describe the bottle inside the picture.",
+      "open_ended_query": "How is the bottle interacting with the picture?"
+    },
+    "picture-books": {
+      "yes_no_question": "Is the picture composed of books?",
+      "descriptive_prompt": "Describe the picture composed of books.",
+      "open_ended_query": "How is the picture interacting with the books?"
+    },
+    "desk-books": {
+      "yes_no_question": "Is the desk made from books?",
+      "descriptive_prompt": "Describe the desk made from books.",
+      "open_ended_query": "How is the desk interacting with the books?"
+    },
+    "man-shirt": {
+      "yes_no_question": "Is the man hugging the shirt?",
+      "descriptive_prompt": "Describe the man hugging the shirt.",
+      "open_ended_query": "How is the man interacting with the shirt?"
+    },
+    "book-bookshelf": {
+      "yes_no_question": "Is the book standing on the bookshelf?",
+      "descriptive_prompt": "Describe the book standing on the bookshelf.",
+      "open_ended_query": "How is the book interacting with the bookshelf?"
+    },
+    "chair-back": {
+      "yes_no_question": "Is the chair lifting the back?",
+      "descriptive_prompt": "Describe the chair lifting the back.",
+      "open_ended_query": "How is the chair interacting with the back?"
+    },
+    "mug-bookshelf": {
+      "yes_no_question": "Is the mug on top of the bookshelf?",
+      "descriptive_prompt": "Describe the mug on top of the bookshelf.",
+      "open_ended_query": "How is the mug interacting with the bookshelf?"
+    },
+    "can-desk": {
+      "yes_no_question": "Is the can under the desk?",
+      "descriptive_prompt": "Describe the can under the desk.",
+      "open_ended_query": "How is the can interacting with the desk?"
+    },
+    "tape dispenser-shelf": {
+      "yes_no_question": "Is the tape dispenser flying over the shelf?",
+      "descriptive_prompt": "Describe the tape dispenser flying over the shelf.",
+      "open_ended_query": "How is the tape dispenser interacting with the shelf?"
+    },
+    "telephone-desk": {
+      "yes_no_question": "Is the telephone above the desk?",
+      "descriptive_prompt": "Describe the telephone above the desk.",
+      "open_ended_query": "How is the telephone interacting with the desk?"
+    },
+    "mouse-mouse pad": {
+      "yes_no_question": "Is the mouse holding the mouse pad?",
+      "descriptive_prompt": "Describe the mouse holding the mouse pad.",
+      "open_ended_query": "How is the mouse interacting with the mouse pad?"
+    },
+    "keyboard-desk": {
+      "yes_no_question": "Is the keyboard bounces on top of the desk?",
+      "descriptive_prompt": "Describe the keyboard bounces on top of the desk.",
+      "open_ended_query": "How is the keyboard interacting with the desk?"
+    }
+  }
+}

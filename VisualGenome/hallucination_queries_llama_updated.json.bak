@@ -1,0 +1,1276 @@
+{
+  "1": {
+    "shade-street": {
+      "yes_no_question": {
+        "question": "Is the shade covering the street?",
+        "answer": "No. The shade is on the street, not covering it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the shade covering the street.",
+        "answer": "This is incorrect. The shade is on the street rather than covering it."
+      },
+      "open_ended_query": {
+        "question": "How is the shade interacting with the street?",
+        "answer": "The shade is on the street. The described covering interaction is not accurate."
+      }
+    },
+    "man-sneakers": {
+      "yes_no_question": {
+        "question": "Is the man selling the sneakers?",
+        "answer": "No. The man is wearing the sneakers, not selling them."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the man selling the sneakers.",
+        "answer": "This is incorrect. The man is wearing the sneakers rather than selling them."
+      },
+      "open_ended_query": {
+        "question": "How is the man interacting with the sneakers?",
+        "answer": "The man is wearing the sneakers. The described selling interaction is not accurate."
+      }
+    },
+    "car-headlight": {
+      "yes_no_question": {
+        "question": "Is the car driving the headlight?",
+        "answer": "No. The car has the headlight, not driving it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the car driving the headlight.",
+        "answer": "This is incorrect. The car has the headlight rather than driving it."
+      },
+      "open_ended_query": {
+        "question": "How is the car interacting with the headlight?",
+        "answer": "The car has the headlight. The described driving interaction is not accurate."
+      }
+    },
+    "sign-building": {
+      "yes_no_question": {
+        "question": "Is the sign stuck to the building?",
+        "answer": "No. The sign is on the building, not stuck to it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the sign stuck to the building.",
+        "answer": "This is incorrect. The sign is on the building rather than stuck to it."
+      },
+      "open_ended_query": {
+        "question": "How is the sign interacting with the building?",
+        "answer": "The sign is on the building. The described stuck interaction is not accurate."
+      }
+    },
+    "tree trunk-sidewalk": {
+      "yes_no_question": {
+        "question": "Is the tree trunk floating on the sidewalk?",
+        "answer": "No. The tree trunk is on the sidewalk, not floating on it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the tree trunk floating on the sidewalk.",
+        "answer": "This is incorrect. The tree trunk is on the sidewalk rather than floating on it."
+      },
+      "open_ended_query": {
+        "question": "How is the tree trunk interacting with the sidewalk?",
+        "answer": "The tree trunk is on the sidewalk. The described floating interaction is not accurate."
+      }
+    },
+    "sidewalk-street": {
+      "yes_no_question": {
+        "question": "Is the sidewalk on top of the street?",
+        "answer": "No. The sidewalk is next to the street, not on top of it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the sidewalk being on top of the street.",
+        "answer": "This is incorrect. The sidewalk is next to the street rather than on top of it."
+      },
+      "open_ended_query": {
+        "question": "How is the sidewalk interacting with the street?",
+        "answer": "The sidewalk is next to the street. The described being on top interaction is not accurate."
+      }
+    },
+    "parking meter-sidewalk": {
+      "yes_no_question": {
+        "question": "Is the parking meter under the sidewalk?",
+        "answer": "No. The parking meter is on the sidewalk, not under it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the parking meter under the sidewalk.",
+        "answer": "This is incorrect. The parking meter is on the sidewalk rather than under it."
+      },
+      "open_ended_query": {
+        "question": "How is the parking meter interacting with the sidewalk?",
+        "answer": "The parking meter is on the sidewalk. The described under interaction is not accurate."
+      }
+    },
+    "bike-sidewalk": {
+      "yes_no_question": {
+        "question": "Is the bike leaning on the sidewalk?",
+        "answer": "No. The bike is parked on the sidewalk, not leaning on it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the bike leaning on the sidewalk.",
+        "answer": "This is incorrect. The bike is parked on the sidewalk rather than leaning on it."
+      },
+      "open_ended_query": {
+        "question": "How is the bike interacting with the sidewalk?",
+        "answer": "The bike is parked on the sidewalk. The described leaning interaction is not accurate."
+      }
+    },
+    "work truck-street": {
+      "yes_no_question": {
+        "question": "Is the work truck flying on the street?",
+        "answer": "No. The work truck is parked on the street, not flying on it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the work truck flying on the street.",
+        "answer": "This is incorrect. The work truck is parked on the street rather than flying on it."
+      },
+      "open_ended_query": {
+        "question": "How is the work truck interacting with the street?",
+        "answer": "The work truck is parked on the street. The described flying interaction is not accurate."
+      }
+    },
+    "guy-chin": {
+      "yes_no_question": {
+        "question": "Is the guy biting the chin?",
+        "answer": "No. The guy is holding the chin, not biting it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the guy biting the chin.",
+        "answer": "This is incorrect. The guy is holding the chin rather than biting it."
+      },
+      "open_ended_query": {
+        "question": "How is the guy interacting with the chin?",
+        "answer": "The guy is holding the chin. The described biting interaction is not accurate."
+      }
+    },
+    "bikes-tree": {
+      "yes_no_question": {
+        "question": "Is the tree on the bikes?",
+        "answer": "No. The bikes are near the tree, not on it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the bikes on the tree.",
+        "answer": "This is incorrect. The bikes are near the tree rather than on it."
+      },
+      "open_ended_query": {
+        "question": "How are the bikes interacting with the tree?",
+        "answer": "The bikes are near the tree. The described on interaction is not accurate."
+      }
+    },
+    "shirt-man": {
+      "yes_no_question": {
+        "question": "Is the man wearing the shirt?",
+        "answer": "No. The man is wearing the shirt on, not wearing it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the man wearing the shirt.",
+        "answer": "This is incorrect. The man is wearing the shirt rather than having it on his head."
+      },
+      "open_ended_query": {
+        "question": "How is the man interacting with the shirt?",
+        "answer": "The man is wearing the shirt. The described wearing interaction is accurate, but the shirt is on the man, not being held by him."
+      }
+    },
+    "lamp post-road": {
+      "yes_no_question": {
+        "question": "Is the lamp post walking on the road?",
+        "answer": "No. The lamp post is standing along the road, not walking on it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the lamp post walking along the road.",
+        "answer": "This is incorrect. The lamp post is standing along the road rather than walking along it."
+      },
+      "open_ended_query": {
+        "question": "How is the lamp post interacting with the road?",
+        "answer": "The lamp post is standing along the road. The described walking interaction is not accurate."
+      }
+    },
+    "tree-street": {
+      "yes_no_question": {
+        "question": "Is the tree standing on the street?",
+        "answer": "No. The tree is next to the street, not standing on it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the tree standing on the street.",
+        "answer": "This is incorrect. The tree is next to the street rather than standing on it."
+      },
+      "open_ended_query": {
+        "question": "How is the tree interacting with the street?",
+        "answer": "The tree is next to the street. The described standing interaction is not accurate."
+      }
+    },
+    "trees-sidewalk": {
+      "yes_no_question": {
+        "question": "Are the trees leaning against the sidewalk?",
+        "answer": "No. The trees are by the sidewalk, not leaning against it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the trees leaning against the sidewalk.",
+        "answer": "This is incorrect. The trees are by the sidewalk rather than leaning against it."
+      },
+      "open_ended_query": {
+        "question": "How are the trees interacting with the sidewalk?",
+        "answer": ""
+      }
+    },
+    "building-windows": {
+      "yes_no_question": {
+        "question": "Does the building have windows?",
+        "answer": "No. The building is with windows, not having them."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the building having windows.",
+        "answer": "This is incorrect. The building is with windows rather than having them."
+      },
+      "open_ended_query": {
+        "question": "How is the building interacting with the windows?",
+        "answer": "The building is with the windows. The described having interaction is not accurate."
+      }
+    }
+  },
+  "2": {
+    "man-backpack": {
+      "yes_no_question": {
+        "question": "Is the man carrying a backpack?",
+        "answer": "No. The man is wearing the backpack, not carrying it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the man carrying a backpack.",
+        "answer": "This is incorrect. The man is wearing the backpack rather than carrying it."
+      },
+      "open_ended_query": {
+        "question": "How is the man interacting with the backpack?",
+        "answer": "The man is wearing the backpack. The described carrying interaction is not accurate."
+      }
+    },
+    "car-road": {
+      "yes_no_question": {
+        "question": "Is the car floating on the road?",
+        "answer": "No. The car is parked on the road, not floating on it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the car floating on the road.",
+        "answer": "This is incorrect. The car is parked on the road rather than floating on it."
+      },
+      "open_ended_query": {
+        "question": "How is the car interacting with the road?",
+        "answer": "The car is parked on the road. The described floating interaction is not accurate."
+      }
+    },
+    "tree-road": {
+      "yes_no_question": {
+        "question": "Is the tree standing on the road?",
+        "answer": "No. The tree is next to the road, not standing on it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the tree standing on the road.",
+        "answer": "This is incorrect. The tree is next to the road, rather than standing on it."
+      },
+      "open_ended_query": {
+        "question": "How is the tree interacting with the road?",
+        "answer": "The tree is next to the road. The described standing interaction is not accurate."
+      }
+    },
+    "crosswalk-man": {
+      "yes_no_question": {
+        "question": "Is the man standing behind the crosswalk?",
+        "answer": "No. The man is in front of the crosswalk, not standing behind it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the man standing behind the crosswalk.",
+        "answer": "This is incorrect. The man is in front of the crosswalk rather than standing behind it."
+      },
+      "open_ended_query": {
+        "question": "How is the man interacting with the crosswalk?",
+        "answer": "The man is in front of the crosswalk. The described standing behind interaction is not accurate."
+      }
+    },
+    "building-window": {
+      "yes_no_question": {
+        "question": "Does the building illuminate the window?",
+        "answer": "No. The building has a window, not illuminating it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the building illuminating the window.",
+        "answer": "This is incorrect. The building has a window rather than illuminating it."
+      },
+      "open_ended_query": {
+        "question": "How is the building interacting with the window?",
+        "answer": "The building has a window. The described illuminating interaction is not accurate."
+      }
+    },
+    "sign-road": {
+      "yes_no_question": {
+        "question": "Is the sign above the road?",
+        "answer": "No. The sign is next to the road, not above it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the sign above the road.",
+        "answer": "This is incorrect. The sign is next to the road rather than above it."
+      },
+      "open_ended_query": {
+        "question": "How is the sign interacting with the road?",
+        "answer": "The sign is next to the road. The described above interaction is not accurate."
+      }
+    },
+    "bike-car": {
+      "yes_no_question": {
+        "question": "Is the bike parked on the car?",
+        "answer": "No. The bike is next to the car, not parked on it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the bike parked on the car.",
+        "answer": "This is incorrect. The bike is next to the car rather than parked on it."
+      },
+      "open_ended_query": {
+        "question": "How is the bike interacting with the car?",
+        "answer": "The bike is next to the car. The described parked interaction is not accurate."
+      }
+    },
+    "walk sign-\"walk\"": {
+      "yes_no_question": {
+        "question": "Is the walk sign reading \"walk\"?",
+        "answer": "No. The walk sign is saying \"walk\", not reading it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the walk sign reading \"walk\".",
+        "answer": "This is incorrect. The walk sign is saying \"walk\" rather than reading it."
+      },
+      "open_ended_query": {
+        "question": "How is the walk sign interacting with the instruction \"walk\"?",
+        "answer": "The walk sign is saying \"walk\". The described reading interaction is not accurate."
+      }
+    }
+  },
+  "3": {
+    "keyboard-monitor": {
+      "yes_no_question": {
+        "question": "Is the keyboard standing on the monitor?",
+        "answer": "No. The keyboard is in front of the monitor, not standing on it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the keyboard standing on the monitor.",
+        "answer": "This is incorrect. The keyboard is in front of the monitor rather than standing on it."
+      },
+      "open_ended_query": {
+        "question": "How is the keyboard interacting with the monitor?",
+        "answer": "The keyboard is in front of the monitor. The described standing interaction is not accurate."
+      }
+    },
+    "cpu-desktop": {
+      "yes_no_question": {
+        "question": "Is the CPU stored in the desktop?",
+        "answer": "No. The CPU is under the desktop, not stored in it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the CPU stored in the desktop.",
+        "answer": "This is incorrect. The CPU is under the desktop rather than stored in it."
+      },
+      "open_ended_query": {
+        "question": "How is the CPU interacting with the desktop?",
+        "answer": "The CPU is under the desktop. The described stored interaction is not accurate."
+      }
+    },
+    "filing cabinet-drawer": {
+      "yes_no_question": {
+        "question": "Is the filing cabinet hiding a drawer?",
+        "answer": "No. The filing cabinet has a drawer, not hiding it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the filing cabinet hiding a drawer.",
+        "answer": "This is incorrect. The filing cabinet has a drawer rather than hiding it."
+      },
+      "open_ended_query": {
+        "question": "How is the filing cabinet interacting with the drawer?",
+        "answer": "The filing cabinet has a drawer. The described hiding interaction is not accurate."
+      }
+    },
+    "mouse-keyboard": {
+      "yes_no_question": {
+        "question": "Is the mouse on the keyboard?",
+        "answer": "No. The mouse is next to the keyboard, not on it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the mouse on the keyboard.",
+        "answer": "This is incorrect. The mouse is next to the keyboard rather than on it."
+      },
+      "open_ended_query": {
+        "question": "How is the mouse interacting with the keyboard?",
+        "answer": "The mouse is next to the keyboard. The described on interaction is not accurate."
+      }
+    },
+    "wireless phone-office phone base": {
+      "yes_no_question": {
+        "question": "Is the wireless phone dancing on the office phone base?",
+        "answer": "No. The wireless phone is docked in the office phone base, not dancing on it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the wireless phone dancing on the office phone base.",
+        "answer": "This is incorrect. The wireless phone is docked in the office phone base rather than dancing on it."
+      },
+      "open_ended_query": {
+        "question": "How is the wireless phone interacting with the office phone base?",
+        "answer": ""
+      }
+    },
+    "multiple outlet-monitor": {
+      "yes_no_question": {
+        "question": "Is the multiple outlet located inside the monitor?",
+        "answer": "No. The multiple outlet is next to the monitor, not located inside it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the multiple outlet located inside the monitor.",
+        "answer": "This is incorrect. The multiple outlet is next to the monitor rather than located inside it."
+      },
+      "open_ended_query": {
+        "question": "How does the multiple outlet interact with the monitor?",
+        "answer": "The multiple outlet is next to the monitor. The described located interaction is not accurate."
+      }
+    },
+    "office phone-desk": {
+      "yes_no_question": {
+        "question": "Is the office phone under the desk?",
+        "answer": "No. The office phone is on the desk, not under it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the office phone under the desk.",
+        "answer": "This is incorrect. The office phone is on the desk rather than under it."
+      },
+      "open_ended_query": {
+        "question": "How is the office phone interacting with the desk?",
+        "answer": ""
+      }
+    },
+    "girl-monitor": {
+      "yes_no_question": {
+        "question": "Is the girl standing behind the monitor?",
+        "answer": "No. The girl is in front of the monitor, not standing behind it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the girl standing behind the monitor.",
+        "answer": "This is incorrect. The girl is in front of the monitor rather than standing behind it."
+      },
+      "open_ended_query": {
+        "question": "How is the girl interacting with the monitor?",
+        "answer": "The girl is in front of the monitor. The described standing behind interaction is not accurate."
+      }
+    },
+    "outlet-wall": {
+      "yes_no_question": {
+        "question": "",
+        "answer": ""
+      },
+      "descriptive_prompt": {
+        "question": "",
+        "answer": ""
+      },
+      "open_ended_query": {
+        "question": "",
+        "answer": ""
+      }
+    },
+    "pen-desk": {
+      "yes_no_question": {
+        "question": "Is the pen buried under the desk?",
+        "answer": "No. The pen is on the desk, not buried under it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the pen buried under the desk.",
+        "answer": "This is incorrect. The pen is on the desk rather than buried under it."
+      },
+      "open_ended_query": {
+        "question": "How is the pen interacting with the desk?",
+        "answer": "The pen is on the desk. The described buried interaction is not accurate."
+      }
+    },
+    "cable-floor": {
+      "yes_no_question": {
+        "question": "Is the cable buried in the floor?",
+        "answer": "No. The cable is on the floor, not buried in it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the cable being buried in the floor.",
+        "answer": "This is incorrect. The cable is on the floor rather than buried in it."
+      },
+      "open_ended_query": {
+        "question": "How is the cable interacting with the floor?",
+        "answer": "The cable is on the floor. The described buried interaction is not accurate."
+      }
+    },
+    "wall-pluged": {
+      "yes_no_question": {
+        "question": "Does the wall cover the plug?",
+        "answer": "No. The wall has the plug, not covers it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the wall covering the plug.",
+        "answer": "This is incorrect. The wall has the plug rather than covering it."
+      },
+      "open_ended_query": {
+        "question": "How is the wall interacting with the plug?",
+        "answer": "The wall has the plug. The described covering interaction is not accurate."
+      }
+    },
+    "bag-desk": {
+      "yes_no_question": {
+        "question": "Is the bag attached to the desk?",
+        "answer": "No. The bag is on the desk, not attached to it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the bag attached to the desk.",
+        "answer": "This is incorrect. The bag is on the desk rather than attached to it."
+      },
+      "open_ended_query": {
+        "question": "How is the bag interacting with the desk?",
+        "answer": "The bag is on the desk. The described attached interaction is not accurate."
+      }
+    },
+    "monitor-wall": {
+      "yes_no_question": {
+        "question": "Is the monitor attached to the wall?",
+        "answer": "No. The monitor is on the wall, not attached to it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the monitor attached to the wall.",
+        "answer": "This is incorrect. The monitor is on the wall rather than attached to it."
+      },
+      "open_ended_query": {
+        "question": "How is the monitor interacting with the wall?",
+        "answer": "The monitor is on the wall. The described attached interaction is not accurate."
+      }
+    },
+    "dividing screen-cubicles": {
+      "yes_no_question": {
+        "question": "Is the dividing screen connected to the cubicles?",
+        "answer": "No. The dividing screen is between the cubicles, not connected to them."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the dividing screen connected to the cubicles.",
+        "answer": "This is incorrect. The dividing screen is between the cubicles rather than connected to them."
+      },
+      "open_ended_query": {
+        "question": "How is the dividing screen interacting with the cubicles?",
+        "answer": "The dividing screen is between the cubicles. The described connected interaction is not accurate."
+      }
+    },
+    "picture-wall": {
+      "yes_no_question": {
+        "question": "Is the picture floating above the wall?",
+        "answer": "No. The picture is on the wall, not floating above it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the picture floating above the wall.",
+        "answer": "This is incorrect. The picture is on the wall rather than floating above it."
+      },
+      "open_ended_query": {
+        "question": "How is the picture interacting with the wall?",
+        "answer": "The picture is on the wall. The described floating interaction is not accurate."
+      }
+    },
+    "telephone-desk": {
+      "yes_no_question": {
+        "question": "Is the telephone hanging from the desk?",
+        "answer": "No. The telephone is on the desk, not hanging from it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the telephone hanging from the desk.",
+        "answer": "This is incorrect. The telephone is on the desk rather than hanging from it."
+      },
+      "open_ended_query": {
+        "question": "How is the telephone interacting with the desk?",
+        "answer": "The telephone is on the desk. The described hanging interaction is not accurate."
+      }
+    },
+    "cables-pluged": {
+      "yes_no_question": {
+        "question": "Are the cables plugged in the plug?",
+        "answer": "No. The cables are fully plugged into the plug, not plugged in the plug."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the cables plugged in the plug.",
+        "answer": "This is incorrect. The cables are fully plugged into the plug rather than plugged in the plug."
+      },
+      "open_ended_query": {
+        "question": "How are the cables interacting with the plug?",
+        "answer": "The cables are fully plugged into the plug. The described plugged in the plug interaction is not accurate."
+      }
+    },
+    "photos-wall": {
+      "yes_no_question": {
+        "question": "Are the photos hanging on the wall?",
+        "answer": "No. The photos are on the wall, not hanging on it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the photos hanging on the wall.",
+        "answer": "This is incorrect. The photos are on the wall rather than hanging on it."
+      },
+      "open_ended_query": {
+        "question": "How are the photos interacting with the wall?",
+        "answer": "The photos are on the wall. The described hanging interaction is not accurate."
+      }
+    },
+    "drawer-handle": {
+      "yes_no_question": {
+        "question": "Is the drawer containing the handle?",
+        "answer": "No. The drawer is having the handle, not containing it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the drawer containing the handle.",
+        "answer": "This is incorrect. The drawer is having the handle rather than containing it."
+      },
+      "open_ended_query": {
+        "question": "How is the drawer interacting with the handle?",
+        "answer": "The drawer is having the handle. The described containing interaction is not accurate."
+      }
+    },
+    "computer tower-desk": {
+      "yes_no_question": {
+        "question": "Is the computer tower floating on the desk?",
+        "answer": "No. The computer tower is under the desk, not floating on it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the computer tower floating on the desk.",
+        "answer": "This is incorrect. The computer tower is under the desk rather than floating on it."
+      },
+      "open_ended_query": {
+        "question": "How is the computer tower interacting with the desk?",
+        "answer": "The computer tower is under the desk. The described floating interaction is not accurate."
+      }
+    }
+  },
+  "4": {
+    "chair-padding": {
+      "yes_no_question": {
+        "question": "Is the chair hiding padding?",
+        "answer": "No. The chair has padding, not hiding it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the chair hiding padding.",
+        "answer": "This is incorrect. The chair has padding rather than hiding it."
+      },
+      "open_ended_query": {
+        "question": "How is the chair interacting with the padding?",
+        "answer": "The chair has padding. The described hiding interaction is not accurate."
+      }
+    },
+    "carpet-floor": {
+      "yes_no_question": {
+        "question": "Is the carpet under the floor?",
+        "answer": "No. The carpet is on the floor, not under it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the carpet under the floor.",
+        "answer": ""
+      },
+      "open_ended_query": {
+        "question": "",
+        "answer": ""
+      }
+    },
+    "pillow-couch": {
+      "yes_no_question": {
+        "question": "Is the pillow attached to the couch?",
+        "answer": "No. The pillow is on the couch, not attached to it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the pillow attached to the couch.",
+        "answer": "This is incorrect. The pillow is on the couch rather than attached to it."
+      },
+      "open_ended_query": {
+        "question": "How is the pillow interacting with the couch?",
+        "answer": "The pillow is on the couch. The described attached interaction is not accurate."
+      }
+    },
+    "teddy bear-pillow": {
+      "yes_no_question": {
+        "question": "Is the teddy bear hugging the pillow?",
+        "answer": "No. The teddy bear is against the pillow, not hugging it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the teddy bear hugging the pillow.",
+        "answer": "This is incorrect. The teddy bear is against the pillow rather than hugging it."
+      },
+      "open_ended_query": {
+        "question": "How is the teddy bear interacting with the pillow?",
+        "answer": "The teddy bear is against the pillow. The described hugging interaction is not accurate."
+      }
+    },
+    "table top-window": {
+      "yes_no_question": {
+        "question": "Is the table top displaying the window?",
+        "answer": "No. The table top is near the window, not displaying it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the table top displaying the window.",
+        "answer": "This is incorrect. The table top is near the window rather than displaying it."
+      },
+      "open_ended_query": {
+        "question": "How is the table top interacting with the window?",
+        "answer": "The table top is near the window. The described displaying interaction is not accurate."
+      }
+    },
+    "couch-frame": {
+      "yes_no_question": {
+        "question": "Is the couch holding the frame?",
+        "answer": "No. The couch has the frame, not holding it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the couch holding the frame.",
+        "answer": "This is incorrect. The couch has the frame rather than holding it."
+      },
+      "open_ended_query": {
+        "question": "How is the couch interacting with the frame?",
+        "answer": "The couch has the frame. The described holding interaction is not accurate."
+      }
+    },
+    "door-patio": {
+      "yes_no_question": {
+        "question": "Is the door facing the patio?",
+        "answer": "No. The door is opening the patio, not facing it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the door facing the patio.",
+        "answer": ""
+      },
+      "open_ended_query": {
+        "question": "",
+        "answer": ""
+      }
+    },
+    "lamp-couch": {
+      "yes_no_question": {
+        "question": "Is the lamp sitting on the couch?",
+        "answer": "No. The lamp is behind the couch, not sitting on it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the lamp sitting on the couch.",
+        "answer": "This is incorrect. The lamp is behind the couch rather than sitting on it."
+      },
+      "open_ended_query": {
+        "question": "How is the lamp interacting with the couch?",
+        "answer": "The lamp is behind the couch. The described sitting interaction is not accurate."
+      }
+    }
+  },
+  "5": {
+    "cables-floor": {
+      "yes_no_question": {
+        "question": "Is the cables resting on the floor?",
+        "answer": "No. The cables are on the floor, not resting on it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the cables resting on the floor.",
+        "answer": "This is incorrect. The cables are on the floor rather than resting on it."
+      },
+      "open_ended_query": {
+        "question": "How are the cables interacting with the floor?",
+        "answer": "The cables are on the floor. The described resting interaction is not accurate."
+      }
+    },
+    "books-shelf": {
+      "yes_no_question": {
+        "question": "Is the shelf containing books?",
+        "answer": "No. The books are on the shelf, not containing it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the shelf containing books.",
+        "answer": "This is incorrect. The books are on the shelf rather than containing it."
+      },
+      "open_ended_query": {
+        "question": "How is the shelf interacting with the books?",
+        "answer": "The books are on the shelf. The described containing interaction is not accurate."
+      }
+    },
+    "cpu-floor": {
+      "yes_no_question": {
+        "question": "Is the cpu buried in the floor?",
+        "answer": "No. The cpu is on the floor, not buried in it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the cpu buried in the floor.",
+        "answer": "This is incorrect. The cpu is on the floor rather than buried in it."
+      },
+      "open_ended_query": {
+        "question": "How is the cpu interacting with the floor?",
+        "answer": "The cpu is on the floor. The described buried interaction is not accurate."
+      }
+    },
+    "printer-computer monitor": {
+      "yes_no_question": {
+        "question": "Is the printer placed inside the computer monitor?",
+        "answer": "No. The printer is near the computer monitor, not placed inside it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the printer being placed inside the computer monitor.",
+        "answer": "This is incorrect. The printer is near the computer monitor rather than being placed inside it."
+      },
+      "open_ended_query": {
+        "question": "How does the printer interact with the computer monitor?",
+        "answer": "The printer is near the computer monitor. The described placed interaction is not accurate."
+      }
+    },
+    "railing-window": {
+      "yes_no_question": {
+        "question": "Is the railing leaning on the window?",
+        "answer": "No. The railing is outside the window, not leaning on it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the railing leaning on the window.",
+        "answer": "This is incorrect. The railing is outside the window rather than leaning on it."
+      },
+      "open_ended_query": {
+        "question": "How is the railing interacting with the window?",
+        "answer": "The railing is outside the window. The described leaning interaction is not accurate."
+      }
+    },
+    "chair-desk": {
+      "yes_no_question": {
+        "question": "Is the chair attached to the desk?",
+        "answer": "No. The chair is near the desk, not attached to it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the chair attached to the desk.",
+        "answer": "This is incorrect. The chair is near the desk rather than attached to it."
+      },
+      "open_ended_query": {
+        "question": "How is the chair interacting with the desk?",
+        "answer": "The chair is near the desk. The described attached interaction is not accurate."
+      }
+    },
+    "computer monitor-desk": {
+      "yes_no_question": {
+        "question": "Is the computer monitor floating above the desk?",
+        "answer": "No. The computer monitor is on the desk, not floating above it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the computer monitor floating above the desk.",
+        "answer": "This is incorrect. The computer monitor is on the desk rather than floating above it."
+      },
+      "open_ended_query": {
+        "question": "How does the computer monitor interact with the desk?",
+        "answer": "The computer monitor is on the desk. The described floating interaction is not accurate."
+      }
+    },
+    "fax machine-desk": {
+      "yes_no_question": {
+        "question": "Is the fax machine buried under the desk?",
+        "answer": "No. The fax machine is on the desk, not buried under it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the fax machine buried under the desk.",
+        "answer": "This is incorrect. The fax machine is on the desk rather than buried under it."
+      },
+      "open_ended_query": {
+        "question": "How is the fax machine interacting with the desk?",
+        "answer": "The fax machine is on the desk. The described buried interaction is not accurate."
+      }
+    },
+    "keyboard-desk": {
+      "yes_no_question": {
+        "question": "Is the keyboard buried under the desk?",
+        "answer": "No. The keyboard is on the desk, not buried under it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the keyboard buried under the desk.",
+        "answer": "This is incorrect. The keyboard is on the desk rather than buried under it."
+      },
+      "open_ended_query": {
+        "question": "How is the keyboard interacting with the desk?",
+        "answer": "The keyboard is on the desk. The described buried interaction is not accurate."
+      }
+    },
+    "cork-board-wall": {
+      "yes_no_question": {
+        "question": "Is the cork-board stuck to the wall?",
+        "answer": "No. The cork-board is against the wall, not stuck to it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the cork-board stuck to the wall.",
+        "answer": "This is incorrect. The cork-board is against the wall rather than stuck to it."
+      },
+      "open_ended_query": {
+        "question": "How is the cork-board interacting with the wall?",
+        "answer": "The cork-board is against the wall. The described stuck interaction is not accurate."
+      }
+    },
+    "paper-cork-board": {
+      "yes_no_question": {
+        "question": "",
+        "answer": ""
+      },
+      "descriptive_prompt": {
+        "question": "Describe the paper being 'next to' the cork-board.",
+        "answer": "This is incorrect. The paper is on the cork-board rather than being next to it."
+      },
+      "open_ended_query": {
+        "question": "How does the paper interact with the cork-board?",
+        "answer": ""
+      }
+    },
+    "air conditioner-wall": {
+      "yes_no_question": {
+        "question": "Is the air conditioner hanging on the wall?",
+        "answer": "No. The air conditioner is on the wall, not hanging on it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the air conditioner hanging on the wall.",
+        "answer": "This is incorrect. The air conditioner is on the wall rather than hanging on it."
+      },
+      "open_ended_query": {
+        "question": "How is the air conditioner interacting with the wall?",
+        "answer": "The air conditioner is on the wall. The described hanging interaction is not accurate."
+      }
+    },
+    "shelves-wall": {
+      "yes_no_question": {
+        "question": "Are the shelves attached to the ceiling?",
+        "answer": "No. The shelves are on the wall, not attached to the ceiling."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the shelves floating above the wall.",
+        "answer": "This is incorrect. The shelves are on the wall rather than floating above it."
+      },
+      "open_ended_query": {
+        "question": "",
+        "answer": "The shelves are attached to the wall. The described 'on' interaction is not accurate."
+      }
+    },
+    "room-computer": {
+      "yes_no_question": {
+        "question": "Is the room containing the computer?",
+        "answer": "No. The room is with the computer, not containing it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the room containing the computer.",
+        "answer": "This is incorrect. The room is with the computer rather than containing it."
+      },
+      "open_ended_query": {
+        "question": "How is the room interacting with the computer?",
+        "answer": "The room is with the computer. The described containing interaction is not accurate."
+      }
+    },
+    "chairs-desk": {
+      "yes_no_question": {
+        "question": "Is the chair standing on the desk?",
+        "answer": "No. The chair is before the desk, not standing on it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the chair standing on the desk.",
+        "answer": "This is incorrect. The chair is before the desk rather than standing on it."
+      },
+      "open_ended_query": {
+        "question": "How is the chair interacting with the desk?",
+        "answer": "The chair is before the desk. The described standing interaction is not accurate."
+      }
+    },
+    "clothes-chair": {
+      "yes_no_question": {
+        "question": "Is the clothes hanging off the chair?",
+        "answer": "No. The clothes are on the chair, not hanging off it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the clothes hanging off the chair.",
+        "answer": "This is incorrect. The clothes are on the chair rather than hanging off it."
+      },
+      "open_ended_query": {
+        "question": "How are the clothes interacting with the chair?",
+        "answer": "The clothes are on the chair. The described hanging interaction is not accurate."
+      }
+    },
+    "heater-floor": {
+      "yes_no_question": {
+        "question": "Is the heater mounted on the floor?",
+        "answer": "No. The heater is on the floor, not mounted on it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the heater mounted on the floor.",
+        "answer": "This is incorrect. The heater is on the floor rather than mounted on it."
+      },
+      "open_ended_query": {
+        "question": "How is the heater interacting with the floor?",
+        "answer": "The heater is on the floor. The described mounted interaction is not accurate."
+      }
+    }
+  },
+  "6": {
+    "apple-counter": {
+      "yes_no_question": {
+        "question": "Is the apple inside the counter?",
+        "answer": "No. The apple is on the counter, not inside it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the apple being inside the counter.",
+        "answer": "This is incorrect. The apple is on the counter rather than inside it."
+      },
+      "open_ended_query": {
+        "question": "How is the apple interacting with the counter?",
+        "answer": "The apple is on the counter. The described inside interaction is not accurate."
+      }
+    },
+    "drinking bottle-lid": {
+      "yes_no_question": {
+        "question": "Is the drinking bottle encasing the lid?",
+        "answer": "No. The drinking bottle has the lid, not encasing it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the drinking bottle encasing the lid.",
+        "answer": "This is incorrect. The drinking bottle has the lid rather than encasing it."
+      },
+      "open_ended_query": {
+        "question": "How is the drinking bottle interacting with the lid?",
+        "answer": "The drinking bottle has the lid. The described encasing interaction is not accurate."
+      }
+    },
+    "counter-apple": {
+      "yes_no_question": {
+        "question": "Is the counter balancing the apple?",
+        "answer": "No. The counter has the apple, not balancing it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the counter balancing the apple.",
+        "answer": "This is incorrect. The counter has the apple rather than balancing it."
+      },
+      "open_ended_query": {
+        "question": "How is the counter interacting with the apple?",
+        "answer": "The counter has the apple. The described balancing interaction is not accurate."
+      }
+    },
+    "granite-drinking bottle": {
+      "yes_no_question": {
+        "question": "Is the granite displaying a drinking bottle?",
+        "answer": "No. The granite has a drinking bottle, not displaying it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the granite displaying a drinking bottle.",
+        "answer": "This is incorrect. The granite has a drinking bottle rather than displaying it."
+      },
+      "open_ended_query": {
+        "question": "How is the granite interacting with the drinking bottle?",
+        "answer": "The granite has a drinking bottle. The described displaying interaction is not accurate."
+      }
+    },
+    "lid-handle": {
+      "yes_no_question": {
+        "question": "Does the lid hold the handle?",
+        "answer": "No. The lid has the handle, not holding it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the lid holding the handle.",
+        "answer": "This is incorrect. The lid has the handle rather than holding it."
+      },
+      "open_ended_query": {
+        "question": "How is the lid interacting with the handle?",
+        "answer": "The lid has the handle. The described holding interaction is not accurate."
+      }
+    },
+    "fork-plate": {
+      "yes_no_question": {
+        "question": "Is the fork buried in the plate?",
+        "answer": "No. The fork is on the plate, not buried in it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the fork buried in the plate.",
+        "answer": "This is incorrect. The fork is on the plate rather than buried in it."
+      },
+      "open_ended_query": {
+        "question": "How is the fork interacting with the plate?",
+        "answer": "The fork is on the plate. The described buried interaction is not accurate."
+      }
+    },
+    "liquid-counter": {
+      "yes_no_question": {
+        "question": "Is the liquid pouring onto the counter?",
+        "answer": "No. The liquid is in the counter, not pouring onto it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the liquid pouring onto the counter.",
+        "answer": "This is incorrect. The liquid is in the counter rather than pouring onto it."
+      },
+      "open_ended_query": {
+        "question": "How is the liquid interacting with the counter?",
+        "answer": "The liquid is in the counter. The described pouring interaction is not accurate."
+      }
+    },
+    "bar stool-counter": {
+      "yes_no_question": {
+        "question": "Is the bar stool standing on the counter?",
+        "answer": "No. The bar stool is next to the counter, not standing on it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the bar stool standing on the counter.",
+        "answer": "This is incorrect. The bar stool is next to the counter rather than standing on it."
+      },
+      "open_ended_query": {
+        "question": "How is the bar stool interacting with the counter?",
+        "answer": "The bar stool is next to the counter. The described standing interaction is not accurate."
+      }
+    },
+    "bag-counter": {
+      "yes_no_question": {
+        "question": "Is the bag floating above the counter?",
+        "answer": "No. The bag is on the counter, not floating above it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the bag floating above the counter.",
+        "answer": "This is incorrect. The bag is on the counter rather than floating above it."
+      },
+      "open_ended_query": {
+        "question": "How is the bag interacting with the counter?",
+        "answer": "The bag is on the counter. The described floating interaction is not accurate."
+      }
+    },
+    "bowl-counter": {
+      "yes_no_question": {
+        "question": "Is the bowl stacked on the counter?",
+        "answer": "No. The bowl is on the counter, not stacked on it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the bowl stacked on the counter.",
+        "answer": "This is incorrect. The bowl is on the counter rather than stacked on it."
+      },
+      "open_ended_query": {
+        "question": "How is the bowl interacting with the counter?",
+        "answer": "The bowl is on the counter. The described stacked interaction is not accurate."
+      }
+    },
+    "container-counter": {
+      "yes_no_question": {
+        "question": "Is the container placed on the counter?",
+        "answer": "No. The container is on the counter, not placed on it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the container being placed on the counter.",
+        "answer": "This is incorrect. The container is on the counter rather than being placed on it."
+      },
+      "open_ended_query": {
+        "question": "How is the container interacting with the counter?",
+        "answer": "The container is on the counter. The described placement interaction is not accurate."
+      }
+    },
+    "pan-counter": {
+      "yes_no_question": {
+        "question": "Is the pan buried under the counter?",
+        "answer": "No. The pan is on the counter, not buried under it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the pan buried under the counter.",
+        "answer": "This is incorrect. The pan is on the counter rather than buried under it."
+      },
+      "open_ended_query": {
+        "question": "How is the pan interacting with the counter?",
+        "answer": "The pan is on the counter. The described buried interaction is not accurate."
+      }
+    },
+    "food-bag": {
+      "yes_no_question": {
+        "question": "Is the food placed in the bag?",
+        "answer": ""
+      },
+      "descriptive_prompt": {
+        "question": "Describe the food being placed in the bag.",
+        "answer": "This is incorrect. The food is in the bag, rather than being placed in it."
+      },
+      "open_ended_query": {
+        "question": "How is the food interacting with the bag?",
+        "answer": "The food is in the bag. The described being placed interaction is not accurate."
+      }
+    },
+    "glass-counter": {
+      "yes_no_question": {
+        "question": "Is the glass floating above the counter?",
+        "answer": "No. The glass is on the counter, not floating above it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the glass floating above the counter.",
+        "answer": "This is incorrect. The glass is on the counter rather than floating above it."
+      },
+      "open_ended_query": {
+        "question": "How is the glass interacting with the counter?",
+        "answer": "The glass is on the counter. The described floating interaction is not accurate."
+      }
+    },
+    "leg-counter": {
+      "yes_no_question": {
+        "question": "Is the leg hiding under the counter?",
+        "answer": "No. The leg is under the counter, not hiding under it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the leg hiding under the counter.",
+        "answer": "This is incorrect. The leg is under the counter rather than hiding under it."
+      },
+      "open_ended_query": {
+        "question": "How is the leg interacting with the counter?",
+        "answer": "The leg is under the counter. The described hiding interaction is not accurate."
+      }
+    },
+    "chair-leg": {
+      "yes_no_question": {
+        "question": "Is the chair holding the leg?",
+        "answer": "No. The chair has a leg, not holding it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the chair holding the leg.",
+        "answer": "This is incorrect. The chair has a leg rather than holding it."
+      },
+      "open_ended_query": {
+        "question": "How is the chair interacting with the leg?",
+        "answer": "The chair has a leg. The described holding interaction is not accurate."
+      }
+    },
+    "crumb-plate": {
+      "yes_no_question": {
+        "question": "Is the crumb attached to the plate?",
+        "answer": "No. The crumb is on the plate, not attached to it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the crumb attached to the plate.",
+        "answer": "This is incorrect. The crumb is on the plate rather than attached to it."
+      },
+      "open_ended_query": {
+        "question": "How is the crumb interacting with the plate?",
+        "answer": "The crumb is on the plate. The described attached interaction is not accurate."
+      }
+    },
+    "bottle-logo": {
+      "yes_no_question": {
+        "question": "Does the bottle contains the logo?",
+        "answer": "No. The bottle has the logo, not contains it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the bottle contains the logo.",
+        "answer": "This is incorrect. The bottle has the logo rather than contains it."
+      },
+      "open_ended_query": {
+        "question": "How is the bottle interacting with the logo?",
+        "answer": "The bottle has the logo. The described containing interaction is not accurate."
+      }
+    }
+  },
+  "7": {
+    "book-desk": {
+      "yes_no_question": {
+        "question": "Is the book under the desk?",
+        "answer": "No. The book is on the desk, not under it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the book under the desk.",
+        "answer": "This is incorrect. The book is on the desk rather than under it."
+      },
+      "open_ended_query": {
+        "question": "How is the book positioned in relation to the desk?",
+        "answer": ""
+      }
+    },
+    "juice bottle-desk": {
+      "yes_no_question": {
+        "question": "Is the juice bottle floating above the desk?",
+        "answer": "No. The juice bottle is on the desk, not floating above it."
+      },
+      "descriptive_prompt": {
+        "question": "Describe the juice bottle floating above the desk.",
+        "answer": "This is incorrect. The juice bottle is on the desk rather than floating above it."
+      },
+      "open_ended_query": {
+        "question": "How is the juice bottle interacting with the desk?",
+        "answer": "The juice bottle is on the desk. The described floating interaction is not accurate."
+      }
+    }
+  }
+}
