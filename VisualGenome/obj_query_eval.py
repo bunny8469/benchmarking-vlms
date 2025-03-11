@@ -9,6 +9,31 @@ from transformers import pipeline
 # Load the zero-shot classification pipeline
 classifier = pipeline("zero-shot-classification", model="facebook/bart-large-mnli")
 
+def transform_data(data):
+    transformed = {}
+    for key, items in data.items():
+        transformed[int(key)] = []
+        count = 0
+        for obj in items.values():
+            if count >= 12:
+                break
+            entry = []
+            if "yes_no_question" in obj and count < 12:
+                entry.append({
+                    "question": obj["yes_no_question"]["question"],
+                    "answer": obj["yes_no_question"]["answer"]
+                })
+                count += 1
+            if "descriptive_prompt" in obj and count < 12:
+                entry.append({
+                    "question": obj["descriptive_prompt"]["question"],
+                    "answer": obj["descriptive_prompt"]["answer"]
+                })
+                count += 1
+            if entry:
+                transformed[int(key)].extend(entry)
+    return transformed
+
 def is_negative_response(response: str) -> bool:
     candidate_labels = ["negative", "positive"]
     hypothesis_template = "This response is {}."
@@ -63,10 +88,10 @@ ext_hal_queries = dataset["extrinsic_obj_hallucination"]
 obj_count = 0
 ext_count = 0
 
-def process_queries(array, type_query):
+def process_queries(array, type_query="ext"):
     global obj_count, ext_count
     for query in array:
-        question = query['query']
+        question = query['question']
         expected_answer = query['answer']
 
         # Check if image exists
@@ -104,7 +129,7 @@ def process_queries(array, type_query):
         if type_query == "obj":
             evaluation = not is_negative_response(model_response.lower())
             obj_count += evaluation
-        elif type_query == "ext":
+        else:
             evaluation = is_negative_response(model_response.lower())
             ext_count += evaluation
         
@@ -117,13 +142,38 @@ def process_queries(array, type_query):
             "evaluation": evaluation
         })
 
-process_queries(obj_id_queries, "obj")
-print(f"Object Identification Count: {obj_count} / {len(obj_id_queries)}")
 
-process_queries(ext_hal_queries, "ext")
-print(f"Ext Hallucination Count: {ext_count} / {len(ext_hal_queries)}")
+# process_queries(obj_id_queries, "obj")
+# print(f"Object Identification Count: {obj_count} / {len(obj_id_queries)}")
 
-with open("obj_spec_eval.json", "w") as f:
+# process_queries(ext_hal_queries, "ext")
+# print(f"Ext Hallucination Count: {ext_count} / {len(ext_hal_queries)}")
+
+
+total_count = 0
+total_queries = 0
+def llm_query():
+    global ext_count, total_count, total_queries
+
+    with open("hallucination_queries_llama_updated.json", "r") as f:
+        llm_queries = json.load(f)
+
+    transformed_data = transform_data(llm_queries)
+    for image_id, queries in transformed_data.items():
+        print(f"Image ID: {image_id}")
+        process_queries(queries)
+
+        print(f"Appropriate Responses: {ext_count} / {len(queries)}")
+        total_count += ext_count
+        total_queries += len(queries)
+
+        ext_count = 0
+    
+    print(f"Appropriate Responses: {total_count} / {total_queries}")
+
+llm_query()
+
+with open("llm_qeval.json", "w") as f:
     json.dump(results, f, indent=4)
 
 total_queries = sum(eval_counts.values())
