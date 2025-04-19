@@ -1,0 +1,23 @@
+  {
+    "image_id": 1901,
+    "query": "Based on the image, what is the relationship between person and boat? Choose only from the options provided",
+    "ground_truth": "standing on",
+    "prediction": "The boat is sailing in the water, while the person is standing next to the boat.",
+    "word_probs": {}
+  }
+
+  {
+    "image_id": 285832,
+    "query": "Based on the image, what is the relationship between woman and motorcycle? Choose only from the options provided",
+    "ground_truth": "sitting",
+    "prediction": "riding",
+    "word_probs": {}
+  }
+
+  {
+    "image_id": 2406818,
+    "query": "Based on the image, what is the relationship between man and wristwatch? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "checking",
+    "word_probs": {}
+  }

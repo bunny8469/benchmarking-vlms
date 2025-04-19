@@ -1,0 +1,7359 @@
+[
+  {
+    "image_id": 615,
+    "query": "Is there drum in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 615,
+    "query": "Is there concert in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 615,
+    "query": "Does the image contain any wallet?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 615,
+    "query": "Is there book in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 615,
+    "query": "Does the image contain any pocket?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1523,
+    "query": "Does the image contain any cup?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1523,
+    "query": "Does the image contain any door?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1523,
+    "query": "Is there prototype in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1523,
+    "query": "Does the image contain any sketch?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1523,
+    "query": "Does the image contain any Outlet?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1901,
+    "query": "Is there tie in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1901,
+    "query": "Is there phone in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1901,
+    "query": "Does the image contain any beard?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1901,
+    "query": "Is there identity in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1901,
+    "query": "Does the image contain any signature?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 3963,
+    "query": "Is there bat in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 3963,
+    "query": "Does the image contain any Sun?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 3963,
+    "query": "Is there glove in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 3963,
+    "query": "Is there Shadow in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 3963,
+    "query": "Is there ball in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 4146,
+    "query": "Is there Chips in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 4146,
+    "query": "Is there suit in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 4146,
+    "query": "Does the image contain any beard?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 4146,
+    "query": "Is there Dealer in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 4146,
+    "query": "Does the image contain any Cards?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 150517,
+    "query": "Is there Wedding in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 150517,
+    "query": "Does the image contain any mosaic?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 150517,
+    "query": "Does the image contain any diamond?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 150517,
+    "query": "Is there mirror in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 150517,
+    "query": "Does the image contain any hat?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 285832,
+    "query": "Is there guitar in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 285832,
+    "query": "Is there jacket in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 285832,
+    "query": "Is there switch in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 285832,
+    "query": "Does the image contain any road?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 285832,
+    "query": "Is there lightbulb in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 286004,
+    "query": "Is there chimney in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 286004,
+    "query": "Is there Foot in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 286004,
+    "query": "Is there Lace in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 286004,
+    "query": "Is there wall in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 286004,
+    "query": "Is there tie in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1159766,
+    "query": "Is there desk in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1159766,
+    "query": "Does the image contain any Hat?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1159766,
+    "query": "Does the image contain any Sunscreen?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1159766,
+    "query": "Does the image contain any hanger?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1159766,
+    "query": "Is there table in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1159789,
+    "query": "Is there suitcase in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1159789,
+    "query": "Is there steering wheel in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1159789,
+    "query": "Does the image contain any brake pedal?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1159789,
+    "query": "Does the image contain any shopping cart?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1159789,
+    "query": "Does the image contain any dashboard?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1592132,
+    "query": "Does the image contain any button?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1592132,
+    "query": "Does the image contain any Snowman?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1592132,
+    "query": "Is there zipper in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1592132,
+    "query": "Does the image contain any Sled?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1592132,
+    "query": "Does the image contain any Skis?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1592439,
+    "query": "Does the image contain any cup?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1592439,
+    "query": "Does the image contain any knife?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1592439,
+    "query": "Does the image contain any door?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1592439,
+    "query": "Is there cheese in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1592439,
+    "query": "Is there sauce in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2414248,
+    "query": "Is there fish in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2414248,
+    "query": "Does the image contain any surfboard?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2414248,
+    "query": "Does the image contain any river?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2414248,
+    "query": "Is there ocean in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2414248,
+    "query": "Does the image contain any bottle?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2414101,
+    "query": "Is there chair in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2414101,
+    "query": "Is there lamp in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2414101,
+    "query": "Is there bed in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2414101,
+    "query": "Is there ice in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2414101,
+    "query": "Does the image contain any can?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2412511,
+    "query": "Is there nest in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2412511,
+    "query": "Is there Scarf in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2412511,
+    "query": "Does the image contain any Collar?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2412511,
+    "query": "Is there Necklace in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2412511,
+    "query": "Does the image contain any sock?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2412490,
+    "query": "Does the image contain any post?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2412490,
+    "query": "Does the image contain any frame?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2412490,
+    "query": "Does the image contain any traffic?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2412490,
+    "query": "Does the image contain any curb?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2412490,
+    "query": "Is there glass in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2411389,
+    "query": "Is there ball in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2411389,
+    "query": "Does the image contain any field?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2411389,
+    "query": "Does the image contain any team?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2411389,
+    "query": "Does the image contain any tennis?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2411389,
+    "query": "Does the image contain any bandage?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2410331,
+    "query": "Does the image contain any belt?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2410331,
+    "query": "Does the image contain any gift?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2410331,
+    "query": "Does the image contain any tape?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2410331,
+    "query": "Does the image contain any lid?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2410331,
+    "query": "Does the image contain any pocket?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2410177,
+    "query": "Does the image contain any commercial?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2410177,
+    "query": "Does the image contain any tie?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2410177,
+    "query": "Does the image contain any suit?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2410177,
+    "query": "Does the image contain any billboard?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2410177,
+    "query": "Is there product in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2409913,
+    "query": "Does the image contain any Dressing?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2409913,
+    "query": "Is there Salad in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2409913,
+    "query": "Is there Scarf in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2409913,
+    "query": "Does the image contain any stove?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2409913,
+    "query": "Does the image contain any spoon?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2409581,
+    "query": "Does the image contain any shampoo?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2409581,
+    "query": "Does the image contain any Comb?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2409581,
+    "query": "Is there sleeve in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2409581,
+    "query": "Does the image contain any Lobe?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2409581,
+    "query": "Is there glove in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2409108,
+    "query": "Does the image contain any coal?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2409108,
+    "query": "Is there track in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2409108,
+    "query": "Does the image contain any flag?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2409108,
+    "query": "Is there calculator in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2409108,
+    "query": "Is there graph in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2409084,
+    "query": "Is there camera in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2409084,
+    "query": "Is there toothbrush in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2409084,
+    "query": "Does the image contain any spoon?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2409084,
+    "query": "Does the image contain any lipstick?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2409084,
+    "query": "Does the image contain any shingle?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2408930,
+    "query": "Is there anchor in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2408930,
+    "query": "Is there knot in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2408930,
+    "query": "Is there suit in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2408930,
+    "query": "Does the image contain any pulley?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2408930,
+    "query": "Is there beard in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2407933,
+    "query": "Is there tire in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2407933,
+    "query": "Is there refrigerator in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2407933,
+    "query": "Does the image contain any Fire Truck?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2407933,
+    "query": "Does the image contain any Rose?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2407933,
+    "query": "Does the image contain any road?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406818,
+    "query": "Is there vase in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406818,
+    "query": "Is there borders in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406818,
+    "query": "Does the image contain any book?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406818,
+    "query": "Does the image contain any corners?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406818,
+    "query": "Is there lines in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406677,
+    "query": "Does the image contain any Garden?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406677,
+    "query": "Does the image contain any mitten?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406677,
+    "query": "Does the image contain any Herbicide?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406677,
+    "query": "Is there Hair in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406677,
+    "query": "Is there Shovel in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406429,
+    "query": "Does the image contain any Rose?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406429,
+    "query": "Does the image contain any vehicle?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406429,
+    "query": "Does the image contain any belt?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406429,
+    "query": "Is there road in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406429,
+    "query": "Does the image contain any pocket?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406039,
+    "query": "Does the image contain any ball?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406039,
+    "query": "Does the image contain any net?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406039,
+    "query": "Does the image contain any crane?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406039,
+    "query": "Is there Racket in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406039,
+    "query": "Is there blueprint in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405887,
+    "query": "Is there Nail in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405887,
+    "query": "Does the image contain any Ring?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405887,
+    "query": "Is there roof in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405887,
+    "query": "Is there ladder in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405887,
+    "query": "Does the image contain any suit?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405866,
+    "query": "Is there brush in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405866,
+    "query": "Does the image contain any button?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405866,
+    "query": "Does the image contain any shampoo?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405866,
+    "query": "Does the image contain any Comb?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405866,
+    "query": "Is there Hanger in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405347,
+    "query": "Does the image contain any Sock?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405347,
+    "query": "Does the image contain any team?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405347,
+    "query": "Does the image contain any meeting?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405347,
+    "query": "Does the image contain any spoon?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405347,
+    "query": "Does the image contain any leader?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405284,
+    "query": "Is there hat in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405284,
+    "query": "Is there stick in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405284,
+    "query": "Does the image contain any pillow?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405284,
+    "query": "Does the image contain any helmet?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405284,
+    "query": "Does the image contain any soup?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2404950,
+    "query": "Is there cloud in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2404950,
+    "query": "Does the image contain any shampoo?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2404950,
+    "query": "Is there star in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2404950,
+    "query": "Is there tie in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2404950,
+    "query": "Does the image contain any Comb?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2404341,
+    "query": "Does the image contain any burrow?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2404341,
+    "query": "Does the image contain any console?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2404341,
+    "query": "Is there forest in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2404341,
+    "query": "Does the image contain any Skis?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2404341,
+    "query": "Does the image contain any controller?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403791,
+    "query": "Does the image contain any Fabric?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403791,
+    "query": "Does the image contain any belt?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403791,
+    "query": "Does the image contain any Ink?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403791,
+    "query": "Does the image contain any hairbow?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403791,
+    "query": "Is there hat in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403783,
+    "query": "Is there bridge in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403783,
+    "query": "Does the image contain any bottle?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403783,
+    "query": "Does the image contain any cork?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403783,
+    "query": "Is there printer in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403783,
+    "query": "Is there water in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403623,
+    "query": "Does the image contain any head?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403623,
+    "query": "Is there phone in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403623,
+    "query": "Does the image contain any elbow pad?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403623,
+    "query": "Is there feather in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403623,
+    "query": "Is there book in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403363,
+    "query": "Does the image contain any mouse?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403363,
+    "query": "Is there leaf in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403363,
+    "query": "Does the image contain any driver?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403363,
+    "query": "Is there stop in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403363,
+    "query": "Does the image contain any tree?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2402361,
+    "query": "Is there Dress in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2402361,
+    "query": "Is there Handbag in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2402361,
+    "query": "Is there post in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2402361,
+    "query": "Does the image contain any yard?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2402361,
+    "query": "Is there Lipstick in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2401506,
+    "query": "Is there Dress in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2401506,
+    "query": "Is there camera in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2401506,
+    "query": "Is there frame in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2401506,
+    "query": "Is there clock in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2401506,
+    "query": "Is there album in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2401431,
+    "query": "Does the image contain any wallet?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2401431,
+    "query": "Does the image contain any screws?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2401431,
+    "query": "Is there hinges in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2401431,
+    "query": "Does the image contain any keys?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2401431,
+    "query": "Is there cart in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2401033,
+    "query": "Does the image contain any snow?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2401033,
+    "query": "Does the image contain any watch?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2401033,
+    "query": "Does the image contain any baseball?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2401033,
+    "query": "Does the image contain any bracelet?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2401033,
+    "query": "Does the image contain any Hand?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2397681,
+    "query": "Is there picture in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2397681,
+    "query": "Does the image contain any tree?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2397681,
+    "query": "Does the image contain any orchard?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2397681,
+    "query": "Does the image contain any paint?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2397681,
+    "query": "Does the image contain any hinge?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2397554,
+    "query": "Does the image contain any ladder?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2397554,
+    "query": "Is there fish in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2397554,
+    "query": "Is there roof in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2397554,
+    "query": "Does the image contain any boat?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2397554,
+    "query": "Is there mountain in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2397035,
+    "query": "Does the image contain any paper?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2397035,
+    "query": "Does the image contain any sewer?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2397035,
+    "query": "Does the image contain any pencil?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2397035,
+    "query": "Does the image contain any off-road?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2397035,
+    "query": "Does the image contain any Ruler?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2396734,
+    "query": "Does the image contain any brick?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2396734,
+    "query": "Does the image contain any house?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2396734,
+    "query": "Does the image contain any crane?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2396734,
+    "query": "Is there Shoes in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2396734,
+    "query": "Is there blueprint in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2396122,
+    "query": "Is there contact lens in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2396122,
+    "query": "Is there stage in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2396122,
+    "query": "Is there tennis in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2396122,
+    "query": "Is there suit in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2396122,
+    "query": "Does the image contain any beard?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2395290,
+    "query": "Is there Fries in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2395290,
+    "query": "Does the image contain any hanger?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2395290,
+    "query": "Does the image contain any bottle?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2395290,
+    "query": "Does the image contain any ketchup?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2395290,
+    "query": "Is there grater in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2394926,
+    "query": "Is there hanger in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2394926,
+    "query": "Does the image contain any toy?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2394926,
+    "query": "Is there child in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2394926,
+    "query": "Does the image contain any jeans?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2394926,
+    "query": "Is there desk in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393957,
+    "query": "Does the image contain any pants?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393957,
+    "query": "Does the image contain any hanger?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393957,
+    "query": "Is there button in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393957,
+    "query": "Does the image contain any athlete?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393957,
+    "query": "Does the image contain any shoe?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393783,
+    "query": "Does the image contain any printer?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393783,
+    "query": "Is there book in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393783,
+    "query": "Is there pen in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393783,
+    "query": "Does the image contain any Earrings?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393783,
+    "query": "Is there plate in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393728,
+    "query": "Is there Bread in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393728,
+    "query": "Does the image contain any Plate?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393728,
+    "query": "Is there Lipstick in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393728,
+    "query": "Does the image contain any Table?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393728,
+    "query": "Does the image contain any Dress?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393720,
+    "query": "Does the image contain any road?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393720,
+    "query": "Is there plate in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393720,
+    "query": "Is there vehicle in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393720,
+    "query": "Does the image contain any fork?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393720,
+    "query": "Is there knife in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2392460,
+    "query": "Does the image contain any Glove?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2392460,
+    "query": "Is there Sword in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2392460,
+    "query": "Is there Mask in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2392460,
+    "query": "Is there stadium in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2392460,
+    "query": "Does the image contain any crowd?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2390079,
+    "query": "Does the image contain any rider?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2390079,
+    "query": "Is there yard in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2390079,
+    "query": "Does the image contain any bike?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2390079,
+    "query": "Does the image contain any race?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2390079,
+    "query": "Is there gate in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2389815,
+    "query": "Does the image contain any watch?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2389815,
+    "query": "Does the image contain any glove?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2389815,
+    "query": "Does the image contain any sleeve?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2389815,
+    "query": "Is there ring in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2389740,
+    "query": "Is there glasses in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2389740,
+    "query": "Is there mirror in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2389740,
+    "query": "Is there camera in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2389740,
+    "query": "Is there pen in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2389740,
+    "query": "Does the image contain any paint?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2389259,
+    "query": "Does the image contain any net?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2389259,
+    "query": "Is there ball in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2389259,
+    "query": "Is there Racquet in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2389192,
+    "query": "Does the image contain any album?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2389192,
+    "query": "Is there Landfill in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2389192,
+    "query": "Does the image contain any Recycling Bin?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2389192,
+    "query": "Does the image contain any Dumpster?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2389192,
+    "query": "Does the image contain any ticket?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2387142,
+    "query": "Is there road in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2387142,
+    "query": "Is there chimney in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2387142,
+    "query": "Is there shingle in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2387142,
+    "query": "Is there blueprint in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2387142,
+    "query": "Does the image contain any paper?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2387095,
+    "query": "Is there suit in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2387095,
+    "query": "Is there Cotton swab in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2387095,
+    "query": "Is there contact lens in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2387095,
+    "query": "Does the image contain any Hearing aid?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2387095,
+    "query": "Does the image contain any eyelash curler?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2387076,
+    "query": "Is there towel in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2387076,
+    "query": "Does the image contain any plunger?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2387076,
+    "query": "Does the image contain any water?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2387076,
+    "query": "Is there soap in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2387076,
+    "query": "Is there bathtub in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2386250,
+    "query": "Is there shopping cart in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2386250,
+    "query": "Is there shelf in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2386250,
+    "query": "Does the image contain any receipt?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2386250,
+    "query": "Does the image contain any charger?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2386250,
+    "query": "Is there cash register in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2385687,
+    "query": "Is there wind in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2385687,
+    "query": "Is there frame in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2385687,
+    "query": "Is there event in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2385687,
+    "query": "Does the image contain any camera?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2385687,
+    "query": "Does the image contain any artist?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2385637,
+    "query": "Does the image contain any person?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2385637,
+    "query": "Is there watch in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2385637,
+    "query": "Does the image contain any shelf?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2385637,
+    "query": "Does the image contain any chair?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2385637,
+    "query": "Does the image contain any ring?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2384566,
+    "query": "Is there suit in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2384566,
+    "query": "Does the image contain any Lamp?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2384566,
+    "query": "Is there tie in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2384566,
+    "query": "Does the image contain any Sun?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2384566,
+    "query": "Does the image contain any Shadow?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2384536,
+    "query": "Does the image contain any Fruit?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2384536,
+    "query": "Is there straw in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2384536,
+    "query": "Does the image contain any Wedding?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2384536,
+    "query": "Does the image contain any diamond?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2384536,
+    "query": "Is there glass in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2384327,
+    "query": "Is there matches in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2384327,
+    "query": "Does the image contain any fork?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2384327,
+    "query": "Does the image contain any spoon?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2384327,
+    "query": "Is there logs in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2384327,
+    "query": "Is there plate in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2383950,
+    "query": "Does the image contain any sun?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2383950,
+    "query": "Does the image contain any nest?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2383950,
+    "query": "Is there squirrel in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2383950,
+    "query": "Is there garbage bag in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2383950,
+    "query": "Is there dumpster in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2383437,
+    "query": "Does the image contain any headphones?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2383437,
+    "query": "Does the image contain any Trowel?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2383437,
+    "query": "Is there museum in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2383437,
+    "query": "Is there bird in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2383437,
+    "query": "Is there windmill in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2383254,
+    "query": "Does the image contain any belt?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2383254,
+    "query": "Is there shirt in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2383254,
+    "query": "Is there pocket in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2383254,
+    "query": "Does the image contain any dashboard?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2383254,
+    "query": "Is there steering wheel in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2382960,
+    "query": "Does the image contain any weight?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2382960,
+    "query": "Is there peak in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2382960,
+    "query": "Is there shelf in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2382960,
+    "query": "Does the image contain any sun?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2382960,
+    "query": "Is there Light in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2382861,
+    "query": "Does the image contain any Nut?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2382861,
+    "query": "Is there light in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2382861,
+    "query": "Does the image contain any traffic light?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2382861,
+    "query": "Is there traffic in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2382861,
+    "query": "Is there wrench in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2382485,
+    "query": "Does the image contain any watch?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2382485,
+    "query": "Does the image contain any album?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2382485,
+    "query": "Does the image contain any contact lens?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2382485,
+    "query": "Does the image contain any frame?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2382485,
+    "query": "Is there eyelash curler in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2381462,
+    "query": "Does the image contain any Bubble?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2381462,
+    "query": "Does the image contain any horizon?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2381462,
+    "query": "Does the image contain any Sponge?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2381462,
+    "query": "Is there Shampoo in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2381462,
+    "query": "Is there tie in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2381350,
+    "query": "Is there helmet in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2381350,
+    "query": "Does the image contain any Skis?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2381350,
+    "query": "Is there Sled in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2381350,
+    "query": "Is there squirrel in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2381350,
+    "query": "Does the image contain any hiking?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2379198,
+    "query": "Is there goal in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2379198,
+    "query": "Does the image contain any tree?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2379198,
+    "query": "Does the image contain any bat?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2379198,
+    "query": "Does the image contain any grass?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2379198,
+    "query": "Is there glove in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2379133,
+    "query": "Does the image contain any shark?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2379133,
+    "query": "Does the image contain any wetsuit?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2379133,
+    "query": "Does the image contain any cloud?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2379133,
+    "query": "Does the image contain any star?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2379133,
+    "query": "Does the image contain any water?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2378945,
+    "query": "Is there water in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2378945,
+    "query": "Does the image contain any watch?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2378945,
+    "query": "Is there frame in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2378945,
+    "query": "Is there glass in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2378945,
+    "query": "Is there curtain in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2378546,
+    "query": "Is there cloud in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2378546,
+    "query": "Does the image contain any string?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2378546,
+    "query": "Is there star in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2378546,
+    "query": "Does the image contain any sun?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2378546,
+    "query": "Does the image contain any wind?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377743,
+    "query": "Does the image contain any pants?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377743,
+    "query": "Does the image contain any toy?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377743,
+    "query": "Does the image contain any hanger?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377743,
+    "query": "Does the image contain any guitar?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377743,
+    "query": "Is there microphone in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377590,
+    "query": "Is there Glove in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377590,
+    "query": "Is there Dalmatian in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377590,
+    "query": "Is there picture in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377590,
+    "query": "Does the image contain any polka dot?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377590,
+    "query": "Is there Nail in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377372,
+    "query": "Does the image contain any shoe?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377372,
+    "query": "Does the image contain any hanger?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377372,
+    "query": "Does the image contain any button?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377372,
+    "query": "Does the image contain any grass?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377372,
+    "query": "Does the image contain any pants?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377349,
+    "query": "Does the image contain any grass?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377349,
+    "query": "Does the image contain any seashell?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377349,
+    "query": "Does the image contain any sock?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377349,
+    "query": "Does the image contain any tree?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377349,
+    "query": "Does the image contain any boat?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377245,
+    "query": "Is there fruit in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377245,
+    "query": "Is there post in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377245,
+    "query": "Is there traffic in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377245,
+    "query": "Does the image contain any light?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377245,
+    "query": "Is there dock in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376812,
+    "query": "Does the image contain any helmet?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376812,
+    "query": "Is there cup in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376812,
+    "query": "Is there nest in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376812,
+    "query": "Is there gloves in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376812,
+    "query": "Does the image contain any jacket?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376537,
+    "query": "Does the image contain any journey?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376537,
+    "query": "Is there bird in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376537,
+    "query": "Is there twig in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376537,
+    "query": "Is there squirrel in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376537,
+    "query": "Is there Leaf in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376182,
+    "query": "Does the image contain any crop?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376182,
+    "query": "Does the image contain any bat?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376182,
+    "query": "Does the image contain any jersey?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376182,
+    "query": "Is there farmer in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376182,
+    "query": "Is there umpire in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376150,
+    "query": "Does the image contain any lamp?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376150,
+    "query": "Is there chair in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376150,
+    "query": "Does the image contain any satellite?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376150,
+    "query": "Is there transmitter in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376150,
+    "query": "Does the image contain any net?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375790,
+    "query": "Does the image contain any sun?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375790,
+    "query": "Does the image contain any star?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375790,
+    "query": "Is there branch in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375790,
+    "query": "Does the image contain any cloud?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375790,
+    "query": "Does the image contain any Shovel?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375641,
+    "query": "Does the image contain any Cotton swab?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375641,
+    "query": "Is there watch in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375641,
+    "query": "Is there wetsuit in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375641,
+    "query": "Does the image contain any goggles?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375641,
+    "query": "Does the image contain any wave?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375293,
+    "query": "Is there shirt in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375293,
+    "query": "Is there helmet in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375293,
+    "query": "Does the image contain any suit?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375293,
+    "query": "Is there Handbag in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375293,
+    "query": "Does the image contain any pillow?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375215,
+    "query": "Does the image contain any motorcycle?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375215,
+    "query": "Does the image contain any visor?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375215,
+    "query": "Does the image contain any shaving cream?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375215,
+    "query": "Does the image contain any Razor?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375215,
+    "query": "Is there beard trimmer in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2374995,
+    "query": "Does the image contain any knife?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2374995,
+    "query": "Is there spoon in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2374995,
+    "query": "Is there fork in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2374995,
+    "query": "Is there phone in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2374995,
+    "query": "Is there microphone in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2374938,
+    "query": "Does the image contain any picture?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2374938,
+    "query": "Does the image contain any boots?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2374938,
+    "query": "Is there scarf in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2374938,
+    "query": "Does the image contain any helmet?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2374938,
+    "query": "Is there suit in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2374361,
+    "query": "Does the image contain any pulley?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2374361,
+    "query": "Is there sidewalk in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2374361,
+    "query": "Does the image contain any anchor?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2374361,
+    "query": "Does the image contain any knot?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2374361,
+    "query": "Is there lamp post in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2373655,
+    "query": "Is there ocean in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2373655,
+    "query": "Is there beach in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2373655,
+    "query": "Is there necklace in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2373655,
+    "query": "Is there backpack in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2373655,
+    "query": "Does the image contain any shirt?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2373429,
+    "query": "Is there rope in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2373429,
+    "query": "Does the image contain any person?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2373429,
+    "query": "Does the image contain any tree?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2373429,
+    "query": "Does the image contain any tent?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2373429,
+    "query": "Is there stage in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2373112,
+    "query": "Does the image contain any farmer?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2373112,
+    "query": "Is there tractor in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2373112,
+    "query": "Is there horse in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2373112,
+    "query": "Does the image contain any reins?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2373112,
+    "query": "Does the image contain any crop?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2372215,
+    "query": "Does the image contain any rock?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2372215,
+    "query": "Does the image contain any bike?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2372215,
+    "query": "Does the image contain any rider?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2372215,
+    "query": "Does the image contain any Bowl?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2372215,
+    "query": "Is there toy in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2372100,
+    "query": "Is there fireplace in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2372100,
+    "query": "Is there hat in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2372100,
+    "query": "Is there squirrel in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2372100,
+    "query": "Is there axe in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2372100,
+    "query": "Does the image contain any nest?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2372035,
+    "query": "Does the image contain any fence?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2372035,
+    "query": "Does the image contain any Wreckage?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2372035,
+    "query": "Does the image contain any patio?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2372035,
+    "query": "Does the image contain any blinds?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2372035,
+    "query": "Does the image contain any chair?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2371976,
+    "query": "Does the image contain any book?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2371976,
+    "query": "Does the image contain any hat?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2371976,
+    "query": "Does the image contain any pen?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2371976,
+    "query": "Does the image contain any dictionary?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2371976,
+    "query": "Does the image contain any stable?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2371261,
+    "query": "Does the image contain any truck?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2371261,
+    "query": "Is there Dinner Jacket in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2371261,
+    "query": "Does the image contain any beard?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2371261,
+    "query": "Does the image contain any brim?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2371261,
+    "query": "Does the image contain any head?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2370859,
+    "query": "Is there mirror in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2370859,
+    "query": "Is there library in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2370859,
+    "query": "Is there pen in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2370859,
+    "query": "Is there window in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2370859,
+    "query": "Is there bottle in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2369947,
+    "query": "Is there water in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2369947,
+    "query": "Does the image contain any soil?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2369947,
+    "query": "Does the image contain any branch?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2369947,
+    "query": "Does the image contain any lace?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2369947,
+    "query": "Does the image contain any sunlight?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2369565,
+    "query": "Is there chair in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2369565,
+    "query": "Does the image contain any books?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2369565,
+    "query": "Does the image contain any table?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2369565,
+    "query": "Does the image contain any cans?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2369565,
+    "query": "Does the image contain any grill?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2368820,
+    "query": "Is there Labrador in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2368820,
+    "query": "Is there pig in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2368820,
+    "query": "Is there mountain in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2368820,
+    "query": "Does the image contain any climber?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2368820,
+    "query": "Does the image contain any truffle?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2368384,
+    "query": "Does the image contain any chisel?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2368384,
+    "query": "Is there hammer in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2368384,
+    "query": "Does the image contain any monument?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2368384,
+    "query": "Does the image contain any brick?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2368384,
+    "query": "Is there blueprint in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2367231,
+    "query": "Does the image contain any Comb?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2367231,
+    "query": "Does the image contain any bouquet?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2367231,
+    "query": "Does the image contain any ring?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2367231,
+    "query": "Is there veil in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2367231,
+    "query": "Does the image contain any brush?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2366845,
+    "query": "Is there tree in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2366845,
+    "query": "Does the image contain any ranch?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2366845,
+    "query": "Does the image contain any drawer?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2366845,
+    "query": "Is there fence in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2366845,
+    "query": "Does the image contain any cabinet?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2366380,
+    "query": "Is there lens in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2366380,
+    "query": "Does the image contain any charm?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2366380,
+    "query": "Is there wrist in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2366380,
+    "query": "Does the image contain any nest?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2366380,
+    "query": "Is there squirrel in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2366121,
+    "query": "Is there Dog in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2366121,
+    "query": "Does the image contain any Sunscreen?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2366121,
+    "query": "Does the image contain any Fish?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2366121,
+    "query": "Is there Cup in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2366121,
+    "query": "Does the image contain any Surfboard?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2365542,
+    "query": "Does the image contain any sun?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2365542,
+    "query": "Does the image contain any tree?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2365542,
+    "query": "Is there star in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2365542,
+    "query": "Is there grass in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2365542,
+    "query": "Does the image contain any cloud?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2364730,
+    "query": "Is there shirt in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2364730,
+    "query": "Is there pocket in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2364730,
+    "query": "Does the image contain any sleeve?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2364730,
+    "query": "Does the image contain any shoe?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2364730,
+    "query": "Is there glove in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2364305,
+    "query": "Does the image contain any region?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2364305,
+    "query": "Is there checkbox in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2364305,
+    "query": "Does the image contain any index?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2364305,
+    "query": "Is there frame in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2364305,
+    "query": "Does the image contain any sun?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2363354,
+    "query": "Does the image contain any Book?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2363354,
+    "query": "Does the image contain any crop?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2363354,
+    "query": "Does the image contain any Case?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2363354,
+    "query": "Does the image contain any farmer?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2363354,
+    "query": "Is there tractor in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2363315,
+    "query": "Does the image contain any document?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2363315,
+    "query": "Does the image contain any Comb?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2363315,
+    "query": "Does the image contain any shampoo?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2363315,
+    "query": "Is there folder in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2363315,
+    "query": "Is there brush in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2361591,
+    "query": "Does the image contain any car?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2361591,
+    "query": "Is there Cat in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2361591,
+    "query": "Does the image contain any station?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2361591,
+    "query": "Is there railroad in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2361591,
+    "query": "Is there Dog in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2360278,
+    "query": "Is there sun in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2360278,
+    "query": "Does the image contain any rainbow?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2360278,
+    "query": "Does the image contain any Cloud?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2360278,
+    "query": "Does the image contain any Airplane?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2360278,
+    "query": "Does the image contain any beard?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2358174,
+    "query": "Is there paper in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2358174,
+    "query": "Is there stamp in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2358174,
+    "query": "Is there font in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2358174,
+    "query": "Is there fence in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2358174,
+    "query": "Does the image contain any Passport?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357883,
+    "query": "Is there leash in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357883,
+    "query": "Is there dog in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357883,
+    "query": "Is there contact lens in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357883,
+    "query": "Does the image contain any glasses?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357883,
+    "query": "Is there collar in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357581,
+    "query": "Is there angle in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357581,
+    "query": "Is there tusk in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357581,
+    "query": "Does the image contain any hill?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357581,
+    "query": "Does the image contain any herd?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357581,
+    "query": "Is there ball in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357328,
+    "query": "Does the image contain any Comb?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357328,
+    "query": "Does the image contain any lawnmower?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357328,
+    "query": "Is there sock in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357328,
+    "query": "Is there floor in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357328,
+    "query": "Does the image contain any soccer ball?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357191,
+    "query": "Does the image contain any surfboard?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357191,
+    "query": "Is there ocean in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357191,
+    "query": "Does the image contain any paddle?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357191,
+    "query": "Is there whistle in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357191,
+    "query": "Does the image contain any boat?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357074,
+    "query": "Is there Wall in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357074,
+    "query": "Is there book in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357074,
+    "query": "Does the image contain any printer?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357074,
+    "query": "Is there headphones in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357074,
+    "query": "Is there charger in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2356369,
+    "query": "Is there water in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2356369,
+    "query": "Is there soil in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2356369,
+    "query": "Is there Water in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2356369,
+    "query": "Is there album in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2356369,
+    "query": "Is there Soil in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2355592,
+    "query": "Does the image contain any glove?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2355592,
+    "query": "Does the image contain any Pen?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2355592,
+    "query": "Is there delivery in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2355592,
+    "query": "Is there cork in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2355592,
+    "query": "Does the image contain any cheese?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2355558,
+    "query": "Does the image contain any ladder?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2355558,
+    "query": "Does the image contain any chair?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2355558,
+    "query": "Does the image contain any staircase?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2355558,
+    "query": "Does the image contain any plate?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2355558,
+    "query": "Does the image contain any jacket?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2355237,
+    "query": "Is there button in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2355237,
+    "query": "Does the image contain any Breath?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2355237,
+    "query": "Is there bandage in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2355237,
+    "query": "Is there charger in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2355237,
+    "query": "Is there app in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2354914,
+    "query": "Is there keys in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2354914,
+    "query": "Is there cement mixer in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2354914,
+    "query": "Does the image contain any construction site?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2354914,
+    "query": "Does the image contain any phone?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2354914,
+    "query": "Is there book in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2354213,
+    "query": "Is there cabinet in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2354213,
+    "query": "Is there flag in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2354213,
+    "query": "Is there road in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2354213,
+    "query": "Is there file in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2354213,
+    "query": "Is there lock in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2353930,
+    "query": "Is there saddle in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2353930,
+    "query": "Does the image contain any tree?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2353930,
+    "query": "Is there stable in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2353930,
+    "query": "Is there rider in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2353930,
+    "query": "Is there sun in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2353203,
+    "query": "Is there Soccer ball in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2353203,
+    "query": "Does the image contain any channel?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2353203,
+    "query": "Does the image contain any Helmet?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2353203,
+    "query": "Does the image contain any goalpost?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2353203,
+    "query": "Does the image contain any Firefighter?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2353093,
+    "query": "Is there suit in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2353093,
+    "query": "Does the image contain any Shadow?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2353093,
+    "query": "Does the image contain any Notebook?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2353093,
+    "query": "Does the image contain any Lamp?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2353093,
+    "query": "Does the image contain any Sun?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352573,
+    "query": "Does the image contain any Sunlight?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352573,
+    "query": "Is there sandal in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352573,
+    "query": "Does the image contain any Blue eyes?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352573,
+    "query": "Is there sock in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352573,
+    "query": "Does the image contain any grass?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352521,
+    "query": "Does the image contain any screen?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352521,
+    "query": "Does the image contain any monitor?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352521,
+    "query": "Does the image contain any treehouse?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352521,
+    "query": "Is there projector in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352521,
+    "query": "Is there leaves in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352042,
+    "query": "Does the image contain any cheese?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352042,
+    "query": "Does the image contain any button?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352042,
+    "query": "Is there sauce in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352042,
+    "query": "Is there Bacon in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352042,
+    "query": "Is there Oven in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352001,
+    "query": "Is there Nail in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352001,
+    "query": "Is there tree in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352001,
+    "query": "Does the image contain any grass?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352001,
+    "query": "Does the image contain any Ring?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352001,
+    "query": "Does the image contain any rock?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2351767,
+    "query": "Is there Ponytail in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2351767,
+    "query": "Does the image contain any plate?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2351767,
+    "query": "Is there Doll in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2351767,
+    "query": "Is there Cotton swab in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2351767,
+    "query": "Is there Dress in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2351398,
+    "query": "Is there engine in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2351398,
+    "query": "Does the image contain any shirt?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2351398,
+    "query": "Is there belt in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2351398,
+    "query": "Does the image contain any road?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2351398,
+    "query": "Does the image contain any pocket?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2350489,
+    "query": "Does the image contain any printer?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2350489,
+    "query": "Does the image contain any road?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2350489,
+    "query": "Is there desk in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2350489,
+    "query": "Does the image contain any engine?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2350489,
+    "query": "Is there tire in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2349436,
+    "query": "Does the image contain any Strap?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2349436,
+    "query": "Is there headphones in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2349436,
+    "query": "Does the image contain any picture?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2349436,
+    "query": "Is there time in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2349436,
+    "query": "Is there case in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348925,
+    "query": "Is there Light in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348925,
+    "query": "Is there crane in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348925,
+    "query": "Is there blueprint in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348925,
+    "query": "Does the image contain any brick?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348925,
+    "query": "Does the image contain any sun?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348732,
+    "query": "Does the image contain any star?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348732,
+    "query": "Is there Hanger in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348732,
+    "query": "Is there Wreath in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348732,
+    "query": "Does the image contain any Vase?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348732,
+    "query": "Does the image contain any sock?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348525,
+    "query": "Is there tie in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348525,
+    "query": "Does the image contain any shoe?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348525,
+    "query": "Is there helmet in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348525,
+    "query": "Is there hat in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348525,
+    "query": "Does the image contain any briefcase?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348508,
+    "query": "Is there chair in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348508,
+    "query": "Does the image contain any rainbow?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348508,
+    "query": "Is there rain in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348508,
+    "query": "Is there pen in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348508,
+    "query": "Does the image contain any book?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348430,
+    "query": "Does the image contain any sandal?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348430,
+    "query": "Is there stop in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348430,
+    "query": "Does the image contain any car?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348430,
+    "query": "Does the image contain any Beach?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348430,
+    "query": "Does the image contain any driver?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348420,
+    "query": "Does the image contain any house?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348420,
+    "query": "Does the image contain any car?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348420,
+    "query": "Does the image contain any tree?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348420,
+    "query": "Does the image contain any shorts?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348420,
+    "query": "Is there flipflops in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2347350,
+    "query": "Is there Alarm in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2347350,
+    "query": "Does the image contain any nest?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2347350,
+    "query": "Does the image contain any Time?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2347350,
+    "query": "Is there branch in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2347350,
+    "query": "Is there Pendulum in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2346161,
+    "query": "Is there bird in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2346161,
+    "query": "Does the image contain any traffic cone?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2346161,
+    "query": "Does the image contain any Hard hat?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2346161,
+    "query": "Does the image contain any kite?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2346161,
+    "query": "Does the image contain any windmill?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2344531,
+    "query": "Is there beard in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2344531,
+    "query": "Is there shirt in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2344531,
+    "query": "Is there pocket in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2344531,
+    "query": "Does the image contain any suit?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2343204,
+    "query": "Does the image contain any razor?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2343204,
+    "query": "Does the image contain any tree?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2343204,
+    "query": "Is there Comb in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2343204,
+    "query": "Does the image contain any book?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2343204,
+    "query": "Is there Light in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2341501,
+    "query": "Is there road in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2341501,
+    "query": "Does the image contain any steering?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2341501,
+    "query": "Does the image contain any engine?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2341501,
+    "query": "Does the image contain any horse?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2341501,
+    "query": "Does the image contain any saddle?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2341491,
+    "query": "Is there heart in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2341491,
+    "query": "Is there nation in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2341491,
+    "query": "Does the image contain any Sunglasses?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2341491,
+    "query": "Is there treasure in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2341491,
+    "query": "Is there Jeans in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2341266,
+    "query": "Does the image contain any printer?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2341266,
+    "query": "Does the image contain any pen?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2341266,
+    "query": "Does the image contain any brim?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2341266,
+    "query": "Does the image contain any head?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2341266,
+    "query": "Does the image contain any book?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2340930,
+    "query": "Is there river in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2340930,
+    "query": "Is there squirrel in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2340930,
+    "query": "Is there chair in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2340930,
+    "query": "Is there nest in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2340930,
+    "query": "Is there shoe in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2340211,
+    "query": "Does the image contain any face?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2340211,
+    "query": "Is there spoon in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2340211,
+    "query": "Does the image contain any knife?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2340211,
+    "query": "Does the image contain any gesture?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2340211,
+    "query": "Is there emotion in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2340174,
+    "query": "Is there pants in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2340174,
+    "query": "Does the image contain any button?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2340174,
+    "query": "Is there zipper in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2340174,
+    "query": "Is there hanger in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2340174,
+    "query": "Is there winter in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2339949,
+    "query": "Does the image contain any tree?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2339949,
+    "query": "Does the image contain any Light?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2339949,
+    "query": "Does the image contain any chair?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2339949,
+    "query": "Is there boot in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2339949,
+    "query": "Is there snow in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2339532,
+    "query": "Is there Gloves in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2339532,
+    "query": "Is there glass in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2339532,
+    "query": "Is there coffee in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2339532,
+    "query": "Is there spoon in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2339532,
+    "query": "Does the image contain any Face?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2339105,
+    "query": "Does the image contain any beach?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2339105,
+    "query": "Does the image contain any phone?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2339105,
+    "query": "Is there wetsuit in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2339105,
+    "query": "Does the image contain any Hand?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2339105,
+    "query": "Does the image contain any mitt?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2337992,
+    "query": "Does the image contain any grass?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2337992,
+    "query": "Does the image contain any rock?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2337992,
+    "query": "Is there car in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2337992,
+    "query": "Is there twig in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2337992,
+    "query": "Does the image contain any branch?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2337188,
+    "query": "Does the image contain any tie?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2337188,
+    "query": "Does the image contain any brim?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2337188,
+    "query": "Does the image contain any feather?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2337188,
+    "query": "Is there suit in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2337188,
+    "query": "Does the image contain any head?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2336588,
+    "query": "Does the image contain any lamp?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2336588,
+    "query": "Does the image contain any cannon?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2336588,
+    "query": "Is there rug in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2336588,
+    "query": "Is there design in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2336588,
+    "query": "Does the image contain any brand?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2335371,
+    "query": "Does the image contain any drape?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2335371,
+    "query": "Does the image contain any rod?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2335371,
+    "query": "Does the image contain any window?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2335371,
+    "query": "Does the image contain any comb?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2335371,
+    "query": "Is there text message in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2334761,
+    "query": "Is there door in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2334761,
+    "query": "Does the image contain any pedestrian?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2334761,
+    "query": "Is there driver in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2334761,
+    "query": "Is there car in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2334761,
+    "query": "Is there knife in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2334748,
+    "query": "Does the image contain any Sponge?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2334748,
+    "query": "Does the image contain any helmet?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2334748,
+    "query": "Is there Bubble in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2334748,
+    "query": "Is there bullet in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2334748,
+    "query": "Is there Shampoo in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2332604,
+    "query": "Is there Seashell in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2332604,
+    "query": "Does the image contain any Surfboard?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2332604,
+    "query": "Does the image contain any Sunscreen?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2332604,
+    "query": "Is there shoe in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2332604,
+    "query": "Is there sock in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2331694,
+    "query": "Does the image contain any field?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2331694,
+    "query": "Does the image contain any ball?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2331694,
+    "query": "Is there chair in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2331694,
+    "query": "Is there team in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2331694,
+    "query": "Is there lamp in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2331433,
+    "query": "Does the image contain any bird?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2331433,
+    "query": "Does the image contain any Road?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2331433,
+    "query": "Does the image contain any kite?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2331433,
+    "query": "Is there Zebra in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2331433,
+    "query": "Does the image contain any windmill?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2330414,
+    "query": "Does the image contain any nation?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2330414,
+    "query": "Does the image contain any hurdle?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2330414,
+    "query": "Is there anthem in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2330414,
+    "query": "Does the image contain any barrier?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2330414,
+    "query": "Is there Challenge in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2328693,
+    "query": "Is there suit in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2328693,
+    "query": "Does the image contain any dog?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2328693,
+    "query": "Does the image contain any disc golf?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2328693,
+    "query": "Is there park in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2328693,
+    "query": "Is there hanger in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2328227,
+    "query": "Is there station in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2328227,
+    "query": "Is there vehicle in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2328227,
+    "query": "Is there exhaust in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2328227,
+    "query": "Does the image contain any fuel?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2328227,
+    "query": "Does the image contain any signal?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2328034,
+    "query": "Is there glasses in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2328034,
+    "query": "Is there water in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2328034,
+    "query": "Is there Hat in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2328034,
+    "query": "Does the image contain any rope?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2328034,
+    "query": "Does the image contain any sand?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2326992,
+    "query": "Is there road in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2326992,
+    "query": "Does the image contain any helmet?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2326992,
+    "query": "Is there TV in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2326992,
+    "query": "Is there blade in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2326992,
+    "query": "Does the image contain any cliff?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2326663,
+    "query": "Is there pitcher in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2326663,
+    "query": "Does the image contain any soccer ball?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2326663,
+    "query": "Does the image contain any tree?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2326663,
+    "query": "Is there bat in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2326663,
+    "query": "Does the image contain any lawnmower?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2325703,
+    "query": "Is there Fence in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2325703,
+    "query": "Does the image contain any Lens Cloth?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2325703,
+    "query": "Does the image contain any Optometrist?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2325703,
+    "query": "Does the image contain any outlet?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2325703,
+    "query": "Does the image contain any Balcony?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2325525,
+    "query": "Is there helmet in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2325525,
+    "query": "Is there road in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2325525,
+    "query": "Does the image contain any valve?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2325525,
+    "query": "Is there jacket in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2325525,
+    "query": "Does the image contain any water?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2324910,
+    "query": "Is there staircase in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2324910,
+    "query": "Does the image contain any egg?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2324910,
+    "query": "Does the image contain any footprint?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2324910,
+    "query": "Is there construction site in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2324910,
+    "query": "Does the image contain any feather?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2324640,
+    "query": "Is there bucket in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2324640,
+    "query": "Does the image contain any fish?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2324640,
+    "query": "Is there castle in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2324640,
+    "query": "Does the image contain any boat?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2324640,
+    "query": "Is there river in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2324598,
+    "query": "Does the image contain any whistle?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2324598,
+    "query": "Is there glove in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2324598,
+    "query": "Does the image contain any cap?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2324598,
+    "query": "Does the image contain any bat?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2324598,
+    "query": "Is there baseball in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2324398,
+    "query": "Does the image contain any spoon?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2324398,
+    "query": "Is there belt in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2324398,
+    "query": "Is there bouquet in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2324398,
+    "query": "Does the image contain any Bee?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2324398,
+    "query": "Is there heels in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2323703,
+    "query": "Is there beach in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2323703,
+    "query": "Is there iron in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2323703,
+    "query": "Does the image contain any tie?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2323703,
+    "query": "Is there suit in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2323703,
+    "query": "Is there swimmer in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2323698,
+    "query": "Is there Brick in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2323698,
+    "query": "Is there head in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2323698,
+    "query": "Is there ramp in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2323698,
+    "query": "Is there Blush in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2323698,
+    "query": "Is there Rebar in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2323695,
+    "query": "Is there motorcycle in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2323695,
+    "query": "Is there phone in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2323695,
+    "query": "Is there rider in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2323695,
+    "query": "Does the image contain any chair?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2323695,
+    "query": "Does the image contain any tie?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2323282,
+    "query": "Is there alarm in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2323282,
+    "query": "Is there cup in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2323282,
+    "query": "Is there knife in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2323282,
+    "query": "Does the image contain any time?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2323282,
+    "query": "Does the image contain any ring?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2322786,
+    "query": "Does the image contain any shampoo?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2322786,
+    "query": "Does the image contain any Comb?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2322786,
+    "query": "Does the image contain any swimsuit?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2322786,
+    "query": "Does the image contain any surfboard?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2322786,
+    "query": "Is there T-shirt in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2322749,
+    "query": "Is there spoon in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2322749,
+    "query": "Is there cereal in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2322749,
+    "query": "Is there Toothbrush in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2322749,
+    "query": "Does the image contain any Towel?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2322749,
+    "query": "Does the image contain any fruit?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2322502,
+    "query": "Is there hay in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2322502,
+    "query": "Is there leaf in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2322502,
+    "query": "Does the image contain any tree?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2322502,
+    "query": "Is there saddle in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2322502,
+    "query": "Is there stable in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2322374,
+    "query": "Does the image contain any rain?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2322374,
+    "query": "Is there sun in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2322374,
+    "query": "Is there star in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2322374,
+    "query": "Is there lightning in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2322374,
+    "query": "Does the image contain any shirt?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2321836,
+    "query": "Is there brake pedal in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2321836,
+    "query": "Is there trip in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2321836,
+    "query": "Does the image contain any traffic ticket?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2321836,
+    "query": "Is there gym in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2321836,
+    "query": "Is there keys in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2321370,
+    "query": "Does the image contain any foundation?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2321370,
+    "query": "Is there blueprint in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2321370,
+    "query": "Does the image contain any Team?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2321370,
+    "query": "Is there lives in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2321370,
+    "query": "Is there Beatles in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2320476,
+    "query": "Is there Fish in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2320476,
+    "query": "Does the image contain any Comb?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2320476,
+    "query": "Does the image contain any road?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2320476,
+    "query": "Does the image contain any tire?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2320476,
+    "query": "Is there Cat in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2319322,
+    "query": "Is there hanger in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2319322,
+    "query": "Is there pants in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2319322,
+    "query": "Does the image contain any bike?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2319322,
+    "query": "Does the image contain any motorcycle?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2319322,
+    "query": "Is there button in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2319009,
+    "query": "Does the image contain any honey?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2319009,
+    "query": "Does the image contain any mirror?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2319009,
+    "query": "Does the image contain any forest?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2319009,
+    "query": "Does the image contain any hanger?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2319009,
+    "query": "Is there fish in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2318747,
+    "query": "Is there Comb in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2318747,
+    "query": "Is there tire in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2318747,
+    "query": "Does the image contain any glove?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2318747,
+    "query": "Is there road in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2318747,
+    "query": "Does the image contain any sleeve?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2318331,
+    "query": "Does the image contain any company?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2318331,
+    "query": "Does the image contain any glove?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2318331,
+    "query": "Does the image contain any Bat?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2318331,
+    "query": "Does the image contain any design?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2318331,
+    "query": "Does the image contain any bat?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317951,
+    "query": "Does the image contain any Plate?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317951,
+    "query": "Is there Candle in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317951,
+    "query": "Does the image contain any light?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317951,
+    "query": "Is there traffic in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317951,
+    "query": "Does the image contain any citrus?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317739,
+    "query": "Does the image contain any binding?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317739,
+    "query": "Is there mountain in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317739,
+    "query": "Is there shovel in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317739,
+    "query": "Is there snow in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317739,
+    "query": "Does the image contain any scarf?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317435,
+    "query": "Does the image contain any Light?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317435,
+    "query": "Does the image contain any Mirror?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317435,
+    "query": "Is there curtain in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317435,
+    "query": "Is there picture in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317435,
+    "query": "Does the image contain any rhythm?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317163,
+    "query": "Does the image contain any shoe?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317163,
+    "query": "Does the image contain any sock?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317163,
+    "query": "Is there chair in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317163,
+    "query": "Does the image contain any sleeve?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317163,
+    "query": "Does the image contain any glove?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317030,
+    "query": "Is there Ponytail in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317030,
+    "query": "Does the image contain any Dress?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317030,
+    "query": "Is there curtain in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317030,
+    "query": "Does the image contain any frame?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317030,
+    "query": "Is there crane in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2414679,
+    "query": "Does the image contain any gym?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2414679,
+    "query": "Is there beach in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2414679,
+    "query": "Does the image contain any scale?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2414679,
+    "query": "Does the image contain any sandals?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2414679,
+    "query": "Does the image contain any mirror?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2415565,
+    "query": "Does the image contain any button?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2415565,
+    "query": "Is there Cloud in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2415565,
+    "query": "Is there zipper in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2415565,
+    "query": "Does the image contain any anchor?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2415565,
+    "query": "Is there winter in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2416037,
+    "query": "Does the image contain any Electricity?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2416037,
+    "query": "Does the image contain any nut?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2416037,
+    "query": "Is there Chain in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2416037,
+    "query": "Is there screw in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2416037,
+    "query": "Is there plug in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2416540,
+    "query": "Does the image contain any rain?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2416540,
+    "query": "Does the image contain any Mountain?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2416540,
+    "query": "Is there sky in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2416540,
+    "query": "Is there Snow in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2416540,
+    "query": "Does the image contain any lightning?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2416935,
+    "query": "Is there Dress in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2416935,
+    "query": "Does the image contain any Fan?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2416935,
+    "query": "Is there reflection in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2416935,
+    "query": "Does the image contain any fork?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2416935,
+    "query": "Does the image contain any frame?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2417250,
+    "query": "Does the image contain any bow?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2417250,
+    "query": "Is there road in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2417250,
+    "query": "Is there tire in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2417250,
+    "query": "Is there gate in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2417250,
+    "query": "Is there target in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2417652,
+    "query": "Is there beard in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2417652,
+    "query": "Does the image contain any suit?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2417652,
+    "query": "Is there tie in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2417652,
+    "query": "Is there boat in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2417652,
+    "query": "Is there river in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  }
+]

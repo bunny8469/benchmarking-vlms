@@ -1,0 +1,1604 @@
+[
+  {
+    "image_id": 1,
+    "object": "clock",
+    "attribute": "green",
+    "query": "What is the color of the clock?"
+  },
+  {
+    "image_id": 1,
+    "object": "clock",
+    "attribute": "tall",
+    "query": "What is the tall of the clock?"
+  },
+  {
+    "image_id": 1,
+    "object": "street",
+    "attribute": "sidewalk",
+    "query": "What is the sidewalk of the street on the left?"
+  },
+  {
+    "image_id": 1,
+    "object": "sneakers",
+    "attribute": "grey",
+    "query": "What is the grey of the sneakers?"
+  },
+  {
+    "image_id": 1,
+    "object": "headlight",
+    "attribute": "off",
+    "query": "What is the off of the headlight?"
+  },
+  {
+    "image_id": 1,
+    "object": "bike",
+    "attribute": "parked",
+    "query": "What is the parked of the bike on the left?"
+  },
+  {
+    "image_id": 1,
+    "object": "bike",
+    "attribute": "far away",
+    "query": "What is the far away of the bike on the left?"
+  },
+  {
+    "image_id": 1,
+    "object": "bike",
+    "attribute": "parked",
+    "query": "What is the parked of the bike on the right?"
+  },
+  {
+    "image_id": 1,
+    "object": "bike",
+    "attribute": "far away",
+    "query": "What is the far away of the bike on the right?"
+  },
+  {
+    "image_id": 1,
+    "object": "bike",
+    "attribute": "chained",
+    "query": "What is the chained of the bike on the right?"
+  },
+  {
+    "image_id": 1,
+    "object": "sign",
+    "attribute": "black",
+    "query": "What is the color of the sign?"
+  },
+  {
+    "image_id": 1,
+    "object": "building",
+    "attribute": "tall",
+    "query": "What is the tall of the building?"
+  },
+  {
+    "image_id": 1,
+    "object": "building",
+    "attribute": "brick",
+    "query": "What is the brick of the building?"
+  },
+  {
+    "image_id": 1,
+    "object": "building",
+    "attribute": "made of bricks",
+    "query": "What is the made of bricks of the building?"
+  },
+  {
+    "image_id": 1,
+    "object": "sidewalk",
+    "attribute": "brick",
+    "query": "What is the brick of the sidewalk on the right?"
+  },
+  {
+    "image_id": 1,
+    "object": "shirt",
+    "attribute": "red",
+    "query": "What is the color of the shirt on the left?"
+  },
+  {
+    "image_id": 1,
+    "object": "shirt",
+    "attribute": "orange",
+    "query": "What is the color of the shirt on the left?"
+  },
+  {
+    "image_id": 1,
+    "object": "street",
+    "attribute": "clean",
+    "query": "What is the clean of the street on the right?"
+  },
+  {
+    "image_id": 1,
+    "object": "car",
+    "attribute": "white",
+    "query": "What is the color of the car on the right?"
+  },
+  {
+    "image_id": 1,
+    "object": "car",
+    "attribute": "parked",
+    "query": "What is the parked of the car on the right?"
+  },
+  {
+    "image_id": 1,
+    "object": "parking meter",
+    "attribute": "orange",
+    "query": "What is the color of the parking meter?"
+  },
+  {
+    "image_id": 1,
+    "object": "shoes",
+    "attribute": "brown",
+    "query": "What is the color of the shoes?"
+  },
+  {
+    "image_id": 1,
+    "object": "pants",
+    "attribute": "black",
+    "query": "What is the color of the pants on the left?"
+  },
+  {
+    "image_id": 1,
+    "object": "jacket",
+    "attribute": "gray",
+    "query": "What is the color of the jacket?"
+  },
+  {
+    "image_id": 1,
+    "object": "jacket",
+    "attribute": "grey",
+    "query": "What is the grey of the jacket?"
+  },
+  {
+    "image_id": 1,
+    "object": "pants",
+    "attribute": "gray",
+    "query": "What is the color of the pants on the right?"
+  },
+  {
+    "image_id": 1,
+    "object": "pants",
+    "attribute": "grey",
+    "query": "What is the grey of the pants on the right?"
+  },
+  {
+    "image_id": 1,
+    "object": "work truck",
+    "attribute": "white",
+    "query": "What is the color of the work truck?"
+  },
+  {
+    "image_id": 1,
+    "object": "chin",
+    "attribute": "raised",
+    "query": "What is the raised of the chin?"
+  },
+  {
+    "image_id": 1,
+    "object": "van",
+    "attribute": "parked",
+    "query": "What is the parked of the van?"
+  },
+  {
+    "image_id": 1,
+    "object": "van",
+    "attribute": "white",
+    "query": "What is the color of the van?"
+  },
+  {
+    "image_id": 1,
+    "object": "wall",
+    "attribute": "grey",
+    "query": "What is the grey of the wall?"
+  },
+  {
+    "image_id": 1,
+    "object": "arm",
+    "attribute": "raised",
+    "query": "What is the raised of the arm?"
+  },
+  {
+    "image_id": 1,
+    "object": "shirt",
+    "attribute": "grey",
+    "query": "What is the grey of the shirt on the right?"
+  },
+  {
+    "image_id": 1,
+    "object": "trees",
+    "attribute": "sparse",
+    "query": "What is the sparse of the trees?"
+  },
+  {
+    "image_id": 3,
+    "object": "office phone",
+    "attribute": "multi-line phone",
+    "query": "What is the multi-line phone of the office phone?"
+  },
+  {
+    "image_id": 3,
+    "object": "outlet",
+    "attribute": "electrical",
+    "query": "What is the electrical of the outlet on the right?"
+  },
+  {
+    "image_id": 3,
+    "object": "outlet",
+    "attribute": "data line",
+    "query": "What is the data line of the outlet on the left?"
+  },
+  {
+    "image_id": 3,
+    "object": "keyboard",
+    "attribute": "white",
+    "query": "What is the color of the keyboard?"
+  },
+  {
+    "image_id": 3,
+    "object": "monitor",
+    "attribute": "white",
+    "query": "What is the color of the monitor on the left?"
+  },
+  {
+    "image_id": 3,
+    "object": "monitor",
+    "attribute": "switched off",
+    "query": "What is the switched off of the monitor on the left?"
+  },
+  {
+    "image_id": 3,
+    "object": "monitor",
+    "attribute": "turned off",
+    "query": "What is the turned off of the monitor on the left?"
+  },
+  {
+    "image_id": 3,
+    "object": "cpu",
+    "attribute": "computer tower",
+    "query": "What is the computer tower of the cpu?"
+  },
+  {
+    "image_id": 3,
+    "object": "desktop",
+    "attribute": "curved",
+    "query": "What is the curved of the desktop?"
+  },
+  {
+    "image_id": 3,
+    "object": "computer case",
+    "attribute": "black",
+    "query": "What is the color of the computer case?"
+  },
+  {
+    "image_id": 3,
+    "object": "computer case",
+    "attribute": "leather",
+    "query": "What is the leather of the computer case?"
+  },
+  {
+    "image_id": 3,
+    "object": "mouse",
+    "attribute": "white",
+    "query": "What is the color of the mouse?"
+  },
+  {
+    "image_id": 3,
+    "object": "girl",
+    "attribute": "sitting",
+    "query": "What is the sitting of the girl?"
+  },
+  {
+    "image_id": 3,
+    "object": "monitor",
+    "attribute": "off",
+    "query": "What is the off of the monitor on the right?"
+  },
+  {
+    "image_id": 3,
+    "object": "hair",
+    "attribute": "long",
+    "query": "What is the long of the hair?"
+  },
+  {
+    "image_id": 3,
+    "object": "pen",
+    "attribute": "blue",
+    "query": "What is the color of the pen?"
+  },
+  {
+    "image_id": 3,
+    "object": "pen",
+    "attribute": "yellow",
+    "query": "What is the color of the pen?"
+  },
+  {
+    "image_id": 3,
+    "object": "pen",
+    "attribute": "black",
+    "query": "What is the color of the pen?"
+  },
+  {
+    "image_id": 3,
+    "object": "bag",
+    "attribute": "black",
+    "query": "What is the color of the bag?"
+  },
+  {
+    "image_id": 3,
+    "object": "telephone",
+    "attribute": "black",
+    "query": "What is the color of the telephone?"
+  },
+  {
+    "image_id": 3,
+    "object": "strap",
+    "attribute": "black",
+    "query": "What is the color of the strap?"
+  },
+  {
+    "image_id": 3,
+    "object": "picture",
+    "attribute": "hanged",
+    "query": "What is the hanged of the picture on the right?"
+  },
+  {
+    "image_id": 3,
+    "object": "table",
+    "attribute": "white",
+    "query": "What is the color of the table?"
+  },
+  {
+    "image_id": 3,
+    "object": "cabinet",
+    "attribute": "grey",
+    "query": "What is the grey of the cabinet?"
+  },
+  {
+    "image_id": 3,
+    "object": "cabinet",
+    "attribute": "beige",
+    "query": "What is the beige of the cabinet?"
+  },
+  {
+    "image_id": 7,
+    "object": "telephone",
+    "attribute": "pink",
+    "query": "What is the color of the telephone?"
+  },
+  {
+    "image_id": 7,
+    "object": "telephone",
+    "attribute": "beige",
+    "query": "What is the beige of the telephone?"
+  },
+  {
+    "image_id": 7,
+    "object": "telephone",
+    "attribute": "tan",
+    "query": "What is the tan of the telephone?"
+  },
+  {
+    "image_id": 7,
+    "object": "telephone",
+    "attribute": "push button",
+    "query": "What is the push button of the telephone?"
+  },
+  {
+    "image_id": 7,
+    "object": "book",
+    "attribute": "purple",
+    "query": "What is the color of the book on the right?"
+  },
+  {
+    "image_id": 7,
+    "object": "desk",
+    "attribute": "cluttered",
+    "query": "What is the cluttered of the desk on the left?"
+  },
+  {
+    "image_id": 7,
+    "object": "sticky note",
+    "attribute": "yellow",
+    "query": "What is the color of the sticky note?"
+  },
+  {
+    "image_id": 7,
+    "object": "monitor",
+    "attribute": "on",
+    "query": "What is the on of the monitor?"
+  },
+  {
+    "image_id": 7,
+    "object": "monitor",
+    "attribute": "turned on",
+    "query": "What is the turned on of the monitor?"
+  },
+  {
+    "image_id": 7,
+    "object": "monitor",
+    "attribute": "for computer",
+    "query": "What is the for computer of the monitor?"
+  },
+  {
+    "image_id": 7,
+    "object": "lady",
+    "attribute": "young",
+    "query": "What is the young of the lady?"
+  },
+  {
+    "image_id": 7,
+    "object": "lady",
+    "attribute": "seated",
+    "query": "What is the seated of the lady?"
+  },
+  {
+    "image_id": 7,
+    "object": "lady",
+    "attribute": "smiling",
+    "query": "What is the smiling of the lady?"
+  },
+  {
+    "image_id": 7,
+    "object": "hair",
+    "attribute": "black",
+    "query": "What is the color of the hair?"
+  },
+  {
+    "image_id": 7,
+    "object": "white board",
+    "attribute": "dirty",
+    "query": "What is the dirty of the white board?"
+  },
+  {
+    "image_id": 7,
+    "object": "writing",
+    "attribute": "red",
+    "query": "What is the color of the writing?"
+  },
+  {
+    "image_id": 7,
+    "object": "headphones",
+    "attribute": "black",
+    "query": "What is the color of the headphones?"
+  },
+  {
+    "image_id": 7,
+    "object": "headphones",
+    "attribute": "for listening",
+    "query": "What is the for listening of the headphones?"
+  },
+  {
+    "image_id": 7,
+    "object": "pants",
+    "attribute": "blue",
+    "query": "What is the color of the pants?"
+  },
+  {
+    "image_id": 7,
+    "object": "woman",
+    "attribute": "smiling",
+    "query": "What is the smiling of the woman?"
+  },
+  {
+    "image_id": 7,
+    "object": "cpu",
+    "attribute": "black",
+    "query": "What is the color of the cpu?"
+  },
+  {
+    "image_id": 7,
+    "object": "pen",
+    "attribute": "red",
+    "query": "What is the color of the pen?"
+  },
+  {
+    "image_id": 7,
+    "object": "mouse",
+    "attribute": "black",
+    "query": "What is the color of the mouse?"
+  },
+  {
+    "image_id": 7,
+    "object": "wall",
+    "attribute": "white",
+    "query": "What is the color of the wall on the right?"
+  },
+  {
+    "image_id": 7,
+    "object": "keyboard",
+    "attribute": "black",
+    "query": "What is the color of the keyboard?"
+  },
+  {
+    "image_id": 7,
+    "object": "keyboard",
+    "attribute": "red",
+    "query": "What is the color of the keyboard?"
+  },
+  {
+    "image_id": 7,
+    "object": "wrist pad",
+    "attribute": "red",
+    "query": "What is the color of the wrist pad?"
+  },
+  {
+    "image_id": 7,
+    "object": "cd player",
+    "attribute": "for listening",
+    "query": "What is the for listening of the cd player?"
+  },
+  {
+    "image_id": 7,
+    "object": "laptop",
+    "attribute": "black",
+    "query": "What is the color of the laptop?"
+  },
+  {
+    "image_id": 7,
+    "object": "laptop",
+    "attribute": "closed",
+    "query": "What is the closed of the laptop?"
+  },
+  {
+    "image_id": 7,
+    "object": "lid",
+    "attribute": "on top",
+    "query": "What is the on top of the lid on the left?"
+  },
+  {
+    "image_id": 7,
+    "object": "sweater",
+    "attribute": "cream colored",
+    "query": "What is the cream colored of the sweater?"
+  },
+  {
+    "image_id": 7,
+    "object": "sweater",
+    "attribute": "gray",
+    "query": "What is the color of the sweater?"
+  },
+  {
+    "image_id": 7,
+    "object": "sweater",
+    "attribute": "beige",
+    "query": "What is the beige of the sweater?"
+  },
+  {
+    "image_id": 7,
+    "object": "window",
+    "attribute": "brown",
+    "query": "What is the color of the window?"
+  },
+  {
+    "image_id": 7,
+    "object": "tape dispenser",
+    "attribute": "black",
+    "query": "What is the color of the tape dispenser?"
+  },
+  {
+    "image_id": 7,
+    "object": "label",
+    "attribute": "green",
+    "query": "What is the color of the label?"
+  },
+  {
+    "image_id": 7,
+    "object": "book",
+    "attribute": "open",
+    "query": "What is the open of the book in the center?"
+  },
+  {
+    "image_id": 7,
+    "object": "three hole punch",
+    "attribute": "black",
+    "query": "What is the color of the three hole punch?"
+  },
+  {
+    "image_id": 8,
+    "object": "monitor",
+    "attribute": "on",
+    "query": "What is the on of the monitor?"
+  },
+  {
+    "image_id": 8,
+    "object": "monitor",
+    "attribute": "black",
+    "query": "What is the color of the monitor?"
+  },
+  {
+    "image_id": 8,
+    "object": "sleeves",
+    "attribute": "folded",
+    "query": "What is the folded of the sleeves?"
+  },
+  {
+    "image_id": 8,
+    "object": "man",
+    "attribute": "youn",
+    "query": "What is the youn of the man?"
+  },
+  {
+    "image_id": 8,
+    "object": "man",
+    "attribute": "using",
+    "query": "What is the using of the man?"
+  },
+  {
+    "image_id": 8,
+    "object": "drawers",
+    "attribute": "grey",
+    "query": "What is the grey of the drawers?"
+  },
+  {
+    "image_id": 8,
+    "object": "drawers",
+    "attribute": "silver",
+    "query": "What is the silver of the drawers?"
+  },
+  {
+    "image_id": 8,
+    "object": "drawers",
+    "attribute": "gray",
+    "query": "What is the color of the drawers?"
+  },
+  {
+    "image_id": 8,
+    "object": "color",
+    "attribute": "grey",
+    "query": "What is the grey of the color?"
+  },
+  {
+    "image_id": 8,
+    "object": "cd",
+    "attribute": "white",
+    "query": "What is the color of the cd?"
+  },
+  {
+    "image_id": 8,
+    "object": "cd",
+    "attribute": "sitting",
+    "query": "What is the sitting of the cd?"
+  },
+  {
+    "image_id": 8,
+    "object": "cup",
+    "attribute": "white",
+    "query": "What is the color of the cup on the right?"
+  },
+  {
+    "image_id": 8,
+    "object": "cup",
+    "attribute": "large",
+    "query": "What is the large of the cup on the right?"
+  },
+  {
+    "image_id": 8,
+    "object": "hand",
+    "attribute": "man's",
+    "query": "What is the man's of the hand?"
+  },
+  {
+    "image_id": 8,
+    "object": "keyboard",
+    "attribute": "white",
+    "query": "What is the color of the keyboard?"
+  },
+  {
+    "image_id": 8,
+    "object": "keyboard",
+    "attribute": "gray",
+    "query": "What is the color of the keyboard?"
+  },
+  {
+    "image_id": 8,
+    "object": "shirt",
+    "attribute": "black",
+    "query": "What is the color of the shirt?"
+  },
+  {
+    "image_id": 8,
+    "object": "shirt",
+    "attribute": "white",
+    "query": "What is the color of the shirt?"
+  },
+  {
+    "image_id": 8,
+    "object": "dish",
+    "attribute": "tupperware",
+    "query": "What is the tupperware of the dish?"
+  },
+  {
+    "image_id": 8,
+    "object": "dish",
+    "attribute": "empty",
+    "query": "What is the empty of the dish?"
+  },
+  {
+    "image_id": 8,
+    "object": "picture",
+    "attribute": "taped",
+    "query": "What is the taped of the picture?"
+  },
+  {
+    "image_id": 8,
+    "object": "stapler",
+    "attribute": "black",
+    "query": "What is the color of the stapler?"
+  },
+  {
+    "image_id": 8,
+    "object": "papers",
+    "attribute": "stack",
+    "query": "What is the stack of the papers on the right?"
+  },
+  {
+    "image_id": 8,
+    "object": "cup",
+    "attribute": "black",
+    "query": "What is the color of the cup on the left?"
+  },
+  {
+    "image_id": 8,
+    "object": "cup",
+    "attribute": "silver",
+    "query": "What is the silver of the cup on the left?"
+  },
+  {
+    "image_id": 8,
+    "object": "mug",
+    "attribute": "smaller",
+    "query": "What is the smaller of the mug?"
+  },
+  {
+    "image_id": 8,
+    "object": "coffee mug",
+    "attribute": "white",
+    "query": "What is the color of the coffee mug on the right?"
+  },
+  {
+    "image_id": 8,
+    "object": "computer speaker",
+    "attribute": "white",
+    "query": "What is the color of the computer speaker?"
+  },
+  {
+    "image_id": 8,
+    "object": "computer speaker",
+    "attribute": "gray",
+    "query": "What is the color of the computer speaker?"
+  },
+  {
+    "image_id": 8,
+    "object": "folder",
+    "attribute": "white",
+    "query": "What is the color of the folder?"
+  },
+  {
+    "image_id": 8,
+    "object": "mouse",
+    "attribute": "white",
+    "query": "What is the color of the mouse?"
+  },
+  {
+    "image_id": 8,
+    "object": "book",
+    "attribute": "blue",
+    "query": "What is the color of the book?"
+  },
+  {
+    "image_id": 8,
+    "object": "pants",
+    "attribute": "black",
+    "query": "What is the color of the pants?"
+  },
+  {
+    "image_id": 8,
+    "object": "chair",
+    "attribute": "blue",
+    "query": "What is the color of the chair?"
+  },
+  {
+    "image_id": 8,
+    "object": "coffee mug",
+    "attribute": "ceramic",
+    "query": "What is the ceramic of the coffee mug on the left?"
+  },
+  {
+    "image_id": 8,
+    "object": "coffee mug",
+    "attribute": "white",
+    "query": "What is the color of the coffee mug on the left?"
+  },
+  {
+    "image_id": 8,
+    "object": "coffee mug",
+    "attribute": "plastic",
+    "query": "What is the plastic of the coffee mug on the left?"
+  },
+  {
+    "image_id": 8,
+    "object": "coffee mug",
+    "attribute": "large",
+    "query": "What is the large of the coffee mug on the left?"
+  },
+  {
+    "image_id": 8,
+    "object": "shelves",
+    "attribute": "wood",
+    "query": "What is the wood of the shelves?"
+  },
+  {
+    "image_id": 10,
+    "object": "headphones",
+    "attribute": "laying",
+    "query": "What is the laying of the headphones?"
+  },
+  {
+    "image_id": 10,
+    "object": "headphones",
+    "attribute": "pair",
+    "query": "What is the pair of the headphones?"
+  },
+  {
+    "image_id": 10,
+    "object": "headphones",
+    "attribute": "black",
+    "query": "What is the color of the headphones?"
+  },
+  {
+    "image_id": 10,
+    "object": "desk",
+    "attribute": "folded",
+    "query": "What is the folded of the desk on the left?"
+  },
+  {
+    "image_id": 10,
+    "object": "charger",
+    "attribute": "black",
+    "query": "What is the color of the charger?"
+  },
+  {
+    "image_id": 10,
+    "object": "charger",
+    "attribute": "white",
+    "query": "What is the color of the charger?"
+  },
+  {
+    "image_id": 10,
+    "object": "cpu",
+    "attribute": "black",
+    "query": "What is the color of the cpu on the left?"
+  },
+  {
+    "image_id": 10,
+    "object": "floor",
+    "attribute": "grey",
+    "query": "What is the grey of the floor?"
+  },
+  {
+    "image_id": 10,
+    "object": "cpu",
+    "attribute": "red",
+    "query": "What is the color of the cpu on the right?"
+  },
+  {
+    "image_id": 10,
+    "object": "cpu",
+    "attribute": "blue",
+    "query": "What is the color of the cpu on the right?"
+  },
+  {
+    "image_id": 10,
+    "object": "coat",
+    "attribute": "red",
+    "query": "What is the color of the coat?"
+  },
+  {
+    "image_id": 10,
+    "object": "coat",
+    "attribute": "hanging",
+    "query": "What is the hanging of the coat?"
+  },
+  {
+    "image_id": 10,
+    "object": "coat",
+    "attribute": "blue",
+    "query": "What is the color of the coat?"
+  },
+  {
+    "image_id": 10,
+    "object": "wall",
+    "attribute": "green",
+    "query": "What is the color of the wall?"
+  },
+  {
+    "image_id": 10,
+    "object": "wall",
+    "attribute": "greenish",
+    "query": "What is the greenish of the wall?"
+  },
+  {
+    "image_id": 10,
+    "object": "board",
+    "attribute": "cork",
+    "query": "What is the cork of the board?"
+  },
+  {
+    "image_id": 10,
+    "object": "board",
+    "attribute": "hanging",
+    "query": "What is the hanging of the board?"
+  },
+  {
+    "image_id": 10,
+    "object": "bookshelf",
+    "attribute": "wood",
+    "query": "What is the wood of the bookshelf?"
+  },
+  {
+    "image_id": 10,
+    "object": "bookshelf",
+    "attribute": "leaning",
+    "query": "What is the leaning of the bookshelf?"
+  },
+  {
+    "image_id": 10,
+    "object": "bookshelf",
+    "attribute": "tall",
+    "query": "What is the tall of the bookshelf?"
+  },
+  {
+    "image_id": 10,
+    "object": "shelf",
+    "attribute": "full",
+    "query": "What is the full of the shelf in the center?"
+  },
+  {
+    "image_id": 10,
+    "object": "cup",
+    "attribute": "blue",
+    "query": "What is the color of the cup?"
+  },
+  {
+    "image_id": 10,
+    "object": "cup",
+    "attribute": "black",
+    "query": "What is the color of the cup?"
+  },
+  {
+    "image_id": 10,
+    "object": "papers",
+    "attribute": "scattered",
+    "query": "What is the scattered of the papers on the left?"
+  },
+  {
+    "image_id": 10,
+    "object": "picture frame",
+    "attribute": "blank",
+    "query": "What is the blank of the picture frame?"
+  },
+  {
+    "image_id": 10,
+    "object": "picture frame",
+    "attribute": "brown",
+    "query": "What is the color of the picture frame?"
+  },
+  {
+    "image_id": 10,
+    "object": "picture frame",
+    "attribute": "hanging",
+    "query": "What is the hanging of the picture frame?"
+  },
+  {
+    "image_id": 10,
+    "object": "picture frame",
+    "attribute": "empty",
+    "query": "What is the empty of the picture frame?"
+  },
+  {
+    "image_id": 10,
+    "object": "books",
+    "attribute": "white",
+    "query": "What is the color of the books?"
+  },
+  {
+    "image_id": 10,
+    "object": "ostirch",
+    "attribute": "stuffed",
+    "query": "What is the stuffed of the ostirch?"
+  },
+  {
+    "image_id": 10,
+    "object": "ostrich",
+    "attribute": "stuffed",
+    "query": "What is the stuffed of the ostrich?"
+  },
+  {
+    "image_id": 10,
+    "object": "computer screen",
+    "attribute": "on",
+    "query": "What is the on of the computer screen?"
+  },
+  {
+    "image_id": 10,
+    "object": "shirt",
+    "attribute": "grey",
+    "query": "What is the grey of the shirt?"
+  },
+  {
+    "image_id": 10,
+    "object": "monitor",
+    "attribute": "white",
+    "query": "What is the color of the monitor on the right?"
+  },
+  {
+    "image_id": 10,
+    "object": "monitor",
+    "attribute": "on",
+    "query": "What is the on of the monitor on the right?"
+  },
+  {
+    "image_id": 10,
+    "object": "keyboard",
+    "attribute": "white",
+    "query": "What is the color of the keyboard?"
+  },
+  {
+    "image_id": 18,
+    "object": "hair",
+    "attribute": "short",
+    "query": "What is the short of the hair?"
+  },
+  {
+    "image_id": 18,
+    "object": "hair",
+    "attribute": "black",
+    "query": "What is the color of the hair?"
+  },
+  {
+    "image_id": 18,
+    "object": "man",
+    "attribute": "black",
+    "query": "What is the color of the man?"
+  },
+  {
+    "image_id": 18,
+    "object": "man",
+    "attribute": "busy",
+    "query": "What is the busy of the man?"
+  },
+  {
+    "image_id": 18,
+    "object": "man",
+    "attribute": "working",
+    "query": "What is the working of the man?"
+  },
+  {
+    "image_id": 18,
+    "object": "man",
+    "attribute": "sitting",
+    "query": "What is the sitting of the man?"
+  },
+  {
+    "image_id": 18,
+    "object": "man",
+    "attribute": "white",
+    "query": "What is the color of the man?"
+  },
+  {
+    "image_id": 18,
+    "object": "computer",
+    "attribute": "black",
+    "query": "What is the color of the computer?"
+  },
+  {
+    "image_id": 18,
+    "object": "computer",
+    "attribute": "off",
+    "query": "What is the off of the computer?"
+  },
+  {
+    "image_id": 18,
+    "object": "bottle",
+    "attribute": "soda",
+    "query": "What is the soda of the bottle?"
+  },
+  {
+    "image_id": 18,
+    "object": "bottle",
+    "attribute": "plastic",
+    "query": "What is the plastic of the bottle?"
+  },
+  {
+    "image_id": 18,
+    "object": "can",
+    "attribute": "coke",
+    "query": "What is the coke of the can?"
+  },
+  {
+    "image_id": 18,
+    "object": "can",
+    "attribute": "small",
+    "query": "What is the small of the can?"
+  },
+  {
+    "image_id": 18,
+    "object": "can",
+    "attribute": "wet",
+    "query": "What is the wet of the can?"
+  },
+  {
+    "image_id": 18,
+    "object": "can",
+    "attribute": "white",
+    "query": "What is the color of the can?"
+  },
+  {
+    "image_id": 18,
+    "object": "can",
+    "attribute": "open",
+    "query": "What is the open of the can?"
+  },
+  {
+    "image_id": 18,
+    "object": "can",
+    "attribute": "red",
+    "query": "What is the color of the can?"
+  },
+  {
+    "image_id": 18,
+    "object": "table",
+    "attribute": "long",
+    "query": "What is the long of the table?"
+  },
+  {
+    "image_id": 18,
+    "object": "table",
+    "attribute": "white",
+    "query": "What is the color of the table?"
+  },
+  {
+    "image_id": 18,
+    "object": "monitor",
+    "attribute": "white",
+    "query": "What is the color of the monitor?"
+  },
+  {
+    "image_id": 18,
+    "object": "monitor",
+    "attribute": "on",
+    "query": "What is the on of the monitor?"
+  },
+  {
+    "image_id": 18,
+    "object": "monitor",
+    "attribute": "black",
+    "query": "What is the color of the monitor?"
+  },
+  {
+    "image_id": 18,
+    "object": "monitor",
+    "attribute": "computer",
+    "query": "What is the computer of the monitor?"
+  },
+  {
+    "image_id": 18,
+    "object": "keyboard",
+    "attribute": "white",
+    "query": "What is the color of the keyboard?"
+  },
+  {
+    "image_id": 18,
+    "object": "keyboard",
+    "attribute": "computer",
+    "query": "What is the computer of the keyboard?"
+  },
+  {
+    "image_id": 18,
+    "object": "keyboard",
+    "attribute": "beige",
+    "query": "What is the beige of the keyboard?"
+  },
+  {
+    "image_id": 18,
+    "object": "shelf",
+    "attribute": "book",
+    "query": "What is the book of the shelf?"
+  },
+  {
+    "image_id": 18,
+    "object": "shelf",
+    "attribute": "wooden",
+    "query": "What is the wooden of the shelf?"
+  },
+  {
+    "image_id": 18,
+    "object": "shelf",
+    "attribute": "long",
+    "query": "What is the long of the shelf?"
+  },
+  {
+    "image_id": 18,
+    "object": "shelf",
+    "attribute": "tall",
+    "query": "What is the tall of the shelf?"
+  },
+  {
+    "image_id": 18,
+    "object": "shelf",
+    "attribute": "brown",
+    "query": "What is the color of the shelf?"
+  },
+  {
+    "image_id": 18,
+    "object": "window",
+    "attribute": "clean",
+    "query": "What is the clean of the window?"
+  },
+  {
+    "image_id": 18,
+    "object": "window",
+    "attribute": "clear",
+    "query": "What is the clear of the window?"
+  },
+  {
+    "image_id": 18,
+    "object": "window",
+    "attribute": "shut",
+    "query": "What is the shut of the window?"
+  },
+  {
+    "image_id": 18,
+    "object": "window",
+    "attribute": "locked",
+    "query": "What is the locked of the window?"
+  },
+  {
+    "image_id": 18,
+    "object": "window",
+    "attribute": "closed",
+    "query": "What is the closed of the window?"
+  },
+  {
+    "image_id": 18,
+    "object": "there",
+    "attribute": "monitor",
+    "query": "What is the monitor of the there?"
+  },
+  {
+    "image_id": 18,
+    "object": "mug",
+    "attribute": "white",
+    "query": "What is the color of the mug?"
+  },
+  {
+    "image_id": 18,
+    "object": "mouse",
+    "attribute": "computer",
+    "query": "What is the computer of the mouse?"
+  },
+  {
+    "image_id": 18,
+    "object": "cpu",
+    "attribute": "wide",
+    "query": "What is the wide of the cpu?"
+  },
+  {
+    "image_id": 18,
+    "object": "cpu",
+    "attribute": "tall",
+    "query": "What is the tall of the cpu?"
+  },
+  {
+    "image_id": 18,
+    "object": "cpu",
+    "attribute": "black",
+    "query": "What is the color of the cpu?"
+  },
+  {
+    "image_id": 18,
+    "object": "bag",
+    "attribute": "lunch",
+    "query": "What is the lunch of the bag?"
+  },
+  {
+    "image_id": 18,
+    "object": "floor",
+    "attribute": "blue",
+    "query": "What is the color of the floor?"
+  },
+  {
+    "image_id": 18,
+    "object": "floor",
+    "attribute": "black",
+    "query": "What is the color of the floor?"
+  },
+  {
+    "image_id": 18,
+    "object": "books",
+    "attribute": "white",
+    "query": "What is the color of the books?"
+  },
+  {
+    "image_id": 18,
+    "object": "desk",
+    "attribute": "white",
+    "query": "What is the color of the desk?"
+  },
+  {
+    "image_id": 18,
+    "object": "shirt",
+    "attribute": "black",
+    "query": "What is the color of the shirt?"
+  },
+  {
+    "image_id": 18,
+    "object": "shirt",
+    "attribute": "blue",
+    "query": "What is the color of the shirt?"
+  },
+  {
+    "image_id": 18,
+    "object": "wall",
+    "attribute": "white",
+    "query": "What is the color of the wall?"
+  },
+  {
+    "image_id": 18,
+    "object": "chair",
+    "attribute": "black",
+    "query": "What is the color of the chair?"
+  },
+  {
+    "image_id": 19,
+    "object": "mouse",
+    "attribute": "white",
+    "query": "What is the color of the mouse on the left?"
+  },
+  {
+    "image_id": 19,
+    "object": "computer monitor",
+    "attribute": "black",
+    "query": "What is the color of the computer monitor on the left?"
+  },
+  {
+    "image_id": 19,
+    "object": "computer monitor",
+    "attribute": "screen",
+    "query": "What is the screen of the computer monitor on the left?"
+  },
+  {
+    "image_id": 19,
+    "object": "computer monitor",
+    "attribute": "off",
+    "query": "What is the off of the computer monitor on the left?"
+  },
+  {
+    "image_id": 19,
+    "object": "tape",
+    "attribute": "blue",
+    "query": "What is the color of the tape on the left?"
+  },
+  {
+    "image_id": 19,
+    "object": "tape",
+    "attribute": "blue",
+    "query": "What is the color of the tape in the center?"
+  },
+  {
+    "image_id": 19,
+    "object": "tape",
+    "attribute": "blue",
+    "query": "What is the color of the tape in the center?"
+  },
+  {
+    "image_id": 19,
+    "object": "tape",
+    "attribute": "blue",
+    "query": "What is the color of the tape in the center?"
+  },
+  {
+    "image_id": 19,
+    "object": "tape",
+    "attribute": "blue",
+    "query": "What is the color of the tape on the right?"
+  },
+  {
+    "image_id": 19,
+    "object": "wall",
+    "attribute": "white",
+    "query": "What is the color of the wall on the right?"
+  },
+  {
+    "image_id": 19,
+    "object": "connection wire",
+    "attribute": "cable",
+    "query": "What is the cable of the connection wire on the right?"
+  },
+  {
+    "image_id": 19,
+    "object": "keyboard",
+    "attribute": "black",
+    "query": "What is the color of the keyboard on the left?"
+  },
+  {
+    "image_id": 19,
+    "object": "connection wire",
+    "attribute": "cable",
+    "query": "What is the cable of the connection wire on the left?"
+  },
+  {
+    "image_id": 19,
+    "object": "computer screen",
+    "attribute": "off",
+    "query": "What is the off of the computer screen?"
+  },
+  {
+    "image_id": 19,
+    "object": "tube",
+    "attribute": "metal",
+    "query": "What is the metal of the tube?"
+  },
+  {
+    "image_id": 19,
+    "object": "wires",
+    "attribute": "cables",
+    "query": "What is the cables of the wires?"
+  },
+  {
+    "image_id": 19,
+    "object": "computer mouse",
+    "attribute": "black",
+    "query": "What is the color of the computer mouse?"
+  },
+  {
+    "image_id": 19,
+    "object": "computer printer",
+    "attribute": "white",
+    "query": "What is the color of the computer printer?"
+  },
+  {
+    "image_id": 19,
+    "object": "office",
+    "attribute": "bright",
+    "query": "What is the bright of the office?"
+  },
+  {
+    "image_id": 19,
+    "object": "office",
+    "attribute": "lit",
+    "query": "What is the lit of the office?"
+  },
+  {
+    "image_id": 19,
+    "object": "desk",
+    "attribute": "white",
+    "query": "What is the color of the desk on the left?"
+  },
+  {
+    "image_id": 19,
+    "object": "desktop computer",
+    "attribute": "off",
+    "query": "What is the off of the desktop computer in the center?"
+  },
+  {
+    "image_id": 19,
+    "object": "printer cable",
+    "attribute": "white",
+    "query": "What is the color of the printer cable?"
+  },
+  {
+    "image_id": 19,
+    "object": "chair",
+    "attribute": "tan",
+    "query": "What is the tan of the chair?"
+  },
+  {
+    "image_id": 19,
+    "object": "chair",
+    "attribute": "brown",
+    "query": "What is the color of the chair?"
+  },
+  {
+    "image_id": 19,
+    "object": "chair",
+    "attribute": "orange",
+    "query": "What is the color of the chair?"
+  },
+  {
+    "image_id": 19,
+    "object": "computer monitor",
+    "attribute": "off",
+    "query": "What is the off of the computer monitor on the right?"
+  },
+  {
+    "image_id": 19,
+    "object": "printer",
+    "attribute": "white",
+    "query": "What is the color of the printer on the left?"
+  },
+  {
+    "image_id": 19,
+    "object": "monitor",
+    "attribute": "off",
+    "query": "What is the off of the monitor in the center?"
+  },
+  {
+    "image_id": 19,
+    "object": "monitor",
+    "attribute": "white",
+    "query": "What is the color of the monitor on the right?"
+  },
+  {
+    "image_id": 19,
+    "object": "monitor",
+    "attribute": "grey",
+    "query": "What is the grey of the monitor on the right?"
+  },
+  {
+    "image_id": 19,
+    "object": "desk",
+    "attribute": "rectangular",
+    "query": "What is the rectangular of the desk on the right?"
+  },
+  {
+    "image_id": 19,
+    "object": "speaker",
+    "attribute": "black",
+    "query": "What is the color of the speaker?"
+  },
+  {
+    "image_id": 19,
+    "object": "monitor",
+    "attribute": "black",
+    "query": "What is the color of the monitor on the left?"
+  },
+  {
+    "image_id": 19,
+    "object": "printer",
+    "attribute": "white",
+    "query": "What is the color of the printer on the right?"
+  },
+  {
+    "image_id": 19,
+    "object": "mouse",
+    "attribute": "black",
+    "query": "What is the color of the mouse on the right?"
+  },
+  {
+    "image_id": 19,
+    "object": "fire alarm",
+    "attribute": "red",
+    "query": "What is the color of the fire alarm?"
+  },
+  {
+    "image_id": 19,
+    "object": "mouse",
+    "attribute": "black",
+    "query": "What is the color of the mouse in the center?"
+  },
+  {
+    "image_id": 19,
+    "object": "scene",
+    "attribute": "indoor",
+    "query": "What is the indoor of the scene?"
+  },
+  {
+    "image_id": 19,
+    "object": "cables",
+    "attribute": "wire ",
+    "query": "What is the wire  of the cables?"
+  },
+  {
+    "image_id": 19,
+    "object": "roof",
+    "attribute": "well lit",
+    "query": "What is the well lit of the roof?"
+  },
+  {
+    "image_id": 19,
+    "object": "wall",
+    "attribute": "pale white",
+    "query": "What is the pale white of the wall on the left?"
+  }
+]

@@ -1,0 +1,105 @@
+{
+  "2406881": {
+    "person-WEARING-shoes": {
+      "original_relationship": {
+        "subject": "person",
+        "action": "WEARING",
+        "object": "shoes"
+      },
+      "queries": {
+        "yes_no_question": "Is the person tying shoes?",
+        "descriptive_prompt": "Describe the person polishing shoes."
+      }
+    },
+    "person-wearing-shoes": {
+      "original_relationship": {
+        "subject": "person",
+        "action": "wearing",
+        "object": "shoes"
+      },
+      "queries": {
+        "yes_no_question": "Is the person tying the shoes?",
+        "descriptive_prompt": "Describe the person polishing the shoes."
+      }
+    },
+    "person-WEARING-shirt": {
+      "original_relationship": {
+        "subject": "person",
+        "action": "WEARING",
+        "object": "shirt"
+      },
+      "queries": {
+        "yes_no_question": "Is the person removing the shirt?",
+        "descriptive_prompt": "Describe the person tying the shirt."
+      }
+    },
+    "wall-covered in-graffiti": {
+      "original_relationship": {
+        "subject": "wall",
+        "action": "covered in",
+        "object": "graffiti"
+      },
+      "queries": {
+        "yes_no_question": "Is the wall painting the graffiti?",
+        "descriptive_prompt": "Describe the wall admiring the graffiti."
+      }
+    }
+  },
+  "2398232": {
+    "legs-attached to-horse": {
+      "original_relationship": {
+        "subject": "legs",
+        "action": "attached to",
+        "object": "horse"
+      },
+      "queries": {
+        "yes_no_question": "Is the horse pulling the legs?",
+        "descriptive_prompt": "Describe the horse lifting the legs."
+      }
+    },
+    "legs-are part of-horse": {
+      "original_relationship": {
+        "subject": "legs",
+        "action": "are part of",
+        "object": "horse"
+      },
+      "queries": {
+        "yes_no_question": "Are the legs running the horse?",
+        "descriptive_prompt": "Describe the legs riding the horse."
+      }
+    },
+    "flowers-are behind-horse": {
+      "original_relationship": {
+        "subject": "flowers",
+        "action": "are behind",
+        "object": "horse"
+      },
+      "queries": {
+        "yes_no_question": "Are the flowers climbing the horse?",
+        "descriptive_prompt": "Describe the flowers entwining the horse."
+      }
+    },
+    "grass-being eaten by-horse": {
+      "original_relationship": {
+        "subject": "grass",
+        "action": "being eaten by",
+        "object": "horse"
+      },
+      "queries": {
+        "yes_no_question": "Is the horse painting the grass?",
+        "descriptive_prompt": "Describe the horse painting the grass."
+      }
+    },
+    "grass-below-horse": {
+      "original_relationship": {
+        "subject": "grass",
+        "action": "below",
+        "object": "horse"
+      },
+      "queries": {
+        "yes_no_question": "Is the horse hiding behind the grass?",
+        "descriptive_prompt": "Describe the horse nesting in the grass."
+      }
+    }
+  }
+}

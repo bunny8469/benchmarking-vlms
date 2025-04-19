@@ -1,0 +1,43 @@
+    {
+    "image_id": 615,
+    "query": "Does the image contain any bag?",
+    "ground_truth": "Yes",
+    "prediction": "no",
+    "word_probs": {
+      "yes": 0.8254140019416809,
+      "no": 0.17458590865135193
+    }
+  }
+  
+  {
+    "image_id": 3963,
+    "query": "Does the image contain any dragon?",
+    "ground_truth": "Yes",
+    "prediction": "no",
+    "word_probs": {
+      "yes": 0.1133798211812973,
+      "no": 0.8866202235221863
+    }
+  }
+
+    {
+    "image_id": 150517,
+    "query": "Can you see camera in this picture?",
+    "ground_truth": "Yes",
+    "prediction": "no",
+    "word_probs": {
+      "yes": 0.8591505885124207,
+      "no": 0.14084944128990173
+    }
+  }
+
+    {
+    "image_id": 286004,
+    "query": "Is there dog in the image?",
+    "ground_truth": "Yes",
+    "prediction": "no",
+    "word_probs": {
+      "yes": 0.35492143034935,
+      "no": 0.6450785994529724
+    }
+  }

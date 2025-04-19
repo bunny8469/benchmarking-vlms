@@ -1,0 +1,42 @@
+[
+  {
+    "object": "dog",
+    "correlated_objects": [
+      "leash",
+      "bone",
+      "barking"
+    ]
+  },
+  {
+    "object": "dog",
+    "correlated_objects": [
+      "leash",
+      "bone",
+      "barking"
+    ]
+  },
+  {
+    "object": "dog",
+    "correlated_objects": [
+      "['leash'",
+      "'bone'",
+      "'collar']"
+    ]
+  },
+  {
+    "object": "dog",
+    "correlated_objects": [
+      "['leash'",
+      "'bone'",
+      "'collar']"
+    ]
+  },
+  {
+    "object": "dog",
+    "correlated_objects": [
+      "leash",
+      "bone",
+      "collar"
+    ]
+  }
+]

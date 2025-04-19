@@ -1,0 +1,7359 @@
+[
+  {
+    "image_id": 615,
+    "query": "Is there drum in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a drum in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 615,
+    "query": "Is there concert in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no concert in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 615,
+    "query": "Does the image contain any wallet?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not show any wallet.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 615,
+    "query": "Is there book in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 615,
+    "query": "Does the image contain any pocket?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1523,
+    "query": "Does the image contain any cup?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a cup in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1523,
+    "query": "Does the image contain any door?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1523,
+    "query": "Is there prototype in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1523,
+    "query": "Does the image contain any sketch?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image contains a pencil sketch.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1523,
+    "query": "Does the image contain any Outlet?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1901,
+    "query": "Is there tie in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1901,
+    "query": "Is there phone in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1901,
+    "query": "Does the image contain any beard?",
+    "ground_truth": "No",
+    "prediction": "Yes, the man is clearly visible with a beard on his face.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1901,
+    "query": "Is there identity in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is an identifiable person on the boat.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1901,
+    "query": "Does the image contain any signature?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 3963,
+    "query": "Is there bat in the image?",
+    "ground_truth": "No",
+    "prediction": "No, the image is not clear enough to make that determination.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 3963,
+    "query": "Does the image contain any Sun?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 3963,
+    "query": "Is there glove in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a glove clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 3963,
+    "query": "Is there Shadow in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, the shadow is clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 3963,
+    "query": "Is there ball in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a ball in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 4146,
+    "query": "Is there Chips in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there are chips in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 4146,
+    "query": "Is there suit in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a suit in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 4146,
+    "query": "Does the image contain any beard?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 4146,
+    "query": "Is there Dealer in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 4146,
+    "query": "Does the image contain any Cards?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image contains cards.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 150517,
+    "query": "Is there Wedding in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no Wedding in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 150517,
+    "query": "Does the image contain any mosaic?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image contains a mosaic.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 150517,
+    "query": "Does the image contain any diamond?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not show any diamonds.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 150517,
+    "query": "Is there mirror in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a mirror in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 150517,
+    "query": "Does the image contain any hat?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not show a hat.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 285832,
+    "query": "Is there guitar in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a guitar in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 285832,
+    "query": "Is there jacket in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a jacket on the woman in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 285832,
+    "query": "Is there switch in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a switch on the motorcycle.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 285832,
+    "query": "Does the image contain any road?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a road in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 285832,
+    "query": "Is there lightbulb in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a lightbulb in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 286004,
+    "query": "Is there chimney in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a chimney in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 286004,
+    "query": "Is there Foot in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a foot in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 286004,
+    "query": "Is there Lace in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 286004,
+    "query": "Is there wall in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a wall in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 286004,
+    "query": "Is there tie in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no tie in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1159766,
+    "query": "Is there desk in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1159766,
+    "query": "Does the image contain any Hat?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1159766,
+    "query": "Does the image contain any Sunscreen?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a red umbrella with sunscreen in the background.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1159766,
+    "query": "Does the image contain any hanger?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1159766,
+    "query": "Is there table in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a table in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1159789,
+    "query": "Is there suitcase in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a suitcase in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1159789,
+    "query": "Is there steering wheel in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, the steering wheel is clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1159789,
+    "query": "Does the image contain any brake pedal?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1159789,
+    "query": "Does the image contain any shopping cart?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1159789,
+    "query": "Does the image contain any dashboard?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1592132,
+    "query": "Does the image contain any button?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1592132,
+    "query": "Does the image contain any Snowman?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1592132,
+    "query": "Is there zipper in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1592132,
+    "query": "Does the image contain any Sled?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1592132,
+    "query": "Does the image contain any Skis?",
+    "ground_truth": "No",
+    "prediction": "Yes, there are skis clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1592439,
+    "query": "Does the image contain any cup?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1592439,
+    "query": "Does the image contain any knife?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1592439,
+    "query": "Does the image contain any door?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a door in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1592439,
+    "query": "Is there cheese in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is cheese on the pizza.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1592439,
+    "query": "Is there sauce in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a red sauce on the pizza.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2414248,
+    "query": "Is there fish in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there are no fish in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2414248,
+    "query": "Does the image contain any surfboard?",
+    "ground_truth": "No",
+    "prediction": "Yes, the surfboard is clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2414248,
+    "query": "Does the image contain any river?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a river in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2414248,
+    "query": "Is there ocean in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2414248,
+    "query": "Does the image contain any bottle?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2414101,
+    "query": "Is there chair in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2414101,
+    "query": "Is there lamp in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2414101,
+    "query": "Is there bed in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2414101,
+    "query": "Is there ice in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2414101,
+    "query": "Does the image contain any can?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a can clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2412511,
+    "query": "Is there nest in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a nest in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2412511,
+    "query": "Is there Scarf in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no scarf in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2412511,
+    "query": "Does the image contain any Collar?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not contain a collar.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2412511,
+    "query": "Is there Necklace in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2412511,
+    "query": "Does the image contain any sock?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2412490,
+    "query": "Does the image contain any post?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2412490,
+    "query": "Does the image contain any frame?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a frame visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2412490,
+    "query": "Does the image contain any traffic?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is traffic in the image with two buses parked at a bus stop.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2412490,
+    "query": "Does the image contain any curb?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2412490,
+    "query": "Is there glass in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a clear piece of glass in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2411389,
+    "query": "Is there ball in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a ball in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2411389,
+    "query": "Does the image contain any field?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a field in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2411389,
+    "query": "Does the image contain any team?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a team clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2411389,
+    "query": "Does the image contain any tennis?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image clearly shows a tennis player hitting a ball.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2411389,
+    "query": "Does the image contain any bandage?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2410331,
+    "query": "Does the image contain any belt?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2410331,
+    "query": "Does the image contain any gift?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2410331,
+    "query": "Does the image contain any tape?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a piece of tape in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2410331,
+    "query": "Does the image contain any lid?",
+    "ground_truth": "No",
+    "prediction": "No, there is no lid in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2410331,
+    "query": "Does the image contain any pocket?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a pocket on the skateboarder's shirt.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2410177,
+    "query": "Does the image contain any commercial?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image contains a commercial with money in it.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2410177,
+    "query": "Does the image contain any tie?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a tie in the image",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2410177,
+    "query": "Does the image contain any suit?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a suit in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2410177,
+    "query": "Does the image contain any billboard?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image contains a billboard with a sign in the middle.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2410177,
+    "query": "Is there product in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image clearly shows a product in the form of a cash box.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2409913,
+    "query": "Does the image contain any Dressing?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a dress on the girl in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2409913,
+    "query": "Is there Salad in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no salad in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2409913,
+    "query": "Is there Scarf in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, the scarf is clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2409913,
+    "query": "Does the image contain any stove?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a stove in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2409913,
+    "query": "Does the image contain any spoon?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2409581,
+    "query": "Does the image contain any shampoo?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not show any shampoo.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2409581,
+    "query": "Does the image contain any Comb?",
+    "ground_truth": "No",
+    "prediction": "No, there is no comb in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2409581,
+    "query": "Is there sleeve in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2409581,
+    "query": "Does the image contain any Lobe?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2409581,
+    "query": "Is there glove in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2409108,
+    "query": "Does the image contain any coal?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2409108,
+    "query": "Is there track in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2409108,
+    "query": "Does the image contain any flag?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2409108,
+    "query": "Is there calculator in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a calculator in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2409108,
+    "query": "Is there graph in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no graph in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2409084,
+    "query": "Is there camera in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a camera in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2409084,
+    "query": "Is there toothbrush in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2409084,
+    "query": "Does the image contain any spoon?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2409084,
+    "query": "Does the image contain any lipstick?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2409084,
+    "query": "Does the image contain any shingle?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2408930,
+    "query": "Is there anchor in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2408930,
+    "query": "Is there knot in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no knot in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2408930,
+    "query": "Is there suit in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a suit in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2408930,
+    "query": "Does the image contain any pulley?",
+    "ground_truth": "No",
+    "prediction": "No, there is no pulley in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2408930,
+    "query": "Is there beard in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2407933,
+    "query": "Is there tire in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a tire clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2407933,
+    "query": "Is there refrigerator in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a refrigerator in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2407933,
+    "query": "Does the image contain any Fire Truck?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2407933,
+    "query": "Does the image contain any Rose?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2407933,
+    "query": "Does the image contain any road?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406818,
+    "query": "Is there vase in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a vase in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406818,
+    "query": "Is there borders in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there are borders in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406818,
+    "query": "Does the image contain any book?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a book in the image",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406818,
+    "query": "Does the image contain any corners?",
+    "ground_truth": "No",
+    "prediction": "Yes, there are a few corners in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406818,
+    "query": "Is there lines in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there are multiple lines visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406677,
+    "query": "Does the image contain any Garden?",
+    "ground_truth": "No",
+    "prediction": "No, there is no garden in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406677,
+    "query": "Does the image contain any mitten?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406677,
+    "query": "Does the image contain any Herbicide?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not contain any herbicide.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406677,
+    "query": "Is there Hair in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is hair on the player.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406677,
+    "query": "Is there Shovel in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406429,
+    "query": "Does the image contain any Rose?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406429,
+    "query": "Does the image contain any vehicle?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406429,
+    "query": "Does the image contain any belt?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406429,
+    "query": "Is there road in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is clearly a road in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406429,
+    "query": "Does the image contain any pocket?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406039,
+    "query": "Does the image contain any ball?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image contains a ball clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406039,
+    "query": "Does the image contain any net?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406039,
+    "query": "Does the image contain any crane?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406039,
+    "query": "Is there Racket in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406039,
+    "query": "Is there blueprint in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no blueprint in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405887,
+    "query": "Is there Nail in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a nail clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405887,
+    "query": "Does the image contain any Ring?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not contain any ring",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405887,
+    "query": "Is there roof in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a roof in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405887,
+    "query": "Is there ladder in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a ladder in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405887,
+    "query": "Does the image contain any suit?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405866,
+    "query": "Is there brush in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a brush in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405866,
+    "query": "Does the image contain any button?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405866,
+    "query": "Does the image contain any shampoo?",
+    "ground_truth": "No",
+    "prediction": "No, there is no shampoo in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405866,
+    "query": "Does the image contain any Comb?",
+    "ground_truth": "No",
+    "prediction": "Yes, I see a comb in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405866,
+    "query": "Is there Hanger in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405347,
+    "query": "Does the image contain any Sock?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405347,
+    "query": "Does the image contain any team?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a team of people in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405347,
+    "query": "Does the image contain any meeting?",
+    "ground_truth": "No",
+    "prediction": "Yes, there are several people standing together on a tennis court.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405347,
+    "query": "Does the image contain any spoon?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405347,
+    "query": "Does the image contain any leader?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a leader clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405284,
+    "query": "Is there hat in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a hat in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405284,
+    "query": "Is there stick in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405284,
+    "query": "Does the image contain any pillow?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not contain any pillow.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405284,
+    "query": "Does the image contain any helmet?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not contain any helmet.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405284,
+    "query": "Does the image contain any soup?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a large pot of soup in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2404950,
+    "query": "Is there cloud in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there are clouds in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2404950,
+    "query": "Does the image contain any shampoo?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2404950,
+    "query": "Is there star in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a star visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2404950,
+    "query": "Is there tie in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2404950,
+    "query": "Does the image contain any Comb?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not contain any comb.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2404341,
+    "query": "Does the image contain any burrow?",
+    "ground_truth": "No",
+    "prediction": "No, there is no burrow in the image",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2404341,
+    "query": "Does the image contain any console?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2404341,
+    "query": "Is there forest in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a forest in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2404341,
+    "query": "Does the image contain any Skis?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a skier in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2404341,
+    "query": "Does the image contain any controller?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a controller in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403791,
+    "query": "Does the image contain any Fabric?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image contains some fabric and a skateboard.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403791,
+    "query": "Does the image contain any belt?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image clearly shows a belt on the boy's hip.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403791,
+    "query": "Does the image contain any Ink?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is an ink on the wall or board.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403791,
+    "query": "Does the image contain any hairbow?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403791,
+    "query": "Is there hat in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, the hat is clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403783,
+    "query": "Is there bridge in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403783,
+    "query": "Does the image contain any bottle?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403783,
+    "query": "Does the image contain any cork?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403783,
+    "query": "Is there printer in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403783,
+    "query": "Is there water in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is clear water in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403623,
+    "query": "Does the image contain any head?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403623,
+    "query": "Is there phone in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403623,
+    "query": "Does the image contain any elbow pad?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403623,
+    "query": "Is there feather in the image?",
+    "ground_truth": "No",
+    "prediction": "No, I don't see any feather in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403623,
+    "query": "Is there book in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403363,
+    "query": "Does the image contain any mouse?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403363,
+    "query": "Is there leaf in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403363,
+    "query": "Does the image contain any driver?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403363,
+    "query": "Is there stop in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a stop in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403363,
+    "query": "Does the image contain any tree?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2402361,
+    "query": "Is there Dress in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2402361,
+    "query": "Is there Handbag in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2402361,
+    "query": "Is there post in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2402361,
+    "query": "Does the image contain any yard?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image contains a tennis court and two players in the background.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2402361,
+    "query": "Is there Lipstick in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is clearly a woman wearing lipstick in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2401506,
+    "query": "Is there Dress in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a dress in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2401506,
+    "query": "Is there camera in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a camera clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2401506,
+    "query": "Is there frame in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a frame visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2401506,
+    "query": "Is there clock in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a clock clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2401506,
+    "query": "Is there album in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, an album is clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2401431,
+    "query": "Does the image contain any wallet?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image clearly shows a wallet on a person's wrist.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2401431,
+    "query": "Does the image contain any screws?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2401431,
+    "query": "Is there hinges in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there are obvious hinges in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2401431,
+    "query": "Does the image contain any keys?",
+    "ground_truth": "No",
+    "prediction": "Yes, there are several keys in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2401431,
+    "query": "Is there cart in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2401033,
+    "query": "Does the image contain any snow?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2401033,
+    "query": "Does the image contain any watch?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2401033,
+    "query": "Does the image contain any baseball?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not contain any baseball.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2401033,
+    "query": "Does the image contain any bracelet?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2401033,
+    "query": "Does the image contain any Hand?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image clearly shows a hand.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2397681,
+    "query": "Is there picture in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2397681,
+    "query": "Does the image contain any tree?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2397681,
+    "query": "Does the image contain any orchard?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2397681,
+    "query": "Does the image contain any paint?",
+    "ground_truth": "No",
+    "prediction": "No, there is no paint in this image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2397681,
+    "query": "Does the image contain any hinge?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2397554,
+    "query": "Does the image contain any ladder?",
+    "ground_truth": "No",
+    "prediction": "No, there is no ladder in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2397554,
+    "query": "Is there fish in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there are some fish in the water.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2397554,
+    "query": "Is there roof in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no roof in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2397554,
+    "query": "Does the image contain any boat?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2397554,
+    "query": "Is there mountain in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no mountain in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2397035,
+    "query": "Does the image contain any paper?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2397035,
+    "query": "Does the image contain any sewer?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image does not contain any sewer.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2397035,
+    "query": "Does the image contain any pencil?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2397035,
+    "query": "Does the image contain any off-road?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2397035,
+    "query": "Does the image contain any Ruler?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2396734,
+    "query": "Does the image contain any brick?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a brick in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2396734,
+    "query": "Does the image contain any house?",
+    "ground_truth": "No",
+    "prediction": "No, there is no house in the image",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2396734,
+    "query": "Does the image contain any crane?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2396734,
+    "query": "Is there Shoes in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a pair of shoes in the picture.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2396734,
+    "query": "Is there blueprint in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image shows a blueprint with a man in the background.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2396122,
+    "query": "Is there contact lens in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a contact lens in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2396122,
+    "query": "Is there stage in the image?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not show any stage.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2396122,
+    "query": "Is there tennis in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no tennis in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2396122,
+    "query": "Is there suit in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a suit in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2396122,
+    "query": "Does the image contain any beard?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a beard in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2395290,
+    "query": "Is there Fries in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there are french fries in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2395290,
+    "query": "Does the image contain any hanger?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2395290,
+    "query": "Does the image contain any bottle?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2395290,
+    "query": "Does the image contain any ketchup?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2395290,
+    "query": "Is there grater in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a grater in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2394926,
+    "query": "Is there hanger in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2394926,
+    "query": "Does the image contain any toy?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a toy in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2394926,
+    "query": "Is there child in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no child in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2394926,
+    "query": "Does the image contain any jeans?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2394926,
+    "query": "Is there desk in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a desk in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393957,
+    "query": "Does the image contain any pants?",
+    "ground_truth": "No",
+    "prediction": "Yes, there are two men in the image wearing pants.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393957,
+    "query": "Does the image contain any hanger?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393957,
+    "query": "Is there button in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393957,
+    "query": "Does the image contain any athlete?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a tennis player in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393957,
+    "query": "Does the image contain any shoe?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393783,
+    "query": "Does the image contain any printer?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393783,
+    "query": "Is there book in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a book in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393783,
+    "query": "Is there pen in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393783,
+    "query": "Does the image contain any Earrings?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393783,
+    "query": "Is there plate in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a plate in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393728,
+    "query": "Is there Bread in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393728,
+    "query": "Does the image contain any Plate?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a plate visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393728,
+    "query": "Is there Lipstick in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is lipstick on the woman's lips.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393728,
+    "query": "Does the image contain any Table?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a table in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393728,
+    "query": "Does the image contain any Dress?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393720,
+    "query": "Does the image contain any road?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a road in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393720,
+    "query": "Is there plate in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a plate in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393720,
+    "query": "Is there vehicle in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393720,
+    "query": "Does the image contain any fork?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393720,
+    "query": "Is there knife in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2392460,
+    "query": "Does the image contain any Glove?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2392460,
+    "query": "Is there Sword in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no sword in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2392460,
+    "query": "Is there Mask in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a mask in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2392460,
+    "query": "Is there stadium in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no stadium in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2392460,
+    "query": "Does the image contain any crowd?",
+    "ground_truth": "No",
+    "prediction": "No, there is no crowd in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2390079,
+    "query": "Does the image contain any rider?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2390079,
+    "query": "Is there yard in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2390079,
+    "query": "Does the image contain any bike?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2390079,
+    "query": "Does the image contain any race?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image clearly shows a white person skiing down a mountain.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2390079,
+    "query": "Is there gate in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2389815,
+    "query": "Does the image contain any watch?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a watch clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2389815,
+    "query": "Does the image contain any glove?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2389815,
+    "query": "Does the image contain any sleeve?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2389815,
+    "query": "Is there ring in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a ring in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2389740,
+    "query": "Is there glasses in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2389740,
+    "query": "Is there mirror in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a mirror in the image",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2389740,
+    "query": "Is there camera in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2389740,
+    "query": "Is there pen in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2389740,
+    "query": "Does the image contain any paint?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2389259,
+    "query": "Does the image contain any net?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2389259,
+    "query": "Is there ball in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a ball on the court.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2389259,
+    "query": "Is there Racquet in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a tennis racquet clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2389192,
+    "query": "Does the image contain any album?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2389192,
+    "query": "Is there Landfill in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is clearly visible Landfill in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2389192,
+    "query": "Does the image contain any Recycling Bin?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a recycling bin clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2389192,
+    "query": "Does the image contain any Dumpster?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a dumpster clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2389192,
+    "query": "Does the image contain any ticket?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image clearly shows a ticket in the train station.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2387142,
+    "query": "Is there road in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a road in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2387142,
+    "query": "Is there chimney in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no chimney in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2387142,
+    "query": "Is there shingle in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2387142,
+    "query": "Is there blueprint in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a blue print visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2387142,
+    "query": "Does the image contain any paper?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a piece of paper in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2387095,
+    "query": "Is there suit in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2387095,
+    "query": "Is there Cotton swab in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a cotton swab in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2387095,
+    "query": "Is there contact lens in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2387095,
+    "query": "Does the image contain any Hearing aid?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2387095,
+    "query": "Does the image contain any eyelash curler?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2387076,
+    "query": "Is there towel in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a towel on the sink.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2387076,
+    "query": "Does the image contain any plunger?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2387076,
+    "query": "Does the image contain any water?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2387076,
+    "query": "Is there soap in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is soap in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2387076,
+    "query": "Is there bathtub in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2386250,
+    "query": "Is there shopping cart in the image?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not contain a shopping cart.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2386250,
+    "query": "Is there shelf in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2386250,
+    "query": "Does the image contain any receipt?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2386250,
+    "query": "Does the image contain any charger?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a charger in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2386250,
+    "query": "Is there cash register in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a cash register in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2385687,
+    "query": "Is there wind in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is wind in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2385687,
+    "query": "Is there frame in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a frame in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2385687,
+    "query": "Is there event in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2385687,
+    "query": "Does the image contain any camera?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2385687,
+    "query": "Does the image contain any artist?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a man standing next to paintings",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2385637,
+    "query": "Does the image contain any person?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2385637,
+    "query": "Is there watch in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2385637,
+    "query": "Does the image contain any shelf?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2385637,
+    "query": "Does the image contain any chair?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2385637,
+    "query": "Does the image contain any ring?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2384566,
+    "query": "Is there suit in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2384566,
+    "query": "Does the image contain any Lamp?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a lamp clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2384566,
+    "query": "Is there tie in the image?",
+    "ground_truth": "No",
+    "prediction": "No, the tie is not visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2384566,
+    "query": "Does the image contain any Sun?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2384566,
+    "query": "Does the image contain any Shadow?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a shadow behind the person in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2384536,
+    "query": "Does the image contain any Fruit?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not show any fruit.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2384536,
+    "query": "Is there straw in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is straw visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2384536,
+    "query": "Does the image contain any Wedding?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not show a wedding event.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2384536,
+    "query": "Does the image contain any diamond?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a diamond in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2384536,
+    "query": "Is there glass in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a glass on the plate.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2384327,
+    "query": "Is there matches in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there are two matches clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2384327,
+    "query": "Does the image contain any fork?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2384327,
+    "query": "Does the image contain any spoon?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2384327,
+    "query": "Is there logs in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2384327,
+    "query": "Is there plate in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a plate in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2383950,
+    "query": "Does the image contain any sun?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2383950,
+    "query": "Does the image contain any nest?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2383950,
+    "query": "Is there squirrel in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a squirrel in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2383950,
+    "query": "Is there garbage bag in the image?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not contain a garbage bag.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2383950,
+    "query": "Is there dumpster in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a dumpster in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2383437,
+    "query": "Does the image contain any headphones?",
+    "ground_truth": "No",
+    "prediction": "No, I don't see any headphones in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2383437,
+    "query": "Does the image contain any Trowel?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not contain any trowel.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2383437,
+    "query": "Is there museum in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a museum in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2383437,
+    "query": "Is there bird in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no bird in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2383437,
+    "query": "Is there windmill in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2383254,
+    "query": "Does the image contain any belt?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2383254,
+    "query": "Is there shirt in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a shirt in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2383254,
+    "query": "Is there pocket in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a pocket on the woman's back.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2383254,
+    "query": "Does the image contain any dashboard?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image clearly shows a dashboard with a man on a scooter.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2383254,
+    "query": "Is there steering wheel in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a steering wheel in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2382960,
+    "query": "Does the image contain any weight?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2382960,
+    "query": "Is there peak in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a peak in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2382960,
+    "query": "Is there shelf in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a shelf in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2382960,
+    "query": "Does the image contain any sun?",
+    "ground_truth": "No",
+    "prediction": "No, there is no sun in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2382960,
+    "query": "Is there Light in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a light source in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2382861,
+    "query": "Does the image contain any Nut?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a nut visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2382861,
+    "query": "Is there light in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is light in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2382861,
+    "query": "Does the image contain any traffic light?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2382861,
+    "query": "Is there traffic in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a stop sign and there are no vehicles in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2382861,
+    "query": "Is there wrench in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no wrench in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2382485,
+    "query": "Does the image contain any watch?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2382485,
+    "query": "Does the image contain any album?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not contain any album.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2382485,
+    "query": "Does the image contain any contact lens?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a contact lens on the man's eye.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2382485,
+    "query": "Does the image contain any frame?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a frame that can be clearly seen in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2382485,
+    "query": "Is there eyelash curler in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2381462,
+    "query": "Does the image contain any Bubble?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a bubble in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2381462,
+    "query": "Does the image contain any horizon?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a clear horizon in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2381462,
+    "query": "Does the image contain any Sponge?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not contain any Sponge",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2381462,
+    "query": "Is there Shampoo in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is shampoo in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2381462,
+    "query": "Is there tie in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no tie in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2381350,
+    "query": "Is there helmet in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a helmet in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2381350,
+    "query": "Does the image contain any Skis?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2381350,
+    "query": "Is there Sled in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a sled in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2381350,
+    "query": "Is there squirrel in the image?",
+    "ground_truth": "No",
+    "prediction": "No, I do not see any squirrels in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2381350,
+    "query": "Does the image contain any hiking?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2379198,
+    "query": "Is there goal in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a baseball field with a player throwing a ball.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2379198,
+    "query": "Does the image contain any tree?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2379198,
+    "query": "Does the image contain any bat?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2379198,
+    "query": "Does the image contain any grass?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2379198,
+    "query": "Is there glove in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2379133,
+    "query": "Does the image contain any shark?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2379133,
+    "query": "Does the image contain any wetsuit?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a wetsuit in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2379133,
+    "query": "Does the image contain any cloud?",
+    "ground_truth": "No",
+    "prediction": "No, the image doesn't show any cloud.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2379133,
+    "query": "Does the image contain any star?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not contain any stars",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2379133,
+    "query": "Does the image contain any water?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image contains a person in the water surfing a wave.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2378945,
+    "query": "Is there water in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image is of a living room with no sign of water.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2378945,
+    "query": "Does the image contain any watch?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2378945,
+    "query": "Is there frame in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, the frame is clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2378945,
+    "query": "Is there glass in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a glass window on the wall in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2378945,
+    "query": "Is there curtain in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2378546,
+    "query": "Is there cloud in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there are several clouds in the background.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2378546,
+    "query": "Does the image contain any string?",
+    "ground_truth": "No",
+    "prediction": "No, there is no string in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2378546,
+    "query": "Is there star in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2378546,
+    "query": "Does the image contain any sun?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2378546,
+    "query": "Does the image contain any wind?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a strong breeze in the picture.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377743,
+    "query": "Does the image contain any pants?",
+    "ground_truth": "No",
+    "prediction": "Yes, there are pants in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377743,
+    "query": "Does the image contain any toy?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a toy in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377743,
+    "query": "Does the image contain any hanger?",
+    "ground_truth": "No",
+    "prediction": "No, there is no hanger in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377743,
+    "query": "Does the image contain any guitar?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not contain any guitar.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377743,
+    "query": "Is there microphone in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a microphone in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377590,
+    "query": "Is there Glove in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a glove in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377590,
+    "query": "Is there Dalmatian in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a Dalmatian in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377590,
+    "query": "Is there picture in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377590,
+    "query": "Does the image contain any polka dot?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377590,
+    "query": "Is there Nail in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377372,
+    "query": "Does the image contain any shoe?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377372,
+    "query": "Does the image contain any hanger?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377372,
+    "query": "Does the image contain any button?",
+    "ground_truth": "No",
+    "prediction": "No, there is no button in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377372,
+    "query": "Does the image contain any grass?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377372,
+    "query": "Does the image contain any pants?",
+    "ground_truth": "No",
+    "prediction": "No, the image is a white background with no pants.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377349,
+    "query": "Does the image contain any grass?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not contain any grass.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377349,
+    "query": "Does the image contain any seashell?",
+    "ground_truth": "No",
+    "prediction": "No, there is no seashell in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377349,
+    "query": "Does the image contain any sock?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377349,
+    "query": "Does the image contain any tree?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377349,
+    "query": "Does the image contain any boat?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not contain any boat.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377245,
+    "query": "Is there fruit in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no fruit in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377245,
+    "query": "Is there post in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377245,
+    "query": "Is there traffic in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is clearly traffic in the image",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377245,
+    "query": "Does the image contain any light?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is light visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377245,
+    "query": "Is there dock in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a dock in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376812,
+    "query": "Does the image contain any helmet?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not contain any helmet.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376812,
+    "query": "Is there cup in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376812,
+    "query": "Is there nest in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no nest in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376812,
+    "query": "Is there gloves in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376812,
+    "query": "Does the image contain any jacket?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376537,
+    "query": "Does the image contain any journey?",
+    "ground_truth": "No",
+    "prediction": "Yes, the giraffe is standing near the fence in the image. The image doesn't contain a journey",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376537,
+    "query": "Is there bird in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a bird in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376537,
+    "query": "Is there twig in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a twig in the image",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376537,
+    "query": "Is there squirrel in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a squirrel in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376537,
+    "query": "Is there Leaf in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a leaf in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376182,
+    "query": "Does the image contain any crop?",
+    "ground_truth": "No",
+    "prediction": "No, the image is not cropped.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376182,
+    "query": "Does the image contain any bat?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a baseball bat clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376182,
+    "query": "Does the image contain any jersey?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a jersey in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376182,
+    "query": "Is there farmer in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376182,
+    "query": "Is there umpire in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, the umpire is clearly visible in the image",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376150,
+    "query": "Does the image contain any lamp?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376150,
+    "query": "Is there chair in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376150,
+    "query": "Does the image contain any satellite?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not contain any satellite.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376150,
+    "query": "Is there transmitter in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376150,
+    "query": "Does the image contain any net?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375790,
+    "query": "Does the image contain any sun?",
+    "ground_truth": "No",
+    "prediction": "Yes, the sun can be clearly seen in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375790,
+    "query": "Does the image contain any star?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not contain any star.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375790,
+    "query": "Is there branch in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375790,
+    "query": "Does the image contain any cloud?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image clearly shows a cloud in the background.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375790,
+    "query": "Does the image contain any Shovel?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375641,
+    "query": "Does the image contain any Cotton swab?",
+    "ground_truth": "No",
+    "prediction": "No, there is no Cotton swab in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375641,
+    "query": "Is there watch in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a watch in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375641,
+    "query": "Is there wetsuit in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a wetsuit in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375641,
+    "query": "Does the image contain any goggles?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375641,
+    "query": "Does the image contain any wave?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375293,
+    "query": "Is there shirt in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375293,
+    "query": "Is there helmet in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a helmet in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375293,
+    "query": "Does the image contain any suit?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a suit in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375293,
+    "query": "Is there Handbag in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a handbag in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375293,
+    "query": "Does the image contain any pillow?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a pillow clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375215,
+    "query": "Does the image contain any motorcycle?",
+    "ground_truth": "No",
+    "prediction": "No, the image doesn't show any motorcycle in the scene.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375215,
+    "query": "Does the image contain any visor?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375215,
+    "query": "Does the image contain any shaving cream?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375215,
+    "query": "Does the image contain any Razor?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not show any Razor.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375215,
+    "query": "Is there beard trimmer in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a beard trimmer in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2374995,
+    "query": "Does the image contain any knife?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a knife clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2374995,
+    "query": "Is there spoon in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2374995,
+    "query": "Is there fork in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a fork on the table.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2374995,
+    "query": "Is there phone in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2374995,
+    "query": "Is there microphone in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a microphone in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2374938,
+    "query": "Does the image contain any picture?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2374938,
+    "query": "Does the image contain any boots?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2374938,
+    "query": "Is there scarf in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2374938,
+    "query": "Does the image contain any helmet?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2374938,
+    "query": "Is there suit in the image?",
+    "ground_truth": "No",
+    "prediction": "No, the skateboarder is not wearing a suit.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2374361,
+    "query": "Does the image contain any pulley?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a pulley visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2374361,
+    "query": "Is there sidewalk in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a sidewalk in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2374361,
+    "query": "Does the image contain any anchor?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image contains a boat anchor in the middle of the road.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2374361,
+    "query": "Does the image contain any knot?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not contain any knot.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2374361,
+    "query": "Is there lamp post in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a lamp post in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2373655,
+    "query": "Is there ocean in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image clearly shows the ocean and waves.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2373655,
+    "query": "Is there beach in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image features a surfer standing on a rock near the water.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2373655,
+    "query": "Is there necklace in the image?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not clearly show a necklace.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2373655,
+    "query": "Is there backpack in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2373655,
+    "query": "Does the image contain any shirt?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image clearly shows a person wearing a shirt.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2373429,
+    "query": "Is there rope in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a rope visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2373429,
+    "query": "Does the image contain any person?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a person standing next to the train.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2373429,
+    "query": "Does the image contain any tree?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a tree in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2373429,
+    "query": "Does the image contain any tent?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2373429,
+    "query": "Is there stage in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a stage in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2373112,
+    "query": "Does the image contain any farmer?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not contain any farmer.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2373112,
+    "query": "Is there tractor in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no tractor in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2373112,
+    "query": "Is there horse in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, the horse is clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2373112,
+    "query": "Does the image contain any reins?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a rein in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2373112,
+    "query": "Does the image contain any crop?",
+    "ground_truth": "No",
+    "prediction": "No, the image contains no crop.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2372215,
+    "query": "Does the image contain any rock?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2372215,
+    "query": "Does the image contain any bike?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2372215,
+    "query": "Does the image contain any rider?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2372215,
+    "query": "Does the image contain any Bowl?",
+    "ground_truth": "No",
+    "prediction": "No, there is no Bowl in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2372215,
+    "query": "Is there toy in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, the child is wearing a baseball cap and batting with a bat.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2372100,
+    "query": "Is there fireplace in the image?",
+    "ground_truth": "No",
+    "prediction": "No, the fireplace is clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2372100,
+    "query": "Is there hat in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2372100,
+    "query": "Is there squirrel in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2372100,
+    "query": "Is there axe in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2372100,
+    "query": "Does the image contain any nest?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2372035,
+    "query": "Does the image contain any fence?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a fence in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2372035,
+    "query": "Does the image contain any Wreckage?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2372035,
+    "query": "Does the image contain any patio?",
+    "ground_truth": "No",
+    "prediction": "No, there is no patio in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2372035,
+    "query": "Does the image contain any blinds?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2372035,
+    "query": "Does the image contain any chair?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2371976,
+    "query": "Does the image contain any book?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2371976,
+    "query": "Does the image contain any hat?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2371976,
+    "query": "Does the image contain any pen?",
+    "ground_truth": "No",
+    "prediction": "No, there is no pen in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2371976,
+    "query": "Does the image contain any dictionary?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2371976,
+    "query": "Does the image contain any stable?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2371261,
+    "query": "Does the image contain any truck?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2371261,
+    "query": "Is there Dinner Jacket in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a Dinner Jacket in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2371261,
+    "query": "Does the image contain any beard?",
+    "ground_truth": "No",
+    "prediction": "No, the person in the image is not bearded.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2371261,
+    "query": "Does the image contain any brim?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2371261,
+    "query": "Does the image contain any head?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2370859,
+    "query": "Is there mirror in the image?",
+    "ground_truth": "No",
+    "prediction": "No, the mirror is not clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2370859,
+    "query": "Is there library in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no library in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2370859,
+    "query": "Is there pen in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a pen in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2370859,
+    "query": "Is there window in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2370859,
+    "query": "Is there bottle in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2369947,
+    "query": "Is there water in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a small amount of water in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2369947,
+    "query": "Does the image contain any soil?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2369947,
+    "query": "Does the image contain any branch?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image contains one branch.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2369947,
+    "query": "Does the image contain any lace?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2369947,
+    "query": "Does the image contain any sunlight?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is sunlight visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2369565,
+    "query": "Is there chair in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a chair in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2369565,
+    "query": "Does the image contain any books?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image contains a book on the ground in a bookcase.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2369565,
+    "query": "Does the image contain any table?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2369565,
+    "query": "Does the image contain any cans?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a can in the image",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2369565,
+    "query": "Does the image contain any grill?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not show any grill.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2368820,
+    "query": "Is there Labrador in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no Labrador in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2368820,
+    "query": "Is there pig in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2368820,
+    "query": "Is there mountain in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2368820,
+    "query": "Does the image contain any climber?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2368820,
+    "query": "Does the image contain any truffle?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not contain any truffle.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2368384,
+    "query": "Does the image contain any chisel?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2368384,
+    "query": "Is there hammer in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no hammer in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2368384,
+    "query": "Does the image contain any monument?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a monument in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2368384,
+    "query": "Does the image contain any brick?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2368384,
+    "query": "Is there blueprint in the image?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not contain any blueprints.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2367231,
+    "query": "Does the image contain any Comb?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2367231,
+    "query": "Does the image contain any bouquet?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2367231,
+    "query": "Does the image contain any ring?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a ring visible on the woman's finger.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2367231,
+    "query": "Is there veil in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, the veil is clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2367231,
+    "query": "Does the image contain any brush?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not contain any brush.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2366845,
+    "query": "Is there tree in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a tree in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2366845,
+    "query": "Does the image contain any ranch?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image contains a ranch with two sheep and a dog.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2366845,
+    "query": "Does the image contain any drawer?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2366845,
+    "query": "Is there fence in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a fence in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2366845,
+    "query": "Does the image contain any cabinet?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2366380,
+    "query": "Is there lens in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a lens in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2366380,
+    "query": "Does the image contain any charm?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a charm in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2366380,
+    "query": "Is there wrist in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, the wrist is clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2366380,
+    "query": "Does the image contain any nest?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2366380,
+    "query": "Is there squirrel in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image shows a squirrel in a tree.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2366121,
+    "query": "Is there Dog in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2366121,
+    "query": "Does the image contain any Sunscreen?",
+    "ground_truth": "No",
+    "prediction": "No, there is no sunscreen in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2366121,
+    "query": "Does the image contain any Fish?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not contain any fish.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2366121,
+    "query": "Is there Cup in the image?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not contain Cup.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2366121,
+    "query": "Does the image contain any Surfboard?",
+    "ground_truth": "No",
+    "prediction": "No, there is no surfboard in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2365542,
+    "query": "Does the image contain any sun?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2365542,
+    "query": "Does the image contain any tree?",
+    "ground_truth": "No",
+    "prediction": "No, there is no tree in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2365542,
+    "query": "Is there star in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is not a star in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2365542,
+    "query": "Is there grass in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no grass in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2365542,
+    "query": "Does the image contain any cloud?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image contains a cloud.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2364730,
+    "query": "Is there shirt in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2364730,
+    "query": "Is there pocket in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2364730,
+    "query": "Does the image contain any sleeve?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2364730,
+    "query": "Does the image contain any shoe?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2364730,
+    "query": "Is there glove in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2364305,
+    "query": "Does the image contain any region?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2364305,
+    "query": "Is there checkbox in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2364305,
+    "query": "Does the image contain any index?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2364305,
+    "query": "Is there frame in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, the frame is clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2364305,
+    "query": "Does the image contain any sun?",
+    "ground_truth": "No",
+    "prediction": "No, there is no sun in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2363354,
+    "query": "Does the image contain any Book?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2363354,
+    "query": "Does the image contain any crop?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a crop in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2363354,
+    "query": "Does the image contain any Case?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a small case visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2363354,
+    "query": "Does the image contain any farmer?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not show a farmer in this scene.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2363354,
+    "query": "Is there tractor in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2363315,
+    "query": "Does the image contain any document?",
+    "ground_truth": "No",
+    "prediction": "No, there is no document in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2363315,
+    "query": "Does the image contain any Comb?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2363315,
+    "query": "Does the image contain any shampoo?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2363315,
+    "query": "Is there folder in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2363315,
+    "query": "Is there brush in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2361591,
+    "query": "Does the image contain any car?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2361591,
+    "query": "Is there Cat in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2361591,
+    "query": "Does the image contain any station?",
+    "ground_truth": "No",
+    "prediction": "No, there is no station in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2361591,
+    "query": "Is there railroad in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no railroad in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2361591,
+    "query": "Is there Dog in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2360278,
+    "query": "Is there sun in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a sun clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2360278,
+    "query": "Does the image contain any rainbow?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a rainbow in the image",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2360278,
+    "query": "Does the image contain any Cloud?",
+    "ground_truth": "No",
+    "prediction": "Yes, there are several clouds visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2360278,
+    "query": "Does the image contain any Airplane?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2360278,
+    "query": "Does the image contain any beard?",
+    "ground_truth": "No",
+    "prediction": "No, there is no beard in this image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2358174,
+    "query": "Is there paper in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2358174,
+    "query": "Is there stamp in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a stamp in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2358174,
+    "query": "Is there font in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, the sign is clearly visible in a dark background.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2358174,
+    "query": "Is there fence in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image shows a fence in the background.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2358174,
+    "query": "Does the image contain any Passport?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357883,
+    "query": "Is there leash in the image?",
+    "ground_truth": "No",
+    "prediction": "No, the leash is not clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357883,
+    "query": "Is there dog in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357883,
+    "query": "Is there contact lens in the image?",
+    "ground_truth": "No",
+    "prediction": "No, I can't see a contact lens in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357883,
+    "query": "Does the image contain any glasses?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357883,
+    "query": "Is there collar in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a collar in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357581,
+    "query": "Is there angle in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image is clearly tilted.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357581,
+    "query": "Is there tusk in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357581,
+    "query": "Does the image contain any hill?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357581,
+    "query": "Does the image contain any herd?",
+    "ground_truth": "No",
+    "prediction": "No, the image is not a herd.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357581,
+    "query": "Is there ball in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a baseball in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357328,
+    "query": "Does the image contain any Comb?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image contains a comb.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357328,
+    "query": "Does the image contain any lawnmower?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357328,
+    "query": "Is there sock in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357328,
+    "query": "Is there floor in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357328,
+    "query": "Does the image contain any soccer ball?",
+    "ground_truth": "No",
+    "prediction": "Yes, the soccer ball is clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357191,
+    "query": "Does the image contain any surfboard?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357191,
+    "query": "Is there ocean in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is an ocean in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357191,
+    "query": "Does the image contain any paddle?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357191,
+    "query": "Is there whistle in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a whistle in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357191,
+    "query": "Does the image contain any boat?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357074,
+    "query": "Is there Wall in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357074,
+    "query": "Is there book in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a book on the table",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357074,
+    "query": "Does the image contain any printer?",
+    "ground_truth": "No",
+    "prediction": "No, the image doesn't contain a printer.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357074,
+    "query": "Is there headphones in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there are headphones in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357074,
+    "query": "Is there charger in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2356369,
+    "query": "Is there water in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no water in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2356369,
+    "query": "Is there soil in the image?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not contain any soil or dirt.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2356369,
+    "query": "Is there Water in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is water in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2356369,
+    "query": "Is there album in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is an album in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2356369,
+    "query": "Is there Soil in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no soil in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2355592,
+    "query": "Does the image contain any glove?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2355592,
+    "query": "Does the image contain any Pen?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a pen in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2355592,
+    "query": "Is there delivery in the image?",
+    "ground_truth": "No",
+    "prediction": "No, the image shows pizzas sitting on a table, not being delivered.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2355592,
+    "query": "Is there cork in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image clearly shows cork in the background.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2355592,
+    "query": "Does the image contain any cheese?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image clearly shows a pizza with cheese on it.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2355558,
+    "query": "Does the image contain any ladder?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a ladder in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2355558,
+    "query": "Does the image contain any chair?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2355558,
+    "query": "Does the image contain any staircase?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2355558,
+    "query": "Does the image contain any plate?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2355558,
+    "query": "Does the image contain any jacket?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2355237,
+    "query": "Is there button in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2355237,
+    "query": "Does the image contain any Breath?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not contain breath.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2355237,
+    "query": "Is there bandage in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a bandage in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2355237,
+    "query": "Is there charger in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a charger in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2355237,
+    "query": "Is there app in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is an app on the phone in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2354914,
+    "query": "Is there keys in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there are several keys in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2354914,
+    "query": "Is there cement mixer in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2354914,
+    "query": "Does the image contain any construction site?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a construction site in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2354914,
+    "query": "Does the image contain any phone?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2354914,
+    "query": "Is there book in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2354213,
+    "query": "Is there cabinet in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2354213,
+    "query": "Is there flag in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2354213,
+    "query": "Is there road in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2354213,
+    "query": "Is there file in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2354213,
+    "query": "Is there lock in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2353930,
+    "query": "Is there saddle in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2353930,
+    "query": "Does the image contain any tree?",
+    "ground_truth": "No",
+    "prediction": "No, there is no tree in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2353930,
+    "query": "Is there stable in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2353930,
+    "query": "Is there rider in the image?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not show a rider.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2353930,
+    "query": "Is there sun in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, the sun is clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2353203,
+    "query": "Is there Soccer ball in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no soccer ball in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2353203,
+    "query": "Does the image contain any channel?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2353203,
+    "query": "Does the image contain any Helmet?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2353203,
+    "query": "Does the image contain any goalpost?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2353203,
+    "query": "Does the image contain any Firefighter?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2353093,
+    "query": "Is there suit in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image clearly shows a suit in the picture.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2353093,
+    "query": "Does the image contain any Shadow?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image contains a shadow.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2353093,
+    "query": "Does the image contain any Notebook?",
+    "ground_truth": "No",
+    "prediction": "No, there is no Notebook in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2353093,
+    "query": "Does the image contain any Lamp?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image contains a lamp.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2353093,
+    "query": "Does the image contain any Sun?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not contain any sun.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352573,
+    "query": "Does the image contain any Sunlight?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is some sunlight in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352573,
+    "query": "Is there sandal in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a sandal in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352573,
+    "query": "Does the image contain any Blue eyes?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image contains two people with blue eyes.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352573,
+    "query": "Is there sock in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352573,
+    "query": "Does the image contain any grass?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352521,
+    "query": "Does the image contain any screen?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not contain any screen.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352521,
+    "query": "Does the image contain any monitor?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a monitor in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352521,
+    "query": "Does the image contain any treehouse?",
+    "ground_truth": "No",
+    "prediction": "No, there is no treehouse in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352521,
+    "query": "Is there projector in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no projector in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352521,
+    "query": "Is there leaves in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352042,
+    "query": "Does the image contain any cheese?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352042,
+    "query": "Does the image contain any button?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352042,
+    "query": "Is there sauce in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a pizza with sauce on it.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352042,
+    "query": "Is there Bacon in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a slice of bacon on the table.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352042,
+    "query": "Is there Oven in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352001,
+    "query": "Is there Nail in the image?",
+    "ground_truth": "No",
+    "prediction": "No, I don't see Nail in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352001,
+    "query": "Is there tree in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no tree in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352001,
+    "query": "Does the image contain any grass?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352001,
+    "query": "Does the image contain any Ring?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image contains a gold ring.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352001,
+    "query": "Does the image contain any rock?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2351767,
+    "query": "Is there Ponytail in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no ponytail in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2351767,
+    "query": "Does the image contain any plate?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image contains a plate",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2351767,
+    "query": "Is there Doll in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2351767,
+    "query": "Is there Cotton swab in the image?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2351767,
+    "query": "Is there Dress in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2351398,
+    "query": "Is there engine in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no engine in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2351398,
+    "query": "Does the image contain any shirt?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2351398,
+    "query": "Is there belt in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2351398,
+    "query": "Does the image contain any road?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image contains a road.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2351398,
+    "query": "Does the image contain any pocket?",
+    "ground_truth": "No",
+    "prediction": "No, there is no pocket in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2350489,
+    "query": "Does the image contain any printer?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2350489,
+    "query": "Does the image contain any road?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image contains a road.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2350489,
+    "query": "Is there desk in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2350489,
+    "query": "Does the image contain any engine?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2350489,
+    "query": "Is there tire in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a tire in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2349436,
+    "query": "Does the image contain any Strap?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2349436,
+    "query": "Is there headphones in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a pair of headphones that are clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2349436,
+    "query": "Does the image contain any picture?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image contains a picture of a man with sunglasses and a hat.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2349436,
+    "query": "Is there time in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, the time is clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2349436,
+    "query": "Is there case in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a phone case in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348925,
+    "query": "Is there Light in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is light in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348925,
+    "query": "Is there crane in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a crane in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348925,
+    "query": "Is there blueprint in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no blueprint in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348925,
+    "query": "Does the image contain any brick?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is clearly a brick in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348925,
+    "query": "Does the image contain any sun?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348732,
+    "query": "Does the image contain any star?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a faint star visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348732,
+    "query": "Is there Hanger in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348732,
+    "query": "Is there Wreath in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a wreath in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348732,
+    "query": "Does the image contain any Vase?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image contains a green container with a vase.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348732,
+    "query": "Does the image contain any sock?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a sock in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348525,
+    "query": "Is there tie in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a tie in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348525,
+    "query": "Does the image contain any shoe?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348525,
+    "query": "Is there helmet in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348525,
+    "query": "Is there hat in the image?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not contain a hat.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348525,
+    "query": "Does the image contain any briefcase?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348508,
+    "query": "Is there chair in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348508,
+    "query": "Does the image contain any rainbow?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not contain any rainbow.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348508,
+    "query": "Is there rain in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348508,
+    "query": "Is there pen in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348508,
+    "query": "Does the image contain any book?",
+    "ground_truth": "No",
+    "prediction": "No",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348430,
+    "query": "Does the image contain any sandal?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image clearly shows a pair of sandals.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348430,
+    "query": "Is there stop in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348430,
+    "query": "Does the image contain any car?",
+    "ground_truth": "No",
+    "prediction": "No, there is no car in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348430,
+    "query": "Does the image contain any Beach?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348430,
+    "query": "Does the image contain any driver?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348420,
+    "query": "Does the image contain any house?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348420,
+    "query": "Does the image contain any car?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a car in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348420,
+    "query": "Does the image contain any tree?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not contain any tree.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348420,
+    "query": "Does the image contain any shorts?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image does contain shorts in some form or another.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348420,
+    "query": "Is there flipflops in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there are no flipflops in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2347350,
+    "query": "Is there Alarm in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a large alarm clock in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2347350,
+    "query": "Does the image contain any nest?",
+    "ground_truth": "No",
+    "prediction": "No, I do not see any nest in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2347350,
+    "query": "Does the image contain any Time?",
+    "ground_truth": "No",
+    "prediction": "Yes, there are clocks visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2347350,
+    "query": "Is there branch in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a branch in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2347350,
+    "query": "Is there Pendulum in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a pendulum in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2346161,
+    "query": "Is there bird in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2346161,
+    "query": "Does the image contain any traffic cone?",
+    "ground_truth": "No",
+    "prediction": "No, there is no traffic cone in the image",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2346161,
+    "query": "Does the image contain any Hard hat?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2346161,
+    "query": "Does the image contain any kite?",
+    "ground_truth": "No",
+    "prediction": "No, the image doesn't contain any kite.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2346161,
+    "query": "Does the image contain any windmill?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not contain any windmill.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2344531,
+    "query": "Is there beard in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2344531,
+    "query": "Is there shirt in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a shirt in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2344531,
+    "query": "Is there pocket in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a pocket in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2344531,
+    "query": "Does the image contain any suit?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2343204,
+    "query": "Does the image contain any razor?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not contain any razor.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2343204,
+    "query": "Does the image contain any tree?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2343204,
+    "query": "Is there Comb in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a comb in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2343204,
+    "query": "Does the image contain any book?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2343204,
+    "query": "Is there Light in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is light in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2341501,
+    "query": "Is there road in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2341501,
+    "query": "Does the image contain any steering?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a steering wheel in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2341501,
+    "query": "Does the image contain any engine?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2341501,
+    "query": "Does the image contain any horse?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2341501,
+    "query": "Does the image contain any saddle?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a saddle visible on the horse",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2341491,
+    "query": "Is there heart in the image?",
+    "ground_truth": "No",
+    "prediction": "No, the horse does not have a heart.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2341491,
+    "query": "Is there nation in the image?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not contain a nation.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2341491,
+    "query": "Does the image contain any Sunglasses?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a pair of sunglasses clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2341491,
+    "query": "Is there treasure in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no treasure in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2341491,
+    "query": "Is there Jeans in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a pair of jeans in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2341266,
+    "query": "Does the image contain any printer?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2341266,
+    "query": "Does the image contain any pen?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2341266,
+    "query": "Does the image contain any brim?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2341266,
+    "query": "Does the image contain any head?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2341266,
+    "query": "Does the image contain any book?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2340930,
+    "query": "Is there river in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a river in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2340930,
+    "query": "Is there squirrel in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2340930,
+    "query": "Is there chair in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2340930,
+    "query": "Is there nest in the image?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not clearly show a nest.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2340930,
+    "query": "Is there shoe in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2340211,
+    "query": "Does the image contain any face?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2340211,
+    "query": "Is there spoon in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2340211,
+    "query": "Does the image contain any knife?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2340211,
+    "query": "Does the image contain any gesture?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image contains a hand gesture that is clearly visible.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2340211,
+    "query": "Is there emotion in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, the man is looking at his phone.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2340174,
+    "query": "Is there pants in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there are pants in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2340174,
+    "query": "Does the image contain any button?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2340174,
+    "query": "Is there zipper in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a zipper in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2340174,
+    "query": "Is there hanger in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a hanger in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2340174,
+    "query": "Is there winter in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2339949,
+    "query": "Does the image contain any tree?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2339949,
+    "query": "Does the image contain any Light?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2339949,
+    "query": "Does the image contain any chair?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2339949,
+    "query": "Is there boot in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a boot clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2339949,
+    "query": "Is there snow in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image clearly shows snow on the ground.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2339532,
+    "query": "Is there Gloves in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2339532,
+    "query": "Is there glass in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is glass in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2339532,
+    "query": "Is there coffee in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a coffee cup in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2339532,
+    "query": "Is there spoon in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2339532,
+    "query": "Does the image contain any Face?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a face clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2339105,
+    "query": "Does the image contain any beach?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2339105,
+    "query": "Does the image contain any phone?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not contain any phone.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2339105,
+    "query": "Is there wetsuit in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image clearly shows a wetsuit.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2339105,
+    "query": "Does the image contain any Hand?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2339105,
+    "query": "Does the image contain any mitt?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2337992,
+    "query": "Does the image contain any grass?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is grass visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2337992,
+    "query": "Does the image contain any rock?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2337992,
+    "query": "Is there car in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no car in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2337992,
+    "query": "Is there twig in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no twig in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2337992,
+    "query": "Does the image contain any branch?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image clearly shows a branch.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2337188,
+    "query": "Does the image contain any tie?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a tie on the man's chest.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2337188,
+    "query": "Does the image contain any brim?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2337188,
+    "query": "Does the image contain any feather?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2337188,
+    "query": "Is there suit in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2337188,
+    "query": "Does the image contain any head?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2336588,
+    "query": "Does the image contain any lamp?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2336588,
+    "query": "Does the image contain any cannon?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2336588,
+    "query": "Is there rug in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a rug in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2336588,
+    "query": "Is there design in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image contains a design on the wall and a surfboard in the background.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2336588,
+    "query": "Does the image contain any brand?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a brand logo clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2335371,
+    "query": "Does the image contain any drape?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image shows a drape over the bed.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2335371,
+    "query": "Does the image contain any rod?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2335371,
+    "query": "Does the image contain any window?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2335371,
+    "query": "Does the image contain any comb?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2335371,
+    "query": "Is there text message in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, the text message is clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2334761,
+    "query": "Is there door in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2334761,
+    "query": "Does the image contain any pedestrian?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2334761,
+    "query": "Is there driver in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a driver in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2334761,
+    "query": "Is there car in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2334761,
+    "query": "Is there knife in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2334748,
+    "query": "Does the image contain any Sponge?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not show any Sponge.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2334748,
+    "query": "Does the image contain any helmet?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image shows a yellow surfboard with a yellow helmet on top.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2334748,
+    "query": "Is there Bubble in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2334748,
+    "query": "Is there bullet in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2334748,
+    "query": "Is there Shampoo in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2332604,
+    "query": "Is there Seashell in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is not a seashell in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2332604,
+    "query": "Does the image contain any Surfboard?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not show any surfboards or other water sports equipment.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2332604,
+    "query": "Does the image contain any Sunscreen?",
+    "ground_truth": "No",
+    "prediction": "No, I don't see any sunscreen in the image",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2332604,
+    "query": "Is there shoe in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a pair of shoes on the ground.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2332604,
+    "query": "Is there sock in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2331694,
+    "query": "Does the image contain any field?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image contains a tennis court with a field in the background.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2331694,
+    "query": "Does the image contain any ball?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2331694,
+    "query": "Is there chair in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2331694,
+    "query": "Is there team in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a team of children on the tennis court.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2331694,
+    "query": "Is there lamp in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a lamp in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2331433,
+    "query": "Does the image contain any bird?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2331433,
+    "query": "Does the image contain any Road?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2331433,
+    "query": "Does the image contain any kite?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2331433,
+    "query": "Is there Zebra in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a Zebra in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2331433,
+    "query": "Does the image contain any windmill?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2330414,
+    "query": "Does the image contain any nation?",
+    "ground_truth": "No",
+    "prediction": "No, there is no nation in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2330414,
+    "query": "Does the image contain any hurdle?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2330414,
+    "query": "Is there anthem in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2330414,
+    "query": "Does the image contain any barrier?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a barrier in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2330414,
+    "query": "Is there Challenge in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image clearly shows Challenge - the name of the competition.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2328693,
+    "query": "Is there suit in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a suit in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2328693,
+    "query": "Does the image contain any dog?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a dog in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2328693,
+    "query": "Does the image contain any disc golf?",
+    "ground_truth": "No",
+    "prediction": "Yes, there are several people playing disc golf on the beach.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2328693,
+    "query": "Is there park in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a park in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2328693,
+    "query": "Is there hanger in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no hanger in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2328227,
+    "query": "Is there station in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2328227,
+    "query": "Is there vehicle in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a truck in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2328227,
+    "query": "Is there exhaust in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, the engine is clearly visible with exhaust.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2328227,
+    "query": "Does the image contain any fuel?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image clearly shows a train on tracks with a tank of fuel.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2328227,
+    "query": "Does the image contain any signal?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image contains a signal of some kind.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2328034,
+    "query": "Is there glasses in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there are glasses on one of the men.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2328034,
+    "query": "Is there water in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2328034,
+    "query": "Is there Hat in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a hat in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2328034,
+    "query": "Does the image contain any rope?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2328034,
+    "query": "Does the image contain any sand?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2326992,
+    "query": "Is there road in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2326992,
+    "query": "Does the image contain any helmet?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2326992,
+    "query": "Is there TV in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, a television is clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2326992,
+    "query": "Is there blade in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2326992,
+    "query": "Does the image contain any cliff?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2326663,
+    "query": "Is there pitcher in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2326663,
+    "query": "Does the image contain any soccer ball?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2326663,
+    "query": "Does the image contain any tree?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2326663,
+    "query": "Is there bat in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2326663,
+    "query": "Does the image contain any lawnmower?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2325703,
+    "query": "Is there Fence in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a fence in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2325703,
+    "query": "Does the image contain any Lens Cloth?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2325703,
+    "query": "Does the image contain any Optometrist?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2325703,
+    "query": "Does the image contain any outlet?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2325703,
+    "query": "Does the image contain any Balcony?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2325525,
+    "query": "Is there helmet in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2325525,
+    "query": "Is there road in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a road in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2325525,
+    "query": "Does the image contain any valve?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image contains a valve that is clearly visible.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2325525,
+    "query": "Is there jacket in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a jacket in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2325525,
+    "query": "Does the image contain any water?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2324910,
+    "query": "Is there staircase in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a staircase in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2324910,
+    "query": "Does the image contain any egg?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2324910,
+    "query": "Does the image contain any footprint?",
+    "ground_truth": "No",
+    "prediction": "No, there is no footprint in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2324910,
+    "query": "Is there construction site in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a construction site in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2324910,
+    "query": "Does the image contain any feather?",
+    "ground_truth": "No",
+    "prediction": "Yes, there are two ducks in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2324640,
+    "query": "Is there bucket in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a bucket in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2324640,
+    "query": "Does the image contain any fish?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not contain any fish.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2324640,
+    "query": "Is there castle in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2324640,
+    "query": "Does the image contain any boat?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2324640,
+    "query": "Is there river in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a river in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2324598,
+    "query": "Does the image contain any whistle?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a whistle clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2324598,
+    "query": "Is there glove in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2324598,
+    "query": "Does the image contain any cap?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2324598,
+    "query": "Does the image contain any bat?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2324598,
+    "query": "Is there baseball in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2324398,
+    "query": "Does the image contain any spoon?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2324398,
+    "query": "Is there belt in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2324398,
+    "query": "Is there bouquet in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no bouquet in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2324398,
+    "query": "Does the image contain any Bee?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not contain any bees",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2324398,
+    "query": "Is there heels in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there are heels in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2323703,
+    "query": "Is there beach in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2323703,
+    "query": "Is there iron in the image?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not show any iron.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2323703,
+    "query": "Does the image contain any tie?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2323703,
+    "query": "Is there suit in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image shows a man in a suit riding a wave.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2323703,
+    "query": "Is there swimmer in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a swimmer in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2323698,
+    "query": "Is there Brick in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a brick in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2323698,
+    "query": "Is there head in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a head in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2323698,
+    "query": "Is there ramp in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2323698,
+    "query": "Is there Blush in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2323698,
+    "query": "Is there Rebar in the image?",
+    "ground_truth": "No",
+    "prediction": "No, I do not see any Rebar in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2323695,
+    "query": "Is there motorcycle in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a motorcycle in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2323695,
+    "query": "Is there phone in the image?",
+    "ground_truth": "No",
+    "prediction": "No, the image doesn't show any phone or other objects.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2323695,
+    "query": "Is there rider in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a rider in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2323695,
+    "query": "Does the image contain any chair?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2323695,
+    "query": "Does the image contain any tie?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2323282,
+    "query": "Is there alarm in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is an alarm in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2323282,
+    "query": "Is there cup in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a cup in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2323282,
+    "query": "Is there knife in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2323282,
+    "query": "Does the image contain any time?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not contain any time.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2323282,
+    "query": "Does the image contain any ring?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2322786,
+    "query": "Does the image contain any shampoo?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a shampoo in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2322786,
+    "query": "Does the image contain any Comb?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2322786,
+    "query": "Does the image contain any swimsuit?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2322786,
+    "query": "Does the image contain any surfboard?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2322786,
+    "query": "Is there T-shirt in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2322749,
+    "query": "Is there spoon in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2322749,
+    "query": "Is there cereal in the image?",
+    "ground_truth": "No",
+    "prediction": "No, the image doesn't show cereal or any other food.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2322749,
+    "query": "Is there Toothbrush in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2322749,
+    "query": "Does the image contain any Towel?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a towel in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2322749,
+    "query": "Does the image contain any fruit?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not contain any fruit.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2322502,
+    "query": "Is there hay in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is hay in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2322502,
+    "query": "Is there leaf in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a leaf in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2322502,
+    "query": "Does the image contain any tree?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2322502,
+    "query": "Is there saddle in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2322502,
+    "query": "Is there stable in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, the horse is stable.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2322374,
+    "query": "Does the image contain any rain?",
+    "ground_truth": "No",
+    "prediction": "No, the image is clear of rain.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2322374,
+    "query": "Is there sun in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, the sun is clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2322374,
+    "query": "Is there star in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a star in the sky.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2322374,
+    "query": "Is there lightning in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no visible lightning in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2322374,
+    "query": "Does the image contain any shirt?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image contains a shirt.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2321836,
+    "query": "Is there brake pedal in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a brake pedal in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2321836,
+    "query": "Is there trip in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2321836,
+    "query": "Does the image contain any traffic ticket?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a traffic ticket in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2321836,
+    "query": "Is there gym in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a gym in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2321836,
+    "query": "Is there keys in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2321370,
+    "query": "Does the image contain any foundation?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a foundation visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2321370,
+    "query": "Is there blueprint in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a blueprint in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2321370,
+    "query": "Does the image contain any Team?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a team visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2321370,
+    "query": "Is there lives in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no sign of a human or animal in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2321370,
+    "query": "Is there Beatles in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no Beatles in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2320476,
+    "query": "Is there Fish in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no fish in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2320476,
+    "query": "Does the image contain any Comb?",
+    "ground_truth": "No",
+    "prediction": "No, there is no comb in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2320476,
+    "query": "Does the image contain any road?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a road in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2320476,
+    "query": "Does the image contain any tire?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a tire in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2320476,
+    "query": "Is there Cat in the image?",
+    "ground_truth": "No",
+    "prediction": "No, I can't confirm that.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2319322,
+    "query": "Is there hanger in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2319322,
+    "query": "Is there pants in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there are clearly pants in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2319322,
+    "query": "Does the image contain any bike?",
+    "ground_truth": "No",
+    "prediction": "No, there is no bike in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2319322,
+    "query": "Does the image contain any motorcycle?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a motorcycle in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2319322,
+    "query": "Is there button in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2319009,
+    "query": "Does the image contain any honey?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not contain any honey.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2319009,
+    "query": "Does the image contain any mirror?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a small mirror in the background of the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2319009,
+    "query": "Does the image contain any forest?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not contain any forest.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2319009,
+    "query": "Does the image contain any hanger?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image contains a hanger.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2319009,
+    "query": "Is there fish in the image?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not include any fish or aquatic creatures.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2318747,
+    "query": "Is there Comb in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a comb in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2318747,
+    "query": "Is there tire in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2318747,
+    "query": "Does the image contain any glove?",
+    "ground_truth": "No",
+    "prediction": "No, there is no glove in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2318747,
+    "query": "Is there road in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a road in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2318747,
+    "query": "Does the image contain any sleeve?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a sleeve visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2318331,
+    "query": "Does the image contain any company?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a banner with the logo of OBERBERLIN.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2318331,
+    "query": "Does the image contain any glove?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2318331,
+    "query": "Does the image contain any Bat?",
+    "ground_truth": "No",
+    "prediction": "Yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2318331,
+    "query": "Does the image contain any design?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image contains a design that is clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2318331,
+    "query": "Does the image contain any bat?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image clearly shows a tennis bat",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317951,
+    "query": "Does the image contain any Plate?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317951,
+    "query": "Is there Candle in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317951,
+    "query": "Does the image contain any light?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a light shining on the bananas in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317951,
+    "query": "Is there traffic in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a lot of traffic in the image",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317951,
+    "query": "Does the image contain any citrus?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317739,
+    "query": "Does the image contain any binding?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image shows a snowboarder sitting on the snow with bindings.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317739,
+    "query": "Is there mountain in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a mountain in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317739,
+    "query": "Is there shovel in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no shovel in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317739,
+    "query": "Is there snow in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317739,
+    "query": "Does the image contain any scarf?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317435,
+    "query": "Does the image contain any Light?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image contains a stop sign that is clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317435,
+    "query": "Does the image contain any Mirror?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317435,
+    "query": "Is there curtain in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no curtain in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317435,
+    "query": "Is there picture in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317435,
+    "query": "Does the image contain any rhythm?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image has a consistent rhythm of red and yellow.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317163,
+    "query": "Does the image contain any shoe?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image contains a pair of skateboard shoes.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317163,
+    "query": "Does the image contain any sock?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317163,
+    "query": "Is there chair in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317163,
+    "query": "Does the image contain any sleeve?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a sleeve in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317163,
+    "query": "Does the image contain any glove?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317030,
+    "query": "Is there Ponytail in the image?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317030,
+    "query": "Does the image contain any Dress?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317030,
+    "query": "Is there curtain in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a curtain in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317030,
+    "query": "Does the image contain any frame?",
+    "ground_truth": "No",
+    "prediction": "No, there is no frame in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317030,
+    "query": "Is there crane in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a crane in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2414679,
+    "query": "Does the image contain any gym?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not contain any gym.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2414679,
+    "query": "Is there beach in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2414679,
+    "query": "Does the image contain any scale?",
+    "ground_truth": "No",
+    "prediction": "No, the image does not contain any scale.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2414679,
+    "query": "Does the image contain any sandals?",
+    "ground_truth": "No",
+    "prediction": "Yes, there are some sandals in the image",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2414679,
+    "query": "Does the image contain any mirror?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2415565,
+    "query": "Does the image contain any button?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a button clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2415565,
+    "query": "Is there Cloud in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a cloud in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2415565,
+    "query": "Is there zipper in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, the bicycle has a zipper.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2415565,
+    "query": "Does the image contain any anchor?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image clearly shows an anchor.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2415565,
+    "query": "Is there winter in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, it's clearly winter in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2416037,
+    "query": "Does the image contain any Electricity?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is electricity visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2416037,
+    "query": "Does the image contain any nut?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2416037,
+    "query": "Is there Chain in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, the chain is clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2416037,
+    "query": "Is there screw in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a screw visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2416037,
+    "query": "Is there plug in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a plug in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2416540,
+    "query": "Does the image contain any rain?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image contains rain.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2416540,
+    "query": "Does the image contain any Mountain?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2416540,
+    "query": "Is there sky in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a blue sky in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2416540,
+    "query": "Is there Snow in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image clearly shows snow.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2416540,
+    "query": "Does the image contain any lightning?",
+    "ground_truth": "No",
+    "prediction": "No, there is no visible lightning in the image",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2416935,
+    "query": "Is there Dress in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a dress in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2416935,
+    "query": "Does the image contain any Fan?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2416935,
+    "query": "Is there reflection in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2416935,
+    "query": "Does the image contain any fork?",
+    "ground_truth": "No",
+    "prediction": "no",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2416935,
+    "query": "Does the image contain any frame?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image contains a frame that is clearly visible in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2417250,
+    "query": "Does the image contain any bow?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image contains a large bow on the ground.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2417250,
+    "query": "Is there road in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image shows a road with traffic lights in the middle.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2417250,
+    "query": "Is there tire in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a tire in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2417250,
+    "query": "Is there gate in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no gate in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2417250,
+    "query": "Is there target in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no target in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2417652,
+    "query": "Is there beard in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, the man has a beard.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2417652,
+    "query": "Does the image contain any suit?",
+    "ground_truth": "No",
+    "prediction": "No, there is no suit in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2417652,
+    "query": "Is there tie in the image?",
+    "ground_truth": "No",
+    "prediction": "No, I cannot confirm that - the image shows [actual content]",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2417652,
+    "query": "Is there boat in the image?",
+    "ground_truth": "No",
+    "prediction": "No, there is no boat in the image.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2417652,
+    "query": "Is there river in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, the image shows a river in the background.",
+    "word_probs": {}
+  }
+]

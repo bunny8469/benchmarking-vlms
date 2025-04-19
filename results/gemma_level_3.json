@@ -1,0 +1,18 @@
+[
+  {
+    "image_id": 615,
+    "query": "ONE VERB ONLY: what is the relationship between man and jacket?",
+    "ground_truth": "wearing",
+    "prediction": "Man wearing red jacket.",
+    "word_probs": {
+      "wearing": 0.04122769460082054
+    }
+  },
+  {
+    "image_id": 1523,
+    "query": "ONE VERB ONLY: what is the relationship between light and keyboard?",
+    "ground_truth": "hitting",
+    "prediction": "Light sits next to keyboard",
+    "word_probs": {}
+  }
+]

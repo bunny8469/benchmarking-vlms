@@ -1,0 +1,2466 @@
+[
+  {
+    "image_id": 615,
+    "query": "Based on the image, what is the relationship between man and jacket? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1523,
+    "query": "Based on the image, what is the relationship between light and keyboard? Choose only from the options provided",
+    "ground_truth": "hitting",
+    "prediction": "illuminating",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1901,
+    "query": "Based on the image, what is the relationship between man and shirt? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1901,
+    "query": "Based on the image, what is the relationship between person and boat? Choose only from the options provided",
+    "ground_truth": "standing",
+    "prediction": "The boat is sailing in the water, while the person is standing next to the boat.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 3963,
+    "query": "Based on the image, what is the relationship between woman and shirt? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 3963,
+    "query": "Based on the image, what is the relationship between woman and bracelet? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "admiring",
+    "word_probs": {}
+  },
+  {
+    "image_id": 4146,
+    "query": "Based on the image, what is the relationship between poker chips and table? Choose only from the options provided",
+    "ground_truth": "sitting",
+    "prediction": "placing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 4146,
+    "query": "Based on the image, what is the relationship between person and glasses? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 285832,
+    "query": "Based on the image, what is the relationship between light and women? Choose only from the options provided",
+    "ground_truth": "shining",
+    "prediction": "illuminating",
+    "word_probs": {}
+  },
+  {
+    "image_id": 285832,
+    "query": "Based on the image, what is the relationship between woman and dress? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 285832,
+    "query": "Based on the image, what is the relationship between woman and motorcycle? Choose only from the options provided",
+    "ground_truth": "sitting",
+    "prediction": "riding",
+    "word_probs": {}
+  },
+  {
+    "image_id": 286004,
+    "query": "Based on the image, what is the relationship between man and bench? Choose only from the options provided",
+    "ground_truth": "sitting",
+    "prediction": "sitting",
+    "word_probs": {}
+  },
+  {
+    "image_id": 286004,
+    "query": "Based on the image, what is the relationship between man and shirt? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1159766,
+    "query": "Based on the image, what is the relationship between bottle and sand? Choose only from the options provided",
+    "ground_truth": "sitting",
+    "prediction": "sitting",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1159766,
+    "query": "Based on the image, what is the relationship between man and shirt? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1159766,
+    "query": "Based on the image, what is the relationship between man and sand? Choose only from the options provided",
+    "ground_truth": "sitting",
+    "prediction": "sitting",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1159789,
+    "query": "Based on the image, what is the relationship between guy and skateboard? Choose only from the options provided",
+    "ground_truth": "holding",
+    "prediction": "holding",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1159789,
+    "query": "Based on the image, what is the relationship between guy and jacket? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1592132,
+    "query": "Based on the image, what is the relationship between man and coat? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1592132,
+    "query": "Based on the image, what is the relationship between man and backpack? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "carrying",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1592439,
+    "query": "Based on the image, what is the relationship between man and apron? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1592439,
+    "query": "Based on the image, what is the relationship between man and pizza? Choose only from the options provided",
+    "ground_truth": "holding",
+    "prediction": "holding",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2414248,
+    "query": "Based on the image, what is the relationship between man and wave? Choose only from the options provided",
+    "ground_truth": "riding",
+    "prediction": "surfing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2414101,
+    "query": "Based on the image, what is the relationship between child and shirt? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2412490,
+    "query": "Based on the image, what is the relationship between driver and shirt? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2411389,
+    "query": "Based on the image, what is the relationship between player and top? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "player is standing at the top of the court",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2410331,
+    "query": "Based on the image, what is the relationship between man and pants? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2410177,
+    "query": "Based on the image, what is the relationship between handcuffs and briefcase? Choose only from the options provided",
+    "ground_truth": "holding",
+    "prediction": "holding",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2409108,
+    "query": "Based on the image, what is the relationship between train and cargo? Choose only from the options provided",
+    "ground_truth": "pulling",
+    "prediction": "transporting",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2409108,
+    "query": "Based on the image, what is the relationship between ladder and train? Choose only from the options provided",
+    "ground_truth": "entering",
+    "prediction": "approaching",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2409084,
+    "query": "Based on the image, what is the relationship between woman and lipstick? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "applying",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2409084,
+    "query": "Based on the image, what is the relationship between woman and coat? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2408930,
+    "query": "Based on the image, what is the relationship between boy and shorts? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2407933,
+    "query": "Based on the image, what is the relationship between pole and traffic lights? Choose only from the options provided",
+    "ground_truth": "holding",
+    "prediction": "supporting",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406818,
+    "query": "Based on the image, what is the relationship between man and tie? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406818,
+    "query": "Based on the image, what is the relationship between man and wristwatch? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "checking",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406677,
+    "query": "Based on the image, what is the relationship between girl and gloves? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406429,
+    "query": "Based on the image, what is the relationship between woman and red? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "admiring",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406429,
+    "query": "Based on the image, what is the relationship between man and suit? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2406039,
+    "query": "Based on the image, what is the relationship between person and chair? Choose only from the options provided",
+    "ground_truth": "sitting",
+    "prediction": "sitting",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405887,
+    "query": "Based on the image, what is the relationship between woman and blouse? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405887,
+    "query": "Based on the image, what is the relationship between person and top? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405887,
+    "query": "Based on the image, what is the relationship between man and phone? Choose only from the options provided",
+    "ground_truth": "talking",
+    "prediction": "using",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405866,
+    "query": "Based on the image, what is the relationship between person and shoes? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405866,
+    "query": "Based on the image, what is the relationship between person and shirt? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405347,
+    "query": "Based on the image, what is the relationship between feet and shoes? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2405347,
+    "query": "Based on the image, what is the relationship between feet and surface? Choose only from the options provided",
+    "ground_truth": "standing",
+    "prediction": "touching, pressing, sliding, standing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2404950,
+    "query": "Based on the image, what is the relationship between woman and jacket? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2404341,
+    "query": "Based on the image, what is the relationship between kids and snow? Choose only from the options provided",
+    "ground_truth": "eating",
+    "prediction": "playing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403791,
+    "query": "Based on the image, what is the relationship between kid and helmet? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "needs",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403783,
+    "query": "Based on the image, what is the relationship between woman and bottle? Choose only from the options provided",
+    "ground_truth": "pouring",
+    "prediction": "pouring",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403783,
+    "query": "Based on the image, what is the relationship between man and cup? Choose only from the options provided",
+    "ground_truth": "holding",
+    "prediction": "drinking",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403363,
+    "query": "Based on the image, what is the relationship between bear and street? Choose only from the options provided",
+    "ground_truth": "crossing",
+    "prediction": "crossing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403363,
+    "query": "Based on the image, what is the relationship between bus and passengers? Choose only from the options provided",
+    "ground_truth": "carrying",
+    "prediction": "boarding",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2403363,
+    "query": "Based on the image, what is the relationship between person and white? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "I don't see - the image doesn't show white",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2402361,
+    "query": "Based on the image, what is the relationship between woman and tennis court? Choose only from the options provided",
+    "ground_truth": "laying",
+    "prediction": "playing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2402361,
+    "query": "Based on the image, what is the relationship between man and white shirt? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2402361,
+    "query": "Based on the image, what is the relationship between woman and yellow racket? Choose only from the options provided",
+    "ground_truth": "holding",
+    "prediction": "Holding",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2401506,
+    "query": "Based on the image, what is the relationship between woman and camera? Choose only from the options provided",
+    "ground_truth": "looking",
+    "prediction": "photographing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2401506,
+    "query": "Based on the image, what is the relationship between man and red shirt? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2401033,
+    "query": "Based on the image, what is the relationship between man and watch? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "checking",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2401033,
+    "query": "Based on the image, what is the relationship between man and shirt? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2401033,
+    "query": "Based on the image, what is the relationship between man and glove? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2397681,
+    "query": "Based on the image, what is the relationship between glass and wine? Choose only from the options provided",
+    "ground_truth": "containing",
+    "prediction": "pouring",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2397554,
+    "query": "Based on the image, what is the relationship between rider and horse? Choose only from the options provided",
+    "ground_truth": "riding",
+    "prediction": "riding",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2397554,
+    "query": "Based on the image, what is the relationship between rider and reins? Choose only from the options provided",
+    "ground_truth": "holding",
+    "prediction": "holding",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2397554,
+    "query": "Based on the image, what is the relationship between rider and top? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2397554,
+    "query": "Based on the image, what is the relationship between horse and water? Choose only from the options provided",
+    "ground_truth": "walking",
+    "prediction": "drinking",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2397035,
+    "query": "Based on the image, what is the relationship between man and stick? Choose only from the options provided",
+    "ground_truth": "holding",
+    "prediction": "holding",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2396122,
+    "query": "Based on the image, what is the relationship between man and pizza? Choose only from the options provided",
+    "ground_truth": "eating",
+    "prediction": "eating",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2396122,
+    "query": "Based on the image, what is the relationship between hand and keyboard? Choose only from the options provided",
+    "ground_truth": "touching",
+    "prediction": "touching",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2395290,
+    "query": "Based on the image, what is the relationship between woman and blue? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "matching",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2395290,
+    "query": "Based on the image, what is the relationship between pole and umbrella? Choose only from the options provided",
+    "ground_truth": "holding",
+    "prediction": "holding",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393957,
+    "query": "Based on the image, what is the relationship between man and shirt? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393957,
+    "query": "Based on the image, what is the relationship between man and tennis racket? Choose only from the options provided",
+    "ground_truth": "holding",
+    "prediction": "Holding",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393957,
+    "query": "Based on the image, what is the relationship between man and shorts? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393783,
+    "query": "Based on the image, what is the relationship between woman and hotdog? Choose only from the options provided",
+    "ground_truth": "eating",
+    "prediction": "eating",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393728,
+    "query": "Based on the image, what is the relationship between knife and table? Choose only from the options provided",
+    "ground_truth": "laying",
+    "prediction": "cutting",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393720,
+    "query": "Based on the image, what is the relationship between man and shirt? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393720,
+    "query": "Based on the image, what is the relationship between woman and man? Choose only from the options provided",
+    "ground_truth": "talking",
+    "prediction": "loving",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2393720,
+    "query": "Based on the image, what is the relationship between woman and leash? Choose only from the options provided",
+    "ground_truth": "holding",
+    "prediction": "pulling",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2390079,
+    "query": "Based on the image, what is the relationship between person and pants? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2390079,
+    "query": "Based on the image, what is the relationship between snow and mountain? Choose only from the options provided",
+    "ground_truth": "covering",
+    "prediction": "covering",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2390079,
+    "query": "Based on the image, what is the relationship between person and snowboard? Choose only from the options provided",
+    "ground_truth": "holding",
+    "prediction": "riding",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2389815,
+    "query": "Based on the image, what is the relationship between hand and racket? Choose only from the options provided",
+    "ground_truth": "holding",
+    "prediction": "Holding",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2389740,
+    "query": "Based on the image, what is the relationship between man and suit? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2389259,
+    "query": "Based on the image, what is the relationship between person and tennis? Choose only from the options provided",
+    "ground_truth": "standing",
+    "prediction": "playing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2389259,
+    "query": "Based on the image, what is the relationship between four persons and tennis? Choose only from the options provided",
+    "ground_truth": "laying",
+    "prediction": "playing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2389259,
+    "query": "Based on the image, what is the relationship between man and tennis ball? Choose only from the options provided",
+    "ground_truth": "swinging",
+    "prediction": "hitting",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2387095,
+    "query": "Based on the image, what is the relationship between man and tie? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2387095,
+    "query": "Based on the image, what is the relationship between man and shirt? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2387076,
+    "query": "Based on the image, what is the relationship between toothbrush and glass? Choose only from the options provided",
+    "ground_truth": "sitting",
+    "prediction": "placing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2386250,
+    "query": "Based on the image, what is the relationship between person and jacket? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2386250,
+    "query": "Based on the image, what is the relationship between person and store? Choose only from the options provided",
+    "ground_truth": "exiting",
+    "prediction": "entering",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2386250,
+    "query": "Based on the image, what is the relationship between mary poppins and tv? Choose only from the options provided",
+    "ground_truth": "showing",
+    "prediction": "showing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2386250,
+    "query": "Based on the image, what is the relationship between person and phone? Choose only from the options provided",
+    "ground_truth": "talking",
+    "prediction": "using",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2385687,
+    "query": "Based on the image, what is the relationship between man and cellphone? Choose only from the options provided",
+    "ground_truth": "talking",
+    "prediction": "using",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2385687,
+    "query": "Based on the image, what is the relationship between man and jeans? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2385637,
+    "query": "Based on the image, what is the relationship between man and cuff? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2384566,
+    "query": "Based on the image, what is the relationship between woman and girl? Choose only from the options provided",
+    "ground_truth": "talking",
+    "prediction": "helping",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2384536,
+    "query": "Based on the image, what is the relationship between hand and knife? Choose only from the options provided",
+    "ground_truth": "holding",
+    "prediction": "cutting",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2384536,
+    "query": "Based on the image, what is the relationship between hands and food? Choose only from the options provided",
+    "ground_truth": "eating",
+    "prediction": "touching",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2384536,
+    "query": "Based on the image, what is the relationship between person and knife? Choose only from the options provided",
+    "ground_truth": "holding",
+    "prediction": "using",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2384327,
+    "query": "Based on the image, what is the relationship between man and men? Choose only from the options provided",
+    "ground_truth": "sitting",
+    "prediction": "leading",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2383950,
+    "query": "Based on the image, what is the relationship between dog and frisbee? Choose only from the options provided",
+    "ground_truth": "catching",
+    "prediction": "chasing, jumping, fetching, catching",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2383950,
+    "query": "Based on the image, what is the relationship between tree and shadow? Choose only from the options provided",
+    "ground_truth": "casting",
+    "prediction": "casting",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2383437,
+    "query": "Based on the image, what is the relationship between man and hat? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2383437,
+    "query": "Based on the image, what is the relationship between people and exhibit? Choose only from the options provided",
+    "ground_truth": "walking",
+    "prediction": "visiting",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2383254,
+    "query": "Based on the image, what is the relationship between man and pants? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2383254,
+    "query": "Based on the image, what is the relationship between woman and heels? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "loves",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2382960,
+    "query": "Based on the image, what is the relationship between skis and shadow? Choose only from the options provided",
+    "ground_truth": "making",
+    "prediction": "casting",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2382960,
+    "query": "Based on the image, what is the relationship between rack and skis? Choose only from the options provided",
+    "ground_truth": "holding",
+    "prediction": "storing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2382861,
+    "query": "Based on the image, what is the relationship between signpost and sign? Choose only from the options provided",
+    "ground_truth": "holding",
+    "prediction": "displaying",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2381462,
+    "query": "Based on the image, what is the relationship between water and air? Choose only from the options provided",
+    "ground_truth": "spraying",
+    "prediction": "mixing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2381462,
+    "query": "Based on the image, what is the relationship between man and surfboard? Choose only from the options provided",
+    "ground_truth": "riding",
+    "prediction": "holding",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2381350,
+    "query": "Based on the image, what is the relationship between man and ski poles? Choose only from the options provided",
+    "ground_truth": "holding",
+    "prediction": "using",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2381350,
+    "query": "Based on the image, what is the relationship between man and helmet? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2379198,
+    "query": "Based on the image, what is the relationship between person and baseline? Choose only from the options provided",
+    "ground_truth": "standing",
+    "prediction": "I cannot confirm that - the image doesn't show...",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2379198,
+    "query": "Based on the image, what is the relationship between person and baseball? Choose only from the options provided",
+    "ground_truth": "laying",
+    "prediction": "throwing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2379198,
+    "query": "Based on the image, what is the relationship between person and belt? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "buckling, wearing, fastening",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2379198,
+    "query": "Based on the image, what is the relationship between person and trousers? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2379133,
+    "query": "Based on the image, what is the relationship between man and surfboard? Choose only from the options provided",
+    "ground_truth": "holding",
+    "prediction": "carrying",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2378945,
+    "query": "Based on the image, what is the relationship between rug and floor? Choose only from the options provided",
+    "ground_truth": "covering",
+    "prediction": "laying",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2378945,
+    "query": "Based on the image, what is the relationship between pillow and sofa? Choose only from the options provided",
+    "ground_truth": "lying",
+    "prediction": "placing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2378546,
+    "query": "Based on the image, what is the relationship between boy and jacket? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377743,
+    "query": "Based on the image, what is the relationship between girl and bracelet? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377743,
+    "query": "Based on the image, what is the relationship between girl and shirt? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377743,
+    "query": "Based on the image, what is the relationship between plate and pizza? Choose only from the options provided",
+    "ground_truth": "holding",
+    "prediction": "placing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377372,
+    "query": "Based on the image, what is the relationship between lineman and tie? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377349,
+    "query": "Based on the image, what is the relationship between surfer and wet suit? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2377245,
+    "query": "Based on the image, what is the relationship between person and hat? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376812,
+    "query": "Based on the image, what is the relationship between man and dog? Choose only from the options provided",
+    "ground_truth": "kissing",
+    "prediction": "kissing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376812,
+    "query": "Based on the image, what is the relationship between dog and motorcycle? Choose only from the options provided",
+    "ground_truth": "sitting",
+    "prediction": "sitting",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376537,
+    "query": "Based on the image, what is the relationship between antelope and giraffe? Choose only from the options provided",
+    "ground_truth": "grazing",
+    "prediction": "observing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376182,
+    "query": "Based on the image, what is the relationship between umpire and jacket? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376182,
+    "query": "Based on the image, what is the relationship between fan and glasses? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376182,
+    "query": "Based on the image, what is the relationship between man and helmet? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2376150,
+    "query": "Based on the image, what is the relationship between bug and fruit? Choose only from the options provided",
+    "ground_truth": "holding",
+    "prediction": "Biting",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375641,
+    "query": "Based on the image, what is the relationship between hand and surfboard? Choose only from the options provided",
+    "ground_truth": "holding",
+    "prediction": "holding",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375641,
+    "query": "Based on the image, what is the relationship between man and outside? Choose only from the options provided",
+    "ground_truth": "walking",
+    "prediction": "walking",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375641,
+    "query": "Based on the image, what is the relationship between arm and board? Choose only from the options provided",
+    "ground_truth": "holding",
+    "prediction": "holding",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375293,
+    "query": "Based on the image, what is the relationship between man and umbrella? Choose only from the options provided",
+    "ground_truth": "holding",
+    "prediction": "holding",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375293,
+    "query": "Based on the image, what is the relationship between woman and dress? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375293,
+    "query": "Based on the image, what is the relationship between man and bow-tie? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375215,
+    "query": "Based on the image, what is the relationship between man and shirt? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2375215,
+    "query": "Based on the image, what is the relationship between male and glasses? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2374995,
+    "query": "Based on the image, what is the relationship between woman and scarf? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2374995,
+    "query": "Based on the image, what is the relationship between napkin and flag? Choose only from the options provided",
+    "ground_truth": "laying",
+    "prediction": "laying",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2374938,
+    "query": "Based on the image, what is the relationship between skateboarder and shadow? Choose only from the options provided",
+    "ground_truth": "casting",
+    "prediction": "following",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2374938,
+    "query": "Based on the image, what is the relationship between man and black hoodie? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2374938,
+    "query": "Based on the image, what is the relationship between guy and hat? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2374361,
+    "query": "Based on the image, what is the relationship between people and street? Choose only from the options provided",
+    "ground_truth": "moving",
+    "prediction": "crossing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2374361,
+    "query": "Based on the image, what is the relationship between man and cap? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2373655,
+    "query": "Based on the image, what is the relationship between surfer and rocks? Choose only from the options provided",
+    "ground_truth": "standing",
+    "prediction": "standing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2373429,
+    "query": "Based on the image, what is the relationship between man and platform? Choose only from the options provided",
+    "ground_truth": "walking",
+    "prediction": "standing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2373429,
+    "query": "Based on the image, what is the relationship between man and jacket? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2373429,
+    "query": "Based on the image, what is the relationship between man and hat? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2373112,
+    "query": "Based on the image, what is the relationship between horse and bridle? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "adjusting",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2373112,
+    "query": "Based on the image, what is the relationship between glove and reign? Choose only from the options provided",
+    "ground_truth": "holding",
+    "prediction": "holding, gripping, clutching, grasping",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2373112,
+    "query": "Based on the image, what is the relationship between man and cap? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2372215,
+    "query": "Based on the image, what is the relationship between boy and pants? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2372215,
+    "query": "Based on the image, what is the relationship between child and baseball? Choose only from the options provided",
+    "ground_truth": "laying",
+    "prediction": "playing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2372215,
+    "query": "Based on the image, what is the relationship between player and dirt? Choose only from the options provided",
+    "ground_truth": "standing",
+    "prediction": "digging",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2372100,
+    "query": "Based on the image, what is the relationship between black tire and bears? Choose only from the options provided",
+    "ground_truth": "hanging",
+    "prediction": "rolling",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2372100,
+    "query": "Based on the image, what is the relationship between metal chain and platform? Choose only from the options provided",
+    "ground_truth": "supporting",
+    "prediction": "connecting",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2372100,
+    "query": "Based on the image, what is the relationship between two bears and ground? Choose only from the options provided",
+    "ground_truth": "laying",
+    "prediction": "laying",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2372035,
+    "query": "Based on the image, what is the relationship between child and sandal? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2371976,
+    "query": "Based on the image, what is the relationship between person and horse? Choose only from the options provided",
+    "ground_truth": "riding",
+    "prediction": "riding",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2371261,
+    "query": "Based on the image, what is the relationship between horses and buggy? Choose only from the options provided",
+    "ground_truth": "pulling",
+    "prediction": "pulling",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2371261,
+    "query": "Based on the image, what is the relationship between horses and hat? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2370859,
+    "query": "Based on the image, what is the relationship between keyboard and hand? Choose only from the options provided",
+    "ground_truth": "touching",
+    "prediction": "touching",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2369947,
+    "query": "Based on the image, what is the relationship between weeds and plant? Choose only from the options provided",
+    "ground_truth": "growing",
+    "prediction": "competing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2369947,
+    "query": "Based on the image, what is the relationship between brocolli and garden? Choose only from the options provided",
+    "ground_truth": "growing",
+    "prediction": "Growing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2368820,
+    "query": "Based on the image, what is the relationship between boulder and wall? Choose only from the options provided",
+    "ground_truth": "supporting",
+    "prediction": "leaning",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2368384,
+    "query": "Based on the image, what is the relationship between car and street? Choose only from the options provided",
+    "ground_truth": "driving",
+    "prediction": "Parking",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2368384,
+    "query": "Based on the image, what is the relationship between person and sidewalk? Choose only from the options provided",
+    "ground_truth": "walking",
+    "prediction": "sitting",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2367231,
+    "query": "Based on the image, what is the relationship between hands and cake? Choose only from the options provided",
+    "ground_truth": "cutting",
+    "prediction": "holding",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2367231,
+    "query": "Based on the image, what is the relationship between lady and wedding dress? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2366845,
+    "query": "Based on the image, what is the relationship between man and gate? Choose only from the options provided",
+    "ground_truth": "opening",
+    "prediction": "opening",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2366380,
+    "query": "Based on the image, what is the relationship between man and shirt? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2366380,
+    "query": "Based on the image, what is the relationship between man and camera? Choose only from the options provided",
+    "ground_truth": "holding",
+    "prediction": "using",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2366380,
+    "query": "Based on the image, what is the relationship between man and sunglasses? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2366380,
+    "query": "Based on the image, what is the relationship between man and watch? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "checking",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2366121,
+    "query": "Based on the image, what is the relationship between bird and up? Choose only from the options provided",
+    "ground_truth": "looking",
+    "prediction": "Looking",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2366121,
+    "query": "Based on the image, what is the relationship between bird and around? Choose only from the options provided",
+    "ground_truth": "walking",
+    "prediction": "Around",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2365542,
+    "query": "Based on the image, what is the relationship between man and snowpants? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2365542,
+    "query": "Based on the image, what is the relationship between he and goggles? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2364730,
+    "query": "Based on the image, what is the relationship between man and shirt? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2364730,
+    "query": "Based on the image, what is the relationship between man and shorts? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2364305,
+    "query": "Based on the image, what is the relationship between man and shirt? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2363354,
+    "query": "Based on the image, what is the relationship between girl and shirt? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2363354,
+    "query": "Based on the image, what is the relationship between man and glasses? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2363315,
+    "query": "Based on the image, what is the relationship between man and chaps? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2361591,
+    "query": "Based on the image, what is the relationship between elephant and road? Choose only from the options provided",
+    "ground_truth": "walking",
+    "prediction": "crossing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2360278,
+    "query": "Based on the image, what is the relationship between ski-jumping man and jump? Choose only from the options provided",
+    "ground_truth": "doing",
+    "prediction": "performing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357883,
+    "query": "Based on the image, what is the relationship between man and suit? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357883,
+    "query": "Based on the image, what is the relationship between man and tie? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357883,
+    "query": "Based on the image, what is the relationship between man and pants? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357581,
+    "query": "Based on the image, what is the relationship between boys and ground? Choose only from the options provided",
+    "ground_truth": "laying",
+    "prediction": "laying",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357581,
+    "query": "Based on the image, what is the relationship between boy and helmet? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357328,
+    "query": "Based on the image, what is the relationship between boy and bat? Choose only from the options provided",
+    "ground_truth": "holding",
+    "prediction": "playing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357328,
+    "query": "Based on the image, what is the relationship between boy and person? Choose only from the options provided",
+    "ground_truth": "standing",
+    "prediction": "playing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357328,
+    "query": "Based on the image, what is the relationship between boy and ball? Choose only from the options provided",
+    "ground_truth": "hitting",
+    "prediction": "throwing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357191,
+    "query": "Based on the image, what is the relationship between man and dog? Choose only from the options provided",
+    "ground_truth": "holding",
+    "prediction": "holding",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357074,
+    "query": "Based on the image, what is the relationship between man and shirt? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2357074,
+    "query": "Based on the image, what is the relationship between man and glasses? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "adjusting",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2356369,
+    "query": "Based on the image, what is the relationship between picture and display? Choose only from the options provided",
+    "ground_truth": "hanging",
+    "prediction": "presenting",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2355592,
+    "query": "Based on the image, what is the relationship between hand and slice? Choose only from the options provided",
+    "ground_truth": "grabbing",
+    "prediction": "holding",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2355558,
+    "query": "Based on the image, what is the relationship between man and wooden surface? Choose only from the options provided",
+    "ground_truth": "holding",
+    "prediction": "holding",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2355237,
+    "query": "Based on the image, what is the relationship between man and beer can? Choose only from the options provided",
+    "ground_truth": "holding",
+    "prediction": "drinking",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2355237,
+    "query": "Based on the image, what is the relationship between man and cellphone? Choose only from the options provided",
+    "ground_truth": "talking",
+    "prediction": "using",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2355237,
+    "query": "Based on the image, what is the relationship between woman and chair? Choose only from the options provided",
+    "ground_truth": "sitting",
+    "prediction": "sitting",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2354914,
+    "query": "Based on the image, what is the relationship between person and trench coat? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2354213,
+    "query": "Based on the image, what is the relationship between man and folder? Choose only from the options provided",
+    "ground_truth": "holding",
+    "prediction": "opening",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2354213,
+    "query": "Based on the image, what is the relationship between plants and building? Choose only from the options provided",
+    "ground_truth": "growing",
+    "prediction": "covering",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2354213,
+    "query": "Based on the image, what is the relationship between man and street? Choose only from the options provided",
+    "ground_truth": "walking",
+    "prediction": "crossing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2354213,
+    "query": "Based on the image, what is the relationship between man and folder? Choose only from the options provided",
+    "ground_truth": "carrying",
+    "prediction": "carrying",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2353930,
+    "query": "Based on the image, what is the relationship between horse and shadow? Choose only from the options provided",
+    "ground_truth": "casting",
+    "prediction": "casting",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2353203,
+    "query": "Based on the image, what is the relationship between catcher and face mask? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2353093,
+    "query": "Based on the image, what is the relationship between man and train? Choose only from the options provided",
+    "ground_truth": "fixing",
+    "prediction": "waiting",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2353093,
+    "query": "Based on the image, what is the relationship between man and train? Choose only from the options provided",
+    "ground_truth": "working",
+    "prediction": "boarding",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352573,
+    "query": "Based on the image, what is the relationship between woman and surfboard? Choose only from the options provided",
+    "ground_truth": "holding",
+    "prediction": "holding",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352573,
+    "query": "Based on the image, what is the relationship between woman and denim shorts? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352521,
+    "query": "Based on the image, what is the relationship between man and shirt? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352042,
+    "query": "Based on the image, what is the relationship between lady and glasses? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352042,
+    "query": "Based on the image, what is the relationship between lady and menu? Choose only from the options provided",
+    "ground_truth": "looking",
+    "prediction": "choosing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352001,
+    "query": "Based on the image, what is the relationship between woman and shorts? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352001,
+    "query": "Based on the image, what is the relationship between woman and top? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2352001,
+    "query": "Based on the image, what is the relationship between woman and tube? Choose only from the options provided",
+    "ground_truth": "carrying",
+    "prediction": "using",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2351767,
+    "query": "Based on the image, what is the relationship between man and shirt? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2351398,
+    "query": "Based on the image, what is the relationship between person and pants? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2350489,
+    "query": "Based on the image, what is the relationship between man and paper stack? Choose only from the options provided",
+    "ground_truth": "carrying",
+    "prediction": "holding",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2350489,
+    "query": "Based on the image, what is the relationship between man and road? Choose only from the options provided",
+    "ground_truth": "standing",
+    "prediction": "walking",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2350489,
+    "query": "Based on the image, what is the relationship between man and papers? Choose only from the options provided",
+    "ground_truth": "carrying",
+    "prediction": "carrying",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2350489,
+    "query": "Based on the image, what is the relationship between man and vest? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2350489,
+    "query": "Based on the image, what is the relationship between person and pants? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2349436,
+    "query": "Based on the image, what is the relationship between man and watch? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2349436,
+    "query": "Based on the image, what is the relationship between man and glasses? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348925,
+    "query": "Based on the image, what is the relationship between surfer and surfboard? Choose only from the options provided",
+    "ground_truth": "riding",
+    "prediction": "riding",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348732,
+    "query": "Based on the image, what is the relationship between man and surfboard? Choose only from the options provided",
+    "ground_truth": "carrying",
+    "prediction": "riding",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348525,
+    "query": "Based on the image, what is the relationship between man and suit? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348525,
+    "query": "Based on the image, what is the relationship between man and tie? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "tying",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348508,
+    "query": "Based on the image, what is the relationship between man and plane? Choose only from the options provided",
+    "ground_truth": "standing",
+    "prediction": "boarding",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348430,
+    "query": "Based on the image, what is the relationship between man and shirt? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348430,
+    "query": "Based on the image, what is the relationship between everyone and racquets? Choose only from the options provided",
+    "ground_truth": "holding",
+    "prediction": "using",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348430,
+    "query": "Based on the image, what is the relationship between woman and shirt? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348420,
+    "query": "Based on the image, what is the relationship between lady and shirt? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2348420,
+    "query": "Based on the image, what is the relationship between man and shorts? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2347350,
+    "query": "Based on the image, what is the relationship between twig and window? Choose only from the options provided",
+    "ground_truth": "blocking",
+    "prediction": "covering",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2347350,
+    "query": "Based on the image, what is the relationship between twig and clock? Choose only from the options provided",
+    "ground_truth": "blocking",
+    "prediction": "blocking",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2346161,
+    "query": "Based on the image, what is the relationship between rider and motorbike? Choose only from the options provided",
+    "ground_truth": "jumping",
+    "prediction": "riding",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2346161,
+    "query": "Based on the image, what is the relationship between man and bike? Choose only from the options provided",
+    "ground_truth": "racing",
+    "prediction": "riding",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2344531,
+    "query": "Based on the image, what is the relationship between man and tie? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2344531,
+    "query": "Based on the image, what is the relationship between man and holster? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "securing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2344531,
+    "query": "Based on the image, what is the relationship between man and shirt? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2344531,
+    "query": "Based on the image, what is the relationship between man and belt? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2343204,
+    "query": "Based on the image, what is the relationship between guy and jeans? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2341501,
+    "query": "Based on the image, what is the relationship between man and pants? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2341501,
+    "query": "Based on the image, what is the relationship between man and cap? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2341491,
+    "query": "Based on the image, what is the relationship between woman and hat? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2341491,
+    "query": "Based on the image, what is the relationship between person and horse? Choose only from the options provided",
+    "ground_truth": "riding",
+    "prediction": "riding",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2341491,
+    "query": "Based on the image, what is the relationship between woman and riding boot? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2341491,
+    "query": "Based on the image, what is the relationship between woman and horse? Choose only from the options provided",
+    "ground_truth": "riding",
+    "prediction": "riding",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2341266,
+    "query": "Based on the image, what is the relationship between hand and cell phone? Choose only from the options provided",
+    "ground_truth": "holding",
+    "prediction": "holding",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2341266,
+    "query": "Based on the image, what is the relationship between he and jeans? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2340930,
+    "query": "Based on the image, what is the relationship between giraffe and water? Choose only from the options provided",
+    "ground_truth": "drinking",
+    "prediction": "bathing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2340930,
+    "query": "Based on the image, what is the relationship between giraffe and lake edge? Choose only from the options provided",
+    "ground_truth": "drinking",
+    "prediction": "drinking",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2340211,
+    "query": "Based on the image, what is the relationship between guy and laptop? Choose only from the options provided",
+    "ground_truth": "using",
+    "prediction": "using",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2340174,
+    "query": "Based on the image, what is the relationship between man and pants? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2340174,
+    "query": "Based on the image, what is the relationship between man and shirt? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2339949,
+    "query": "Based on the image, what is the relationship between sunlight and tree? Choose only from the options provided",
+    "ground_truth": "shining",
+    "prediction": "filtering",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2339949,
+    "query": "Based on the image, what is the relationship between snow and tree? Choose only from the options provided",
+    "ground_truth": "covering",
+    "prediction": "falling",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2339949,
+    "query": "Based on the image, what is the relationship between guy and jacket? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2339532,
+    "query": "Based on the image, what is the relationship between hand and liquid? Choose only from the options provided",
+    "ground_truth": "holding",
+    "prediction": "holding",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2339532,
+    "query": "Based on the image, what is the relationship between man and mask? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2339532,
+    "query": "Based on the image, what is the relationship between man and blazer? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2339105,
+    "query": "Based on the image, what is the relationship between person and beach? Choose only from the options provided",
+    "ground_truth": "standing",
+    "prediction": "Standing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2339105,
+    "query": "Based on the image, what is the relationship between man and surfboard? Choose only from the options provided",
+    "ground_truth": "holding",
+    "prediction": "Holding",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2337188,
+    "query": "Based on the image, what is the relationship between man and hat? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2337188,
+    "query": "Based on the image, what is the relationship between girl and dress? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2337188,
+    "query": "Based on the image, what is the relationship between girl and jumper? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2336588,
+    "query": "Based on the image, what is the relationship between man and sandal? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2336588,
+    "query": "Based on the image, what is the relationship between man and shirt? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2336588,
+    "query": "Based on the image, what is the relationship between man and hat? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2335371,
+    "query": "Based on the image, what is the relationship between child and shirt? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2335371,
+    "query": "Based on the image, what is the relationship between man and watch? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2334761,
+    "query": "Based on the image, what is the relationship between man and jacket? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2334748,
+    "query": "Based on the image, what is the relationship between person and surfboard? Choose only from the options provided",
+    "ground_truth": "riding",
+    "prediction": "holding",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2332604,
+    "query": "Based on the image, what is the relationship between people and beach? Choose only from the options provided",
+    "ground_truth": "standing",
+    "prediction": "walking",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2331694,
+    "query": "Based on the image, what is the relationship between boy and bat? Choose only from the options provided",
+    "ground_truth": "holding",
+    "prediction": "swinging",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2331694,
+    "query": "Based on the image, what is the relationship between man and shirt? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2331694,
+    "query": "Based on the image, what is the relationship between boy and shirt? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2331433,
+    "query": "Based on the image, what is the relationship between man and sidewalk? Choose only from the options provided",
+    "ground_truth": "sitting",
+    "prediction": "sitting",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2331433,
+    "query": "Based on the image, what is the relationship between man and pants? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2330414,
+    "query": "Based on the image, what is the relationship between horse and obstacle? Choose only from the options provided",
+    "ground_truth": "jumping",
+    "prediction": "avoiding",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2328693,
+    "query": "Based on the image, what is the relationship between guy and shirt? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2328693,
+    "query": "Based on the image, what is the relationship between guy and shorts? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2328693,
+    "query": "Based on the image, what is the relationship between frisbee and beach? Choose only from the options provided",
+    "ground_truth": "laying",
+    "prediction": "throwing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2328227,
+    "query": "Based on the image, what is the relationship between train and tracks? Choose only from the options provided",
+    "ground_truth": "moving",
+    "prediction": "Following",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2328227,
+    "query": "Based on the image, what is the relationship between train engine and train cars? Choose only from the options provided",
+    "ground_truth": "pulling",
+    "prediction": "connecting",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2326992,
+    "query": "Based on the image, what is the relationship between woman and shoes? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2326992,
+    "query": "Based on the image, what is the relationship between man and shirt? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2326663,
+    "query": "Based on the image, what is the relationship between batter and helmet? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2326663,
+    "query": "Based on the image, what is the relationship between player and pants? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2326663,
+    "query": "Based on the image, what is the relationship between home plate and field? Choose only from the options provided",
+    "ground_truth": "lying",
+    "prediction": "approaching",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2325703,
+    "query": "Based on the image, what is the relationship between woman and necklaces? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "admiring",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2325703,
+    "query": "Based on the image, what is the relationship between woman and glasses? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2325525,
+    "query": "Based on the image, what is the relationship between branch and tree? Choose only from the options provided",
+    "ground_truth": "growing",
+    "prediction": "extending, supporting, connecting",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2324640,
+    "query": "Based on the image, what is the relationship between person and beach sand? Choose only from the options provided",
+    "ground_truth": "sitting",
+    "prediction": "I do not see that - the image shows [actual content]",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2324640,
+    "query": "Based on the image, what is the relationship between person and sea water? Choose only from the options provided",
+    "ground_truth": "swimming",
+    "prediction": "swimming",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2324598,
+    "query": "Based on the image, what is the relationship between batter and bat? Choose only from the options provided",
+    "ground_truth": "swinging",
+    "prediction": "hitting, gripping, holding, swinging",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2324598,
+    "query": "Based on the image, what is the relationship between umpire and face mask? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2324398,
+    "query": "Based on the image, what is the relationship between girl and spoon? Choose only from the options provided",
+    "ground_truth": "licking",
+    "prediction": "holding",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2323703,
+    "query": "Based on the image, what is the relationship between curl and wave? Choose only from the options provided",
+    "ground_truth": "crashing",
+    "prediction": "forming",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2323698,
+    "query": "Based on the image, what is the relationship between boy and skateboard? Choose only from the options provided",
+    "ground_truth": "riding",
+    "prediction": "holding",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2323698,
+    "query": "Based on the image, what is the relationship between skateboarder and shoes? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2323695,
+    "query": "Based on the image, what is the relationship between person and bicycle? Choose only from the options provided",
+    "ground_truth": "riding",
+    "prediction": "repairing, pushing, pedaling, riding",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2323282,
+    "query": "Based on the image, what is the relationship between players and hands? Choose only from the options provided",
+    "ground_truth": "shaking",
+    "prediction": "shaking",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2322749,
+    "query": "Based on the image, what is the relationship between soap and soap dish? Choose only from the options provided",
+    "ground_truth": "resting",
+    "prediction": "placing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2322749,
+    "query": "Based on the image, what is the relationship between picture and wall? Choose only from the options provided",
+    "ground_truth": "hanging",
+    "prediction": "displaying",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2322502,
+    "query": "Based on the image, what is the relationship between girl and horse? Choose only from the options provided",
+    "ground_truth": "riding",
+    "prediction": "riding",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2322374,
+    "query": "Based on the image, what is the relationship between people and hill? Choose only from the options provided",
+    "ground_truth": "standing",
+    "prediction": "observing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2322374,
+    "query": "Based on the image, what is the relationship between person and hill? Choose only from the options provided",
+    "ground_truth": "standing",
+    "prediction": "observing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2321836,
+    "query": "Based on the image, what is the relationship between flag and balcony? Choose only from the options provided",
+    "ground_truth": "lying",
+    "prediction": "hanging",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2321370,
+    "query": "Based on the image, what is the relationship between clock face and structure? Choose only from the options provided",
+    "ground_truth": "hanging",
+    "prediction": "hanging",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2321370,
+    "query": "Based on the image, what is the relationship between structure and ceiling? Choose only from the options provided",
+    "ground_truth": "hanging",
+    "prediction": "supports",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2320476,
+    "query": "Based on the image, what is the relationship between man and shirt? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2320476,
+    "query": "Based on the image, what is the relationship between child and shirt? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2319322,
+    "query": "Based on the image, what is the relationship between batter and shoe? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2319322,
+    "query": "Based on the image, what is the relationship between catcher and mitt? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2319009,
+    "query": "Based on the image, what is the relationship between girl and tiara? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2319009,
+    "query": "Based on the image, what is the relationship between girl and bear? Choose only from the options provided",
+    "ground_truth": "holding",
+    "prediction": "holding",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2318747,
+    "query": "Based on the image, what is the relationship between boy and frisbee? Choose only from the options provided",
+    "ground_truth": "catching",
+    "prediction": "throwing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2318331,
+    "query": "Based on the image, what is the relationship between player and clothes? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317951,
+    "query": "Based on the image, what is the relationship between brown spots and bananas? Choose only from the options provided",
+    "ground_truth": "covering",
+    "prediction": "appearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317739,
+    "query": "Based on the image, what is the relationship between man and goggles? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317739,
+    "query": "Based on the image, what is the relationship between man and coat? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317435,
+    "query": "Based on the image, what is the relationship between spoke and railing? Choose only from the options provided",
+    "ground_truth": "supporting",
+    "prediction": "I cannot see...",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317163,
+    "query": "Based on the image, what is the relationship between boy and hat? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317163,
+    "query": "Based on the image, what is the relationship between person and skateboard? Choose only from the options provided",
+    "ground_truth": "doing",
+    "prediction": "riding",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317030,
+    "query": "Based on the image, what is the relationship between boy and kite? Choose only from the options provided",
+    "ground_truth": "holding",
+    "prediction": "flying",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2317030,
+    "query": "Based on the image, what is the relationship between man and kite? Choose only from the options provided",
+    "ground_truth": "holding",
+    "prediction": "flying",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2414679,
+    "query": "Based on the image, what is the relationship between surfer and shirt? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2416037,
+    "query": "Based on the image, what is the relationship between thin wires and poles? Choose only from the options provided",
+    "ground_truth": "crossing",
+    "prediction": "connecting",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2416037,
+    "query": "Based on the image, what is the relationship between street lamp and wires? Choose only from the options provided",
+    "ground_truth": "hanging",
+    "prediction": "connecting",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2416037,
+    "query": "Based on the image, what is the relationship between green light and right arrow? Choose only from the options provided",
+    "ground_truth": "illuminating",
+    "prediction": "indicating",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2416037,
+    "query": "Based on the image, what is the relationship between traffic light and white bicycles? Choose only from the options provided",
+    "ground_truth": "showing",
+    "prediction": "controlling",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2416540,
+    "query": "Based on the image, what is the relationship between cloud and sky? Choose only from the options provided",
+    "ground_truth": "hanging",
+    "prediction": "covering, drifting, floating, hanging",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2416935,
+    "query": "Based on the image, what is the relationship between woman and cell phone? Choose only from the options provided",
+    "ground_truth": "holding",
+    "prediction": "using",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2417250,
+    "query": "Based on the image, what is the relationship between pillar and bridge? Choose only from the options provided",
+    "ground_truth": "supporting",
+    "prediction": "connecting",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2417652,
+    "query": "Based on the image, what is the relationship between man and hatch? Choose only from the options provided",
+    "ground_truth": "pushing",
+    "prediction": "opening, closing, lifting",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2417652,
+    "query": "Based on the image, what is the relationship between man and shorts? Choose only from the options provided",
+    "ground_truth": "wearing",
+    "prediction": "wearing",
+    "word_probs": {}
+  }
+]

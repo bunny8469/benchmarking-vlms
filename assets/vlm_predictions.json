@@ -1,0 +1,42 @@
+[
+  {
+    "image_id": 2404013,
+    "query": "What is the relationship between girl and boots?",
+    "ground_truth": "kicking",
+    "prediction": "Wearing",
+    "subject": "girl",
+    "object": "boots"
+  },
+  {
+    "image_id": 2387830,
+    "query": "What is the relationship between bus and shadow?",
+    "ground_truth": "casting",
+    "prediction": "Shadow",
+    "subject": "bus",
+    "object": "shadow"
+  },
+  {
+    "image_id": 2381949,
+    "query": "What is the relationship between girl and racket?",
+    "ground_truth": "swinging",
+    "prediction": "Using",
+    "subject": "girl",
+    "object": "racket"
+  },
+  {
+    "image_id": 2366485,
+    "query": "What is the relationship between person and bicycle?",
+    "ground_truth": "riding",
+    "prediction": "Carrying",
+    "subject": "person",
+    "object": "bicycle"
+  },
+  {
+    "image_id": 2410300,
+    "query": "What is the relationship between girl and soccer?",
+    "ground_truth": "playing",
+    "prediction": "Playing",
+    "subject": "girl",
+    "object": "soccer"
+  }
+]

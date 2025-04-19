@@ -1,0 +1,1886 @@
+[
+  {
+    "image_id": 615,
+    "query": "What color is the bag?",
+    "ground_truth": "black",
+    "prediction": "white"
+  },
+  {
+    "image_id": 615,
+    "query": "What color is the post?",
+    "ground_truth": "black",
+    "prediction": "gray"
+  },
+  {
+    "image_id": 1523,
+    "query": "What color is the lamp?",
+    "ground_truth": "black",
+    "prediction": "white"
+  },
+  {
+    "image_id": 1523,
+    "query": "What color is the cup?",
+    "ground_truth": "blue",
+    "prediction": "green"
+  },
+  {
+    "image_id": 1523,
+    "query": "What color is the scissors?",
+    "ground_truth": "red",
+    "prediction": "blue"
+  },
+  {
+    "image_id": 1901,
+    "query": "What color is the name?",
+    "ground_truth": "white",
+    "prediction": "blue"
+  },
+  {
+    "image_id": 3963,
+    "query": "What color is the plant?",
+    "ground_truth": "green",
+    "prediction": "pink"
+  },
+  {
+    "image_id": 4146,
+    "query": "What color is the chips?",
+    "ground_truth": "yellow",
+    "prediction": "green"
+  },
+  {
+    "image_id": 4146,
+    "query": "What color is the poker chips?",
+    "ground_truth": "red",
+    "prediction": "green"
+  },
+  {
+    "image_id": 4146,
+    "query": "What color is the lightbulb?",
+    "ground_truth": "white",
+    "prediction": "yellow"
+  },
+  {
+    "image_id": 285832,
+    "query": "What color is the dress on the left?",
+    "ground_truth": "red",
+    "prediction": "pink"
+  },
+  {
+    "image_id": 285832,
+    "query": "What color is the dress on the right?",
+    "ground_truth": "red",
+    "prediction": "pink"
+  },
+  {
+    "image_id": 286004,
+    "query": "What color is the logo?",
+    "ground_truth": "white",
+    "prediction": "red"
+  },
+  {
+    "image_id": 286004,
+    "query": "What color is the lettering?",
+    "ground_truth": "white",
+    "prediction": "black"
+  },
+  {
+    "image_id": 286004,
+    "query": "What color is the street sign?",
+    "ground_truth": "green",
+    "prediction": "red"
+  },
+  {
+    "image_id": 1159766,
+    "query": "What color is the trunks?",
+    "ground_truth": "red",
+    "prediction": "blue"
+  },
+  {
+    "image_id": 1159766,
+    "query": "What color is the shorts on the left?",
+    "ground_truth": "white",
+    "prediction": "red"
+  },
+  {
+    "image_id": 1159766,
+    "query": "What color is the shorts on the left?",
+    "ground_truth": "blue",
+    "prediction": "red"
+  },
+  {
+    "image_id": 1159789,
+    "query": "What color is the skateboard?",
+    "ground_truth": "black",
+    "prediction": "red"
+  },
+  {
+    "image_id": 1592439,
+    "query": "What color is the rug?",
+    "ground_truth": "brown",
+    "prediction": "red"
+  },
+  {
+    "image_id": 2412490,
+    "query": "What color is the fence?",
+    "ground_truth": "black",
+    "prediction": "yellow"
+  },
+  {
+    "image_id": 2411389,
+    "query": "What color is the line?",
+    "ground_truth": "white",
+    "prediction": "blue"
+  },
+  {
+    "image_id": 2410331,
+    "query": "What color is the graffiti?",
+    "ground_truth": "black",
+    "prediction": "blue"
+  },
+  {
+    "image_id": 2410331,
+    "query": "What color is the skateboard?",
+    "ground_truth": "white",
+    "prediction": "black"
+  },
+  {
+    "image_id": 2410331,
+    "query": "What color is the skateboard?",
+    "ground_truth": "red",
+    "prediction": "black"
+  },
+  {
+    "image_id": 2410331,
+    "query": "What color is the wall?",
+    "ground_truth": "white",
+    "prediction": "gray"
+  },
+  {
+    "image_id": 2410177,
+    "query": "What color is the letters?",
+    "ground_truth": "blue",
+    "prediction": "white"
+  },
+  {
+    "image_id": 2410177,
+    "query": "What color is the plate?",
+    "ground_truth": "white",
+    "prediction": "blue"
+  },
+  {
+    "image_id": 2410177,
+    "query": "What color is the shirt?",
+    "ground_truth": "blue",
+    "prediction": "white"
+  },
+  {
+    "image_id": 2410177,
+    "query": "What color is the money bands?",
+    "ground_truth": "purple",
+    "prediction": "white"
+  },
+  {
+    "image_id": 2409913,
+    "query": "What color is the hair?",
+    "ground_truth": "black",
+    "prediction": "brown"
+  },
+  {
+    "image_id": 2409581,
+    "query": "What color is the table?",
+    "ground_truth": "brown",
+    "prediction": "yellow"
+  },
+  {
+    "image_id": 2409084,
+    "query": "What color is the hat?",
+    "ground_truth": "green",
+    "prediction": "brown"
+  },
+  {
+    "image_id": 2409084,
+    "query": "What color is the support beam?",
+    "ground_truth": "black",
+    "prediction": "green"
+  },
+  {
+    "image_id": 2408930,
+    "query": "What color is the sand?",
+    "ground_truth": "gray",
+    "prediction": "brown"
+  },
+  {
+    "image_id": 2408930,
+    "query": "What color is the hair?",
+    "ground_truth": "brown",
+    "prediction": "black"
+  },
+  {
+    "image_id": 2407933,
+    "query": "What color is the light pole?",
+    "ground_truth": "white",
+    "prediction": "silver"
+  },
+  {
+    "image_id": 2406818,
+    "query": "What color is the spoon?",
+    "ground_truth": "green",
+    "prediction": "silver"
+  },
+  {
+    "image_id": 2406677,
+    "query": "What color is the shoe?",
+    "ground_truth": "black",
+    "prediction": "red"
+  },
+  {
+    "image_id": 2406677,
+    "query": "What color is the number?",
+    "ground_truth": "blue",
+    "prediction": "pink"
+  },
+  {
+    "image_id": 2406677,
+    "query": "What color is the net?",
+    "ground_truth": "red",
+    "prediction": "white"
+  },
+  {
+    "image_id": 2406677,
+    "query": "What color is the gloves?",
+    "ground_truth": "white",
+    "prediction": "blue"
+  },
+  {
+    "image_id": 2406039,
+    "query": "What color is the white letters?",
+    "ground_truth": "blue",
+    "prediction": "white"
+  },
+  {
+    "image_id": 2406039,
+    "query": "What color is the white letters?",
+    "ground_truth": "white",
+    "prediction": "blue"
+  },
+  {
+    "image_id": 2405887,
+    "query": "What color is the t-shirt on the left?",
+    "ground_truth": "red",
+    "prediction": "black"
+  },
+  {
+    "image_id": 2405887,
+    "query": "What color is the cell phone on the left?",
+    "ground_truth": "black",
+    "prediction": "white"
+  },
+  {
+    "image_id": 2405866,
+    "query": "What color is the shirt?",
+    "ground_truth": "white",
+    "prediction": "gray"
+  },
+  {
+    "image_id": 2405284,
+    "query": "What color is the bear mouth?",
+    "ground_truth": "black",
+    "prediction": "brown"
+  },
+  {
+    "image_id": 2404950,
+    "query": "What color is the motorcycle?",
+    "ground_truth": "black",
+    "prediction": "white"
+  },
+  {
+    "image_id": 2404950,
+    "query": "What color is the motorcycle?",
+    "ground_truth": "white",
+    "prediction": "silver"
+  },
+  {
+    "image_id": 2404950,
+    "query": "What color is the helmet?",
+    "ground_truth": "blue",
+    "prediction": "black"
+  },
+  {
+    "image_id": 2404950,
+    "query": "What color is the pole?",
+    "ground_truth": "black",
+    "prediction": "white"
+  },
+  {
+    "image_id": 2404950,
+    "query": "What color is the pole?",
+    "ground_truth": "yellow",
+    "prediction": "black"
+  },
+  {
+    "image_id": 2404341,
+    "query": "What color is the roof?",
+    "ground_truth": "brown",
+    "prediction": "green"
+  },
+  {
+    "image_id": 2404341,
+    "query": "What color is the house?",
+    "ground_truth": "brown",
+    "prediction": "white"
+  },
+  {
+    "image_id": 2403791,
+    "query": "What color is the fence?",
+    "ground_truth": "black",
+    "prediction": "blue"
+  },
+  {
+    "image_id": 2403783,
+    "query": "What color is the shirt on the right?",
+    "ground_truth": "blue",
+    "prediction": "black"
+  },
+  {
+    "image_id": 2403783,
+    "query": "What color is the shirt on the left?",
+    "ground_truth": "white",
+    "prediction": "blue"
+  },
+  {
+    "image_id": 2403783,
+    "query": "What color is the pen?",
+    "ground_truth": "blue",
+    "prediction": "yellow"
+  },
+  {
+    "image_id": 2403783,
+    "query": "What color is the bottle?",
+    "ground_truth": "red",
+    "prediction": "white"
+  },
+  {
+    "image_id": 2397681,
+    "query": "What color is the hat?",
+    "ground_truth": "black",
+    "prediction": "gray"
+  },
+  {
+    "image_id": 2397554,
+    "query": "What color is the water?",
+    "ground_truth": "green",
+    "prediction": "blue"
+  },
+  {
+    "image_id": 2397554,
+    "query": "What color is the top?",
+    "ground_truth": "black",
+    "prediction": "red"
+  },
+  {
+    "image_id": 2397554,
+    "query": "What color is the horse?",
+    "ground_truth": "white",
+    "prediction": "brown"
+  },
+  {
+    "image_id": 2397554,
+    "query": "What color is the horse?",
+    "ground_truth": "brown",
+    "prediction": "white"
+  },
+  {
+    "image_id": 2397554,
+    "query": "What color is the hair?",
+    "ground_truth": "brown",
+    "prediction": "black"
+  },
+  {
+    "image_id": 2397554,
+    "query": "What color is the hair?",
+    "ground_truth": "red",
+    "prediction": "brown"
+  },
+  {
+    "image_id": 2397035,
+    "query": "What color is the head?",
+    "ground_truth": "brown",
+    "prediction": "white"
+  },
+  {
+    "image_id": 2397035,
+    "query": "What color is the head?",
+    "ground_truth": "white",
+    "prediction": "brown"
+  },
+  {
+    "image_id": 2396122,
+    "query": "What color is the caution tape?",
+    "ground_truth": "black",
+    "prediction": "yellow"
+  },
+  {
+    "image_id": 2396122,
+    "query": "What color is the mouse?",
+    "ground_truth": "black",
+    "prediction": "red"
+  },
+  {
+    "image_id": 2395290,
+    "query": "What color is the hair?",
+    "ground_truth": "gray",
+    "prediction": "black"
+  },
+  {
+    "image_id": 2395290,
+    "query": "What color is the items?",
+    "ground_truth": "orange",
+    "prediction": "blue"
+  },
+  {
+    "image_id": 2394926,
+    "query": "What color is the board?",
+    "ground_truth": "white",
+    "prediction": "black"
+  },
+  {
+    "image_id": 2394926,
+    "query": "What color is the stapler?",
+    "ground_truth": "gray",
+    "prediction": "red"
+  },
+  {
+    "image_id": 2393957,
+    "query": "What color is the shirt on the left?",
+    "ground_truth": "blue",
+    "prediction": "white"
+  },
+  {
+    "image_id": 2393957,
+    "query": "What color is the tennis racket?",
+    "ground_truth": "black",
+    "prediction": "red"
+  },
+  {
+    "image_id": 2393957,
+    "query": "What color is the shirt on the right?",
+    "ground_truth": "red",
+    "prediction": "pink"
+  },
+  {
+    "image_id": 2393957,
+    "query": "What color is the shirt on the right?",
+    "ground_truth": "pink",
+    "prediction": "orange"
+  },
+  {
+    "image_id": 2393957,
+    "query": "What color is the pole?",
+    "ground_truth": "blue",
+    "prediction": "white"
+  },
+  {
+    "image_id": 2393957,
+    "query": "What color is the nike logo?",
+    "ground_truth": "white",
+    "prediction": "pink"
+  },
+  {
+    "image_id": 2393957,
+    "query": "What color is the hair?",
+    "ground_truth": "brown",
+    "prediction": "blond"
+  },
+  {
+    "image_id": 2393957,
+    "query": "What color is the lettering?",
+    "ground_truth": "black",
+    "prediction": "white"
+  },
+  {
+    "image_id": 2393957,
+    "query": "What color is the wrist band?",
+    "ground_truth": "white",
+    "prediction": "pink"
+  },
+  {
+    "image_id": 2393783,
+    "query": "What color is the lipstick?",
+    "ground_truth": "pink",
+    "prediction": "red"
+  },
+  {
+    "image_id": 2393728,
+    "query": "What color is the creamers?",
+    "ground_truth": "green",
+    "prediction": "white"
+  },
+  {
+    "image_id": 2393728,
+    "query": "What color is the creamers?",
+    "ground_truth": "white",
+    "prediction": "red"
+  },
+  {
+    "image_id": 2393720,
+    "query": "What color is the skirt?",
+    "ground_truth": "brown",
+    "prediction": "red"
+  },
+  {
+    "image_id": 2393720,
+    "query": "What color is the flames?",
+    "ground_truth": "yellow",
+    "prediction": "pink"
+  },
+  {
+    "image_id": 2393720,
+    "query": "What color is the flames?",
+    "ground_truth": "red",
+    "prediction": "pink"
+  },
+  {
+    "image_id": 2392460,
+    "query": "What color is the sweatband?",
+    "ground_truth": "red",
+    "prediction": "white"
+  },
+  {
+    "image_id": 2390079,
+    "query": "What color is the pants?",
+    "ground_truth": "pink",
+    "prediction": "orange"
+  },
+  {
+    "image_id": 2389815,
+    "query": "What color is the racket?",
+    "ground_truth": "black",
+    "prediction": "yellow"
+  },
+  {
+    "image_id": 2389815,
+    "query": "What color is the line?",
+    "ground_truth": "white",
+    "prediction": "green"
+  },
+  {
+    "image_id": 2389815,
+    "query": "What color is the screen?",
+    "ground_truth": "black",
+    "prediction": "white"
+  },
+  {
+    "image_id": 2389740,
+    "query": "What color is the badge?",
+    "ground_truth": "blue",
+    "prediction": "black"
+  },
+  {
+    "image_id": 2389740,
+    "query": "What color is the label?",
+    "ground_truth": "white",
+    "prediction": "blue"
+  },
+  {
+    "image_id": 2389740,
+    "query": "What color is the computer?",
+    "ground_truth": "black",
+    "prediction": "gray"
+  },
+  {
+    "image_id": 2389259,
+    "query": "What color is the line?",
+    "ground_truth": "white",
+    "prediction": "blue"
+  },
+  {
+    "image_id": 2389259,
+    "query": "What color is the area on the left?",
+    "ground_truth": "blue",
+    "prediction": "green"
+  },
+  {
+    "image_id": 2387142,
+    "query": "What color is the wall?",
+    "ground_truth": "white",
+    "prediction": "red"
+  },
+  {
+    "image_id": 2387142,
+    "query": "What color is the rails?",
+    "ground_truth": "white",
+    "prediction": "black"
+  },
+  {
+    "image_id": 2387142,
+    "query": "What color is the door?",
+    "ground_truth": "red",
+    "prediction": "yellow"
+  },
+  {
+    "image_id": 2387095,
+    "query": "What color is the shirt?",
+    "ground_truth": "white",
+    "prediction": "yellow"
+  },
+  {
+    "image_id": 2387076,
+    "query": "What color is the toothbrush?",
+    "ground_truth": "blue",
+    "prediction": "white"
+  },
+  {
+    "image_id": 2385687,
+    "query": "What color is the robes?",
+    "ground_truth": "white",
+    "prediction": "red"
+  },
+  {
+    "image_id": 2385637,
+    "query": "What color is the pants?",
+    "ground_truth": "gray",
+    "prediction": "black"
+  },
+  {
+    "image_id": 2385637,
+    "query": "What color is the wall?",
+    "ground_truth": "white",
+    "prediction": "brown"
+  },
+  {
+    "image_id": 2384566,
+    "query": "What color is the suitcase?",
+    "ground_truth": "black",
+    "prediction": "gray"
+  },
+  {
+    "image_id": 2384566,
+    "query": "What color is the purse?",
+    "ground_truth": "black",
+    "prediction": "gray"
+  },
+  {
+    "image_id": 2384566,
+    "query": "What color is the duffle bag?",
+    "ground_truth": "red",
+    "prediction": "black"
+  },
+  {
+    "image_id": 2384327,
+    "query": "What color is the bowl?",
+    "ground_truth": "white",
+    "prediction": "blue"
+  },
+  {
+    "image_id": 2383950,
+    "query": "What color is the grass?",
+    "ground_truth": "brown",
+    "prediction": "green"
+  },
+  {
+    "image_id": 2383254,
+    "query": "What color is the motorcycle?",
+    "ground_truth": "yellow",
+    "prediction": "white"
+  },
+  {
+    "image_id": 2382960,
+    "query": "What color is the ski poles?",
+    "ground_truth": "orange",
+    "prediction": "yellow"
+  },
+  {
+    "image_id": 2382960,
+    "query": "What color is the ski?",
+    "ground_truth": "black",
+    "prediction": "red"
+  },
+  {
+    "image_id": 2382861,
+    "query": "What color is the line?",
+    "ground_truth": "white",
+    "prediction": "yellow"
+  },
+  {
+    "image_id": 2381462,
+    "query": "What color is the ocean?",
+    "ground_truth": "white",
+    "prediction": "blue"
+  },
+  {
+    "image_id": 2381350,
+    "query": "What color is the ski boots?",
+    "ground_truth": "red",
+    "prediction": "orange"
+  },
+  {
+    "image_id": 2379198,
+    "query": "What color is the trousers?",
+    "ground_truth": "black",
+    "prediction": "white"
+  },
+  {
+    "image_id": 2379198,
+    "query": "What color is the trousers?",
+    "ground_truth": "white",
+    "prediction": "gray"
+  },
+  {
+    "image_id": 2379198,
+    "query": "What color is the hat?",
+    "ground_truth": "blue",
+    "prediction": "black"
+  },
+  {
+    "image_id": 2379133,
+    "query": "What color is the wave?",
+    "ground_truth": "blue",
+    "prediction": "green"
+  },
+  {
+    "image_id": 2379133,
+    "query": "What color is the wave?",
+    "ground_truth": "white",
+    "prediction": "blue"
+  },
+  {
+    "image_id": 2379133,
+    "query": "What color is the striped pants?",
+    "ground_truth": "orange",
+    "prediction": "blue"
+  },
+  {
+    "image_id": 2378945,
+    "query": "What color is the rug?",
+    "ground_truth": "brown",
+    "prediction": "black"
+  },
+  {
+    "image_id": 2378546,
+    "query": "What color is the kite?",
+    "ground_truth": "red",
+    "prediction": "yellow"
+  },
+  {
+    "image_id": 2377743,
+    "query": "What color is the cup?",
+    "ground_truth": "white",
+    "prediction": "yellow"
+  },
+  {
+    "image_id": 2377743,
+    "query": "What color is the bracelet?",
+    "ground_truth": "white",
+    "prediction": "orange"
+  },
+  {
+    "image_id": 2377590,
+    "query": "What color is the bow?",
+    "ground_truth": "yellow",
+    "prediction": "black"
+  },
+  {
+    "image_id": 2377349,
+    "query": "What color is the sky?",
+    "ground_truth": "gray",
+    "prediction": "blue"
+  },
+  {
+    "image_id": 2377245,
+    "query": "What color is the wheel?",
+    "ground_truth": "black",
+    "prediction": "white"
+  },
+  {
+    "image_id": 2377245,
+    "query": "What color is the boat on the left?",
+    "ground_truth": "brown",
+    "prediction": "red"
+  },
+  {
+    "image_id": 2377245,
+    "query": "What color is the boat on the right?",
+    "ground_truth": "white",
+    "prediction": "blue"
+  },
+  {
+    "image_id": 2377245,
+    "query": "What color is the paper?",
+    "ground_truth": "white",
+    "prediction": "blue"
+  },
+  {
+    "image_id": 2376812,
+    "query": "What color is the scooter on the left?",
+    "ground_truth": "red",
+    "prediction": "orange"
+  },
+  {
+    "image_id": 2376812,
+    "query": "What color is the motorcycle seat?",
+    "ground_truth": "black",
+    "prediction": "red"
+  },
+  {
+    "image_id": 2375790,
+    "query": "What color is the pants?",
+    "ground_truth": "gray",
+    "prediction": "brown"
+  },
+  {
+    "image_id": 2375790,
+    "query": "What color is the shirt?",
+    "ground_truth": "gray",
+    "prediction": "brown"
+  },
+  {
+    "image_id": 2375790,
+    "query": "What color is the field?",
+    "ground_truth": "green",
+    "prediction": "brown"
+  },
+  {
+    "image_id": 2375641,
+    "query": "What color is the hair?",
+    "ground_truth": "black",
+    "prediction": "brown"
+  },
+  {
+    "image_id": 2375215,
+    "query": "What color is the spot?",
+    "ground_truth": "brown",
+    "prediction": "yellow"
+  },
+  {
+    "image_id": 2374938,
+    "query": "What color is the sweater?",
+    "ground_truth": "blue",
+    "prediction": "black"
+  },
+  {
+    "image_id": 2374938,
+    "query": "What color is the banner?",
+    "ground_truth": "white",
+    "prediction": "red"
+  },
+  {
+    "image_id": 2373429,
+    "query": "What color is the train on the left?",
+    "ground_truth": "black",
+    "prediction": "red"
+  },
+  {
+    "image_id": 2373112,
+    "query": "What color is the obstacle bar on the right?",
+    "ground_truth": "purple",
+    "prediction": "red"
+  },
+  {
+    "image_id": 2373112,
+    "query": "What color is the board on the left?",
+    "ground_truth": "pink",
+    "prediction": "white"
+  },
+  {
+    "image_id": 2373112,
+    "query": "What color is the gate?",
+    "ground_truth": "pink",
+    "prediction": "white"
+  },
+  {
+    "image_id": 2373112,
+    "query": "What color is the bridle?",
+    "ground_truth": "black",
+    "prediction": "brown"
+  },
+  {
+    "image_id": 2373112,
+    "query": "What color is the obstacle bar on the left?",
+    "ground_truth": "green",
+    "prediction": "white"
+  },
+  {
+    "image_id": 2372035,
+    "query": "What color is the awning?",
+    "ground_truth": "blue",
+    "prediction": "orange"
+  },
+  {
+    "image_id": 2372035,
+    "query": "What color is the shoe?",
+    "ground_truth": "gray",
+    "prediction": "pink"
+  },
+  {
+    "image_id": 2372035,
+    "query": "What color is the shoe?",
+    "ground_truth": "orange",
+    "prediction": "pink"
+  },
+  {
+    "image_id": 2371976,
+    "query": "What color is the mane?",
+    "ground_truth": "black",
+    "prediction": "brown"
+  },
+  {
+    "image_id": 2371976,
+    "query": "What color is the t-shirt?",
+    "ground_truth": "brown",
+    "prediction": "blue"
+  },
+  {
+    "image_id": 2371976,
+    "query": "What color is the t-shirt?",
+    "ground_truth": "black",
+    "prediction": "blue"
+  },
+  {
+    "image_id": 2371976,
+    "query": "What color is the horse on the right?",
+    "ground_truth": "brown",
+    "prediction": "white"
+  },
+  {
+    "image_id": 2371261,
+    "query": "What color is the nose?",
+    "ground_truth": "black",
+    "prediction": "white"
+  },
+  {
+    "image_id": 2370859,
+    "query": "What color is the monitor?",
+    "ground_truth": "black",
+    "prediction": "gray"
+  },
+  {
+    "image_id": 2370859,
+    "query": "What color is the unicorn?",
+    "ground_truth": "yellow",
+    "prediction": "brown"
+  },
+  {
+    "image_id": 2370859,
+    "query": "What color is the keyboard?",
+    "ground_truth": "black",
+    "prediction": "gray"
+  },
+  {
+    "image_id": 2368820,
+    "query": "What color is the fur?",
+    "ground_truth": "white",
+    "prediction": "black"
+  },
+  {
+    "image_id": 2367231,
+    "query": "What color is the hair?",
+    "ground_truth": "black",
+    "prediction": "brown"
+  },
+  {
+    "image_id": 2366380,
+    "query": "What color is the hair on the left?",
+    "ground_truth": "brown",
+    "prediction": "gray"
+  },
+  {
+    "image_id": 2366380,
+    "query": "What color is the hair on the right?",
+    "ground_truth": "gray",
+    "prediction": "brown"
+  },
+  {
+    "image_id": 2366380,
+    "query": "What color is the mustache?",
+    "ground_truth": "gray",
+    "prediction": "brown"
+  },
+  {
+    "image_id": 2364730,
+    "query": "What color is the shirt?",
+    "ground_truth": "gray",
+    "prediction": "red"
+  },
+  {
+    "image_id": 2364730,
+    "query": "What color is the railing?",
+    "ground_truth": "gray",
+    "prediction": "red"
+  },
+  {
+    "image_id": 2364305,
+    "query": "What color is the clouds?",
+    "ground_truth": "white",
+    "prediction": "gray"
+  },
+  {
+    "image_id": 2363354,
+    "query": "What color is the hair?",
+    "ground_truth": "brown",
+    "prediction": "red"
+  },
+  {
+    "image_id": 2360278,
+    "query": "What color is the clouds on the right?",
+    "ground_truth": "white",
+    "prediction": "blue"
+  },
+  {
+    "image_id": 2360278,
+    "query": "What color is the clouds on the left?",
+    "ground_truth": "white",
+    "prediction": "blue"
+  },
+  {
+    "image_id": 2360278,
+    "query": "What color is the helmet?",
+    "ground_truth": "red",
+    "prediction": "yellow"
+  },
+  {
+    "image_id": 2358174,
+    "query": "What color is the letters?",
+    "ground_truth": "white",
+    "prediction": "red"
+  },
+  {
+    "image_id": 2358174,
+    "query": "What color is the sign on the right?",
+    "ground_truth": "white",
+    "prediction": "red"
+  },
+  {
+    "image_id": 2358174,
+    "query": "What color is the post on the left?",
+    "ground_truth": "green",
+    "prediction": "white"
+  },
+  {
+    "image_id": 2357883,
+    "query": "What color is the bed?",
+    "ground_truth": "blue",
+    "prediction": "yellow"
+  },
+  {
+    "image_id": 2357074,
+    "query": "What color is the phone on the right?",
+    "ground_truth": "black",
+    "prediction": "yellow"
+  },
+  {
+    "image_id": 2354914,
+    "query": "What color is the box?",
+    "ground_truth": "yellow",
+    "prediction": "blue"
+  },
+  {
+    "image_id": 2354914,
+    "query": "What color is the asphalt?",
+    "ground_truth": "black",
+    "prediction": "gray"
+  },
+  {
+    "image_id": 2354213,
+    "query": "What color is the folder?",
+    "ground_truth": "red",
+    "prediction": "black"
+  },
+  {
+    "image_id": 2354213,
+    "query": "What color is the sign on the left?",
+    "ground_truth": "white",
+    "prediction": "red"
+  },
+  {
+    "image_id": 2353930,
+    "query": "What color is the cloud on the left?",
+    "ground_truth": "white",
+    "prediction": "gray"
+  },
+  {
+    "image_id": 2353203,
+    "query": "What color is the cap?",
+    "ground_truth": "red",
+    "prediction": "black"
+  },
+  {
+    "image_id": 2352573,
+    "query": "What color is the jacket?",
+    "ground_truth": "blue",
+    "prediction": "white"
+  },
+  {
+    "image_id": 2352521,
+    "query": "What color is the flower in the center?",
+    "ground_truth": "orange",
+    "prediction": "red"
+  },
+  {
+    "image_id": 2352001,
+    "query": "What color is the newspaper stand?",
+    "ground_truth": "white",
+    "prediction": "red"
+  },
+  {
+    "image_id": 2352001,
+    "query": "What color is the car?",
+    "ground_truth": "gray",
+    "prediction": "white"
+  },
+  {
+    "image_id": 2351767,
+    "query": "What color is the sweater?",
+    "ground_truth": "red",
+    "prediction": "blue"
+  },
+  {
+    "image_id": 2351767,
+    "query": "What color is the lettering?",
+    "ground_truth": "red",
+    "prediction": "pink"
+  },
+  {
+    "image_id": 2351767,
+    "query": "What color is the shirt?",
+    "ground_truth": "purple",
+    "prediction": "blue"
+  },
+  {
+    "image_id": 2351398,
+    "query": "What color is the belt on the left?",
+    "ground_truth": "brown",
+    "prediction": "black"
+  },
+  {
+    "image_id": 2350489,
+    "query": "What color is the traffic sign?",
+    "ground_truth": "orange",
+    "prediction": "yellow"
+  },
+  {
+    "image_id": 2350489,
+    "query": "What color is the safety vest?",
+    "ground_truth": "orange",
+    "prediction": "yellow"
+  },
+  {
+    "image_id": 2349436,
+    "query": "What color is the shirt on the left?",
+    "ground_truth": "brown",
+    "prediction": "gray"
+  },
+  {
+    "image_id": 2348732,
+    "query": "What color is the flowers on the left?",
+    "ground_truth": "red",
+    "prediction": "green"
+  },
+  {
+    "image_id": 2348732,
+    "query": "What color is the surfboard?",
+    "ground_truth": "blue",
+    "prediction": "yellow"
+  },
+  {
+    "image_id": 2348525,
+    "query": "What color is the red flower?",
+    "ground_truth": "red",
+    "prediction": "pink"
+  },
+  {
+    "image_id": 2348508,
+    "query": "What color is the safety vest?",
+    "ground_truth": "yellow",
+    "prediction": "orange"
+  },
+  {
+    "image_id": 2348430,
+    "query": "What color is the shirt on the right?",
+    "ground_truth": "blue",
+    "prediction": "white"
+  },
+  {
+    "image_id": 2348430,
+    "query": "What color is the shoes?",
+    "ground_truth": "white",
+    "prediction": "black"
+  },
+  {
+    "image_id": 2348420,
+    "query": "What color is the ball?",
+    "ground_truth": "green",
+    "prediction": "yellow"
+  },
+  {
+    "image_id": 2348420,
+    "query": "What color is the man?",
+    "ground_truth": "black",
+    "prediction": "white"
+  },
+  {
+    "image_id": 2348420,
+    "query": "What color is the racket?",
+    "ground_truth": "blue",
+    "prediction": "white"
+  },
+  {
+    "image_id": 2348420,
+    "query": "What color is the shoes?",
+    "ground_truth": "white",
+    "prediction": "blue"
+  },
+  {
+    "image_id": 2347350,
+    "query": "What color is the clock on the left?",
+    "ground_truth": "black",
+    "prediction": "red"
+  },
+  {
+    "image_id": 2341501,
+    "query": "What color is the sign?",
+    "ground_truth": "white",
+    "prediction": "blue"
+  },
+  {
+    "image_id": 2341491,
+    "query": "What color is the headgear?",
+    "ground_truth": "black",
+    "prediction": "blue"
+  },
+  {
+    "image_id": 2341266,
+    "query": "What color is the paper?",
+    "ground_truth": "white",
+    "prediction": "blue"
+  },
+  {
+    "image_id": 2341266,
+    "query": "What color is the shirt?",
+    "ground_truth": "green",
+    "prediction": "red"
+  },
+  {
+    "image_id": 2340211,
+    "query": "What color is the laptop?",
+    "ground_truth": "brown",
+    "prediction": "silver"
+  },
+  {
+    "image_id": 2340174,
+    "query": "What color is the shirt on the right?",
+    "ground_truth": "red",
+    "prediction": "black"
+  },
+  {
+    "image_id": 2339105,
+    "query": "What color is the water?",
+    "ground_truth": "purple",
+    "prediction": "blue"
+  },
+  {
+    "image_id": 2337992,
+    "query": "What color is the skateboard?",
+    "ground_truth": "black",
+    "prediction": "green"
+  },
+  {
+    "image_id": 2337188,
+    "query": "What color is the coat?",
+    "ground_truth": "brown",
+    "prediction": "tan"
+  },
+  {
+    "image_id": 2336588,
+    "query": "What color is the sign?",
+    "ground_truth": "orange",
+    "prediction": "yellow"
+  },
+  {
+    "image_id": 2336588,
+    "query": "What color is the top?",
+    "ground_truth": "yellow",
+    "prediction": "black"
+  },
+  {
+    "image_id": 2335371,
+    "query": "What color is the shirt on the right?",
+    "ground_truth": "yellow",
+    "prediction": "blue"
+  },
+  {
+    "image_id": 2335371,
+    "query": "What color is the shirt on the right?",
+    "ground_truth": "blue",
+    "prediction": "red"
+  },
+  {
+    "image_id": 2334761,
+    "query": "What color is the light on the right?",
+    "ground_truth": "red",
+    "prediction": "green"
+  },
+  {
+    "image_id": 2334761,
+    "query": "What color is the blazer?",
+    "ground_truth": "black",
+    "prediction": "gray"
+  },
+  {
+    "image_id": 2330414,
+    "query": "What color is the flags?",
+    "ground_truth": "white",
+    "prediction": "red"
+  },
+  {
+    "image_id": 2328693,
+    "query": "What color is the disc?",
+    "ground_truth": "pink",
+    "prediction": "green"
+  },
+  {
+    "image_id": 2328693,
+    "query": "What color is the frisbee?",
+    "ground_truth": "pink",
+    "prediction": "yellow"
+  },
+  {
+    "image_id": 2328227,
+    "query": "What color is the train in the center?",
+    "ground_truth": "orange",
+    "prediction": "yellow"
+  },
+  {
+    "image_id": 2328034,
+    "query": "What color is the doughnut?",
+    "ground_truth": "orange",
+    "prediction": "brown"
+  },
+  {
+    "image_id": 2328034,
+    "query": "What color is the shoe?",
+    "ground_truth": "brown",
+    "prediction": "black"
+  },
+  {
+    "image_id": 2326663,
+    "query": "What color is the batting helmet?",
+    "ground_truth": "black",
+    "prediction": "blue"
+  },
+  {
+    "image_id": 2325525,
+    "query": "What color is the truck?",
+    "ground_truth": "blue",
+    "prediction": "white"
+  },
+  {
+    "image_id": 2324598,
+    "query": "What color is the can?",
+    "ground_truth": "gray",
+    "prediction": "silver"
+  },
+  {
+    "image_id": 2324598,
+    "query": "What color is the shirt?",
+    "ground_truth": "black",
+    "prediction": "blue"
+  },
+  {
+    "image_id": 2324598,
+    "query": "What color is the letters?",
+    "ground_truth": "white",
+    "prediction": "blue"
+  },
+  {
+    "image_id": 2324598,
+    "query": "What color is the uniform?",
+    "ground_truth": "white",
+    "prediction": "gray"
+  },
+  {
+    "image_id": 2324598,
+    "query": "What color is the uniform?",
+    "ground_truth": "blue",
+    "prediction": "red"
+  },
+  {
+    "image_id": 2324398,
+    "query": "What color is the flower?",
+    "ground_truth": "white",
+    "prediction": "pink"
+  },
+  {
+    "image_id": 2322786,
+    "query": "What color is the shorts?",
+    "ground_truth": "black",
+    "prediction": "red"
+  },
+  {
+    "image_id": 2322786,
+    "query": "What color is the design?",
+    "ground_truth": "green",
+    "prediction": "red"
+  },
+  {
+    "image_id": 2322786,
+    "query": "What color is the lettering?",
+    "ground_truth": "white",
+    "prediction": "blue"
+  },
+  {
+    "image_id": 2322786,
+    "query": "What color is the board?",
+    "ground_truth": "white",
+    "prediction": "red"
+  },
+  {
+    "image_id": 2321836,
+    "query": "What color is the curb on the right?",
+    "ground_truth": "red",
+    "prediction": "gray"
+  },
+  {
+    "image_id": 2321836,
+    "query": "What color is the plastic bag?",
+    "ground_truth": "brown",
+    "prediction": "white"
+  },
+  {
+    "image_id": 2320476,
+    "query": "What color is the dog?",
+    "ground_truth": "white",
+    "prediction": "gray"
+  },
+  {
+    "image_id": 2320476,
+    "query": "What color is the dog?",
+    "ground_truth": "black",
+    "prediction": "brown"
+  },
+  {
+    "image_id": 2319322,
+    "query": "What color is the helmet?",
+    "ground_truth": "blue",
+    "prediction": "green"
+  },
+  {
+    "image_id": 2319009,
+    "query": "What color is the dress?",
+    "ground_truth": "white",
+    "prediction": "pink"
+  },
+  {
+    "image_id": 2319009,
+    "query": "What color is the bear?",
+    "ground_truth": "gray",
+    "prediction": "white"
+  },
+  {
+    "image_id": 2318747,
+    "query": "What color is the shoe?",
+    "ground_truth": "black",
+    "prediction": "white"
+  },
+  {
+    "image_id": 2318747,
+    "query": "What color is the shoes?",
+    "ground_truth": "black",
+    "prediction": "white"
+  },
+  {
+    "image_id": 2318331,
+    "query": "What color is the ball?",
+    "ground_truth": "green",
+    "prediction": "yellow"
+  },
+  {
+    "image_id": 2318331,
+    "query": "What color is the shirt on the left?",
+    "ground_truth": "white",
+    "prediction": "blue"
+  },
+  {
+    "image_id": 2318331,
+    "query": "What color is the logo?",
+    "ground_truth": "white",
+    "prediction": "green"
+  },
+  {
+    "image_id": 2318331,
+    "query": "What color is the platform?",
+    "ground_truth": "red",
+    "prediction": "green"
+  },
+  {
+    "image_id": 2317951,
+    "query": "What color is the tablecloth?",
+    "ground_truth": "white",
+    "prediction": "green"
+  },
+  {
+    "image_id": 2317951,
+    "query": "What color is the tablecloth?",
+    "ground_truth": "red",
+    "prediction": "green"
+  },
+  {
+    "image_id": 2317951,
+    "query": "What color is the bananas?",
+    "ground_truth": "green",
+    "prediction": "yellow"
+  },
+  {
+    "image_id": 2317951,
+    "query": "What color is the bananas?",
+    "ground_truth": "black",
+    "prediction": "green"
+  },
+  {
+    "image_id": 2317435,
+    "query": "What color is the line?",
+    "ground_truth": "white",
+    "prediction": "red"
+  },
+  {
+    "image_id": 2317163,
+    "query": "What color is the pants?",
+    "ground_truth": "blue",
+    "prediction": "green"
+  },
+  {
+    "image_id": 2317030,
+    "query": "What color is the grass on the left?",
+    "ground_truth": "yellow",
+    "prediction": "green"
+  },
+  {
+    "image_id": 2414679,
+    "query": "What color is the stripes?",
+    "ground_truth": "green",
+    "prediction": "yellow"
+  },
+  {
+    "image_id": 2414679,
+    "query": "What color is the pattern?",
+    "ground_truth": "white",
+    "prediction": "yellow"
+  },
+  {
+    "image_id": 2414679,
+    "query": "What color is the pattern?",
+    "ground_truth": "black",
+    "prediction": "yellow"
+  },
+  {
+    "image_id": 2414679,
+    "query": "What color is the design?",
+    "ground_truth": "white",
+    "prediction": "yellow"
+  },
+  {
+    "image_id": 2414679,
+    "query": "What color is the design?",
+    "ground_truth": "black",
+    "prediction": "yellow"
+  },
+  {
+    "image_id": 2415565,
+    "query": "What color is the cloud in the center?",
+    "ground_truth": "white",
+    "prediction": "blue"
+  },
+  {
+    "image_id": 2415565,
+    "query": "What color is the clouds on the left?",
+    "ground_truth": "white",
+    "prediction": "gray"
+  },
+  {
+    "image_id": 2416037,
+    "query": "What color is the image?",
+    "ground_truth": "white",
+    "prediction": "blue"
+  },
+  {
+    "image_id": 2416037,
+    "query": "What color is the tower?",
+    "ground_truth": "gray",
+    "prediction": "brown"
+  },
+  {
+    "image_id": 2417250,
+    "query": "What color is the light in the center?",
+    "ground_truth": "green",
+    "prediction": "red"
+  },
+  {
+    "image_id": 2417652,
+    "query": "What color is the license plate on the right?",
+    "ground_truth": "yellow",
+    "prediction": "blue"
+  },
+  {
+    "image_id": 3963,
+    "query": "What material is the easel made of?",
+    "ground_truth": "wooden",
+    "prediction": "wood"
+  },
+  {
+    "image_id": 1592439,
+    "query": "What material is the paddle made of?",
+    "ground_truth": "wooden",
+    "prediction": "wood"
+  },
+  {
+    "image_id": 2414248,
+    "query": "What material is the helmet made of?",
+    "ground_truth": "plastic",
+    "prediction": "polycarbonate"
+  },
+  {
+    "image_id": 2412490,
+    "query": "What material is the fence made of?",
+    "ground_truth": "metal",
+    "prediction": "wood"
+  },
+  {
+    "image_id": 2410331,
+    "query": "What material is the ramp made of?",
+    "ground_truth": "wooden",
+    "prediction": "wood"
+  },
+  {
+    "image_id": 2409581,
+    "query": "What material is the table made of?",
+    "ground_truth": "wooden",
+    "prediction": "wood"
+  },
+  {
+    "image_id": 2409108,
+    "query": "What material is the pole on the right made of?",
+    "ground_truth": "wooden",
+    "prediction": "wood"
+  },
+  {
+    "image_id": 2409108,
+    "query": "What material is the pole on the left made of?",
+    "ground_truth": "wooden",
+    "prediction": "wood"
+  },
+  {
+    "image_id": 2403791,
+    "query": "What material is the fence made of?",
+    "ground_truth": "wooden",
+    "prediction": "wood"
+  },
+  {
+    "image_id": 2401033,
+    "query": "What material is the glove on the right made of?",
+    "ground_truth": "plastic",
+    "prediction": "latex"
+  },
+  {
+    "image_id": 2396122,
+    "query": "What material is the table made of?",
+    "ground_truth": "wooden",
+    "prediction": "wood"
+  },
+  {
+    "image_id": 2384327,
+    "query": "What material is the mantle made of?",
+    "ground_truth": "wooden",
+    "prediction": "wood"
+  },
+  {
+    "image_id": 2376150,
+    "query": "What material is the bars made of?",
+    "ground_truth": "wooden",
+    "prediction": "wood"
+  },
+  {
+    "image_id": 2376150,
+    "query": "What material is the wooden rod made of?",
+    "ground_truth": "wooden",
+    "prediction": "wood"
+  },
+  {
+    "image_id": 2376150,
+    "query": "What material is the rod on the right made of?",
+    "ground_truth": "wooden",
+    "prediction": "wood"
+  },
+  {
+    "image_id": 2376150,
+    "query": "What material is the rod on the left made of?",
+    "ground_truth": "wooden",
+    "prediction": "wood"
+  },
+  {
+    "image_id": 2374361,
+    "query": "What material is the horse shoe made of?",
+    "ground_truth": "metal",
+    "prediction": "leather"
+  },
+  {
+    "image_id": 2369565,
+    "query": "What material is the wooden deck made of?",
+    "ground_truth": "wooden",
+    "prediction": "wood"
+  },
+  {
+    "image_id": 2366845,
+    "query": "What material is the fence made of?",
+    "ground_truth": "wooden",
+    "prediction": "wood"
+  },
+  {
+    "image_id": 2355558,
+    "query": "What material is the chair made of?",
+    "ground_truth": "metal",
+    "prediction": "wood"
+  },
+  {
+    "image_id": 2353203,
+    "query": "What material is the wooden bat made of?",
+    "ground_truth": "wooden",
+    "prediction": "wood"
+  },
+  {
+    "image_id": 2352042,
+    "query": "What material is the knife made of?",
+    "ground_truth": "metal",
+    "prediction": "steel"
+  },
+  {
+    "image_id": 2340211,
+    "query": "What material is the table made of?",
+    "ground_truth": "wooden",
+    "prediction": "wood"
+  },
+  {
+    "image_id": 2335371,
+    "query": "What material is the headboard in the center made of?",
+    "ground_truth": "wooden",
+    "prediction": "wood"
+  },
+  {
+    "image_id": 2325703,
+    "query": "What material is the wood plank in the center made of?",
+    "ground_truth": "wooden",
+    "prediction": "wood"
+  },
+  {
+    "image_id": 2325703,
+    "query": "What material is the plank on the right made of?",
+    "ground_truth": "wooden",
+    "prediction": "wood"
+  },
+  {
+    "image_id": 2325703,
+    "query": "What material is the wood plank on the left made of?",
+    "ground_truth": "wooden",
+    "prediction": "wood"
+  },
+  {
+    "image_id": 2321836,
+    "query": "What material is the plastic bag made of?",
+    "ground_truth": "plastic",
+    "prediction": "polyethylene"
+  },
+  {
+    "image_id": 2318331,
+    "query": "What material is the platform made of?",
+    "ground_truth": "wooden",
+    "prediction": "concrete"
+  },
+  {
+    "image_id": 2404950,
+    "query": "What is the condition of the ground?",
+    "ground_truth": "wet",
+    "prediction": "rainy"
+  },
+  {
+    "image_id": 2382861,
+    "query": "What is the condition of the dirt?",
+    "ground_truth": "wet",
+    "prediction": "unknown"
+  },
+  {
+    "image_id": 2375790,
+    "query": "What is the condition of the pants?",
+    "ground_truth": "dirty",
+    "prediction": "old"
+  },
+  {
+    "image_id": 2375790,
+    "query": "What is the condition of the cuttings?",
+    "ground_truth": "dry",
+    "prediction": "unknown"
+  },
+  {
+    "image_id": 2375641,
+    "query": "What is the condition of the man's hair is wet?",
+    "ground_truth": "wet",
+    "prediction": "yes"
+  },
+  {
+    "image_id": 2349436,
+    "query": "What is the condition of the phone?",
+    "ground_truth": "old",
+    "prediction": "broken"
+  },
+  {
+    "image_id": 2331433,
+    "query": "What is the condition of the man in the center?",
+    "ground_truth": "old",
+    "prediction": "unknown"
+  },
+  {
+    "image_id": 2326663,
+    "query": "What is the condition of the knee?",
+    "ground_truth": "dirty",
+    "prediction": "kneeling"
+  },
+  {
+    "image_id": 2325525,
+    "query": "What is the condition of the road on the left?",
+    "ground_truth": "wet",
+    "prediction": "rainy"
+  },
+  {
+    "image_id": 2322374,
+    "query": "What is the condition of the grass?",
+    "ground_truth": "dry",
+    "prediction": "green"
+  },
+  {
+    "image_id": 2320476,
+    "query": "What is the condition of the pavement?",
+    "ground_truth": "wet",
+    "prediction": "cracked"
+  },
+  {
+    "image_id": 2401506,
+    "query": "What is the shape of the mirror?",
+    "ground_truth": "round",
+    "prediction": "rectangle"
+  },
+  {
+    "image_id": 2389740,
+    "query": "What is the shape of the camera?",
+    "ground_truth": "round",
+    "prediction": "rectangular"
+  },
+  {
+    "image_id": 2379198,
+    "query": "What is the shape of the base?",
+    "ground_truth": "square",
+    "prediction": "round"
+  },
+  {
+    "image_id": 2358174,
+    "query": "What is the shape of the sign on the left?",
+    "ground_truth": "rectangular",
+    "prediction": "octagon"
+  }
+]

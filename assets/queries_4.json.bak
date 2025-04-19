@@ -1,0 +1,1301 @@
+{
+  "2406881": {
+    "person-WEARING-shoes": {
+      "original_relationship": {
+        "subject": "person",
+        "action": "WEARING",
+        "object": "shoes"
+      },
+      "queries": {
+        "yes_no_question": "Is the person dancing shoes?",
+        "descriptive_prompt": "Describe the person wearing shoes."
+      }
+    },
+    "person-wearing-shoes": {
+      "original_relationship": {
+        "subject": "person",
+        "action": "wearing",
+        "object": "shoes"
+      },
+      "queries": {
+        "yes_no_question": "Is the person carrying the shoes?",
+        "descriptive_prompt": "Describe the person tying the shoes."
+      }
+    },
+    "person-WEARING-shirt": {
+      "original_relationship": {
+        "subject": "person",
+        "action": "WEARING",
+        "object": "shirt"
+      },
+      "queries": {
+        "yes_no_question": "Is the person folding the shirt?",
+        "descriptive_prompt": "Describe the person hanging the shirt."
+      }
+    },
+    "wall-covered in-graffiti": {
+      "original_relationship": {
+        "subject": "wall",
+        "action": "covered in",
+        "object": "graffiti"
+      },
+      "queries": {
+        "yes_no_question": "Is the wall painting the graffiti?",
+        "descriptive_prompt": "Describe the wall painting the graffiti."
+      }
+    }
+  },
+  "2398232": {
+    "legs-attached to-horse": {
+      "original_relationship": {
+        "subject": "legs",
+        "action": "attached to",
+        "object": "horse"
+      },
+      "queries": {
+        "yes_no_question": "Is the legs riding the horse?",
+        "descriptive_prompt": "Describe the legs racing the horse."
+      }
+    },
+    "legs-are part of-horse": {
+      "original_relationship": {
+        "subject": "legs",
+        "action": "are part of",
+        "object": "horse"
+      },
+      "queries": {
+        "yes_no_question": "Are the legs running the horse?",
+        "descriptive_prompt": "Describe the legs galloping the horse."
+      }
+    },
+    "flowers-are behind-horse": {
+      "original_relationship": {
+        "subject": "flowers",
+        "action": "are behind",
+        "object": "horse"
+      },
+      "queries": {
+        "yes_no_question": "Is the flowers hanging from the horse?",
+        "descriptive_prompt": "Describe the flowers dangling from the horse."
+      }
+    },
+    "grass-being eaten by-horse": {
+      "original_relationship": {
+        "subject": "grass",
+        "action": "being eaten by",
+        "object": "horse"
+      },
+      "queries": {
+        "yes_no_question": "Is the grass riding the horse?",
+        "descriptive_prompt": "Describe the grass floating on the horse."
+      }
+    },
+    "grass-below-horse": {
+      "original_relationship": {
+        "subject": "grass",
+        "action": "below",
+        "object": "horse"
+      },
+      "queries": {
+        "yes_no_question": "Is the horse stepping on the grass?",
+        "descriptive_prompt": "Describe the horse walking on the grass."
+      }
+    },
+    "fence-behind-horse": {
+      "original_relationship": {
+        "subject": "fence",
+        "action": "behind",
+        "object": "horse"
+      },
+      "queries": {
+        "yes_no_question": "Is the horse standing in front of the fence?",
+        "descriptive_prompt": "Describe the horse walking in front of the fence."
+      }
+    },
+    "trees-are behind-fence": {
+      "original_relationship": {
+        "subject": "trees",
+        "action": "are behind",
+        "object": "fence"
+      },
+      "queries": {
+        "yes_no_question": "Are the trees hiding behind the fence?",
+        "descriptive_prompt": "Describe the trees leaning against the fence."
+      }
+    },
+    "horse-above-grass": {
+      "original_relationship": {
+        "subject": "horse",
+        "action": "above",
+        "object": "grass"
+      },
+      "queries": {
+        "yes_no_question": "Is the horse jumping the grass?",
+        "descriptive_prompt": "Describe the horse hovering the grass."
+      }
+    },
+    "flowers-behind-horse": {
+      "original_relationship": {
+        "subject": "flowers",
+        "action": "behind",
+        "object": "horse"
+      },
+      "queries": {
+        "yes_no_question": "Is the horse hiding the flowers?",
+        "descriptive_prompt": "Describe the horse storing the flowers."
+      }
+    }
+  },
+  "2390184": {
+    "vehicle-parked by-curb": {
+      "original_relationship": {
+        "subject": "vehicle",
+        "action": "parked by",
+        "object": "curb"
+      },
+      "queries": {
+        "yes_no_question": "Is the vehicle driving by the curb?",
+        "descriptive_prompt": "Describe the vehicle moving by the curb."
+      }
+    },
+    "windows-have-frames": {
+      "original_relationship": {
+        "subject": "windows",
+        "action": "have",
+        "object": "frames"
+      },
+      "queries": {
+        "yes_no_question": "Are the windows leaning on frames?",
+        "descriptive_prompt": "Describe the windows resting against frames."
+      }
+    },
+    "grates-over-window": {
+      "original_relationship": {
+        "subject": "grates",
+        "action": "over",
+        "object": "window"
+      },
+      "queries": {
+        "yes_no_question": "Is the cheese grating over the window?",
+        "descriptive_prompt": "Describe the cheese scraping over the window."
+      }
+    },
+    "pedestrian signal-attached to-pole": {
+      "original_relationship": {
+        "subject": "pedestrian signal",
+        "action": "attached to",
+        "object": "pole"
+      },
+      "queries": {
+        "yes_no_question": "Is the pedestrian signal buried in the pole?",
+        "descriptive_prompt": "Describe the pedestrian signal buried in the pole."
+      }
+    },
+    "white lines-painted on-road": {
+      "original_relationship": {
+        "subject": "white lines",
+        "action": "painted on",
+        "object": "road"
+      },
+      "queries": {
+        "yes_no_question": "Are the white lines running on the road?",
+        "descriptive_prompt": "Describe the white lines racing on the road."
+      }
+    },
+    "vehicle-parked on-curb": {
+      "original_relationship": {
+        "subject": "vehicle",
+        "action": "parked on",
+        "object": "curb"
+      },
+      "queries": {
+        "yes_no_question": "Is the vehicle driving on the curb?",
+        "descriptive_prompt": "Describe the vehicle driving on the curb."
+      }
+    },
+    "pick up truck-on side of-road": {
+      "original_relationship": {
+        "subject": "pick up truck",
+        "action": "on side of",
+        "object": "road"
+      },
+      "queries": {
+        "yes_no_question": "Is the pick up truck jumping off the side of road?",
+        "descriptive_prompt": "Describe the pick up truck driving off the side of road."
+      }
+    },
+    "grates-hanging on-building": {
+      "original_relationship": {
+        "subject": "grates",
+        "action": "hanging on",
+        "object": "building"
+      },
+      "queries": {
+        "yes_no_question": "Is the grates resting on the building?",
+        "descriptive_prompt": "Describe the grates leaning on the building."
+      }
+    },
+    "road-by-sidewalk": {
+      "original_relationship": {
+        "subject": "road",
+        "action": "by",
+        "object": "sidewalk"
+      },
+      "queries": {
+        "yes_no_question": "Is the road walking on the sidewalk?",
+        "descriptive_prompt": "Describe the road strolling on the sidewalk."
+      }
+    },
+    "road-by-curb": {
+      "original_relationship": {
+        "subject": "road",
+        "action": "by",
+        "object": "curb"
+      },
+      "queries": {
+        "yes_no_question": "Is the road crossing the curb?",
+        "descriptive_prompt": "Describe the road touching the curb."
+      }
+    },
+    "road-by-red pole": {
+      "original_relationship": {
+        "subject": "road",
+        "action": "by",
+        "object": "red pole"
+      },
+      "queries": {
+        "yes_no_question": "Is the road driving the pole?",
+        "descriptive_prompt": "Describe the road steering the pole."
+      }
+    },
+    "pick up truck-parked on-road": {
+      "original_relationship": {
+        "subject": "pick up truck",
+        "action": "parked on",
+        "object": "road"
+      },
+      "queries": {
+        "yes_no_question": "Is the truck painting the road?",
+        "descriptive_prompt": "Describe the truck painting the road."
+      }
+    },
+    "pole-holding-sign": {
+      "original_relationship": {
+        "subject": "pole",
+        "action": "holding",
+        "object": "sign"
+      },
+      "queries": {
+        "yes_no_question": "Is the pole displaying the sign?",
+        "descriptive_prompt": "Describe the pole holding the sign."
+      }
+    },
+    "pole-holding-traffic signal": {
+      "original_relationship": {
+        "subject": "pole",
+        "action": "holding",
+        "object": "traffic signal"
+      },
+      "queries": {
+        "yes_no_question": "Is the pole flying the traffic signal?",
+        "descriptive_prompt": "Describe the pole towing the traffic signal."
+      }
+    },
+    "building-by-road": {
+      "original_relationship": {
+        "subject": "building",
+        "action": "by",
+        "object": "road"
+      },
+      "queries": {
+        "yes_no_question": "Is the road paving the building?",
+        "descriptive_prompt": "Describe the road constructing the building."
+      }
+    },
+    "vehicle-close to-pick up truck": {
+      "original_relationship": {
+        "subject": "vehicle",
+        "action": "close to",
+        "object": "pick up truck"
+      },
+      "queries": {
+        "yes_no_question": "Is the vehicle parked next to the pick up truck?",
+        "descriptive_prompt": "Describe the vehicle parked next to the pick up truck."
+      }
+    },
+    "pick up truck-has-plywood": {
+      "original_relationship": {
+        "subject": "pick up truck",
+        "action": "has",
+        "object": "plywood"
+      },
+      "queries": {
+        "yes_no_question": "Is the pick up truck hoarding plywood?",
+        "descriptive_prompt": "Describe the pick up truck accumulating plywood."
+      }
+    }
+  },
+  "2388483": {
+    "man-carrying an-umbrella": {
+      "original_relationship": {
+        "subject": "man",
+        "action": "carrying an",
+        "object": "umbrella"
+      },
+      "queries": {
+        "yes_no_question": "Is the man skiing the umbrella?",
+        "descriptive_prompt": "Describe the man skiing the umbrella."
+      }
+    },
+    "man-carrying-umbrella": {
+      "original_relationship": {
+        "subject": "man",
+        "action": "carrying",
+        "object": "umbrella"
+      },
+      "queries": {
+        "yes_no_question": "Is the man swimming with the umbrella?",
+        "descriptive_prompt": "Describe the man swimming with the umbrella."
+      }
+    },
+    "man-riding-bicycle": {
+      "original_relationship": {
+        "subject": "man",
+        "action": "riding",
+        "object": "bicycle"
+      },
+      "queries": {
+        "yes_no_question": "Is the man flying the bicycle?",
+        "descriptive_prompt": "Describe the man surfing the bicycle."
+      }
+    }
+  },
+  "2387230": {
+    "man-riding-bike": {
+      "original_relationship": {
+        "subject": "man",
+        "action": "riding",
+        "object": "bike"
+      },
+      "queries": {
+        "yes_no_question": "Is the man driving the bike?",
+        "descriptive_prompt": "Describe the man operating the bike."
+      }
+    },
+    "trees-behind-road": {
+      "original_relationship": {
+        "subject": "trees",
+        "action": "behind",
+        "object": "road"
+      },
+      "queries": {
+        "yes_no_question": "Are the trees floating behind the road?",
+        "descriptive_prompt": "Describe the trees drifting behind the road."
+      }
+    },
+    "tent-by-trees": {
+      "original_relationship": {
+        "subject": "tent",
+        "action": "by",
+        "object": "trees"
+      },
+      "queries": {
+        "yes_no_question": "Are the trees standing on the tent?",
+        "descriptive_prompt": "Describe the trees holding the tent."
+      }
+    },
+    "trees-behind-car": {
+      "original_relationship": {
+        "subject": "trees",
+        "action": "behind",
+        "object": "car"
+      },
+      "queries": {
+        "yes_no_question": "Is the car hiding the trees?",
+        "descriptive_prompt": "Describe the car surrounding the trees."
+      }
+    },
+    "man-riding-bicycle": {
+      "original_relationship": {
+        "subject": "man",
+        "action": "riding",
+        "object": "bicycle"
+      },
+      "queries": {
+        "yes_no_question": "Is the man driving the bicycle?",
+        "descriptive_prompt": "Describe the man steering the bicycle."
+      }
+    },
+    "man-WEARING-glasses": {
+      "original_relationship": {
+        "subject": "man",
+        "action": "WEARING",
+        "object": "glasses"
+      },
+      "queries": {
+        "yes_no_question": "Is the man polishing the glasses?",
+        "descriptive_prompt": "Describe the man polishing the glasses."
+      }
+    },
+    "people-standing on-sidewalk": {
+      "original_relationship": {
+        "subject": "people",
+        "action": "standing on",
+        "object": "sidewalk"
+      },
+      "queries": {
+        "yes_no_question": "Is the people jumping on the sidewalk?",
+        "descriptive_prompt": "Describe the people dancing on the sidewalk."
+      }
+    }
+  },
+  "2383091": {
+    "tennis racket-in hand of-player": {
+      "original_relationship": {
+        "subject": "tennis racket",
+        "action": "in hand of",
+        "object": "player"
+      },
+      "queries": {
+        "yes_no_question": "Is the player holding tennis equipment?",
+        "descriptive_prompt": "Describe the player holding tennis equipment."
+      }
+    },
+    "tennis shoe-on foot of-player": {
+      "original_relationship": {
+        "subject": "tennis shoe",
+        "action": "on foot of",
+        "object": "player"
+      },
+      "queries": {
+        "yes_no_question": "Is the player throwing the tennis shoe?",
+        "descriptive_prompt": "Describe the player jumping over the tennis shoe."
+      }
+    },
+    "tennis player-swinging at a-ball": {
+      "original_relationship": {
+        "subject": "tennis player",
+        "action": "swinging at a",
+        "object": "ball"
+      },
+      "queries": {
+        "yes_no_question": "Is the tennis player dancing with the ball?",
+        "descriptive_prompt": "Describe the tennis player dancing with the ball."
+      }
+    },
+    "visor-on head of-player": {
+      "original_relationship": {
+        "subject": "visor",
+        "action": "on head of",
+        "object": "player"
+      },
+      "queries": {
+        "yes_no_question": "Is the visor tying the head of the player?",
+        "descriptive_prompt": "Describe the visor wrapping the head of the player."
+      }
+    },
+    "woman-hitting a-ball": {
+      "original_relationship": {
+        "subject": "woman",
+        "action": "hitting a",
+        "object": "ball"
+      },
+      "queries": {
+        "yes_no_question": "Is the woman catching the ball?",
+        "descriptive_prompt": "Describe the woman catching the ball."
+      }
+    },
+    "woman-on a-tennis court": {
+      "original_relationship": {
+        "subject": "woman",
+        "action": "on a",
+        "object": "tennis court"
+      },
+      "queries": {
+        "yes_no_question": "Is the woman swinging a tennis racket?",
+        "descriptive_prompt": "Describe the woman serving a tennis ball."
+      }
+    },
+    "woman-with a-visor": {
+      "original_relationship": {
+        "subject": "woman",
+        "action": "with a",
+        "object": "visor"
+      },
+      "queries": {
+        "yes_no_question": "Is the woman wearing the visor?",
+        "descriptive_prompt": "Describe the woman holding the visor."
+      }
+    },
+    "tennis player-hitting-ball": {
+      "original_relationship": {
+        "subject": "tennis player",
+        "action": "hitting",
+        "object": "ball"
+      },
+      "queries": {
+        "yes_no_question": "Is the tennis player throwing the ball?",
+        "descriptive_prompt": "Describe the tennis player holding the ball."
+      }
+    }
+  },
+  "2376050": {
+    "bike-has-wheel": {
+      "original_relationship": {
+        "subject": "bike",
+        "action": "has",
+        "object": "wheel"
+      },
+      "queries": {
+        "yes_no_question": "Is the bike repairing the wheel?",
+        "descriptive_prompt": "Describe the bike balancing the wheel."
+      }
+    },
+    "exhaust pipe-on a-motorcycle": {
+      "original_relationship": {
+        "subject": "exhaust pipe",
+        "action": "on a",
+        "object": "motorcycle"
+      },
+      "queries": {
+        "yes_no_question": "Is the motorcycle attaching the exhaust pipe?",
+        "descriptive_prompt": "Describe the motorcycle attaching the exhaust pipe."
+      }
+    },
+    "man-has-hair": {
+      "original_relationship": {
+        "subject": "man",
+        "action": "has",
+        "object": "hair"
+      },
+      "queries": {
+        "yes_no_question": "Is the man cutting his hair?",
+        "descriptive_prompt": "Describe the man trimming his hair."
+      }
+    },
+    "front wheel-of a-motorcycle": {
+      "original_relationship": {
+        "subject": "front wheel",
+        "action": "of a",
+        "object": "motorcycle"
+      },
+      "queries": {
+        "yes_no_question": "Is the motorcycle holding the front wheel?",
+        "descriptive_prompt": "Describe the motorcycle supporting the front wheel."
+      }
+    },
+    "handlebar-of a-motorcycle": {
+      "original_relationship": {
+        "subject": "handlebar",
+        "action": "of a",
+        "object": "motorcycle"
+      },
+      "queries": {
+        "yes_no_question": "Is the handlebar holding the motorcycle?",
+        "descriptive_prompt": "Describe the handlebar embracing the motorcycle."
+      }
+    },
+    "seat-on a-motorcycle": {
+      "original_relationship": {
+        "subject": "seat",
+        "action": "on a",
+        "object": "motorcycle"
+      },
+      "queries": {
+        "yes_no_question": "Is the person sitting on the motorcycle?",
+        "descriptive_prompt": "Describe the person standing on the motorcycle."
+      }
+    },
+    "license plate-of a-motorcycle": {
+      "original_relationship": {
+        "subject": "license plate",
+        "action": "of a",
+        "object": "motorcycle"
+      },
+      "queries": {
+        "yes_no_question": "Is the motorcycle holding the license plate?",
+        "descriptive_prompt": "Describe the motorcycle displaying the license plate."
+      }
+    },
+    "bike-has-tail light": {
+      "original_relationship": {
+        "subject": "bike",
+        "action": "has",
+        "object": "tail light"
+      },
+      "queries": {
+        "yes_no_question": "Is the bike displaying a tail light?",
+        "descriptive_prompt": "Describe the bike showing a tail light."
+      }
+    },
+    "man-has-necklace": {
+      "original_relationship": {
+        "subject": "man",
+        "action": "has",
+        "object": "necklace"
+      },
+      "queries": {
+        "yes_no_question": "Is the man holding the necklace?",
+        "descriptive_prompt": "Describe the man holding the necklace."
+      }
+    },
+    "face-of a-man": {
+      "original_relationship": {
+        "subject": "face",
+        "action": "of a",
+        "object": "man"
+      },
+      "queries": {
+        "yes_no_question": "Is the man hugging his face?",
+        "descriptive_prompt": "Describe the man hugging his face."
+      }
+    },
+    "man-has-arm": {
+      "original_relationship": {
+        "subject": "man",
+        "action": "has",
+        "object": "arm"
+      },
+      "queries": {
+        "yes_no_question": "Is the man holding arms?",
+        "descriptive_prompt": "Describe the man carrying arms."
+      }
+    }
+  },
+  "2371699": {
+    "cream-on top of-dessert": {
+      "original_relationship": {
+        "subject": "cream",
+        "action": "on top of",
+        "object": "dessert"
+      },
+      "queries": {
+        "yes_no_question": "Is the cream dancing on top of the dessert?",
+        "descriptive_prompt": "Describe the cream swirling on top of the dessert."
+      }
+    },
+    "banana-on top of-plate": {
+      "original_relationship": {
+        "subject": "banana",
+        "action": "on top of",
+        "object": "plate"
+      },
+      "queries": {
+        "yes_no_question": "Is the banana covering the plate?",
+        "descriptive_prompt": "Describe the banana wrapping the plate."
+      }
+    },
+    "powdered sugar-on top of-banana": {
+      "original_relationship": {
+        "subject": "powdered sugar",
+        "action": "on top of",
+        "object": "banana"
+      },
+      "queries": {
+        "yes_no_question": "Is the banana crumbling the powdered sugar?",
+        "descriptive_prompt": "Describe the banana crumbling the powdered sugar."
+      }
+    }
+  },
+  "2371314": {
+    "cows-are crossing-road": {
+      "original_relationship": {
+        "subject": "cows",
+        "action": "are crossing",
+        "object": "road"
+      },
+      "queries": {
+        "yes_no_question": "Are the cows swimming across the road?",
+        "descriptive_prompt": "Describe the cows walking across the road."
+      }
+    },
+    "plate-on back of-car": {
+      "original_relationship": {
+        "subject": "plate",
+        "action": "on back of",
+        "object": "car"
+      },
+      "queries": {
+        "yes_no_question": "Is the car balancing the plate?",
+        "descriptive_prompt": "Describe the car balancing the plate."
+      }
+    },
+    "light-on back of-car": {
+      "original_relationship": {
+        "subject": "light",
+        "action": "on back of",
+        "object": "car"
+      },
+      "queries": {
+        "yes_no_question": "Is the light resting on the car?",
+        "descriptive_prompt": "Describe the light leaning on the car."
+      }
+    },
+    "car-has-tire": {
+      "original_relationship": {
+        "subject": "car",
+        "action": "has",
+        "object": "tire"
+      },
+      "queries": {
+        "yes_no_question": "Does the car balance on the tire?",
+        "descriptive_prompt": "Describe the car hanging from the tire."
+      }
+    },
+    "cows-are on-road": {
+      "original_relationship": {
+        "subject": "cows",
+        "action": "are on",
+        "object": "road"
+      },
+      "queries": {
+        "yes_no_question": "Are the cows skiing on the road?",
+        "descriptive_prompt": "Describe the cows jumping on the road."
+      }
+    },
+    "plate-has-license": {
+      "original_relationship": {
+        "subject": "plate",
+        "action": "has",
+        "object": "license"
+      },
+      "queries": {
+        "yes_no_question": "Is the plate displaying the license?",
+        "descriptive_prompt": "Describe the plate showcasing the license."
+      }
+    },
+    "pasture-has-cows": {
+      "original_relationship": {
+        "subject": "pasture",
+        "action": "has",
+        "object": "cows"
+      },
+      "queries": {
+        "yes_no_question": "Are the cows grazing on the pasture?",
+        "descriptive_prompt": "Describe the cows jumping over the pasture."
+      }
+    }
+  },
+  "2370746": {
+    "man-riding-surfboard": {
+      "original_relationship": {
+        "subject": "man",
+        "action": "riding",
+        "object": "surfboard"
+      },
+      "queries": {
+        "yes_no_question": "Is the man driving the surfboard?",
+        "descriptive_prompt": "Describe the man racing the surfboard."
+      }
+    },
+    "spray-coming off-wave": {
+      "original_relationship": {
+        "subject": "spray",
+        "action": "coming off",
+        "object": "wave"
+      },
+      "queries": {
+        "yes_no_question": "Is the wave painting the spray?",
+        "descriptive_prompt": "Describe the wave splashing the spray."
+      }
+    },
+    "man-WEARING-wetsuit": {
+      "original_relationship": {
+        "subject": "man",
+        "action": "WEARING",
+        "object": "wetsuit"
+      },
+      "queries": {
+        "yes_no_question": "Is the man holding the wetsuit?",
+        "descriptive_prompt": "Describe the man putting on the wetsuit."
+      }
+    },
+    "mountain-supports-houses": {
+      "original_relationship": {
+        "subject": "mountain",
+        "action": "supports",
+        "object": "houses"
+      },
+      "queries": {
+        "yes_no_question": "Does the mountain transport houses?",
+        "descriptive_prompt": "Describe the mountain taking houses."
+      }
+    },
+    "man-surfing in-water": {
+      "original_relationship": {
+        "subject": "man",
+        "action": "surfing in",
+        "object": "water"
+      },
+      "queries": {
+        "yes_no_question": "Is the man flying in the water?",
+        "descriptive_prompt": "Describe the man floating in the water."
+      }
+    },
+    "surfer-WEARING-wetsuit": {
+      "original_relationship": {
+        "subject": "surfer",
+        "action": "WEARING",
+        "object": "wetsuit"
+      },
+      "queries": {
+        "yes_no_question": "Is the surfer riding the wetsuit?",
+        "descriptive_prompt": "Describe the surfer wearing the wetsuit."
+      }
+    },
+    "surfer-crouching on-surfboard": {
+      "original_relationship": {
+        "subject": "surfer",
+        "action": "crouching on",
+        "object": "surfboard"
+      },
+      "queries": {
+        "yes_no_question": "Is the surfer dancing on the surfboard?",
+        "descriptive_prompt": "Describe the surfer playing the surfboard."
+      }
+    },
+    "surfer-riding-wave": {
+      "original_relationship": {
+        "subject": "surfer",
+        "action": "riding",
+        "object": "wave"
+      },
+      "queries": {
+        "yes_no_question": "Is the surfer walking on the wave?",
+        "descriptive_prompt": "Describe the surfer driving on the wave."
+      }
+    },
+    "hand-touching-surfboard": {
+      "original_relationship": {
+        "subject": "hand",
+        "action": "touching",
+        "object": "surfboard"
+      },
+      "queries": {
+        "yes_no_question": "Is the hand rolling the surfboard?",
+        "descriptive_prompt": "Describe the hand painting the surfboard."
+      }
+    }
+  },
+  "2355451": {
+    "woman-WEARING-shorts": {
+      "original_relationship": {
+        "subject": "woman",
+        "action": "WEARING",
+        "object": "shorts"
+      },
+      "queries": {
+        "yes_no_question": "Is the woman riding the shorts?",
+        "descriptive_prompt": "Describe the woman flying the shorts."
+      }
+    },
+    "woman-WEARING-shoes": {
+      "original_relationship": {
+        "subject": "woman",
+        "action": "WEARING",
+        "object": "shoes"
+      },
+      "queries": {
+        "yes_no_question": "Is the woman holding shoes?",
+        "descriptive_prompt": "Describe the woman putting shoes."
+      }
+    },
+    "woman-wearing a-shirt": {
+      "original_relationship": {
+        "subject": "woman",
+        "action": "wearing a",
+        "object": "shirt"
+      },
+      "queries": {
+        "yes_no_question": "Is the woman sewing the shirt?",
+        "descriptive_prompt": "Describe the woman ironing the shirt."
+      }
+    },
+    "woman-wearing a-visor": {
+      "original_relationship": {
+        "subject": "woman",
+        "action": "wearing a",
+        "object": "visor"
+      },
+      "queries": {
+        "yes_no_question": "Is the woman holding the visor?",
+        "descriptive_prompt": "Describe the woman balancing the visor."
+      }
+    },
+    "woman-swinging a-racket": {
+      "original_relationship": {
+        "subject": "woman",
+        "action": "swinging a",
+        "object": "racket"
+      },
+      "queries": {
+        "yes_no_question": "Is the woman lifting a racket?",
+        "descriptive_prompt": "Describe the woman lifting a racket."
+      }
+    },
+    "woman-playing-tennis": {
+      "original_relationship": {
+        "subject": "woman",
+        "action": "playing",
+        "object": "tennis"
+      },
+      "queries": {
+        "yes_no_question": "Is the woman playing chess?",
+        "descriptive_prompt": "Describe the woman playing chess."
+      }
+    },
+    "man-wearing a-shirt": {
+      "original_relationship": {
+        "subject": "man",
+        "action": "wearing a",
+        "object": "shirt"
+      },
+      "queries": {
+        "yes_no_question": "Is the man sewing the shirt?",
+        "descriptive_prompt": "Describe the man sewing the shirt."
+      }
+    },
+    "man-WEARING-pants": {
+      "original_relationship": {
+        "subject": "man",
+        "action": "WEARING",
+        "object": "pants"
+      },
+      "queries": {
+        "yes_no_question": "Is the man dancing the pants?",
+        "descriptive_prompt": "Describe the man spinning the pants."
+      }
+    },
+    "man-WEARING-shorts": {
+      "original_relationship": {
+        "subject": "man",
+        "action": "WEARING",
+        "object": "shorts"
+      },
+      "queries": {
+        "yes_no_question": "Is the man holding shorts?",
+        "descriptive_prompt": "Describe the man carrying shorts."
+      }
+    },
+    "woman-holding-racket": {
+      "original_relationship": {
+        "subject": "woman",
+        "action": "holding",
+        "object": "racket"
+      },
+      "queries": {
+        "yes_no_question": "Is the woman holding the racket?",
+        "descriptive_prompt": "Describe the woman squeezing the racket."
+      }
+    },
+    "players-are playing-tennis": {
+      "original_relationship": {
+        "subject": "players",
+        "action": "are playing",
+        "object": "tennis"
+      },
+      "queries": {
+        "yes_no_question": "Are the players dancing tennis?",
+        "descriptive_prompt": "Describe the players playing basketball."
+      }
+    },
+    "woman-returning-tennis ball": {
+      "original_relationship": {
+        "subject": "woman",
+        "action": "returning",
+        "object": "tennis ball"
+      },
+      "queries": {
+        "yes_no_question": "Is the woman throwing the tennis ball?",
+        "descriptive_prompt": "Describe the woman juggling the tennis ball."
+      }
+    },
+    "people-are watching-tennis": {
+      "original_relationship": {
+        "subject": "people",
+        "action": "are watching",
+        "object": "tennis"
+      },
+      "queries": {
+        "yes_no_question": "Is the person playing tennis?",
+        "descriptive_prompt": "Describe the person reading the tennis score."
+      }
+    }
+  },
+  "2355374": {
+    "man-WEARING-glasses": {
+      "original_relationship": {
+        "subject": "man",
+        "action": "WEARING",
+        "object": "glasses"
+      },
+      "queries": {
+        "yes_no_question": "Is the man riding the glasses?",
+        "descriptive_prompt": "Describe the man floating the glasses."
+      }
+    },
+    "man-WEARING-necklace": {
+      "original_relationship": {
+        "subject": "man",
+        "action": "WEARING",
+        "object": "necklace"
+      },
+      "queries": {
+        "yes_no_question": "Is the man holding the necklace?",
+        "descriptive_prompt": "Describe the man carrying the necklace."
+      }
+    },
+    "man-holding-remote": {
+      "original_relationship": {
+        "subject": "man",
+        "action": "holding",
+        "object": "remote"
+      },
+      "queries": {
+        "yes_no_question": "Is the man pushing the remote?",
+        "descriptive_prompt": "Describe the man holding the remote."
+      }
+    },
+    "man-WEARING-shirt": {
+      "original_relationship": {
+        "subject": "man",
+        "action": "WEARING",
+        "object": "shirt"
+      },
+      "queries": {
+        "yes_no_question": "Is the man riding the shirt?",
+        "descriptive_prompt": "Describe the man swimming the shirt."
+      }
+    },
+    "man-WEARING-shorts": {
+      "original_relationship": {
+        "subject": "man",
+        "action": "WEARING",
+        "object": "shorts"
+      },
+      "queries": {
+        "yes_no_question": "Is the man carrying shorts?",
+        "descriptive_prompt": "Describe the man holding shorts."
+      }
+    },
+    "man-playing-video games": {
+      "original_relationship": {
+        "subject": "man",
+        "action": "playing",
+        "object": "video games"
+      },
+      "queries": {
+        "yes_no_question": "Is the man cooking video games?",
+        "descriptive_prompt": "Describe the man playing video games while cooking in the kitchen."
+      }
+    },
+    "man-WEARING-eyeglasses": {
+      "original_relationship": {
+        "subject": "man",
+        "action": "WEARING",
+        "object": "eyeglasses"
+      },
+      "queries": {
+        "yes_no_question": "Is the man holding eyeglasses?",
+        "descriptive_prompt": "Describe the man holding eyeglasses."
+      }
+    }
+  },
+  "2351062": {
+    "woman-WEARING-tank top": {
+      "original_relationship": {
+        "subject": "woman",
+        "action": "WEARING",
+        "object": "tank top"
+      },
+      "queries": {
+        "yes_no_question": "Is the woman carrying the tank top?",
+        "descriptive_prompt": "Describe the woman holding the tank top."
+      }
+    },
+    "woman-filling out-form": {
+      "original_relationship": {
+        "subject": "woman",
+        "action": "filling out",
+        "object": "form"
+      },
+      "queries": {
+        "yes_no_question": "Is the woman stapling the form?",
+        "descriptive_prompt": "Describe the woman stapling the form."
+      }
+    }
+  },
+  "2345057": {
+    "cat-licks-peel": {
+      "original_relationship": {
+        "subject": "cat",
+        "action": "licks",
+        "object": "peel"
+      },
+      "queries": {
+        "yes_no_question": "Is the cat peeling the peel?",
+        "descriptive_prompt": "Describe the cat peeling the peel."
+      }
+    },
+    "cat-eats-banana": {
+      "original_relationship": {
+        "subject": "cat",
+        "action": "eats",
+        "object": "banana"
+      },
+      "queries": {
+        "yes_no_question": "Is the cat painting the banana?",
+        "descriptive_prompt": "Describe the cat painting the banana."
+      }
+    },
+    "banana-for-cat": {
+      "original_relationship": {
+        "subject": "banana",
+        "action": "for",
+        "object": "cat"
+      },
+      "queries": {
+        "yes_no_question": "Is the cat playing with the banana?",
+        "descriptive_prompt": "Describe the cat playing with the banana."
+      }
+    },
+    "person-holds-banana": {
+      "original_relationship": {
+        "subject": "person",
+        "action": "holds",
+        "object": "banana"
+      },
+      "queries": {
+        "yes_no_question": "Is the person tossing the banana?",
+        "descriptive_prompt": "Describe the person balancing the banana."
+      }
+    },
+    "person-feeds-cat": {
+      "original_relationship": {
+        "subject": "person",
+        "action": "feeds",
+        "object": "cat"
+      },
+      "queries": {
+        "yes_no_question": "Is the person playing with the cat?",
+        "descriptive_prompt": "Describe the person feeding the cat."
+      }
+    }
+  },
+  "2341973": {
+    "person-watching-airport": {
+      "original_relationship": {
+        "subject": "person",
+        "action": "watching",
+        "object": "airport"
+      },
+      "queries": {
+        "yes_no_question": "Is the person dancing at the airport?",
+        "descriptive_prompt": "Describe the person performing a show at the airport."
+      }
+    }
+  },
+  "2323495": {
+    "helmet-hanging off-bike": {
+      "original_relationship": {
+        "subject": "helmet",
+        "action": "hanging off",
+        "object": "bike"
+      },
+      "queries": {
+        "yes_no_question": "Is the helmet swinging from the bike?",
+        "descriptive_prompt": "Describe the helmet dangling from the bike."
+      }
+    },
+    "bike-casting-shadow": {
+      "original_relationship": {
+        "subject": "bike",
+        "action": "casting",
+        "object": "shadow"
+      },
+      "queries": {
+        "yes_no_question": "Is the bike casting a reflection?",
+        "descriptive_prompt": "Describe the bike creating a reflection."
+      }
+    },
+    "weeds-growing around-bench": {
+      "original_relationship": {
+        "subject": "weeds",
+        "action": "growing around",
+        "object": "bench"
+      },
+      "queries": {
+        "yes_no_question": "Are the weeds climbing the bench?",
+        "descriptive_prompt": "Describe the weeds wrapped around the bench."
+      }
+    }
+  },
+  "2318030": {
+    "dog-WEARING-helmet": {
+      "original_relationship": {
+        "subject": "dog",
+        "action": "WEARING",
+        "object": "helmet"
+      },
+      "queries": {
+        "yes_no_question": "Is the dog wearing a toy?",
+        "descriptive_prompt": "Describe the dog playing with a helmet."
+      }
+    },
+    "dog-WEARING-harness": {
+      "original_relationship": {
+        "subject": "dog",
+        "action": "WEARING",
+        "object": "harness"
+      },
+      "queries": {
+        "yes_no_question": "Is the dog riding the harness?",
+        "descriptive_prompt": "Describe the dog wearing the harness."
+      }
+    },
+    "person-WEARING-helmet": {
+      "original_relationship": {
+        "subject": "person",
+        "action": "WEARING",
+        "object": "helmet"
+      },
+      "queries": {
+        "yes_no_question": "Is the person placing the helmet?",
+        "descriptive_prompt": "Describe the person putting the helmet."
+      }
+    },
+    "girl-WEARING-helmet": {
+      "original_relationship": {
+        "subject": "girl",
+        "action": "WEARING",
+        "object": "helmet"
+      },
+      "queries": {
+        "yes_no_question": "Is the girl dancing on the helmet?",
+        "descriptive_prompt": "Describe the girl balancing on the helmet."
+      }
+    },
+    "girl-WEARING-jacket": {
+      "original_relationship": {
+        "subject": "girl",
+        "action": "WEARING",
+        "object": "jacket"
+      },
+      "queries": {
+        "yes_no_question": "Is the girl holding the jacket?",
+        "descriptive_prompt": "Describe the girl wrapping the jacket."
+      }
+    },
+    "white dog-WEARING-hat": {
+      "original_relationship": {
+        "subject": "white dog",
+        "action": "WEARING",
+        "object": "hat"
+      },
+      "queries": {
+        "yes_no_question": "Is the white dog drawing the hat?",
+        "descriptive_prompt": "Describe the white dog painting the hat."
+      }
+    }
+  }
+}

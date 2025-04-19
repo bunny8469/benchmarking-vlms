@@ -1,0 +1,32 @@
+  {
+    "image_id": 4146,
+    "query": "what is the relationship between poker chips and table?",
+    "ground_truth": "sitting",
+    "prediction": "playing",
+    "word_probs": {
+      "holding": 0.1156802549958229,
+      "playing": 0.3190138041973114,
+      "sitting": 0.025354919955134392,
+      "using": 0.02517867460846901
+    }
+  }
+
+  {
+    "image_id": 286004,
+    "query": "what is the relationship between dog and man?",
+    "ground_truth": "standing by",
+    "prediction": "laying",
+    "word_probs": {
+      "standing": 0.01364114135503769,
+      "dragging": 0.006776923541817026,
+      "walking": 0.05083877593278885,
+      "touching": 0.011602955870330334,
+      "chasing": 0.20105737069204466,
+      "guiding": 0.026743497975380226,
+      "catching": 0.010724252475038054,
+      "pointing": 0.010694371367463595,
+      "laying": 0.035847008613910436,
+      "rubbing": 0.034666640477413635,
+      "sitting": 0.41456204652786255
+    }
+  }

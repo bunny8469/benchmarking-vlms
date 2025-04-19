@@ -1,0 +1,8195 @@
+[
+  {
+    "image_id": 615,
+    "attribute_type": "color",
+    "object": "stripe",
+    "attribute": "white",
+    "query": "What color is the stripe?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 615,
+    "attribute_type": "color",
+    "object": "bag",
+    "attribute": "black",
+    "query": "What color is the bag?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 615,
+    "attribute_type": "color",
+    "object": "post",
+    "attribute": "black",
+    "query": "What color is the post?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Gray",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 615,
+    "attribute_type": "color",
+    "object": "jeans",
+    "attribute": "blue",
+    "query": "What color is the jeans?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 615,
+    "attribute_type": "color",
+    "object": "sneakers",
+    "attribute": "white",
+    "query": "What color is the sneakers?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 615,
+    "attribute_type": "color",
+    "object": "coat",
+    "attribute": "red",
+    "query": "What color is the coat?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 1523,
+    "attribute_type": "color",
+    "object": "lamp",
+    "attribute": "black",
+    "query": "What color is the lamp?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 1523,
+    "attribute_type": "color",
+    "object": "lamp",
+    "attribute": "white",
+    "query": "What color is the lamp?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 1523,
+    "attribute_type": "color",
+    "object": "computer",
+    "attribute": "black",
+    "query": "What color is the computer?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 1523,
+    "attribute_type": "color",
+    "object": "cup",
+    "attribute": "blue",
+    "query": "What color is the cup?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 1523,
+    "attribute_type": "color",
+    "object": "scissors",
+    "attribute": "red",
+    "query": "What color is the scissors?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 1523,
+    "attribute_type": "color",
+    "object": "phone",
+    "attribute": "black",
+    "query": "What color is the phone?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 1901,
+    "attribute_type": "color",
+    "object": "name",
+    "attribute": "white",
+    "query": "What color is the name?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 1901,
+    "attribute_type": "color",
+    "object": "boat",
+    "attribute": "black",
+    "query": "What color is the boat on the right?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 1901,
+    "attribute_type": "color",
+    "object": "boat",
+    "attribute": "white",
+    "query": "What color is the boat on the right?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 3963,
+    "attribute_type": "color",
+    "object": "glass",
+    "attribute": "red",
+    "query": "What color is the glass?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 3963,
+    "attribute_type": "color",
+    "object": "plant",
+    "attribute": "green",
+    "query": "What color is the plant?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Pink",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 4146,
+    "attribute_type": "color",
+    "object": "chips",
+    "attribute": "yellow",
+    "query": "What color is the chips?",
+    "ground_truth": "yellow",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 4146,
+    "attribute_type": "color",
+    "object": "poker chips",
+    "attribute": "green",
+    "query": "What color is the poker chips?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 4146,
+    "attribute_type": "color",
+    "object": "poker chips",
+    "attribute": "red",
+    "query": "What color is the poker chips?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 4146,
+    "attribute_type": "color",
+    "object": "lightbulb",
+    "attribute": "white",
+    "query": "What color is the lightbulb?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 285832,
+    "attribute_type": "color",
+    "object": "dress",
+    "attribute": "red",
+    "query": "What color is the dress on the left?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Pink",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 285832,
+    "attribute_type": "color",
+    "object": "hair",
+    "attribute": "brown",
+    "query": "What color is the hair on the right?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "Brown",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 285832,
+    "attribute_type": "color",
+    "object": "dress",
+    "attribute": "red",
+    "query": "What color is the dress in the center?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 285832,
+    "attribute_type": "color",
+    "object": "dress",
+    "attribute": "red",
+    "query": "What color is the dress on the right?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Pink",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 286004,
+    "attribute_type": "color",
+    "object": "logo",
+    "attribute": "white",
+    "query": "What color is the logo?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 286004,
+    "attribute_type": "color",
+    "object": "lettering",
+    "attribute": "white",
+    "query": "What color is the lettering?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 286004,
+    "attribute_type": "color",
+    "object": "awning",
+    "attribute": "red",
+    "query": "What color is the awning?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 286004,
+    "attribute_type": "color",
+    "object": "street sign",
+    "attribute": "green",
+    "query": "What color is the street sign?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 1159766,
+    "attribute_type": "color",
+    "object": "trunks",
+    "attribute": "red",
+    "query": "What color is the trunks?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 1159766,
+    "attribute_type": "color",
+    "object": "shorts",
+    "attribute": "red",
+    "query": "What color is the shorts on the right?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 1159766,
+    "attribute_type": "color",
+    "object": "shorts",
+    "attribute": "white",
+    "query": "What color is the shorts on the left?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 1159766,
+    "attribute_type": "color",
+    "object": "shorts",
+    "attribute": "blue",
+    "query": "What color is the shorts on the left?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 1159789,
+    "attribute_type": "color",
+    "object": "shirt",
+    "attribute": "green",
+    "query": "What color is the shirt?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 1159789,
+    "attribute_type": "color",
+    "object": "skateboard",
+    "attribute": "black",
+    "query": "What color is the skateboard?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 1159789,
+    "attribute_type": "color",
+    "object": "skateboard",
+    "attribute": "red",
+    "query": "What color is the skateboard?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 1592132,
+    "attribute_type": "color",
+    "object": "sky",
+    "attribute": "gray",
+    "query": "What color is the sky on the right?",
+    "ground_truth": "gray",
+    "prediction": {
+      "answer": "Gray",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 1592439,
+    "attribute_type": "color",
+    "object": "rug",
+    "attribute": "brown",
+    "query": "What color is the rug?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 1592439,
+    "attribute_type": "color",
+    "object": "rug",
+    "attribute": "red",
+    "query": "What color is the rug?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2414248,
+    "attribute_type": "color",
+    "object": "lifejacket",
+    "attribute": "yellow",
+    "query": "What color is the lifejacket?",
+    "ground_truth": "yellow",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2414248,
+    "attribute_type": "color",
+    "object": "helmet",
+    "attribute": "red",
+    "query": "What color is the helmet?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2414248,
+    "attribute_type": "color",
+    "object": "spray",
+    "attribute": "white",
+    "query": "What color is the spray?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2414248,
+    "attribute_type": "color",
+    "object": "strap",
+    "attribute": "black",
+    "query": "What color is the strap?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2414248,
+    "attribute_type": "color",
+    "object": "wave",
+    "attribute": "white",
+    "query": "What color is the wave?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2414101,
+    "attribute_type": "color",
+    "object": "table",
+    "attribute": "black",
+    "query": "What color is the table?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2414101,
+    "attribute_type": "color",
+    "object": "television",
+    "attribute": "black",
+    "query": "What color is the television?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2414101,
+    "attribute_type": "color",
+    "object": "speaker",
+    "attribute": "black",
+    "query": "What color is the speaker?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2412511,
+    "attribute_type": "color",
+    "object": "rock",
+    "attribute": "gray",
+    "query": "What color is the rock?",
+    "ground_truth": "gray",
+    "prediction": {
+      "answer": "Gray",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2412511,
+    "attribute_type": "color",
+    "object": "feet",
+    "attribute": "orange",
+    "query": "What color is the feet on the right?",
+    "ground_truth": "orange",
+    "prediction": {
+      "answer": "Orange",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2412490,
+    "attribute_type": "color",
+    "object": "tires",
+    "attribute": "black",
+    "query": "What color is the tires?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2412490,
+    "attribute_type": "color",
+    "object": "bricks",
+    "attribute": "red",
+    "query": "What color is the bricks?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2412490,
+    "attribute_type": "color",
+    "object": "fence",
+    "attribute": "black",
+    "query": "What color is the fence?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2412490,
+    "attribute_type": "color",
+    "object": "pole",
+    "attribute": "yellow",
+    "query": "What color is the pole?",
+    "ground_truth": "yellow",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2411389,
+    "attribute_type": "color",
+    "object": "line",
+    "attribute": "white",
+    "query": "What color is the line?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2411389,
+    "attribute_type": "color",
+    "object": "shoe",
+    "attribute": "white",
+    "query": "What color is the shoe?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2410331,
+    "attribute_type": "color",
+    "object": "box",
+    "attribute": "white",
+    "query": "What color is the box?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2410331,
+    "attribute_type": "color",
+    "object": "graffiti",
+    "attribute": "blue",
+    "query": "What color is the graffiti?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2410331,
+    "attribute_type": "color",
+    "object": "graffiti",
+    "attribute": "black",
+    "query": "What color is the graffiti?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2410331,
+    "attribute_type": "color",
+    "object": "shoes",
+    "attribute": "black",
+    "query": "What color is the shoes?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2410331,
+    "attribute_type": "color",
+    "object": "skateboard",
+    "attribute": "white",
+    "query": "What color is the skateboard?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2410331,
+    "attribute_type": "color",
+    "object": "skateboard",
+    "attribute": "red",
+    "query": "What color is the skateboard?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2410331,
+    "attribute_type": "color",
+    "object": "sign",
+    "attribute": "red",
+    "query": "What color is the sign?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2410331,
+    "attribute_type": "color",
+    "object": "wall",
+    "attribute": "white",
+    "query": "What color is the wall?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Gray",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2410177,
+    "attribute_type": "color",
+    "object": "letters",
+    "attribute": "blue",
+    "query": "What color is the letters?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2410177,
+    "attribute_type": "color",
+    "object": "plate",
+    "attribute": "white",
+    "query": "What color is the plate?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2410177,
+    "attribute_type": "color",
+    "object": "plate",
+    "attribute": "blue",
+    "query": "What color is the plate?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2410177,
+    "attribute_type": "color",
+    "object": "shirt",
+    "attribute": "blue",
+    "query": "What color is the shirt?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2410177,
+    "attribute_type": "color",
+    "object": "pole",
+    "attribute": "blue",
+    "query": "What color is the pole?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2410177,
+    "attribute_type": "color",
+    "object": "money bands",
+    "attribute": "white",
+    "query": "What color is the money bands?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2410177,
+    "attribute_type": "color",
+    "object": "money bands",
+    "attribute": "purple",
+    "query": "What color is the money bands?",
+    "ground_truth": "purple",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2409913,
+    "attribute_type": "color",
+    "object": "hair",
+    "attribute": "black",
+    "query": "What color is the hair?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Brown",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2409913,
+    "attribute_type": "color",
+    "object": "lipstick",
+    "attribute": "red",
+    "query": "What color is the lipstick?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2409913,
+    "attribute_type": "color",
+    "object": "paper",
+    "attribute": "white",
+    "query": "What color is the paper?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2409913,
+    "attribute_type": "color",
+    "object": "wall",
+    "attribute": "white",
+    "query": "What color is the wall?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2409581,
+    "attribute_type": "color",
+    "object": "bear",
+    "attribute": "brown",
+    "query": "What color is the bear on the right?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "Brown",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2409581,
+    "attribute_type": "color",
+    "object": "table",
+    "attribute": "brown",
+    "query": "What color is the table?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2409581,
+    "attribute_type": "color",
+    "object": "bear",
+    "attribute": "yellow",
+    "query": "What color is the bear on the left?",
+    "ground_truth": "yellow",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2409084,
+    "attribute_type": "color",
+    "object": "car",
+    "attribute": "black",
+    "query": "What color is the car?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2409084,
+    "attribute_type": "color",
+    "object": "coat",
+    "attribute": "gray",
+    "query": "What color is the coat?",
+    "ground_truth": "gray",
+    "prediction": {
+      "answer": "Gray",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2409084,
+    "attribute_type": "color",
+    "object": "mouth",
+    "attribute": "pink",
+    "query": "What color is the mouth?",
+    "ground_truth": "pink",
+    "prediction": {
+      "answer": "Pink",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2409084,
+    "attribute_type": "color",
+    "object": "hair",
+    "attribute": "brown",
+    "query": "What color is the hair?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "Brown",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2409084,
+    "attribute_type": "color",
+    "object": "roof",
+    "attribute": "green",
+    "query": "What color is the roof?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2409084,
+    "attribute_type": "color",
+    "object": "hat",
+    "attribute": "green",
+    "query": "What color is the hat?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Brown",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2409084,
+    "attribute_type": "color",
+    "object": "support beam",
+    "attribute": "black",
+    "query": "What color is the support beam?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2408930,
+    "attribute_type": "color",
+    "object": "sand",
+    "attribute": "gray",
+    "query": "What color is the sand?",
+    "ground_truth": "gray",
+    "prediction": {
+      "answer": "Brown",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2408930,
+    "attribute_type": "color",
+    "object": "hair",
+    "attribute": "brown",
+    "query": "What color is the hair?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2408930,
+    "attribute_type": "color",
+    "object": "shirt",
+    "attribute": "yellow",
+    "query": "What color is the shirt?",
+    "ground_truth": "yellow",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2407933,
+    "attribute_type": "color",
+    "object": "traffic lights",
+    "attribute": "red",
+    "query": "What color is the traffic lights on the left?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2407933,
+    "attribute_type": "color",
+    "object": "sky",
+    "attribute": "blue",
+    "query": "What color is the sky?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2407933,
+    "attribute_type": "color",
+    "object": "light pole",
+    "attribute": "white",
+    "query": "What color is the light pole?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Silver",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2407933,
+    "attribute_type": "color",
+    "object": "hat",
+    "attribute": "gray",
+    "query": "What color is the hat?",
+    "ground_truth": "gray",
+    "prediction": {
+      "answer": "Gray",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2407933,
+    "attribute_type": "color",
+    "object": "billboard",
+    "attribute": "white",
+    "query": "What color is the billboard?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2407933,
+    "attribute_type": "color",
+    "object": "traffic lights",
+    "attribute": "red",
+    "query": "What color is the traffic lights on the right?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2406818,
+    "attribute_type": "color",
+    "object": "spoon",
+    "attribute": "green",
+    "query": "What color is the spoon?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Silver",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2406677,
+    "attribute_type": "color",
+    "object": "fence",
+    "attribute": "white",
+    "query": "What color is the fence?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2406677,
+    "attribute_type": "color",
+    "object": "shoe",
+    "attribute": "black",
+    "query": "What color is the shoe?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2406677,
+    "attribute_type": "color",
+    "object": "number",
+    "attribute": "blue",
+    "query": "What color is the number?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Pink",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2406677,
+    "attribute_type": "color",
+    "object": "grass",
+    "attribute": "green",
+    "query": "What color is the grass?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2406677,
+    "attribute_type": "color",
+    "object": "net",
+    "attribute": "red",
+    "query": "What color is the net?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2406677,
+    "attribute_type": "color",
+    "object": "net",
+    "attribute": "white",
+    "query": "What color is the net?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2406677,
+    "attribute_type": "color",
+    "object": "gloves",
+    "attribute": "white",
+    "query": "What color is the gloves?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2406677,
+    "attribute_type": "color",
+    "object": "sock",
+    "attribute": "blue",
+    "query": "What color is the sock?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2406429,
+    "attribute_type": "color",
+    "object": "grass",
+    "attribute": "green",
+    "query": "What color is the grass?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2406039,
+    "attribute_type": "color",
+    "object": "white letters",
+    "attribute": "blue",
+    "query": "What color is the white letters?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2406039,
+    "attribute_type": "color",
+    "object": "white letters",
+    "attribute": "white",
+    "query": "What color is the white letters?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2405887,
+    "attribute_type": "color",
+    "object": "t-shirt",
+    "attribute": "red",
+    "query": "What color is the t-shirt on the left?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2405887,
+    "attribute_type": "color",
+    "object": "cell phone",
+    "attribute": "black",
+    "query": "What color is the cell phone on the left?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2405887,
+    "attribute_type": "color",
+    "object": "t-shirt",
+    "attribute": "red",
+    "query": "What color is the t-shirt on the right?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2405866,
+    "attribute_type": "color",
+    "object": "shirt",
+    "attribute": "white",
+    "query": "What color is the shirt?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Gray",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2405866,
+    "attribute_type": "color",
+    "object": "trees",
+    "attribute": "green",
+    "query": "What color is the trees?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2405866,
+    "attribute_type": "color",
+    "object": "bush",
+    "attribute": "green",
+    "query": "What color is the bush?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2405284,
+    "attribute_type": "color",
+    "object": "bear mouth",
+    "attribute": "black",
+    "query": "What color is the bear mouth?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Brown",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2405284,
+    "attribute_type": "color",
+    "object": "nose",
+    "attribute": "black",
+    "query": "What color is the nose?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2405284,
+    "attribute_type": "color",
+    "object": "carrot",
+    "attribute": "orange",
+    "query": "What color is the carrot?",
+    "ground_truth": "orange",
+    "prediction": {
+      "answer": "Orange",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2405284,
+    "attribute_type": "color",
+    "object": "snow",
+    "attribute": "white",
+    "query": "What color is the snow?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2404950,
+    "attribute_type": "color",
+    "object": "motorcycle",
+    "attribute": "black",
+    "query": "What color is the motorcycle?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2404950,
+    "attribute_type": "color",
+    "object": "motorcycle",
+    "attribute": "white",
+    "query": "What color is the motorcycle?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Silver",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2404950,
+    "attribute_type": "color",
+    "object": "bags",
+    "attribute": "blue",
+    "query": "What color is the bags?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2404950,
+    "attribute_type": "color",
+    "object": "helmet",
+    "attribute": "blue",
+    "query": "What color is the helmet?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {
+        "no": 0.021933656185865402
+      }
+    }
+  },
+  {
+    "image_id": 2404950,
+    "attribute_type": "color",
+    "object": "pole",
+    "attribute": "black",
+    "query": "What color is the pole?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2404950,
+    "attribute_type": "color",
+    "object": "pole",
+    "attribute": "yellow",
+    "query": "What color is the pole?",
+    "ground_truth": "yellow",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2404341,
+    "attribute_type": "color",
+    "object": "roof",
+    "attribute": "brown",
+    "query": "What color is the roof?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2404341,
+    "attribute_type": "color",
+    "object": "house",
+    "attribute": "brown",
+    "query": "What color is the house?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2403791,
+    "attribute_type": "color",
+    "object": "blue jeans",
+    "attribute": "blue",
+    "query": "What color is the blue jeans?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2403791,
+    "attribute_type": "color",
+    "object": "skateboard wheels",
+    "attribute": "yellow",
+    "query": "What color is the skateboard wheels?",
+    "ground_truth": "yellow",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2403791,
+    "attribute_type": "color",
+    "object": "pink design",
+    "attribute": "pink",
+    "query": "What color is the pink design?",
+    "ground_truth": "pink",
+    "prediction": {
+      "answer": "Pink",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2403791,
+    "attribute_type": "color",
+    "object": "fence",
+    "attribute": "black",
+    "query": "What color is the fence?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2403783,
+    "attribute_type": "color",
+    "object": "paper",
+    "attribute": "yellow",
+    "query": "What color is the paper?",
+    "ground_truth": "yellow",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2403783,
+    "attribute_type": "color",
+    "object": "shirt",
+    "attribute": "blue",
+    "query": "What color is the shirt on the right?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2403783,
+    "attribute_type": "color",
+    "object": "shirt",
+    "attribute": "white",
+    "query": "What color is the shirt on the left?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2403783,
+    "attribute_type": "color",
+    "object": "pen",
+    "attribute": "black",
+    "query": "What color is the pen?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2403783,
+    "attribute_type": "color",
+    "object": "pen",
+    "attribute": "blue",
+    "query": "What color is the pen?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2403783,
+    "attribute_type": "color",
+    "object": "bottle",
+    "attribute": "red",
+    "query": "What color is the bottle?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2403623,
+    "attribute_type": "color",
+    "object": "stripe",
+    "attribute": "red",
+    "query": "What color is the stripe?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2403623,
+    "attribute_type": "color",
+    "object": "shin guard",
+    "attribute": "red",
+    "query": "What color is the shin guard?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2403623,
+    "attribute_type": "color",
+    "object": "jersey",
+    "attribute": "red",
+    "query": "What color is the jersey?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2403623,
+    "attribute_type": "color",
+    "object": "line",
+    "attribute": "white",
+    "query": "What color is the line?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2403623,
+    "attribute_type": "color",
+    "object": "field",
+    "attribute": "green",
+    "query": "What color is the field?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2403623,
+    "attribute_type": "color",
+    "object": "cap",
+    "attribute": "red",
+    "query": "What color is the cap?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2402361,
+    "attribute_type": "color",
+    "object": "line",
+    "attribute": "white",
+    "query": "What color is the line?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2402361,
+    "attribute_type": "color",
+    "object": "logo",
+    "attribute": "orange",
+    "query": "What color is the logo?",
+    "ground_truth": "orange",
+    "prediction": {
+      "answer": "Orange",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2402361,
+    "attribute_type": "color",
+    "object": "sneakers",
+    "attribute": "white",
+    "query": "What color is the sneakers?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2402361,
+    "attribute_type": "color",
+    "object": "tennis court",
+    "attribute": "green",
+    "query": "What color is the tennis court?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2401431,
+    "attribute_type": "color",
+    "object": "railing",
+    "attribute": "black",
+    "query": "What color is the railing on the left?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2401431,
+    "attribute_type": "color",
+    "object": "carpet",
+    "attribute": "brown",
+    "query": "What color is the carpet?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "Brown",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2401033,
+    "attribute_type": "color",
+    "object": "glove",
+    "attribute": "blue",
+    "query": "What color is the glove on the left?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2401033,
+    "attribute_type": "color",
+    "object": "glove",
+    "attribute": "blue",
+    "query": "What color is the glove on the right?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2401033,
+    "attribute_type": "color",
+    "object": "kale",
+    "attribute": "green",
+    "query": "What color is the kale?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2397681,
+    "attribute_type": "color",
+    "object": "apple",
+    "attribute": "red",
+    "query": "What color is the apple on the right?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2397681,
+    "attribute_type": "color",
+    "object": "table",
+    "attribute": "brown",
+    "query": "What color is the table?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "Brown",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2397681,
+    "attribute_type": "color",
+    "object": "hat",
+    "attribute": "black",
+    "query": "What color is the hat?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Gray",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2397681,
+    "attribute_type": "color",
+    "object": "apple",
+    "attribute": "red",
+    "query": "What color is the apple in the center?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2397681,
+    "attribute_type": "color",
+    "object": "apple",
+    "attribute": "red",
+    "query": "What color is the apple on the left?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2397554,
+    "attribute_type": "color",
+    "object": "water",
+    "attribute": "blue",
+    "query": "What color is the water?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2397554,
+    "attribute_type": "color",
+    "object": "water",
+    "attribute": "green",
+    "query": "What color is the water?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2397554,
+    "attribute_type": "color",
+    "object": "top",
+    "attribute": "black",
+    "query": "What color is the top?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2397554,
+    "attribute_type": "color",
+    "object": "horse",
+    "attribute": "white",
+    "query": "What color is the horse?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Brown",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2397554,
+    "attribute_type": "color",
+    "object": "horse",
+    "attribute": "brown",
+    "query": "What color is the horse?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2397554,
+    "attribute_type": "color",
+    "object": "hair",
+    "attribute": "brown",
+    "query": "What color is the hair?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2397554,
+    "attribute_type": "color",
+    "object": "hair",
+    "attribute": "red",
+    "query": "What color is the hair?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Brown",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2397035,
+    "attribute_type": "color",
+    "object": "vest",
+    "attribute": "black",
+    "query": "What color is the vest?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2397035,
+    "attribute_type": "color",
+    "object": "head",
+    "attribute": "brown",
+    "query": "What color is the head?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2397035,
+    "attribute_type": "color",
+    "object": "head",
+    "attribute": "white",
+    "query": "What color is the head?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Brown",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2396122,
+    "attribute_type": "color",
+    "object": "keyboard",
+    "attribute": "black",
+    "query": "What color is the keyboard?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2396122,
+    "attribute_type": "color",
+    "object": "table",
+    "attribute": "brown",
+    "query": "What color is the table?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "Brown",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2396122,
+    "attribute_type": "color",
+    "object": "shirt",
+    "attribute": "black",
+    "query": "What color is the shirt?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2396122,
+    "attribute_type": "color",
+    "object": "caution tape",
+    "attribute": "yellow",
+    "query": "What color is the caution tape?",
+    "ground_truth": "yellow",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2396122,
+    "attribute_type": "color",
+    "object": "caution tape",
+    "attribute": "black",
+    "query": "What color is the caution tape?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2396122,
+    "attribute_type": "color",
+    "object": "mouse",
+    "attribute": "black",
+    "query": "What color is the mouse?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2396122,
+    "attribute_type": "color",
+    "object": "mouse",
+    "attribute": "red",
+    "query": "What color is the mouse?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2395290,
+    "attribute_type": "color",
+    "object": "umbrella",
+    "attribute": "green",
+    "query": "What color is the umbrella?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2395290,
+    "attribute_type": "color",
+    "object": "hair",
+    "attribute": "gray",
+    "query": "What color is the hair?",
+    "ground_truth": "gray",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2395290,
+    "attribute_type": "color",
+    "object": "items",
+    "attribute": "orange",
+    "query": "What color is the items?",
+    "ground_truth": "orange",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2395290,
+    "attribute_type": "color",
+    "object": "shirt",
+    "attribute": "pink",
+    "query": "What color is the shirt?",
+    "ground_truth": "pink",
+    "prediction": {
+      "answer": "Pink",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2394926,
+    "attribute_type": "color",
+    "object": "board",
+    "attribute": "white",
+    "query": "What color is the board?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2394926,
+    "attribute_type": "color",
+    "object": "board",
+    "attribute": "black",
+    "query": "What color is the board?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2394926,
+    "attribute_type": "color",
+    "object": "stapler",
+    "attribute": "gray",
+    "query": "What color is the stapler?",
+    "ground_truth": "gray",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2394926,
+    "attribute_type": "color",
+    "object": "stapler",
+    "attribute": "red",
+    "query": "What color is the stapler?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2394926,
+    "attribute_type": "color",
+    "object": "keyboard",
+    "attribute": "black",
+    "query": "What color is the keyboard?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2393957,
+    "attribute_type": "color",
+    "object": "shirt",
+    "attribute": "white",
+    "query": "What color is the shirt on the left?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2393957,
+    "attribute_type": "color",
+    "object": "shirt",
+    "attribute": "blue",
+    "query": "What color is the shirt on the left?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2393957,
+    "attribute_type": "color",
+    "object": "tennis racket",
+    "attribute": "red",
+    "query": "What color is the tennis racket?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2393957,
+    "attribute_type": "color",
+    "object": "tennis racket",
+    "attribute": "black",
+    "query": "What color is the tennis racket?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2393957,
+    "attribute_type": "color",
+    "object": "shirt",
+    "attribute": "red",
+    "query": "What color is the shirt on the right?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Pink",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2393957,
+    "attribute_type": "color",
+    "object": "shirt",
+    "attribute": "pink",
+    "query": "What color is the shirt on the right?",
+    "ground_truth": "pink",
+    "prediction": {
+      "answer": "Orange",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2393957,
+    "attribute_type": "color",
+    "object": "pole",
+    "attribute": "blue",
+    "query": "What color is the pole?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2393957,
+    "attribute_type": "color",
+    "object": "nike logo",
+    "attribute": "white",
+    "query": "What color is the nike logo?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Pink",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2393957,
+    "attribute_type": "color",
+    "object": "hair",
+    "attribute": "brown",
+    "query": "What color is the hair?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "Blond",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2393957,
+    "attribute_type": "color",
+    "object": "lettering",
+    "attribute": "black",
+    "query": "What color is the lettering?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2393957,
+    "attribute_type": "color",
+    "object": "wrist band",
+    "attribute": "white",
+    "query": "What color is the wrist band?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Pink",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2393783,
+    "attribute_type": "color",
+    "object": "lipstick",
+    "attribute": "pink",
+    "query": "What color is the lipstick?",
+    "ground_truth": "pink",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2393783,
+    "attribute_type": "color",
+    "object": "tomato",
+    "attribute": "red",
+    "query": "What color is the tomato?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2393728,
+    "attribute_type": "color",
+    "object": "creamers",
+    "attribute": "green",
+    "query": "What color is the creamers?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2393728,
+    "attribute_type": "color",
+    "object": "creamers",
+    "attribute": "white",
+    "query": "What color is the creamers?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2393728,
+    "attribute_type": "color",
+    "object": "coffee mug",
+    "attribute": "blue",
+    "query": "What color is the coffee mug?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2393720,
+    "attribute_type": "color",
+    "object": "dog",
+    "attribute": "brown",
+    "query": "What color is the dog?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "Brown",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2393720,
+    "attribute_type": "color",
+    "object": "skirt",
+    "attribute": "brown",
+    "query": "What color is the skirt?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2393720,
+    "attribute_type": "color",
+    "object": "flames",
+    "attribute": "yellow",
+    "query": "What color is the flames?",
+    "ground_truth": "yellow",
+    "prediction": {
+      "answer": "Pink",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2393720,
+    "attribute_type": "color",
+    "object": "flames",
+    "attribute": "red",
+    "query": "What color is the flames?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Pink",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2392460,
+    "attribute_type": "color",
+    "object": "shorts",
+    "attribute": "black",
+    "query": "What color is the shorts?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2392460,
+    "attribute_type": "color",
+    "object": "fencing",
+    "attribute": "black",
+    "query": "What color is the fencing?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2392460,
+    "attribute_type": "color",
+    "object": "shoes",
+    "attribute": "black",
+    "query": "What color is the shoes?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2392460,
+    "attribute_type": "color",
+    "object": "sweatband",
+    "attribute": "red",
+    "query": "What color is the sweatband?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2392460,
+    "attribute_type": "color",
+    "object": "tarp",
+    "attribute": "blue",
+    "query": "What color is the tarp?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2390079,
+    "attribute_type": "color",
+    "object": "pants",
+    "attribute": "pink",
+    "query": "What color is the pants?",
+    "ground_truth": "pink",
+    "prediction": {
+      "answer": "Orange",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2390079,
+    "attribute_type": "color",
+    "object": "snowboard",
+    "attribute": "white",
+    "query": "What color is the snowboard?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2390079,
+    "attribute_type": "color",
+    "object": "snow",
+    "attribute": "white",
+    "query": "What color is the snow on the left?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2389815,
+    "attribute_type": "color",
+    "object": "uniform",
+    "attribute": "black",
+    "query": "What color is the uniform?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2389815,
+    "attribute_type": "color",
+    "object": "ball",
+    "attribute": "green",
+    "query": "What color is the ball?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2389815,
+    "attribute_type": "color",
+    "object": "racket",
+    "attribute": "black",
+    "query": "What color is the racket?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2389815,
+    "attribute_type": "color",
+    "object": "line",
+    "attribute": "white",
+    "query": "What color is the line?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2389815,
+    "attribute_type": "color",
+    "object": "screen",
+    "attribute": "black",
+    "query": "What color is the screen?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2389740,
+    "attribute_type": "color",
+    "object": "badge",
+    "attribute": "blue",
+    "query": "What color is the badge?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2389740,
+    "attribute_type": "color",
+    "object": "label",
+    "attribute": "white",
+    "query": "What color is the label?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2389740,
+    "attribute_type": "color",
+    "object": "man hair",
+    "attribute": "black",
+    "query": "What color is the man hair?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2389740,
+    "attribute_type": "color",
+    "object": "camera",
+    "attribute": "black",
+    "query": "What color is the camera?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2389740,
+    "attribute_type": "color",
+    "object": "computer",
+    "attribute": "black",
+    "query": "What color is the computer?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Gray",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2389259,
+    "attribute_type": "color",
+    "object": "area",
+    "attribute": "green",
+    "query": "What color is the area on the right?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2389259,
+    "attribute_type": "color",
+    "object": "line",
+    "attribute": "white",
+    "query": "What color is the line?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2389259,
+    "attribute_type": "color",
+    "object": "area",
+    "attribute": "blue",
+    "query": "What color is the area on the left?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2389192,
+    "attribute_type": "color",
+    "object": "trees",
+    "attribute": "green",
+    "query": "What color is the trees?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2387142,
+    "attribute_type": "color",
+    "object": "roof",
+    "attribute": "red",
+    "query": "What color is the roof?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2387142,
+    "attribute_type": "color",
+    "object": "wall",
+    "attribute": "white",
+    "query": "What color is the wall?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2387142,
+    "attribute_type": "color",
+    "object": "rails",
+    "attribute": "white",
+    "query": "What color is the rails?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2387142,
+    "attribute_type": "color",
+    "object": "door",
+    "attribute": "red",
+    "query": "What color is the door?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2387095,
+    "attribute_type": "color",
+    "object": "hair",
+    "attribute": "brown",
+    "query": "What color is the hair?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "Brown",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2387095,
+    "attribute_type": "color",
+    "object": "shirt",
+    "attribute": "white",
+    "query": "What color is the shirt?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2387095,
+    "attribute_type": "color",
+    "object": "wall",
+    "attribute": "gray",
+    "query": "What color is the wall?",
+    "ground_truth": "gray",
+    "prediction": {
+      "answer": "Gray",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2387076,
+    "attribute_type": "color",
+    "object": "toothbrush",
+    "attribute": "blue",
+    "query": "What color is the toothbrush?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2386250,
+    "attribute_type": "color",
+    "object": "pants",
+    "attribute": "black",
+    "query": "What color is the pants?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2386250,
+    "attribute_type": "color",
+    "object": "jacket",
+    "attribute": "black",
+    "query": "What color is the jacket?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2385687,
+    "attribute_type": "color",
+    "object": "robes",
+    "attribute": "white",
+    "query": "What color is the robes?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2385637,
+    "attribute_type": "color",
+    "object": "pants",
+    "attribute": "gray",
+    "query": "What color is the pants?",
+    "ground_truth": "gray",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2385637,
+    "attribute_type": "color",
+    "object": "wall",
+    "attribute": "white",
+    "query": "What color is the wall?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Brown",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2385637,
+    "attribute_type": "color",
+    "object": "shirt",
+    "attribute": "blue",
+    "query": "What color is the shirt?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2384566,
+    "attribute_type": "color",
+    "object": "suitcase",
+    "attribute": "black",
+    "query": "What color is the suitcase?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Gray",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2384566,
+    "attribute_type": "color",
+    "object": "purse",
+    "attribute": "black",
+    "query": "What color is the purse?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Gray",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2384566,
+    "attribute_type": "color",
+    "object": "duffle bag",
+    "attribute": "red",
+    "query": "What color is the duffle bag?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2384536,
+    "attribute_type": "color",
+    "object": "stool",
+    "attribute": "green",
+    "query": "What color is the stool?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2384536,
+    "attribute_type": "color",
+    "object": "plate",
+    "attribute": "white",
+    "query": "What color is the plate?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2384536,
+    "attribute_type": "color",
+    "object": "butter",
+    "attribute": "white",
+    "query": "What color is the butter?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2384536,
+    "attribute_type": "color",
+    "object": "eggs",
+    "attribute": "yellow",
+    "query": "What color is the eggs?",
+    "ground_truth": "yellow",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2384536,
+    "attribute_type": "color",
+    "object": "table",
+    "attribute": "green",
+    "query": "What color is the table on the left?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2384327,
+    "attribute_type": "color",
+    "object": "shirt",
+    "attribute": "blue",
+    "query": "What color is the shirt?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2384327,
+    "attribute_type": "color",
+    "object": "bowl",
+    "attribute": "white",
+    "query": "What color is the bowl?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2384327,
+    "attribute_type": "color",
+    "object": "dish",
+    "attribute": "white",
+    "query": "What color is the dish?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2383950,
+    "attribute_type": "color",
+    "object": "frisbee",
+    "attribute": "green",
+    "query": "What color is the frisbee?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2383950,
+    "attribute_type": "color",
+    "object": "grass",
+    "attribute": "brown",
+    "query": "What color is the grass?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2383950,
+    "attribute_type": "color",
+    "object": "grass",
+    "attribute": "green",
+    "query": "What color is the grass?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2383437,
+    "attribute_type": "color",
+    "object": "elephant",
+    "attribute": "gray",
+    "query": "What color is the elephant?",
+    "ground_truth": "gray",
+    "prediction": {
+      "answer": "Gray",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2383254,
+    "attribute_type": "color",
+    "object": "motorcycle",
+    "attribute": "yellow",
+    "query": "What color is the motorcycle?",
+    "ground_truth": "yellow",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2383254,
+    "attribute_type": "color",
+    "object": "motorcycle",
+    "attribute": "white",
+    "query": "What color is the motorcycle?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2383254,
+    "attribute_type": "color",
+    "object": "tire",
+    "attribute": "black",
+    "query": "What color is the tire?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2383254,
+    "attribute_type": "color",
+    "object": "dress",
+    "attribute": "blue",
+    "query": "What color is the dress?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2383254,
+    "attribute_type": "color",
+    "object": "line",
+    "attribute": "white",
+    "query": "What color is the line?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2382960,
+    "attribute_type": "color",
+    "object": "rack",
+    "attribute": "gray",
+    "query": "What color is the rack?",
+    "ground_truth": "gray",
+    "prediction": {
+      "answer": "Gray",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2382960,
+    "attribute_type": "color",
+    "object": "ski poles",
+    "attribute": "black",
+    "query": "What color is the ski poles?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2382960,
+    "attribute_type": "color",
+    "object": "ski poles",
+    "attribute": "orange",
+    "query": "What color is the ski poles?",
+    "ground_truth": "orange",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2382960,
+    "attribute_type": "color",
+    "object": "ski",
+    "attribute": "black",
+    "query": "What color is the ski?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2382960,
+    "attribute_type": "color",
+    "object": "ski",
+    "attribute": "red",
+    "query": "What color is the ski?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2382861,
+    "attribute_type": "color",
+    "object": "grass",
+    "attribute": "green",
+    "query": "What color is the grass?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2382861,
+    "attribute_type": "color",
+    "object": "signpost",
+    "attribute": "black",
+    "query": "What color is the signpost?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2382861,
+    "attribute_type": "color",
+    "object": "line",
+    "attribute": "white",
+    "query": "What color is the line?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2382861,
+    "attribute_type": "color",
+    "object": "sign",
+    "attribute": "red",
+    "query": "What color is the sign?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2381462,
+    "attribute_type": "color",
+    "object": "ocean",
+    "attribute": "white",
+    "query": "What color is the ocean?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2381350,
+    "attribute_type": "color",
+    "object": "pants",
+    "attribute": "black",
+    "query": "What color is the pants?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2381350,
+    "attribute_type": "color",
+    "object": "helmet",
+    "attribute": "black",
+    "query": "What color is the helmet?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2381350,
+    "attribute_type": "color",
+    "object": "ski boots",
+    "attribute": "orange",
+    "query": "What color is the ski boots?",
+    "ground_truth": "orange",
+    "prediction": {
+      "answer": "Orange",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2381350,
+    "attribute_type": "color",
+    "object": "ski boots",
+    "attribute": "red",
+    "query": "What color is the ski boots?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Orange",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2379198,
+    "attribute_type": "color",
+    "object": "trousers",
+    "attribute": "black",
+    "query": "What color is the trousers?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2379198,
+    "attribute_type": "color",
+    "object": "trousers",
+    "attribute": "white",
+    "query": "What color is the trousers?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Gray",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2379198,
+    "attribute_type": "color",
+    "object": "grass",
+    "attribute": "green",
+    "query": "What color is the grass?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2379198,
+    "attribute_type": "color",
+    "object": "uniform",
+    "attribute": "black",
+    "query": "What color is the uniform?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2379198,
+    "attribute_type": "color",
+    "object": "t shirt",
+    "attribute": "black",
+    "query": "What color is the t shirt?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2379198,
+    "attribute_type": "color",
+    "object": "base",
+    "attribute": "white",
+    "query": "What color is the base?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2379198,
+    "attribute_type": "color",
+    "object": "hat",
+    "attribute": "black",
+    "query": "What color is the hat?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2379198,
+    "attribute_type": "color",
+    "object": "hat",
+    "attribute": "blue",
+    "query": "What color is the hat?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2379133,
+    "attribute_type": "color",
+    "object": "sky",
+    "attribute": "blue",
+    "query": "What color is the sky?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2379133,
+    "attribute_type": "color",
+    "object": "surfboard",
+    "attribute": "white",
+    "query": "What color is the surfboard?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2379133,
+    "attribute_type": "color",
+    "object": "wave",
+    "attribute": "blue",
+    "query": "What color is the wave?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2379133,
+    "attribute_type": "color",
+    "object": "wave",
+    "attribute": "white",
+    "query": "What color is the wave?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2379133,
+    "attribute_type": "color",
+    "object": "striped pants",
+    "attribute": "blue",
+    "query": "What color is the striped pants?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2379133,
+    "attribute_type": "color",
+    "object": "striped pants",
+    "attribute": "orange",
+    "query": "What color is the striped pants?",
+    "ground_truth": "orange",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2379133,
+    "attribute_type": "color",
+    "object": "ocean",
+    "attribute": "blue",
+    "query": "What color is the ocean?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2378945,
+    "attribute_type": "color",
+    "object": "rug",
+    "attribute": "brown",
+    "query": "What color is the rug?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2378945,
+    "attribute_type": "color",
+    "object": "table",
+    "attribute": "brown",
+    "query": "What color is the table?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "Brown",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2378546,
+    "attribute_type": "color",
+    "object": "grass",
+    "attribute": "green",
+    "query": "What color is the grass?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2378546,
+    "attribute_type": "color",
+    "object": "pants",
+    "attribute": "black",
+    "query": "What color is the pants?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2378546,
+    "attribute_type": "color",
+    "object": "trees",
+    "attribute": "green",
+    "query": "What color is the trees?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2378546,
+    "attribute_type": "color",
+    "object": "kite",
+    "attribute": "red",
+    "query": "What color is the kite?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2377743,
+    "attribute_type": "color",
+    "object": "stack",
+    "attribute": "yellow",
+    "query": "What color is the stack?",
+    "ground_truth": "yellow",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2377743,
+    "attribute_type": "color",
+    "object": "cup",
+    "attribute": "white",
+    "query": "What color is the cup?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2377743,
+    "attribute_type": "color",
+    "object": "cup",
+    "attribute": "yellow",
+    "query": "What color is the cup?",
+    "ground_truth": "yellow",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2377743,
+    "attribute_type": "color",
+    "object": "bracelet",
+    "attribute": "white",
+    "query": "What color is the bracelet?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Orange",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2377743,
+    "attribute_type": "color",
+    "object": "band",
+    "attribute": "orange",
+    "query": "What color is the band?",
+    "ground_truth": "orange",
+    "prediction": {
+      "answer": "Orange",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2377590,
+    "attribute_type": "color",
+    "object": "bow",
+    "attribute": "yellow",
+    "query": "What color is the bow?",
+    "ground_truth": "yellow",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2377349,
+    "attribute_type": "color",
+    "object": "sky",
+    "attribute": "gray",
+    "query": "What color is the sky?",
+    "ground_truth": "gray",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2377245,
+    "attribute_type": "color",
+    "object": "wheel",
+    "attribute": "black",
+    "query": "What color is the wheel?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2377245,
+    "attribute_type": "color",
+    "object": "boat",
+    "attribute": "brown",
+    "query": "What color is the boat on the left?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2377245,
+    "attribute_type": "color",
+    "object": "boat",
+    "attribute": "white",
+    "query": "What color is the boat on the right?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2377245,
+    "attribute_type": "color",
+    "object": "paper",
+    "attribute": "white",
+    "query": "What color is the paper?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2376812,
+    "attribute_type": "color",
+    "object": "scooter",
+    "attribute": "red",
+    "query": "What color is the scooter on the left?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Orange",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2376812,
+    "attribute_type": "color",
+    "object": "dog",
+    "attribute": "white",
+    "query": "What color is the dog?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Brown and white",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2376812,
+    "attribute_type": "color",
+    "object": "dog",
+    "attribute": "brown",
+    "query": "What color is the dog?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "Brown and white",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2376812,
+    "attribute_type": "color",
+    "object": "motorcycle seat",
+    "attribute": "black",
+    "query": "What color is the motorcycle seat?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2376812,
+    "attribute_type": "color",
+    "object": "spot",
+    "attribute": "brown",
+    "query": "What color is the spot?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "Brown",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2376150,
+    "attribute_type": "color",
+    "object": "bars",
+    "attribute": "brown",
+    "query": "What color is the bars?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "Brown",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2375790,
+    "attribute_type": "color",
+    "object": "bananas",
+    "attribute": "green",
+    "query": "What color is the bananas?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2375790,
+    "attribute_type": "color",
+    "object": "leaf",
+    "attribute": "green",
+    "query": "What color is the leaf?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2375790,
+    "attribute_type": "color",
+    "object": "pants",
+    "attribute": "gray",
+    "query": "What color is the pants?",
+    "ground_truth": "gray",
+    "prediction": {
+      "answer": "Brown",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2375790,
+    "attribute_type": "color",
+    "object": "shirt",
+    "attribute": "gray",
+    "query": "What color is the shirt?",
+    "ground_truth": "gray",
+    "prediction": {
+      "answer": "Brown",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2375790,
+    "attribute_type": "color",
+    "object": "field",
+    "attribute": "green",
+    "query": "What color is the field?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Brown",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2375641,
+    "attribute_type": "color",
+    "object": "hair",
+    "attribute": "black",
+    "query": "What color is the hair?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Brown",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2375293,
+    "attribute_type": "color",
+    "object": "shawl",
+    "attribute": "red",
+    "query": "What color is the shawl?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2375215,
+    "attribute_type": "color",
+    "object": "spot",
+    "attribute": "brown",
+    "query": "What color is the spot?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2374995,
+    "attribute_type": "color",
+    "object": "cup",
+    "attribute": "white",
+    "query": "What color is the cup?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2374995,
+    "attribute_type": "color",
+    "object": "fork",
+    "attribute": "white",
+    "query": "What color is the fork?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2374938,
+    "attribute_type": "color",
+    "object": "sweater",
+    "attribute": "blue",
+    "query": "What color is the sweater?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2374938,
+    "attribute_type": "color",
+    "object": "banner",
+    "attribute": "white",
+    "query": "What color is the banner?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2374938,
+    "attribute_type": "color",
+    "object": "black hoodie",
+    "attribute": "black",
+    "query": "What color is the black hoodie?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2373655,
+    "attribute_type": "color",
+    "object": "sunset",
+    "attribute": "orange",
+    "query": "What color is the sunset?",
+    "ground_truth": "orange",
+    "prediction": {
+      "answer": "Orange",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2373429,
+    "attribute_type": "color",
+    "object": "train",
+    "attribute": "black",
+    "query": "What color is the train on the left?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2373112,
+    "attribute_type": "color",
+    "object": "obstacle bar",
+    "attribute": "purple",
+    "query": "What color is the obstacle bar on the right?",
+    "ground_truth": "purple",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2373112,
+    "attribute_type": "color",
+    "object": "pants",
+    "attribute": "white",
+    "query": "What color is the pants?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2373112,
+    "attribute_type": "color",
+    "object": "horse",
+    "attribute": "brown",
+    "query": "What color is the horse?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "Brown",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2373112,
+    "attribute_type": "color",
+    "object": "board",
+    "attribute": "pink",
+    "query": "What color is the board on the right?",
+    "ground_truth": "pink",
+    "prediction": {
+      "answer": "Pink",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2373112,
+    "attribute_type": "color",
+    "object": "board",
+    "attribute": "pink",
+    "query": "What color is the board on the left?",
+    "ground_truth": "pink",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2373112,
+    "attribute_type": "color",
+    "object": "boots",
+    "attribute": "black",
+    "query": "What color is the boots?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2373112,
+    "attribute_type": "color",
+    "object": "gate",
+    "attribute": "pink",
+    "query": "What color is the gate?",
+    "ground_truth": "pink",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2373112,
+    "attribute_type": "color",
+    "object": "gate",
+    "attribute": "white",
+    "query": "What color is the gate?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2373112,
+    "attribute_type": "color",
+    "object": "bridle",
+    "attribute": "black",
+    "query": "What color is the bridle?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Brown",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2373112,
+    "attribute_type": "color",
+    "object": "obstacle bar",
+    "attribute": "green",
+    "query": "What color is the obstacle bar on the left?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2372215,
+    "attribute_type": "color",
+    "object": "helmet",
+    "attribute": "black",
+    "query": "What color is the helmet?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2372100,
+    "attribute_type": "color",
+    "object": "tire",
+    "attribute": "black",
+    "query": "What color is the tire?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2372100,
+    "attribute_type": "color",
+    "object": "bear",
+    "attribute": "black",
+    "query": "What color is the bear?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2372100,
+    "attribute_type": "color",
+    "object": "black bear",
+    "attribute": "black",
+    "query": "What color is the black bear?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2372035,
+    "attribute_type": "color",
+    "object": "umbrella",
+    "attribute": "orange",
+    "query": "What color is the umbrella?",
+    "ground_truth": "orange",
+    "prediction": {
+      "answer": "Orange",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2372035,
+    "attribute_type": "color",
+    "object": "cats",
+    "attribute": "white",
+    "query": "What color is the cats?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {
+        "no": 0.045748695731163025
+      }
+    }
+  },
+  {
+    "image_id": 2372035,
+    "attribute_type": "color",
+    "object": "shirt",
+    "attribute": "gray",
+    "query": "What color is the shirt?",
+    "ground_truth": "gray",
+    "prediction": {
+      "answer": "Gray",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2372035,
+    "attribute_type": "color",
+    "object": "awning",
+    "attribute": "blue",
+    "query": "What color is the awning?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Orange",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2372035,
+    "attribute_type": "color",
+    "object": "shoe",
+    "attribute": "gray",
+    "query": "What color is the shoe?",
+    "ground_truth": "gray",
+    "prediction": {
+      "answer": "Pink",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2372035,
+    "attribute_type": "color",
+    "object": "shoe",
+    "attribute": "orange",
+    "query": "What color is the shoe?",
+    "ground_truth": "orange",
+    "prediction": {
+      "answer": "Pink",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2371976,
+    "attribute_type": "color",
+    "object": "mane",
+    "attribute": "black",
+    "query": "What color is the mane?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Brown",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2371976,
+    "attribute_type": "color",
+    "object": "t-shirt",
+    "attribute": "brown",
+    "query": "What color is the t-shirt?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2371976,
+    "attribute_type": "color",
+    "object": "t-shirt",
+    "attribute": "black",
+    "query": "What color is the t-shirt?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2371976,
+    "attribute_type": "color",
+    "object": "pants",
+    "attribute": "blue",
+    "query": "What color is the pants?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2371976,
+    "attribute_type": "color",
+    "object": "horse",
+    "attribute": "brown",
+    "query": "What color is the horse on the right?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2371976,
+    "attribute_type": "color",
+    "object": "horse",
+    "attribute": "white",
+    "query": "What color is the horse on the right?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2371261,
+    "attribute_type": "color",
+    "object": "pants",
+    "attribute": "black",
+    "query": "What color is the pants?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2371261,
+    "attribute_type": "color",
+    "object": "tail",
+    "attribute": "white",
+    "query": "What color is the tail?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2371261,
+    "attribute_type": "color",
+    "object": "sock",
+    "attribute": "white",
+    "query": "What color is the sock?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2371261,
+    "attribute_type": "color",
+    "object": "nose",
+    "attribute": "black",
+    "query": "What color is the nose?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2370859,
+    "attribute_type": "color",
+    "object": "monitor",
+    "attribute": "black",
+    "query": "What color is the monitor?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Gray",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2370859,
+    "attribute_type": "color",
+    "object": "unicorn",
+    "attribute": "yellow",
+    "query": "What color is the unicorn?",
+    "ground_truth": "yellow",
+    "prediction": {
+      "answer": "Brown",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2370859,
+    "attribute_type": "color",
+    "object": "cat",
+    "attribute": "gray",
+    "query": "What color is the cat?",
+    "ground_truth": "gray",
+    "prediction": {
+      "answer": "Gray",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2370859,
+    "attribute_type": "color",
+    "object": "keyboard",
+    "attribute": "black",
+    "query": "What color is the keyboard?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Gray",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2370859,
+    "attribute_type": "color",
+    "object": "speaker",
+    "attribute": "gray",
+    "query": "What color is the speaker?",
+    "ground_truth": "gray",
+    "prediction": {
+      "answer": "Gray",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2370859,
+    "attribute_type": "color",
+    "object": "bed",
+    "attribute": "brown",
+    "query": "What color is the bed?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "Brown",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2368820,
+    "attribute_type": "color",
+    "object": "wall",
+    "attribute": "gray",
+    "query": "What color is the wall?",
+    "ground_truth": "gray",
+    "prediction": {
+      "answer": "Gray",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2368820,
+    "attribute_type": "color",
+    "object": "fur",
+    "attribute": "white",
+    "query": "What color is the fur?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2368384,
+    "attribute_type": "color",
+    "object": "vehicle",
+    "attribute": "white",
+    "query": "What color is the vehicle?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2367231,
+    "attribute_type": "color",
+    "object": "ribbon",
+    "attribute": "purple",
+    "query": "What color is the ribbon?",
+    "ground_truth": "purple",
+    "prediction": {
+      "answer": "Purple",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2367231,
+    "attribute_type": "color",
+    "object": "hair",
+    "attribute": "black",
+    "query": "What color is the hair?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Brown",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2367231,
+    "attribute_type": "color",
+    "object": "napkin",
+    "attribute": "purple",
+    "query": "What color is the napkin?",
+    "ground_truth": "purple",
+    "prediction": {
+      "answer": "Purple",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2366380,
+    "attribute_type": "color",
+    "object": "tree",
+    "attribute": "green",
+    "query": "What color is the tree?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2366380,
+    "attribute_type": "color",
+    "object": "hair",
+    "attribute": "brown",
+    "query": "What color is the hair on the left?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "Gray",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2366380,
+    "attribute_type": "color",
+    "object": "nose",
+    "attribute": "red",
+    "query": "What color is the nose?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2366380,
+    "attribute_type": "color",
+    "object": "hair",
+    "attribute": "gray",
+    "query": "What color is the hair on the right?",
+    "ground_truth": "gray",
+    "prediction": {
+      "answer": "Brown",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2366380,
+    "attribute_type": "color",
+    "object": "mustache",
+    "attribute": "gray",
+    "query": "What color is the mustache?",
+    "ground_truth": "gray",
+    "prediction": {
+      "answer": "Brown",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2365542,
+    "attribute_type": "color",
+    "object": "hat",
+    "attribute": "black",
+    "query": "What color is the hat?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2365542,
+    "attribute_type": "color",
+    "object": "clouds",
+    "attribute": "white",
+    "query": "What color is the clouds?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2364730,
+    "attribute_type": "color",
+    "object": "shirt",
+    "attribute": "gray",
+    "query": "What color is the shirt?",
+    "ground_truth": "gray",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2364730,
+    "attribute_type": "color",
+    "object": "jeans",
+    "attribute": "blue",
+    "query": "What color is the jeans?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2364730,
+    "attribute_type": "color",
+    "object": "trre",
+    "attribute": "green",
+    "query": "What color is the trre?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2364730,
+    "attribute_type": "color",
+    "object": "railing",
+    "attribute": "gray",
+    "query": "What color is the railing?",
+    "ground_truth": "gray",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2364305,
+    "attribute_type": "color",
+    "object": "sleeve",
+    "attribute": "white",
+    "query": "What color is the sleeve?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2364305,
+    "attribute_type": "color",
+    "object": "clouds",
+    "attribute": "white",
+    "query": "What color is the clouds?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Gray",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2364305,
+    "attribute_type": "color",
+    "object": "tree",
+    "attribute": "green",
+    "query": "What color is the tree?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2363354,
+    "attribute_type": "color",
+    "object": "grass",
+    "attribute": "green",
+    "query": "What color is the grass?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2363354,
+    "attribute_type": "color",
+    "object": "hair",
+    "attribute": "brown",
+    "query": "What color is the hair?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2363354,
+    "attribute_type": "color",
+    "object": "shirt",
+    "attribute": "white",
+    "query": "What color is the shirt?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2363354,
+    "attribute_type": "color",
+    "object": "field",
+    "attribute": "green",
+    "query": "What color is the field?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2363315,
+    "attribute_type": "color",
+    "object": "grass",
+    "attribute": "green",
+    "query": "What color is the grass?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2361591,
+    "attribute_type": "color",
+    "object": "van",
+    "attribute": "white",
+    "query": "What color is the van?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2360278,
+    "attribute_type": "color",
+    "object": "clouds",
+    "attribute": "white",
+    "query": "What color is the clouds on the right?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2360278,
+    "attribute_type": "color",
+    "object": "clouds",
+    "attribute": "white",
+    "query": "What color is the clouds on the left?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2360278,
+    "attribute_type": "color",
+    "object": "sky",
+    "attribute": "blue",
+    "query": "What color is the sky on the left?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2360278,
+    "attribute_type": "color",
+    "object": "sky",
+    "attribute": "blue",
+    "query": "What color is the sky in the center?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2360278,
+    "attribute_type": "color",
+    "object": "sky",
+    "attribute": "blue",
+    "query": "What color is the sky on the right?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2360278,
+    "attribute_type": "color",
+    "object": "sky",
+    "attribute": "blue",
+    "query": "What color is the sky in the center?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2360278,
+    "attribute_type": "color",
+    "object": "helmet",
+    "attribute": "yellow",
+    "query": "What color is the helmet?",
+    "ground_truth": "yellow",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2360278,
+    "attribute_type": "color",
+    "object": "helmet",
+    "attribute": "red",
+    "query": "What color is the helmet?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2358174,
+    "attribute_type": "color",
+    "object": "letters",
+    "attribute": "white",
+    "query": "What color is the letters?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2358174,
+    "attribute_type": "color",
+    "object": "sign",
+    "attribute": "white",
+    "query": "What color is the sign on the right?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2358174,
+    "attribute_type": "color",
+    "object": "tree",
+    "attribute": "green",
+    "query": "What color is the tree?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2358174,
+    "attribute_type": "color",
+    "object": "post",
+    "attribute": "green",
+    "query": "What color is the post on the left?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2357883,
+    "attribute_type": "color",
+    "object": "bed",
+    "attribute": "blue",
+    "query": "What color is the bed?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2357581,
+    "attribute_type": "color",
+    "object": "shirt",
+    "attribute": "red",
+    "query": "What color is the shirt?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2357328,
+    "attribute_type": "color",
+    "object": "shorts",
+    "attribute": "black",
+    "query": "What color is the shorts?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2357328,
+    "attribute_type": "color",
+    "object": "tee shirt",
+    "attribute": "white",
+    "query": "What color is the tee shirt?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2357074,
+    "attribute_type": "color",
+    "object": "phone",
+    "attribute": "black",
+    "query": "What color is the phone on the right?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2355592,
+    "attribute_type": "color",
+    "object": "pizza box",
+    "attribute": "white",
+    "query": "What color is the pizza box?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2355592,
+    "attribute_type": "color",
+    "object": "outlet",
+    "attribute": "white",
+    "query": "What color is the outlet?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2355237,
+    "attribute_type": "color",
+    "object": "logo",
+    "attribute": "red",
+    "query": "What color is the logo?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2354914,
+    "attribute_type": "color",
+    "object": "box",
+    "attribute": "yellow",
+    "query": "What color is the box?",
+    "ground_truth": "yellow",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2354914,
+    "attribute_type": "color",
+    "object": "boots",
+    "attribute": "brown",
+    "query": "What color is the boots?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "Brown",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2354914,
+    "attribute_type": "color",
+    "object": "umbrella",
+    "attribute": "black",
+    "query": "What color is the umbrella?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2354914,
+    "attribute_type": "color",
+    "object": "asphalt",
+    "attribute": "black",
+    "query": "What color is the asphalt?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Gray",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2354213,
+    "attribute_type": "color",
+    "object": "car",
+    "attribute": "white",
+    "query": "What color is the car?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2354213,
+    "attribute_type": "color",
+    "object": "folder",
+    "attribute": "red",
+    "query": "What color is the folder?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2354213,
+    "attribute_type": "color",
+    "object": "sign",
+    "attribute": "white",
+    "query": "What color is the sign on the left?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2354213,
+    "attribute_type": "color",
+    "object": "sign",
+    "attribute": "red",
+    "query": "What color is the sign on the left?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2353930,
+    "attribute_type": "color",
+    "object": "cloud",
+    "attribute": "white",
+    "query": "What color is the cloud on the left?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Gray",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2353930,
+    "attribute_type": "color",
+    "object": "cloud",
+    "attribute": "white",
+    "query": "What color is the cloud on the right?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2353203,
+    "attribute_type": "color",
+    "object": "red vest",
+    "attribute": "red",
+    "query": "What color is the red vest?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2353203,
+    "attribute_type": "color",
+    "object": "cap",
+    "attribute": "red",
+    "query": "What color is the cap?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2352573,
+    "attribute_type": "color",
+    "object": "shorts",
+    "attribute": "blue",
+    "query": "What color is the shorts?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2352573,
+    "attribute_type": "color",
+    "object": "sand",
+    "attribute": "gray",
+    "query": "What color is the sand on the left?",
+    "ground_truth": "gray",
+    "prediction": {
+      "answer": "Gray",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2352573,
+    "attribute_type": "color",
+    "object": "jacket",
+    "attribute": "blue",
+    "query": "What color is the jacket?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2352521,
+    "attribute_type": "color",
+    "object": "branches",
+    "attribute": "black",
+    "query": "What color is the branches?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2352521,
+    "attribute_type": "color",
+    "object": "flower",
+    "attribute": "orange",
+    "query": "What color is the flower in the center?",
+    "ground_truth": "orange",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2352042,
+    "attribute_type": "color",
+    "object": "pan",
+    "attribute": "black",
+    "query": "What color is the pan?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2352042,
+    "attribute_type": "color",
+    "object": "plate",
+    "attribute": "white",
+    "query": "What color is the plate?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2352001,
+    "attribute_type": "color",
+    "object": "letters",
+    "attribute": "red",
+    "query": "What color is the letters?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2352001,
+    "attribute_type": "color",
+    "object": "strap",
+    "attribute": "black",
+    "query": "What color is the strap?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2352001,
+    "attribute_type": "color",
+    "object": "top",
+    "attribute": "red",
+    "query": "What color is the top?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2352001,
+    "attribute_type": "color",
+    "object": "newspaper stand",
+    "attribute": "white",
+    "query": "What color is the newspaper stand?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2352001,
+    "attribute_type": "color",
+    "object": "car",
+    "attribute": "gray",
+    "query": "What color is the car?",
+    "ground_truth": "gray",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2351767,
+    "attribute_type": "color",
+    "object": "sweater",
+    "attribute": "red",
+    "query": "What color is the sweater?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2351767,
+    "attribute_type": "color",
+    "object": "lettering",
+    "attribute": "red",
+    "query": "What color is the lettering?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Pink",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2351767,
+    "attribute_type": "color",
+    "object": "plates",
+    "attribute": "white",
+    "query": "What color is the plates?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2351767,
+    "attribute_type": "color",
+    "object": "shirt",
+    "attribute": "purple",
+    "query": "What color is the shirt?",
+    "ground_truth": "purple",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2351398,
+    "attribute_type": "color",
+    "object": "frisbee",
+    "attribute": "blue",
+    "query": "What color is the frisbee on the left?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2351398,
+    "attribute_type": "color",
+    "object": "belt",
+    "attribute": "brown",
+    "query": "What color is the belt on the left?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2350489,
+    "attribute_type": "color",
+    "object": "traffic sign",
+    "attribute": "orange",
+    "query": "What color is the traffic sign?",
+    "ground_truth": "orange",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2350489,
+    "attribute_type": "color",
+    "object": "safety vest",
+    "attribute": "orange",
+    "query": "What color is the safety vest?",
+    "ground_truth": "orange",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2350489,
+    "attribute_type": "color",
+    "object": "safety vest",
+    "attribute": "yellow",
+    "query": "What color is the safety vest?",
+    "ground_truth": "yellow",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2350489,
+    "attribute_type": "color",
+    "object": "car",
+    "attribute": "black",
+    "query": "What color is the car?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2350489,
+    "attribute_type": "color",
+    "object": "light",
+    "attribute": "red",
+    "query": "What color is the light?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2349436,
+    "attribute_type": "color",
+    "object": "shirt",
+    "attribute": "gray",
+    "query": "What color is the shirt on the left?",
+    "ground_truth": "gray",
+    "prediction": {
+      "answer": "Gray",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2349436,
+    "attribute_type": "color",
+    "object": "shirt",
+    "attribute": "brown",
+    "query": "What color is the shirt on the left?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "Gray",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2348925,
+    "attribute_type": "color",
+    "object": "surfboard",
+    "attribute": "white",
+    "query": "What color is the surfboard?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2348732,
+    "attribute_type": "color",
+    "object": "flowers",
+    "attribute": "red",
+    "query": "What color is the flowers on the left?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2348732,
+    "attribute_type": "color",
+    "object": "case",
+    "attribute": "green",
+    "query": "What color is the case on the right?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2348732,
+    "attribute_type": "color",
+    "object": "case",
+    "attribute": "green",
+    "query": "What color is the case on the left?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2348732,
+    "attribute_type": "color",
+    "object": "surfboard",
+    "attribute": "blue",
+    "query": "What color is the surfboard?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2348525,
+    "attribute_type": "color",
+    "object": "red flower",
+    "attribute": "red",
+    "query": "What color is the red flower?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Pink",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2348525,
+    "attribute_type": "color",
+    "object": "yellow flower",
+    "attribute": "yellow",
+    "query": "What color is the yellow flower?",
+    "ground_truth": "yellow",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2348525,
+    "attribute_type": "color",
+    "object": "cake",
+    "attribute": "white",
+    "query": "What color is the cake?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2348508,
+    "attribute_type": "color",
+    "object": "safety vest",
+    "attribute": "yellow",
+    "query": "What color is the safety vest?",
+    "ground_truth": "yellow",
+    "prediction": {
+      "answer": "Orange",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2348430,
+    "attribute_type": "color",
+    "object": "shirt",
+    "attribute": "blue",
+    "query": "What color is the shirt on the left?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2348430,
+    "attribute_type": "color",
+    "object": "shirt",
+    "attribute": "blue",
+    "query": "What color is the shirt on the right?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2348430,
+    "attribute_type": "color",
+    "object": "shoes",
+    "attribute": "white",
+    "query": "What color is the shoes?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2348430,
+    "attribute_type": "color",
+    "object": "pants",
+    "attribute": "black",
+    "query": "What color is the pants?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2348420,
+    "attribute_type": "color",
+    "object": "ball",
+    "attribute": "green",
+    "query": "What color is the ball?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2348420,
+    "attribute_type": "color",
+    "object": "shirt",
+    "attribute": "white",
+    "query": "What color is the shirt?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2348420,
+    "attribute_type": "color",
+    "object": "man",
+    "attribute": "black",
+    "query": "What color is the man?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2348420,
+    "attribute_type": "color",
+    "object": "racket",
+    "attribute": "blue",
+    "query": "What color is the racket?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2348420,
+    "attribute_type": "color",
+    "object": "shoes",
+    "attribute": "white",
+    "query": "What color is the shoes?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2347350,
+    "attribute_type": "color",
+    "object": "clock",
+    "attribute": "black",
+    "query": "What color is the clock on the left?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2347350,
+    "attribute_type": "color",
+    "object": "clock",
+    "attribute": "red",
+    "query": "What color is the clock on the left?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2346161,
+    "attribute_type": "color",
+    "object": "rim",
+    "attribute": "blue",
+    "query": "What color is the rim?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2346161,
+    "attribute_type": "color",
+    "object": "cloud",
+    "attribute": "white",
+    "query": "What color is the cloud on the left?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2346161,
+    "attribute_type": "color",
+    "object": "cloud",
+    "attribute": "white",
+    "query": "What color is the cloud on the right?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2343204,
+    "attribute_type": "color",
+    "object": "frisbee",
+    "attribute": "red",
+    "query": "What color is the frisbee on the right?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2343204,
+    "attribute_type": "color",
+    "object": "frisbee",
+    "attribute": "red",
+    "query": "What color is the frisbee in the center?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2343204,
+    "attribute_type": "color",
+    "object": "frisbee",
+    "attribute": "red",
+    "query": "What color is the frisbee on the left?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2341501,
+    "attribute_type": "color",
+    "object": "sign",
+    "attribute": "blue",
+    "query": "What color is the sign?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2341501,
+    "attribute_type": "color",
+    "object": "sign",
+    "attribute": "white",
+    "query": "What color is the sign?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2341491,
+    "attribute_type": "color",
+    "object": "headgear",
+    "attribute": "blue",
+    "query": "What color is the headgear?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2341491,
+    "attribute_type": "color",
+    "object": "headgear",
+    "attribute": "black",
+    "query": "What color is the headgear?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2341491,
+    "attribute_type": "color",
+    "object": "boots",
+    "attribute": "black",
+    "query": "What color is the boots?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2341491,
+    "attribute_type": "color",
+    "object": "woman's boot",
+    "attribute": "black",
+    "query": "What color is the woman's boot?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2341491,
+    "attribute_type": "color",
+    "object": "brown horse",
+    "attribute": "brown",
+    "query": "What color is the brown horse?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "Brown",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2341266,
+    "attribute_type": "color",
+    "object": "paper",
+    "attribute": "white",
+    "query": "What color is the paper?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2341266,
+    "attribute_type": "color",
+    "object": "shirt",
+    "attribute": "green",
+    "query": "What color is the shirt?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2341266,
+    "attribute_type": "color",
+    "object": "green shirt",
+    "attribute": "green",
+    "query": "What color is the green shirt?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2340211,
+    "attribute_type": "color",
+    "object": "table",
+    "attribute": "brown",
+    "query": "What color is the table?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "Brown",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2340211,
+    "attribute_type": "color",
+    "object": "plate",
+    "attribute": "white",
+    "query": "What color is the plate?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2340211,
+    "attribute_type": "color",
+    "object": "laptop",
+    "attribute": "brown",
+    "query": "What color is the laptop?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "Silver",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2340174,
+    "attribute_type": "color",
+    "object": "goggles",
+    "attribute": "blue",
+    "query": "What color is the goggles?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2340174,
+    "attribute_type": "color",
+    "object": "letters",
+    "attribute": "blue",
+    "query": "What color is the letters?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2340174,
+    "attribute_type": "color",
+    "object": "shirt",
+    "attribute": "red",
+    "query": "What color is the shirt on the right?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2340174,
+    "attribute_type": "color",
+    "object": "shirt",
+    "attribute": "black",
+    "query": "What color is the shirt on the left?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2340174,
+    "attribute_type": "color",
+    "object": "jacket",
+    "attribute": "green",
+    "query": "What color is the jacket?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2339949,
+    "attribute_type": "color",
+    "object": "pants",
+    "attribute": "black",
+    "query": "What color is the pants?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2339532,
+    "attribute_type": "color",
+    "object": "cup",
+    "attribute": "red",
+    "query": "What color is the cup?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2339532,
+    "attribute_type": "color",
+    "object": "shirt",
+    "attribute": "black",
+    "query": "What color is the shirt?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2339532,
+    "attribute_type": "color",
+    "object": "cabinet",
+    "attribute": "white",
+    "query": "What color is the cabinet?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2339105,
+    "attribute_type": "color",
+    "object": "water",
+    "attribute": "purple",
+    "query": "What color is the water?",
+    "ground_truth": "purple",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2339105,
+    "attribute_type": "color",
+    "object": "surfboard",
+    "attribute": "red",
+    "query": "What color is the surfboard on the right?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2339105,
+    "attribute_type": "color",
+    "object": "glove",
+    "attribute": "black",
+    "query": "What color is the glove on the left?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2337992,
+    "attribute_type": "color",
+    "object": "leaves",
+    "attribute": "green",
+    "query": "What color is the leaves on the right?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2337992,
+    "attribute_type": "color",
+    "object": "leaves",
+    "attribute": "green",
+    "query": "What color is the leaves on the left?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2337992,
+    "attribute_type": "color",
+    "object": "skateboard",
+    "attribute": "black",
+    "query": "What color is the skateboard?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2337992,
+    "attribute_type": "color",
+    "object": "tree leaves",
+    "attribute": "green",
+    "query": "What color is the tree leaves on the left?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2337992,
+    "attribute_type": "color",
+    "object": "tree leaves",
+    "attribute": "green",
+    "query": "What color is the tree leaves on the right?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2337188,
+    "attribute_type": "color",
+    "object": "jumper",
+    "attribute": "blue",
+    "query": "What color is the jumper?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2337188,
+    "attribute_type": "color",
+    "object": "grass",
+    "attribute": "green",
+    "query": "What color is the grass?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2337188,
+    "attribute_type": "color",
+    "object": "coat",
+    "attribute": "brown",
+    "query": "What color is the coat?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "Tan",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2336588,
+    "attribute_type": "color",
+    "object": "sign",
+    "attribute": "ORANGE",
+    "query": "What color is the sign?",
+    "ground_truth": "ORANGE",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2336588,
+    "attribute_type": "color",
+    "object": "top",
+    "attribute": "YELLOW",
+    "query": "What color is the top?",
+    "ground_truth": "YELLOW",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2335371,
+    "attribute_type": "color",
+    "object": "shirt",
+    "attribute": "yellow",
+    "query": "What color is the shirt on the right?",
+    "ground_truth": "yellow",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2335371,
+    "attribute_type": "color",
+    "object": "shirt",
+    "attribute": "red",
+    "query": "What color is the shirt on the right?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2335371,
+    "attribute_type": "color",
+    "object": "shirt",
+    "attribute": "blue",
+    "query": "What color is the shirt on the right?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2335371,
+    "attribute_type": "color",
+    "object": "head board",
+    "attribute": "blue",
+    "query": "What color is the head board?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2335371,
+    "attribute_type": "color",
+    "object": "pillow",
+    "attribute": "blue",
+    "query": "What color is the pillow?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2334761,
+    "attribute_type": "color",
+    "object": "light",
+    "attribute": "red",
+    "query": "What color is the light on the left?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2334761,
+    "attribute_type": "color",
+    "object": "light",
+    "attribute": "red",
+    "query": "What color is the light on the right?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2334761,
+    "attribute_type": "color",
+    "object": "blazer",
+    "attribute": "black",
+    "query": "What color is the blazer?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Gray",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2334748,
+    "attribute_type": "color",
+    "object": "surfboard",
+    "attribute": "yellow",
+    "query": "What color is the surfboard?",
+    "ground_truth": "yellow",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2334748,
+    "attribute_type": "color",
+    "object": "wetsuit",
+    "attribute": "black",
+    "query": "What color is the wetsuit?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2332604,
+    "attribute_type": "color",
+    "object": "sky",
+    "attribute": "blue",
+    "query": "What color is the sky?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2330414,
+    "attribute_type": "color",
+    "object": "pants",
+    "attribute": "white",
+    "query": "What color is the pants?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2330414,
+    "attribute_type": "color",
+    "object": "flags",
+    "attribute": "white",
+    "query": "What color is the flags?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2330414,
+    "attribute_type": "color",
+    "object": "helmet",
+    "attribute": "black",
+    "query": "What color is the helmet?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2330414,
+    "attribute_type": "color",
+    "object": "brown horse",
+    "attribute": "brown",
+    "query": "What color is the brown horse?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "Brown",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2328693,
+    "attribute_type": "color",
+    "object": "disc",
+    "attribute": "pink",
+    "query": "What color is the disc?",
+    "ground_truth": "pink",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2328693,
+    "attribute_type": "color",
+    "object": "shirt",
+    "attribute": "green",
+    "query": "What color is the shirt on the left?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2328693,
+    "attribute_type": "color",
+    "object": "frisbee",
+    "attribute": "pink",
+    "query": "What color is the frisbee?",
+    "ground_truth": "pink",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2328693,
+    "attribute_type": "color",
+    "object": "shirt",
+    "attribute": "green",
+    "query": "What color is the shirt on the right?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2328227,
+    "attribute_type": "color",
+    "object": "train",
+    "attribute": "orange",
+    "query": "What color is the train in the center?",
+    "ground_truth": "orange",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2328034,
+    "attribute_type": "color",
+    "object": "doughnut",
+    "attribute": "orange",
+    "query": "What color is the doughnut?",
+    "ground_truth": "orange",
+    "prediction": {
+      "answer": "Brown",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2328034,
+    "attribute_type": "color",
+    "object": "shoe",
+    "attribute": "brown",
+    "query": "What color is the shoe?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2328034,
+    "attribute_type": "color",
+    "object": "overalls",
+    "attribute": "white",
+    "query": "What color is the overalls?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2326663,
+    "attribute_type": "color",
+    "object": "batting helmet",
+    "attribute": "black",
+    "query": "What color is the batting helmet?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2325703,
+    "attribute_type": "color",
+    "object": "cord",
+    "attribute": "black",
+    "query": "What color is the cord?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2325703,
+    "attribute_type": "color",
+    "object": "wood plank",
+    "attribute": "brown",
+    "query": "What color is the wood plank in the center?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "Brown",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2325703,
+    "attribute_type": "color",
+    "object": "plank",
+    "attribute": "brown",
+    "query": "What color is the plank on the right?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "Brown",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2325703,
+    "attribute_type": "color",
+    "object": "wood plank",
+    "attribute": "brown",
+    "query": "What color is the wood plank on the left?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "Brown",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2325525,
+    "attribute_type": "color",
+    "object": "truck",
+    "attribute": "blue",
+    "query": "What color is the truck?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2324640,
+    "attribute_type": "color",
+    "object": "ball",
+    "attribute": "green",
+    "query": "What color is the ball?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2324598,
+    "attribute_type": "color",
+    "object": "can",
+    "attribute": "gray",
+    "query": "What color is the can?",
+    "ground_truth": "gray",
+    "prediction": {
+      "answer": "Silver",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2324598,
+    "attribute_type": "color",
+    "object": "shirt",
+    "attribute": "black",
+    "query": "What color is the shirt?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2324598,
+    "attribute_type": "color",
+    "object": "letters",
+    "attribute": "white",
+    "query": "What color is the letters?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2324598,
+    "attribute_type": "color",
+    "object": "uniform",
+    "attribute": "white",
+    "query": "What color is the uniform?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Gray",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2324598,
+    "attribute_type": "color",
+    "object": "uniform",
+    "attribute": "blue",
+    "query": "What color is the uniform?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2324398,
+    "attribute_type": "color",
+    "object": "tie",
+    "attribute": "yellow",
+    "query": "What color is the tie?",
+    "ground_truth": "yellow",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2324398,
+    "attribute_type": "color",
+    "object": "flower",
+    "attribute": "white",
+    "query": "What color is the flower?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Pink",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2323695,
+    "attribute_type": "color",
+    "object": "yellow helmet",
+    "attribute": "yellow",
+    "query": "What color is the yellow helmet?",
+    "ground_truth": "yellow",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2323695,
+    "attribute_type": "color",
+    "object": "helmet",
+    "attribute": "yellow",
+    "query": "What color is the helmet in the center?",
+    "ground_truth": "yellow",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2323282,
+    "attribute_type": "color",
+    "object": "black hair",
+    "attribute": "black",
+    "query": "What color is the black hair?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2323282,
+    "attribute_type": "color",
+    "object": "shirt",
+    "attribute": "red",
+    "query": "What color is the shirt on the left?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2322786,
+    "attribute_type": "color",
+    "object": "shorts",
+    "attribute": "black",
+    "query": "What color is the shorts?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2322786,
+    "attribute_type": "color",
+    "object": "shorts",
+    "attribute": "red",
+    "query": "What color is the shorts?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2322786,
+    "attribute_type": "color",
+    "object": "design",
+    "attribute": "green",
+    "query": "What color is the design?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2322786,
+    "attribute_type": "color",
+    "object": "color",
+    "attribute": "red",
+    "query": "What color is the color?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2322786,
+    "attribute_type": "color",
+    "object": "lettering",
+    "attribute": "white",
+    "query": "What color is the lettering?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2322786,
+    "attribute_type": "color",
+    "object": "board",
+    "attribute": "white",
+    "query": "What color is the board?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2322786,
+    "attribute_type": "color",
+    "object": "water choppy",
+    "attribute": "white",
+    "query": "What color is the water choppy?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2322786,
+    "attribute_type": "color",
+    "object": "shirt",
+    "attribute": "red",
+    "query": "What color is the shirt?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2322502,
+    "attribute_type": "color",
+    "object": "horse",
+    "attribute": "brown",
+    "query": "What color is the horse?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "Brown",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2322374,
+    "attribute_type": "color",
+    "object": "grass",
+    "attribute": "green",
+    "query": "What color is the grass?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2321836,
+    "attribute_type": "color",
+    "object": "curb",
+    "attribute": "red",
+    "query": "What color is the curb on the right?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Gray",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2321836,
+    "attribute_type": "color",
+    "object": "plastic bag",
+    "attribute": "brown",
+    "query": "What color is the plastic bag?",
+    "ground_truth": "brown",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2321370,
+    "attribute_type": "color",
+    "object": "letters",
+    "attribute": "black",
+    "query": "What color is the letters on the left?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2320476,
+    "attribute_type": "color",
+    "object": "dog",
+    "attribute": "white",
+    "query": "What color is the dog?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Gray",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2320476,
+    "attribute_type": "color",
+    "object": "dog",
+    "attribute": "black",
+    "query": "What color is the dog?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Brown",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2319322,
+    "attribute_type": "color",
+    "object": "helmet",
+    "attribute": "blue",
+    "query": "What color is the helmet?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2319322,
+    "attribute_type": "color",
+    "object": "line",
+    "attribute": "white",
+    "query": "What color is the line?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2319009,
+    "attribute_type": "color",
+    "object": "dress",
+    "attribute": "pink",
+    "query": "What color is the dress?",
+    "ground_truth": "pink",
+    "prediction": {
+      "answer": "Pink",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2319009,
+    "attribute_type": "color",
+    "object": "dress",
+    "attribute": "white",
+    "query": "What color is the dress?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Pink",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2319009,
+    "attribute_type": "color",
+    "object": "bear",
+    "attribute": "gray",
+    "query": "What color is the bear?",
+    "ground_truth": "gray",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2318747,
+    "attribute_type": "color",
+    "object": "shoe",
+    "attribute": "white",
+    "query": "What color is the shoe?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2318747,
+    "attribute_type": "color",
+    "object": "shoe",
+    "attribute": "black",
+    "query": "What color is the shoe?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2318747,
+    "attribute_type": "color",
+    "object": "socks",
+    "attribute": "white",
+    "query": "What color is the socks on the left?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2318747,
+    "attribute_type": "color",
+    "object": "socks",
+    "attribute": "white",
+    "query": "What color is the socks on the right?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2318747,
+    "attribute_type": "color",
+    "object": "shoes",
+    "attribute": "white",
+    "query": "What color is the shoes?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2318747,
+    "attribute_type": "color",
+    "object": "shoes",
+    "attribute": "black",
+    "query": "What color is the shoes?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2318747,
+    "attribute_type": "color",
+    "object": "field",
+    "attribute": "green",
+    "query": "What color is the field?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2318747,
+    "attribute_type": "color",
+    "object": "shirt",
+    "attribute": "black",
+    "query": "What color is the shirt?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2318331,
+    "attribute_type": "color",
+    "object": "ball",
+    "attribute": "green",
+    "query": "What color is the ball?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2318331,
+    "attribute_type": "color",
+    "object": "shirt",
+    "attribute": "white",
+    "query": "What color is the shirt on the left?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2318331,
+    "attribute_type": "color",
+    "object": "logo",
+    "attribute": "white",
+    "query": "What color is the logo?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2318331,
+    "attribute_type": "color",
+    "object": "platform",
+    "attribute": "red",
+    "query": "What color is the platform?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2318331,
+    "attribute_type": "color",
+    "object": "jacket",
+    "attribute": "blue",
+    "query": "What color is the jacket?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2318331,
+    "attribute_type": "color",
+    "object": "shirt",
+    "attribute": "white",
+    "query": "What color is the shirt on the right?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2317951,
+    "attribute_type": "color",
+    "object": "tablecloth",
+    "attribute": "white",
+    "query": "What color is the tablecloth?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2317951,
+    "attribute_type": "color",
+    "object": "tablecloth",
+    "attribute": "red",
+    "query": "What color is the tablecloth?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2317951,
+    "attribute_type": "color",
+    "object": "bananas",
+    "attribute": "green",
+    "query": "What color is the bananas?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2317951,
+    "attribute_type": "color",
+    "object": "bananas",
+    "attribute": "black",
+    "query": "What color is the bananas?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2317739,
+    "attribute_type": "color",
+    "object": "sky",
+    "attribute": "blue",
+    "query": "What color is the sky?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2317739,
+    "attribute_type": "color",
+    "object": "coat",
+    "attribute": "white",
+    "query": "What color is the coat?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2317435,
+    "attribute_type": "color",
+    "object": "ceiling",
+    "attribute": "gray",
+    "query": "What color is the ceiling?",
+    "ground_truth": "gray",
+    "prediction": {
+      "answer": "Gray",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2317435,
+    "attribute_type": "color",
+    "object": "line",
+    "attribute": "white",
+    "query": "What color is the line?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2317435,
+    "attribute_type": "color",
+    "object": "letters",
+    "attribute": "black",
+    "query": "What color is the letters?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2317435,
+    "attribute_type": "color",
+    "object": "light",
+    "attribute": "red",
+    "query": "What color is the light?",
+    "ground_truth": "red",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2317163,
+    "attribute_type": "color",
+    "object": "skateboard",
+    "attribute": "black",
+    "query": "What color is the skateboard?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2317163,
+    "attribute_type": "color",
+    "object": "shirt",
+    "attribute": "green",
+    "query": "What color is the shirt?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2317163,
+    "attribute_type": "color",
+    "object": "pants",
+    "attribute": "blue",
+    "query": "What color is the pants?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2317030,
+    "attribute_type": "color",
+    "object": "grass",
+    "attribute": "yellow",
+    "query": "What color is the grass on the left?",
+    "ground_truth": "yellow",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2317030,
+    "attribute_type": "color",
+    "object": "grass",
+    "attribute": "green",
+    "query": "What color is the grass on the left?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2317030,
+    "attribute_type": "color",
+    "object": "fencing",
+    "attribute": "black",
+    "query": "What color is the fencing?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2317030,
+    "attribute_type": "color",
+    "object": "jacket",
+    "attribute": "black",
+    "query": "What color is the jacket?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2414679,
+    "attribute_type": "color",
+    "object": "stripes",
+    "attribute": "green",
+    "query": "What color is the stripes?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2414679,
+    "attribute_type": "color",
+    "object": "water",
+    "attribute": "blue",
+    "query": "What color is the water?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2414679,
+    "attribute_type": "color",
+    "object": "pattern",
+    "attribute": "white",
+    "query": "What color is the pattern?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2414679,
+    "attribute_type": "color",
+    "object": "pattern",
+    "attribute": "black",
+    "query": "What color is the pattern?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2414679,
+    "attribute_type": "color",
+    "object": "design",
+    "attribute": "white",
+    "query": "What color is the design?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2414679,
+    "attribute_type": "color",
+    "object": "design",
+    "attribute": "black",
+    "query": "What color is the design?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Yellow",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2415565,
+    "attribute_type": "color",
+    "object": "sky",
+    "attribute": "blue",
+    "query": "What color is the sky?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2415565,
+    "attribute_type": "color",
+    "object": "cloud",
+    "attribute": "white",
+    "query": "What color is the cloud in the center?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2415565,
+    "attribute_type": "color",
+    "object": "cloud",
+    "attribute": "white",
+    "query": "What color is the cloud on the right?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2415565,
+    "attribute_type": "color",
+    "object": "clouds",
+    "attribute": "white",
+    "query": "What color is the clouds on the right?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2415565,
+    "attribute_type": "color",
+    "object": "clouds",
+    "attribute": "white",
+    "query": "What color is the clouds on the left?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Gray",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2415565,
+    "attribute_type": "color",
+    "object": "cloud",
+    "attribute": "white",
+    "query": "What color is the cloud on the left?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2416037,
+    "attribute_type": "color",
+    "object": "image",
+    "attribute": "white",
+    "query": "What color is the image?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2416037,
+    "attribute_type": "color",
+    "object": "tower",
+    "attribute": "gray",
+    "query": "What color is the tower?",
+    "ground_truth": "gray",
+    "prediction": {
+      "answer": "Brown",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2416540,
+    "attribute_type": "color",
+    "object": "leaf",
+    "attribute": "green",
+    "query": "What color is the leaf on the right?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2416540,
+    "attribute_type": "color",
+    "object": "leaf",
+    "attribute": "green",
+    "query": "What color is the leaf on the left?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2416540,
+    "attribute_type": "color",
+    "object": "sky",
+    "attribute": "blue",
+    "query": "What color is the sky?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2416935,
+    "attribute_type": "color",
+    "object": "car",
+    "attribute": "black",
+    "query": "What color is the car?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2416935,
+    "attribute_type": "color",
+    "object": "black car",
+    "attribute": "black",
+    "query": "What color is the black car on the right?",
+    "ground_truth": "black",
+    "prediction": {
+      "answer": "Black",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2417250,
+    "attribute_type": "color",
+    "object": "bus",
+    "attribute": "white",
+    "query": "What color is the bus on the right?",
+    "ground_truth": "white",
+    "prediction": {
+      "answer": "White",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2417250,
+    "attribute_type": "color",
+    "object": "light",
+    "attribute": "green",
+    "query": "What color is the light in the center?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Red",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2417652,
+    "attribute_type": "color",
+    "object": "shirt",
+    "attribute": "blue",
+    "query": "What color is the shirt?",
+    "ground_truth": "blue",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2417652,
+    "attribute_type": "color",
+    "object": "tree",
+    "attribute": "green",
+    "query": "What color is the tree on the left?",
+    "ground_truth": "green",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2417652,
+    "attribute_type": "color",
+    "object": "license plate",
+    "attribute": "yellow",
+    "query": "What color is the license plate on the right?",
+    "ground_truth": "yellow",
+    "prediction": {
+      "answer": "Blue",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 3963,
+    "attribute_type": "material",
+    "object": "easel",
+    "attribute": "wooden",
+    "query": "What material is the easel made of?",
+    "ground_truth": "wooden",
+    "prediction": {
+      "answer": "Wood",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 1592439,
+    "attribute_type": "material",
+    "object": "paddle",
+    "attribute": "wooden",
+    "query": "What material is the paddle made of?",
+    "ground_truth": "wooden",
+    "prediction": {
+      "answer": "Wood",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2414248,
+    "attribute_type": "material",
+    "object": "helmet",
+    "attribute": "plastic",
+    "query": "What material is the helmet made of?",
+    "ground_truth": "plastic",
+    "prediction": {
+      "answer": "Polycarbonate",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2412490,
+    "attribute_type": "material",
+    "object": "fence",
+    "attribute": "metal",
+    "query": "What material is the fence made of?",
+    "ground_truth": "metal",
+    "prediction": {
+      "answer": "Wood",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2410331,
+    "attribute_type": "material",
+    "object": "rail",
+    "attribute": "metal",
+    "query": "What material is the rail on the left made of?",
+    "ground_truth": "metal",
+    "prediction": {
+      "answer": "Metal",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2410331,
+    "attribute_type": "material",
+    "object": "ramp",
+    "attribute": "wooden",
+    "query": "What material is the ramp made of?",
+    "ground_truth": "wooden",
+    "prediction": {
+      "answer": "Wood",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2410177,
+    "attribute_type": "material",
+    "object": "plate",
+    "attribute": "metal",
+    "query": "What material is the plate made of?",
+    "ground_truth": "metal",
+    "prediction": {
+      "answer": "Metal",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2410177,
+    "attribute_type": "material",
+    "object": "pole",
+    "attribute": "metal",
+    "query": "What material is the pole made of?",
+    "ground_truth": "metal",
+    "prediction": {
+      "answer": "Metal",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2409581,
+    "attribute_type": "material",
+    "object": "table",
+    "attribute": "wooden",
+    "query": "What material is the table made of?",
+    "ground_truth": "wooden",
+    "prediction": {
+      "answer": "Wood",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2409108,
+    "attribute_type": "material",
+    "object": "pole",
+    "attribute": "wooden",
+    "query": "What material is the pole on the right made of?",
+    "ground_truth": "wooden",
+    "prediction": {
+      "answer": "Wood",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2409108,
+    "attribute_type": "material",
+    "object": "pole",
+    "attribute": "wooden",
+    "query": "What material is the pole on the left made of?",
+    "ground_truth": "wooden",
+    "prediction": {
+      "answer": "Wood",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2403791,
+    "attribute_type": "material",
+    "object": "fence",
+    "attribute": "wooden",
+    "query": "What material is the fence made of?",
+    "ground_truth": "wooden",
+    "prediction": {
+      "answer": "Wood",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2401431,
+    "attribute_type": "material",
+    "object": "railing",
+    "attribute": "metal",
+    "query": "What material is the railing on the left made of?",
+    "ground_truth": "metal",
+    "prediction": {
+      "answer": "Metal",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2401431,
+    "attribute_type": "material",
+    "object": "railing",
+    "attribute": "metal",
+    "query": "What material is the railing on the right made of?",
+    "ground_truth": "metal",
+    "prediction": {
+      "answer": "Metal",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2401033,
+    "attribute_type": "material",
+    "object": "glove",
+    "attribute": "plastic",
+    "query": "What material is the glove on the right made of?",
+    "ground_truth": "plastic",
+    "prediction": {
+      "answer": "Latex",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2396122,
+    "attribute_type": "material",
+    "object": "table",
+    "attribute": "wooden",
+    "query": "What material is the table made of?",
+    "ground_truth": "wooden",
+    "prediction": {
+      "answer": "Wood",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2392460,
+    "attribute_type": "material",
+    "object": "fencing",
+    "attribute": "metal",
+    "query": "What material is the fencing made of?",
+    "ground_truth": "metal",
+    "prediction": {
+      "answer": "Metal",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2387142,
+    "attribute_type": "material",
+    "object": "railing",
+    "attribute": "metal",
+    "query": "What material is the railing made of?",
+    "ground_truth": "metal",
+    "prediction": {
+      "answer": "Metal",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2384327,
+    "attribute_type": "material",
+    "object": "mantle",
+    "attribute": "wooden",
+    "query": "What material is the mantle made of?",
+    "ground_truth": "wooden",
+    "prediction": {
+      "answer": "Wood",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2382960,
+    "attribute_type": "material",
+    "object": "rack",
+    "attribute": "metal",
+    "query": "What material is the rack made of?",
+    "ground_truth": "metal",
+    "prediction": {
+      "answer": "Metal",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2376150,
+    "attribute_type": "material",
+    "object": "bars",
+    "attribute": "wooden",
+    "query": "What material is the bars made of?",
+    "ground_truth": "wooden",
+    "prediction": {
+      "answer": "Wood",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2376150,
+    "attribute_type": "material",
+    "object": "wooden rod",
+    "attribute": "wooden",
+    "query": "What material is the wooden rod made of?",
+    "ground_truth": "wooden",
+    "prediction": {
+      "answer": "Wood",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2376150,
+    "attribute_type": "material",
+    "object": "rod",
+    "attribute": "wooden",
+    "query": "What material is the rod on the right made of?",
+    "ground_truth": "wooden",
+    "prediction": {
+      "answer": "Wood",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2376150,
+    "attribute_type": "material",
+    "object": "rod",
+    "attribute": "wooden",
+    "query": "What material is the rod on the left made of?",
+    "ground_truth": "wooden",
+    "prediction": {
+      "answer": "Wood",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2374361,
+    "attribute_type": "material",
+    "object": "horse shoe",
+    "attribute": "metal",
+    "query": "What material is the horse shoe made of?",
+    "ground_truth": "metal",
+    "prediction": {
+      "answer": "Leather",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2373112,
+    "attribute_type": "material",
+    "object": "saddle strap",
+    "attribute": "leather",
+    "query": "What material is the saddle strap made of?",
+    "ground_truth": "leather",
+    "prediction": {
+      "answer": "Leather",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2369565,
+    "attribute_type": "material",
+    "object": "wooden deck",
+    "attribute": "wooden",
+    "query": "What material is the wooden deck made of?",
+    "ground_truth": "wooden",
+    "prediction": {
+      "answer": "Wood",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2366845,
+    "attribute_type": "material",
+    "object": "fence",
+    "attribute": "wooden",
+    "query": "What material is the fence made of?",
+    "ground_truth": "wooden",
+    "prediction": {
+      "answer": "Wood",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2363315,
+    "attribute_type": "material",
+    "object": "ladder",
+    "attribute": "metal",
+    "query": "What material is the ladder made of?",
+    "ground_truth": "metal",
+    "prediction": {
+      "answer": "Metal",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2363315,
+    "attribute_type": "material",
+    "object": "work boot",
+    "attribute": "leather",
+    "query": "What material is the work boot made of?",
+    "ground_truth": "leather",
+    "prediction": {
+      "answer": "Leather",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2363315,
+    "attribute_type": "material",
+    "object": "chaps",
+    "attribute": "leather",
+    "query": "What material is the chaps made of?",
+    "ground_truth": "leather",
+    "prediction": {
+      "answer": "Leather",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2355558,
+    "attribute_type": "material",
+    "object": "chair",
+    "attribute": "metal",
+    "query": "What material is the chair made of?",
+    "ground_truth": "metal",
+    "prediction": {
+      "answer": "Wood",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2353203,
+    "attribute_type": "material",
+    "object": "wooden bat",
+    "attribute": "wooden",
+    "query": "What material is the wooden bat made of?",
+    "ground_truth": "wooden",
+    "prediction": {
+      "answer": "Wood",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2352042,
+    "attribute_type": "material",
+    "object": "knife",
+    "attribute": "metal",
+    "query": "What material is the knife made of?",
+    "ground_truth": "metal",
+    "prediction": {
+      "answer": "Steel",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2352042,
+    "attribute_type": "material",
+    "object": "fork",
+    "attribute": "metal",
+    "query": "What material is the fork made of?",
+    "ground_truth": "metal",
+    "prediction": {
+      "answer": "Metal",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2340211,
+    "attribute_type": "material",
+    "object": "table",
+    "attribute": "wooden",
+    "query": "What material is the table made of?",
+    "ground_truth": "wooden",
+    "prediction": {
+      "answer": "Wood",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2335371,
+    "attribute_type": "material",
+    "object": "headboard",
+    "attribute": "wooden",
+    "query": "What material is the headboard in the center made of?",
+    "ground_truth": "wooden",
+    "prediction": {
+      "answer": "Wood",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2334761,
+    "attribute_type": "material",
+    "object": "railing",
+    "attribute": "metal",
+    "query": "What material is the railing made of?",
+    "ground_truth": "metal",
+    "prediction": {
+      "answer": "Metal",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2325703,
+    "attribute_type": "material",
+    "object": "wood plank",
+    "attribute": "wooden",
+    "query": "What material is the wood plank in the center made of?",
+    "ground_truth": "wooden",
+    "prediction": {
+      "answer": "Wood",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2325703,
+    "attribute_type": "material",
+    "object": "plank",
+    "attribute": "wooden",
+    "query": "What material is the plank on the right made of?",
+    "ground_truth": "wooden",
+    "prediction": {
+      "answer": "Wood",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2325703,
+    "attribute_type": "material",
+    "object": "wood plank",
+    "attribute": "wooden",
+    "query": "What material is the wood plank on the left made of?",
+    "ground_truth": "wooden",
+    "prediction": {
+      "answer": "Wood",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2321836,
+    "attribute_type": "material",
+    "object": "plastic bag",
+    "attribute": "plastic",
+    "query": "What material is the plastic bag made of?",
+    "ground_truth": "plastic",
+    "prediction": {
+      "answer": "Polyethylene",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2318331,
+    "attribute_type": "material",
+    "object": "platform",
+    "attribute": "wooden",
+    "query": "What material is the platform made of?",
+    "ground_truth": "wooden",
+    "prediction": {
+      "answer": "Concrete",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2404950,
+    "attribute_type": "condition",
+    "object": "ground",
+    "attribute": "wet",
+    "query": "What is the condition of the ground?",
+    "ground_truth": "wet",
+    "prediction": {
+      "answer": "Rainy",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2382861,
+    "attribute_type": "condition",
+    "object": "dirt",
+    "attribute": "wet",
+    "query": "What is the condition of the dirt?",
+    "ground_truth": "wet",
+    "prediction": {
+      "answer": "Unknown",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2375790,
+    "attribute_type": "condition",
+    "object": "pants",
+    "attribute": "dirty",
+    "query": "What is the condition of the pants?",
+    "ground_truth": "dirty",
+    "prediction": {
+      "answer": "Old",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2375790,
+    "attribute_type": "condition",
+    "object": "cuttings",
+    "attribute": "dry",
+    "query": "What is the condition of the cuttings?",
+    "ground_truth": "dry",
+    "prediction": {
+      "answer": "Unknown",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2375641,
+    "attribute_type": "condition",
+    "object": "man's hair is wet",
+    "attribute": "wet",
+    "query": "What is the condition of the man's hair is wet?",
+    "ground_truth": "wet",
+    "prediction": {
+      "answer": "Yes",
+      "first_word_probs": {
+        "yes": 0.9124361872673035,
+        "no": 0.08756384998559952
+      }
+    }
+  },
+  {
+    "image_id": 2349436,
+    "attribute_type": "condition",
+    "object": "phone",
+    "attribute": "old",
+    "query": "What is the condition of the phone?",
+    "ground_truth": "old",
+    "prediction": {
+      "answer": "Broken",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2339105,
+    "attribute_type": "condition",
+    "object": "wet suit",
+    "attribute": "wet",
+    "query": "What is the condition of the wet suit?",
+    "ground_truth": "wet",
+    "prediction": {
+      "answer": "Wet",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2331433,
+    "attribute_type": "condition",
+    "object": "man",
+    "attribute": "old",
+    "query": "What is the condition of the man in the center?",
+    "ground_truth": "old",
+    "prediction": {
+      "answer": "Unknown",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2326663,
+    "attribute_type": "condition",
+    "object": "knee",
+    "attribute": "dirty",
+    "query": "What is the condition of the knee?",
+    "ground_truth": "dirty",
+    "prediction": {
+      "answer": "Kneeling",
+      "first_word_probs": {
+        "no": 0.029285551980137825
+      }
+    }
+  },
+  {
+    "image_id": 2325525,
+    "attribute_type": "condition",
+    "object": "road",
+    "attribute": "wet",
+    "query": "What is the condition of the road on the left?",
+    "ground_truth": "wet",
+    "prediction": {
+      "answer": "Rainy",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2322374,
+    "attribute_type": "condition",
+    "object": "grass",
+    "attribute": "dry",
+    "query": "What is the condition of the grass?",
+    "ground_truth": "dry",
+    "prediction": {
+      "answer": "Green",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2320476,
+    "attribute_type": "condition",
+    "object": "pavement",
+    "attribute": "wet",
+    "query": "What is the condition of the pavement?",
+    "ground_truth": "wet",
+    "prediction": {
+      "answer": "Cracked",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2401506,
+    "attribute_type": "shape",
+    "object": "mirror",
+    "attribute": "round",
+    "query": "What is the shape of the mirror?",
+    "ground_truth": "round",
+    "prediction": {
+      "answer": "Rectangle",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2389740,
+    "attribute_type": "shape",
+    "object": "camera",
+    "attribute": "round",
+    "query": "What is the shape of the camera?",
+    "ground_truth": "round",
+    "prediction": {
+      "answer": "Rectangular",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2384536,
+    "attribute_type": "shape",
+    "object": "table",
+    "attribute": "round",
+    "query": "What is the shape of the table on the right?",
+    "ground_truth": "round",
+    "prediction": {
+      "answer": "Round",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2384536,
+    "attribute_type": "shape",
+    "object": "table",
+    "attribute": "round",
+    "query": "What is the shape of the table on the left?",
+    "ground_truth": "round",
+    "prediction": {
+      "answer": "Round",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2379198,
+    "attribute_type": "shape",
+    "object": "base",
+    "attribute": "square",
+    "query": "What is the shape of the base?",
+    "ground_truth": "square",
+    "prediction": {
+      "answer": "Round",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2377743,
+    "attribute_type": "shape",
+    "object": "plates",
+    "attribute": "round",
+    "query": "What is the shape of the plates?",
+    "ground_truth": "round",
+    "prediction": {
+      "answer": "Round",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2358174,
+    "attribute_type": "shape",
+    "object": "sign",
+    "attribute": "rectangular",
+    "query": "What is the shape of the sign on the left?",
+    "ground_truth": "rectangular",
+    "prediction": {
+      "answer": "Octagon",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2323282,
+    "attribute_type": "shape",
+    "object": "clock wrist",
+    "attribute": "round",
+    "query": "What is the shape of the clock wrist?",
+    "ground_truth": "round",
+    "prediction": {
+      "answer": "Round",
+      "first_word_probs": {}
+    }
+  },
+  {
+    "image_id": 2321370,
+    "attribute_type": "shape",
+    "object": "ball clock",
+    "attribute": "round",
+    "query": "What is the shape of the ball clock?",
+    "ground_truth": "round",
+    "prediction": {
+      "answer": "Round",
+      "first_word_probs": {}
+    }
+  }
+]

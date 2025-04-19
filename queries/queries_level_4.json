@@ -1,0 +1,4578 @@
+[
+  {
+    "image_id": 615,
+    "question": "Based on the image, what is the relationship between man and jacket? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "removing"
+    ],
+    "subject": "man",
+    "object": "jacket",
+    "level": 4
+  },
+  {
+    "image_id": 1523,
+    "question": "Based on the image, what is the relationship between light and keyboard? Choose only from the options provided",
+    "answer": "hitting",
+    "options": [
+      "illuminating",
+      "pressing",
+      "typing"
+    ],
+    "subject": "light",
+    "object": "keyboard",
+    "level": 4
+  },
+  {
+    "image_id": 1901,
+    "question": "Based on the image, what is the relationship between man and shirt? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "folding",
+      "ironing"
+    ],
+    "subject": "man",
+    "object": "shirt",
+    "level": 4
+  },
+  {
+    "image_id": 1901,
+    "question": "Based on the image, what is the relationship between person and boat? Choose only from the options provided",
+    "answer": "standing",
+    "options": [
+      "rowing",
+      "sailing",
+      "driving"
+    ],
+    "subject": "person",
+    "object": "boat",
+    "level": 4
+  },
+  {
+    "image_id": 3963,
+    "question": "Based on the image, what is the relationship between woman and shirt? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "folding"
+    ],
+    "subject": "woman",
+    "object": "shirt",
+    "level": 4
+  },
+  {
+    "image_id": 3963,
+    "question": "Based on the image, what is the relationship between woman and bracelet? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "admiring",
+      "buying",
+      "fastening"
+    ],
+    "subject": "woman",
+    "object": "bracelet",
+    "level": 4
+  },
+  {
+    "image_id": 4146,
+    "question": "Based on the image, what is the relationship between poker chips and table? Choose only from the options provided",
+    "answer": "sitting",
+    "options": [
+      "placing",
+      "stacking",
+      "sliding"
+    ],
+    "subject": "poker chips",
+    "object": "table",
+    "level": 4
+  },
+  {
+    "image_id": 4146,
+    "question": "Based on the image, what is the relationship between person and glasses? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "adjusting",
+      "cleaning",
+      "removing"
+    ],
+    "subject": "person",
+    "object": "glasses",
+    "level": 4
+  },
+  {
+    "image_id": 285832,
+    "question": "Based on the image, what is the relationship between light and women? Choose only from the options provided",
+    "answer": "shining",
+    "options": [
+      "illuminating",
+      "admiring",
+      "reflecting"
+    ],
+    "subject": "light",
+    "object": "women",
+    "level": 4
+  },
+  {
+    "image_id": 285832,
+    "question": "Based on the image, what is the relationship between woman and dress? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "admiring"
+    ],
+    "subject": "woman",
+    "object": "dress",
+    "level": 4
+  },
+  {
+    "image_id": 285832,
+    "question": "Based on the image, what is the relationship between woman and motorcycle? Choose only from the options provided",
+    "answer": "sitting",
+    "options": [
+      "riding",
+      "driving",
+      "repairing"
+    ],
+    "subject": "woman",
+    "object": "motorcycle",
+    "level": 4
+  },
+  {
+    "image_id": 286004,
+    "question": "Based on the image, what is the relationship between man and bench? Choose only from the options provided",
+    "answer": "sitting",
+    "options": [
+      "lifting",
+      "leaning",
+      "lying"
+    ],
+    "subject": "man",
+    "object": "bench",
+    "level": 4
+  },
+  {
+    "image_id": 286004,
+    "question": "Based on the image, what is the relationship between man and shirt? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "washing",
+      "folding"
+    ],
+    "subject": "man",
+    "object": "shirt",
+    "level": 4
+  },
+  {
+    "image_id": 1159766,
+    "question": "Based on the image, what is the relationship between bottle and sand? Choose only from the options provided",
+    "answer": "sitting",
+    "options": [
+      "filling",
+      "pouring",
+      "covering"
+    ],
+    "subject": "bottle",
+    "object": "sand",
+    "level": 4
+  },
+  {
+    "image_id": 1159766,
+    "question": "Based on the image, what is the relationship between man and shirt? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "folding",
+      "ironing"
+    ],
+    "subject": "man",
+    "object": "shirt",
+    "level": 4
+  },
+  {
+    "image_id": 1159766,
+    "question": "Based on the image, what is the relationship between man and sand? Choose only from the options provided",
+    "answer": "sitting",
+    "options": [
+      "walking",
+      "building",
+      "digging"
+    ],
+    "subject": "man",
+    "object": "sand",
+    "level": 4
+  },
+  {
+    "image_id": 1159789,
+    "question": "Based on the image, what is the relationship between guy and skateboard? Choose only from the options provided",
+    "answer": "holding",
+    "options": [
+      "riding",
+      "pushing",
+      "carrying"
+    ],
+    "subject": "guy",
+    "object": "skateboard",
+    "level": 4
+  },
+  {
+    "image_id": 1159789,
+    "question": "Based on the image, what is the relationship between guy and jacket? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "removing"
+    ],
+    "subject": "guy",
+    "object": "jacket",
+    "level": 4
+  },
+  {
+    "image_id": 1592132,
+    "question": "Based on the image, what is the relationship between man and coat? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "removing"
+    ],
+    "subject": "man",
+    "object": "coat",
+    "level": 4
+  },
+  {
+    "image_id": 1592132,
+    "question": "Based on the image, what is the relationship between man and backpack? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "carrying",
+      "lifting",
+      "packing"
+    ],
+    "subject": "man",
+    "object": "backpack",
+    "level": 4
+  },
+  {
+    "image_id": 1592439,
+    "question": "Based on the image, what is the relationship between man and apron? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "tying",
+      "washing",
+      "removing"
+    ],
+    "subject": "man",
+    "object": "apron",
+    "level": 4
+  },
+  {
+    "image_id": 1592439,
+    "question": "Based on the image, what is the relationship between man and pizza? Choose only from the options provided",
+    "answer": "holding",
+    "options": [
+      "eating",
+      "ordering",
+      "delivering"
+    ],
+    "subject": "man",
+    "object": "pizza",
+    "level": 4
+  },
+  {
+    "image_id": 2414248,
+    "question": "Based on the image, what is the relationship between man and wave? Choose only from the options provided",
+    "answer": "riding",
+    "options": [
+      "watching",
+      "battling",
+      "surfing"
+    ],
+    "subject": "man",
+    "object": "wave",
+    "level": 4
+  },
+  {
+    "image_id": 2414101,
+    "question": "Based on the image, what is the relationship between child and shirt? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buttoning",
+      "pulling",
+      "tugging"
+    ],
+    "subject": "child",
+    "object": "shirt",
+    "level": 4
+  },
+  {
+    "image_id": 2412490,
+    "question": "Based on the image, what is the relationship between driver and shirt? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "washing",
+      "ironing"
+    ],
+    "subject": "driver",
+    "object": "shirt",
+    "level": 4
+  },
+  {
+    "image_id": 2411389,
+    "question": "Based on the image, what is the relationship between player and top? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "reaching",
+      "hitting",
+      "catching"
+    ],
+    "subject": "player",
+    "object": "top",
+    "level": 4
+  },
+  {
+    "image_id": 2410331,
+    "question": "Based on the image, what is the relationship between man and pants? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "removing"
+    ],
+    "subject": "man",
+    "object": "pants",
+    "level": 4
+  },
+  {
+    "image_id": 2410177,
+    "question": "Based on the image, what is the relationship between handcuffs and briefcase? Choose only from the options provided",
+    "answer": "holding",
+    "options": [
+      "carrying",
+      "opening",
+      "securing"
+    ],
+    "subject": "handcuffs",
+    "object": "briefcase",
+    "level": 4
+  },
+  {
+    "image_id": 2409108,
+    "question": "Based on the image, what is the relationship between train and cargo? Choose only from the options provided",
+    "answer": "pulling",
+    "options": [
+      "transporting",
+      "loading",
+      "unloading"
+    ],
+    "subject": "train",
+    "object": "cargo",
+    "level": 4
+  },
+  {
+    "image_id": 2409108,
+    "question": "Based on the image, what is the relationship between ladder and train? Choose only from the options provided",
+    "answer": "entering",
+    "options": [
+      "climbing",
+      "boarding",
+      "approaching"
+    ],
+    "subject": "ladder",
+    "object": "train",
+    "level": 4
+  },
+  {
+    "image_id": 2409084,
+    "question": "Based on the image, what is the relationship between woman and lipstick? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "applying",
+      "buying",
+      "using"
+    ],
+    "subject": "woman",
+    "object": "lipstick",
+    "level": 4
+  },
+  {
+    "image_id": 2409084,
+    "question": "Based on the image, what is the relationship between woman and coat? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "removing"
+    ],
+    "subject": "woman",
+    "object": "coat",
+    "level": 4
+  },
+  {
+    "image_id": 2408930,
+    "question": "Based on the image, what is the relationship between boy and shorts? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "removing"
+    ],
+    "subject": "boy",
+    "object": "shorts",
+    "level": 4
+  },
+  {
+    "image_id": 2407933,
+    "question": "Based on the image, what is the relationship between pole and traffic lights? Choose only from the options provided",
+    "answer": "holding",
+    "options": [
+      "supporting",
+      "blocking",
+      "signaling"
+    ],
+    "subject": "pole",
+    "object": "traffic lights",
+    "level": 4
+  },
+  {
+    "image_id": 2406818,
+    "question": "Based on the image, what is the relationship between man and tie? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "tying",
+      "adjusting",
+      "removing"
+    ],
+    "subject": "man",
+    "object": "tie",
+    "level": 4
+  },
+  {
+    "image_id": 2406818,
+    "question": "Based on the image, what is the relationship between man and wristwatch? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "checking",
+      "adjusting",
+      "buying"
+    ],
+    "subject": "man",
+    "object": "wristwatch",
+    "level": 4
+  },
+  {
+    "image_id": 2406677,
+    "question": "Based on the image, what is the relationship between girl and gloves? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "removing"
+    ],
+    "subject": "girl",
+    "object": "gloves",
+    "level": 4
+  },
+  {
+    "image_id": 2406429,
+    "question": "Based on the image, what is the relationship between woman and red? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "painting",
+      "admiring",
+      "choosing"
+    ],
+    "subject": "woman",
+    "object": "red",
+    "level": 4
+  },
+  {
+    "image_id": 2406429,
+    "question": "Based on the image, what is the relationship between man and suit? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "tailoring"
+    ],
+    "subject": "man",
+    "object": "suit",
+    "level": 4
+  },
+  {
+    "image_id": 2406039,
+    "question": "Based on the image, what is the relationship between person and chair? Choose only from the options provided",
+    "answer": "sitting",
+    "options": [
+      "lifting",
+      "moving",
+      "leaning"
+    ],
+    "subject": "person",
+    "object": "chair",
+    "level": 4
+  },
+  {
+    "image_id": 2405887,
+    "question": "Based on the image, what is the relationship between woman and blouse? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "folding"
+    ],
+    "subject": "woman",
+    "object": "blouse",
+    "level": 4
+  },
+  {
+    "image_id": 2405887,
+    "question": "Based on the image, what is the relationship between person and top? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "reaching",
+      "touching",
+      "lifting"
+    ],
+    "subject": "person",
+    "object": "top",
+    "level": 4
+  },
+  {
+    "image_id": 2405887,
+    "question": "Based on the image, what is the relationship between man and phone? Choose only from the options provided",
+    "answer": "talking",
+    "options": [
+      "using",
+      "dialing",
+      "answering"
+    ],
+    "subject": "man",
+    "object": "phone",
+    "level": 4
+  },
+  {
+    "image_id": 2405866,
+    "question": "Based on the image, what is the relationship between person and shoes? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "tying",
+      "trying"
+    ],
+    "subject": "person",
+    "object": "shoes",
+    "level": 4
+  },
+  {
+    "image_id": 2405866,
+    "question": "Based on the image, what is the relationship between person and shirt? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "washing",
+      "folding"
+    ],
+    "subject": "person",
+    "object": "shirt",
+    "level": 4
+  },
+  {
+    "image_id": 2405347,
+    "question": "Based on the image, what is the relationship between feet and shoes? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "fitting",
+      "tying",
+      "removing"
+    ],
+    "subject": "feet",
+    "object": "shoes",
+    "level": 4
+  },
+  {
+    "image_id": 2405347,
+    "question": "Based on the image, what is the relationship between feet and surface? Choose only from the options provided",
+    "answer": "standing",
+    "options": [
+      "touching",
+      "pressing",
+      "sliding"
+    ],
+    "subject": "feet",
+    "object": "surface",
+    "level": 4
+  },
+  {
+    "image_id": 2404950,
+    "question": "Based on the image, what is the relationship between woman and jacket? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "removing"
+    ],
+    "subject": "woman",
+    "object": "jacket",
+    "level": 4
+  },
+  {
+    "image_id": 2404341,
+    "question": "Based on the image, what is the relationship between kids and snow? Choose only from the options provided",
+    "answer": "eating",
+    "options": [
+      "playing",
+      "building",
+      "throwing"
+    ],
+    "subject": "kids",
+    "object": "snow",
+    "level": 4
+  },
+  {
+    "image_id": 2403791,
+    "question": "Based on the image, what is the relationship between kid and helmet? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "needs",
+      "uses",
+      "adjusts"
+    ],
+    "subject": "kid",
+    "object": "helmet",
+    "level": 4
+  },
+  {
+    "image_id": 2403783,
+    "question": "Based on the image, what is the relationship between woman and bottle? Choose only from the options provided",
+    "answer": "pouring",
+    "options": [
+      "drinking",
+      "opening",
+      "carrying"
+    ],
+    "subject": "woman",
+    "object": "bottle",
+    "level": 4
+  },
+  {
+    "image_id": 2403783,
+    "question": "Based on the image, what is the relationship between man and cup? Choose only from the options provided",
+    "answer": "holding",
+    "options": [
+      "drinking",
+      "lifting",
+      "dropping"
+    ],
+    "subject": "man",
+    "object": "cup",
+    "level": 4
+  },
+  {
+    "image_id": 2403363,
+    "question": "Based on the image, what is the relationship between bear and street? Choose only from the options provided",
+    "answer": "crossing",
+    "options": [
+      "wandering",
+      "roaming",
+      "blocking"
+    ],
+    "subject": "bear",
+    "object": "street",
+    "level": 4
+  },
+  {
+    "image_id": 2403363,
+    "question": "Based on the image, what is the relationship between bus and passengers? Choose only from the options provided",
+    "answer": "carrying",
+    "options": [
+      "boarding",
+      "transporting",
+      "waiting"
+    ],
+    "subject": "bus",
+    "object": "passengers",
+    "level": 4
+  },
+  {
+    "image_id": 2403363,
+    "question": "Based on the image, what is the relationship between person and white? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "painting",
+      "holding",
+      "pointing"
+    ],
+    "subject": "person",
+    "object": "white",
+    "level": 4
+  },
+  {
+    "image_id": 2402361,
+    "question": "Based on the image, what is the relationship between woman and tennis court? Choose only from the options provided",
+    "answer": "laying",
+    "options": [
+      "playing",
+      "watching",
+      "hitting"
+    ],
+    "subject": "woman",
+    "object": "tennis court",
+    "level": 4
+  },
+  {
+    "image_id": 2402361,
+    "question": "Based on the image, what is the relationship between man and white shirt? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "folding"
+    ],
+    "subject": "man",
+    "object": "white shirt",
+    "level": 4
+  },
+  {
+    "image_id": 2402361,
+    "question": "Based on the image, what is the relationship between woman and yellow racket? Choose only from the options provided",
+    "answer": "holding",
+    "options": [
+      "swinging",
+      "hitting",
+      "carrying"
+    ],
+    "subject": "woman",
+    "object": "yellow racket",
+    "level": 4
+  },
+  {
+    "image_id": 2401506,
+    "question": "Based on the image, what is the relationship between woman and camera? Choose only from the options provided",
+    "answer": "looking",
+    "options": [
+      "photographing",
+      "posing",
+      "filming"
+    ],
+    "subject": "woman",
+    "object": "camera",
+    "level": 4
+  },
+  {
+    "image_id": 2401506,
+    "question": "Based on the image, what is the relationship between man and red shirt? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "removing"
+    ],
+    "subject": "man",
+    "object": "red shirt",
+    "level": 4
+  },
+  {
+    "image_id": 2401033,
+    "question": "Based on the image, what is the relationship between man and watch? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "checking",
+      "buying",
+      "repairing"
+    ],
+    "subject": "man",
+    "object": "watch",
+    "level": 4
+  },
+  {
+    "image_id": 2401033,
+    "question": "Based on the image, what is the relationship between man and shirt? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "washing",
+      "folding"
+    ],
+    "subject": "man",
+    "object": "shirt",
+    "level": 4
+  },
+  {
+    "image_id": 2401033,
+    "question": "Based on the image, what is the relationship between man and glove? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "removing",
+      "throwing"
+    ],
+    "subject": "man",
+    "object": "glove",
+    "level": 4
+  },
+  {
+    "image_id": 2397681,
+    "question": "Based on the image, what is the relationship between glass and wine? Choose only from the options provided",
+    "answer": "containing",
+    "options": [
+      "pouring",
+      "sipping",
+      "swirling"
+    ],
+    "subject": "glass",
+    "object": "wine",
+    "level": 4
+  },
+  {
+    "image_id": 2397554,
+    "question": "Based on the image, what is the relationship between rider and horse? Choose only from the options provided",
+    "answer": "riding",
+    "options": [
+      "training",
+      "grooming",
+      "guiding"
+    ],
+    "subject": "rider",
+    "object": "horse",
+    "level": 4
+  },
+  {
+    "image_id": 2397554,
+    "question": "Based on the image, what is the relationship between rider and reins? Choose only from the options provided",
+    "answer": "holding",
+    "options": [
+      "gripping",
+      "pulling",
+      "controlling"
+    ],
+    "subject": "rider",
+    "object": "reins",
+    "level": 4
+  },
+  {
+    "image_id": 2397554,
+    "question": "Based on the image, what is the relationship between rider and top? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "reaching",
+      "touching",
+      "grasping"
+    ],
+    "subject": "rider",
+    "object": "top",
+    "level": 4
+  },
+  {
+    "image_id": 2397554,
+    "question": "Based on the image, what is the relationship between horse and water? Choose only from the options provided",
+    "answer": "walking",
+    "options": [
+      "drinking",
+      "crossing",
+      "jumping"
+    ],
+    "subject": "horse",
+    "object": "water",
+    "level": 4
+  },
+  {
+    "image_id": 2397035,
+    "question": "Based on the image, what is the relationship between man and stick? Choose only from the options provided",
+    "answer": "holding",
+    "options": [
+      "hitting",
+      "throwing",
+      "leaning"
+    ],
+    "subject": "man",
+    "object": "stick",
+    "level": 4
+  },
+  {
+    "image_id": 2396122,
+    "question": "Based on the image, what is the relationship between man and pizza? Choose only from the options provided",
+    "answer": "eating",
+    "options": [
+      "ordering",
+      "making",
+      "delivering"
+    ],
+    "subject": "man",
+    "object": "pizza",
+    "level": 4
+  },
+  {
+    "image_id": 2396122,
+    "question": "Based on the image, what is the relationship between hand and keyboard? Choose only from the options provided",
+    "answer": "touching",
+    "options": [
+      "typing",
+      "pressing",
+      "resting"
+    ],
+    "subject": "hand",
+    "object": "keyboard",
+    "level": 4
+  },
+  {
+    "image_id": 2395290,
+    "question": "Based on the image, what is the relationship between woman and blue? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "painting",
+      "admiring",
+      "matching"
+    ],
+    "subject": "woman",
+    "object": "blue",
+    "level": 4
+  },
+  {
+    "image_id": 2395290,
+    "question": "Based on the image, what is the relationship between pole and umbrella? Choose only from the options provided",
+    "answer": "holding",
+    "options": [
+      "using",
+      "carrying",
+      "leaning"
+    ],
+    "subject": "pole",
+    "object": "umbrella",
+    "level": 4
+  },
+  {
+    "image_id": 2393957,
+    "question": "Based on the image, what is the relationship between man and shirt? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "folding",
+      "ironing"
+    ],
+    "subject": "man",
+    "object": "shirt",
+    "level": 4
+  },
+  {
+    "image_id": 2393957,
+    "question": "Based on the image, what is the relationship between man and tennis racket? Choose only from the options provided",
+    "answer": "holding",
+    "options": [
+      "swinging",
+      "hitting",
+      "gripping"
+    ],
+    "subject": "man",
+    "object": "tennis racket",
+    "level": 4
+  },
+  {
+    "image_id": 2393957,
+    "question": "Based on the image, what is the relationship between man and shorts? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "folding"
+    ],
+    "subject": "man",
+    "object": "shorts",
+    "level": 4
+  },
+  {
+    "image_id": 2393783,
+    "question": "Based on the image, what is the relationship between woman and hotdog? Choose only from the options provided",
+    "answer": "eating",
+    "options": [
+      "selling",
+      "cooking",
+      "holding"
+    ],
+    "subject": "woman",
+    "object": "hotdog",
+    "level": 4
+  },
+  {
+    "image_id": 2393728,
+    "question": "Based on the image, what is the relationship between knife and table? Choose only from the options provided",
+    "answer": "laying",
+    "options": [
+      "cutting",
+      "placing",
+      "hitting"
+    ],
+    "subject": "knife",
+    "object": "table",
+    "level": 4
+  },
+  {
+    "image_id": 2393720,
+    "question": "Based on the image, what is the relationship between man and shirt? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "folding",
+      "ironing"
+    ],
+    "subject": "man",
+    "object": "shirt",
+    "level": 4
+  },
+  {
+    "image_id": 2393720,
+    "question": "Based on the image, what is the relationship between woman and man? Choose only from the options provided",
+    "answer": "talking",
+    "options": [
+      "loving",
+      "arguing",
+      "kissing"
+    ],
+    "subject": "woman",
+    "object": "man",
+    "level": 4
+  },
+  {
+    "image_id": 2393720,
+    "question": "Based on the image, what is the relationship between woman and leash? Choose only from the options provided",
+    "answer": "holding",
+    "options": [
+      "pulling",
+      "tugging",
+      "walking"
+    ],
+    "subject": "woman",
+    "object": "leash",
+    "level": 4
+  },
+  {
+    "image_id": 2390079,
+    "question": "Based on the image, what is the relationship between person and pants? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "removing"
+    ],
+    "subject": "person",
+    "object": "pants",
+    "level": 4
+  },
+  {
+    "image_id": 2390079,
+    "question": "Based on the image, what is the relationship between snow and mountain? Choose only from the options provided",
+    "answer": "covering",
+    "options": [
+      "melting",
+      "falling",
+      "blanketing"
+    ],
+    "subject": "snow",
+    "object": "mountain",
+    "level": 4
+  },
+  {
+    "image_id": 2390079,
+    "question": "Based on the image, what is the relationship between person and snowboard? Choose only from the options provided",
+    "answer": "holding",
+    "options": [
+      "riding",
+      "carrying",
+      "jumping"
+    ],
+    "subject": "person",
+    "object": "snowboard",
+    "level": 4
+  },
+  {
+    "image_id": 2389815,
+    "question": "Based on the image, what is the relationship between hand and racket? Choose only from the options provided",
+    "answer": "holding",
+    "options": [
+      "swinging",
+      "gripping",
+      "hitting"
+    ],
+    "subject": "hand",
+    "object": "racket",
+    "level": 4
+  },
+  {
+    "image_id": 2389740,
+    "question": "Based on the image, what is the relationship between man and suit? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "tailoring"
+    ],
+    "subject": "man",
+    "object": "suit",
+    "level": 4
+  },
+  {
+    "image_id": 2389259,
+    "question": "Based on the image, what is the relationship between person and tennis? Choose only from the options provided",
+    "answer": "standing",
+    "options": [
+      "playing",
+      "watching",
+      "hitting"
+    ],
+    "subject": "person",
+    "object": "tennis",
+    "level": 4
+  },
+  {
+    "image_id": 2389259,
+    "question": "Based on the image, what is the relationship between four persons and tennis? Choose only from the options provided",
+    "answer": "laying",
+    "options": [
+      "playing",
+      "watching",
+      "hitting"
+    ],
+    "subject": "four persons",
+    "object": "tennis",
+    "level": 4
+  },
+  {
+    "image_id": 2389259,
+    "question": "Based on the image, what is the relationship between man and tennis ball? Choose only from the options provided",
+    "answer": "swinging",
+    "options": [
+      "hitting",
+      "throwing",
+      "catching"
+    ],
+    "subject": "man",
+    "object": "tennis ball",
+    "level": 4
+  },
+  {
+    "image_id": 2387095,
+    "question": "Based on the image, what is the relationship between man and tie? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "tying",
+      "adjusting",
+      "removing"
+    ],
+    "subject": "man",
+    "object": "tie",
+    "level": 4
+  },
+  {
+    "image_id": 2387095,
+    "question": "Based on the image, what is the relationship between man and shirt? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "washing",
+      "folding"
+    ],
+    "subject": "man",
+    "object": "shirt",
+    "level": 4
+  },
+  {
+    "image_id": 2387076,
+    "question": "Based on the image, what is the relationship between toothbrush and glass? Choose only from the options provided",
+    "answer": "sitting",
+    "options": [
+      "cleaning",
+      "placing",
+      "touching"
+    ],
+    "subject": "toothbrush",
+    "object": "glass",
+    "level": 4
+  },
+  {
+    "image_id": 2386250,
+    "question": "Based on the image, what is the relationship between person and jacket? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "removing",
+      "trying"
+    ],
+    "subject": "person",
+    "object": "jacket",
+    "level": 4
+  },
+  {
+    "image_id": 2386250,
+    "question": "Based on the image, what is the relationship between person and store? Choose only from the options provided",
+    "answer": "exiting",
+    "options": [
+      "entering",
+      "shopping",
+      "browsing"
+    ],
+    "subject": "person",
+    "object": "store",
+    "level": 4
+  },
+  {
+    "image_id": 2386250,
+    "question": "Based on the image, what is the relationship between mary poppins and tv? Choose only from the options provided",
+    "answer": "showing",
+    "options": [
+      "watching",
+      "featuring",
+      "appearing"
+    ],
+    "subject": "mary poppins",
+    "object": "tv",
+    "level": 4
+  },
+  {
+    "image_id": 2386250,
+    "question": "Based on the image, what is the relationship between person and phone? Choose only from the options provided",
+    "answer": "talking",
+    "options": [
+      "using",
+      "holding",
+      "dialing"
+    ],
+    "subject": "person",
+    "object": "phone",
+    "level": 4
+  },
+  {
+    "image_id": 2385687,
+    "question": "Based on the image, what is the relationship between man and cellphone? Choose only from the options provided",
+    "answer": "talking",
+    "options": [
+      "using",
+      "holding",
+      "looking"
+    ],
+    "subject": "man",
+    "object": "cellphone",
+    "level": 4
+  },
+  {
+    "image_id": 2385687,
+    "question": "Based on the image, what is the relationship between man and jeans? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "washing"
+    ],
+    "subject": "man",
+    "object": "jeans",
+    "level": 4
+  },
+  {
+    "image_id": 2385637,
+    "question": "Based on the image, what is the relationship between man and cuff? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "restraining",
+      "unlocking",
+      "fastening"
+    ],
+    "subject": "man",
+    "object": "cuff",
+    "level": 4
+  },
+  {
+    "image_id": 2384566,
+    "question": "Based on the image, what is the relationship between woman and girl? Choose only from the options provided",
+    "answer": "talking",
+    "options": [
+      "helping",
+      "teaching",
+      "hugging"
+    ],
+    "subject": "woman",
+    "object": "girl",
+    "level": 4
+  },
+  {
+    "image_id": 2384536,
+    "question": "Based on the image, what is the relationship between hand and knife? Choose only from the options provided",
+    "answer": "holding",
+    "options": [
+      "cutting",
+      "gripping",
+      "stabbing"
+    ],
+    "subject": "hand",
+    "object": "knife",
+    "level": 4
+  },
+  {
+    "image_id": 2384536,
+    "question": "Based on the image, what is the relationship between hands and food? Choose only from the options provided",
+    "answer": "eating",
+    "options": [
+      "washing",
+      "preparing",
+      "touching"
+    ],
+    "subject": "hands",
+    "object": "food",
+    "level": 4
+  },
+  {
+    "image_id": 2384536,
+    "question": "Based on the image, what is the relationship between person and knife? Choose only from the options provided",
+    "answer": "holding",
+    "options": [
+      "using",
+      "cutting",
+      "stabbing"
+    ],
+    "subject": "person",
+    "object": "knife",
+    "level": 4
+  },
+  {
+    "image_id": 2384327,
+    "question": "Based on the image, what is the relationship between man and men? Choose only from the options provided",
+    "answer": "sitting",
+    "options": [
+      "leading",
+      "following",
+      "fighting"
+    ],
+    "subject": "man",
+    "object": "men",
+    "level": 4
+  },
+  {
+    "image_id": 2383950,
+    "question": "Based on the image, what is the relationship between dog and frisbee? Choose only from the options provided",
+    "answer": "catching",
+    "options": [
+      "chasing",
+      "jumping",
+      "fetching"
+    ],
+    "subject": "dog",
+    "object": "frisbee",
+    "level": 4
+  },
+  {
+    "image_id": 2383950,
+    "question": "Based on the image, what is the relationship between tree and shadow? Choose only from the options provided",
+    "answer": "casting",
+    "options": [
+      "creating",
+      "blocking",
+      "shading"
+    ],
+    "subject": "tree",
+    "object": "shadow",
+    "level": 4
+  },
+  {
+    "image_id": 2383437,
+    "question": "Based on the image, what is the relationship between man and hat? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "tipping",
+      "removing"
+    ],
+    "subject": "man",
+    "object": "hat",
+    "level": 4
+  },
+  {
+    "image_id": 2383437,
+    "question": "Based on the image, what is the relationship between people and exhibit? Choose only from the options provided",
+    "answer": "walking",
+    "options": [
+      "viewing",
+      "visiting",
+      "observing"
+    ],
+    "subject": "people",
+    "object": "exhibit",
+    "level": 4
+  },
+  {
+    "image_id": 2383254,
+    "question": "Based on the image, what is the relationship between man and pants? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "removing"
+    ],
+    "subject": "man",
+    "object": "pants",
+    "level": 4
+  },
+  {
+    "image_id": 2383254,
+    "question": "Based on the image, what is the relationship between woman and heels? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "loves",
+      "buys",
+      "admires"
+    ],
+    "subject": "woman",
+    "object": "heels",
+    "level": 4
+  },
+  {
+    "image_id": 2382960,
+    "question": "Based on the image, what is the relationship between skis and shadow? Choose only from the options provided",
+    "answer": "making",
+    "options": [
+      "casting",
+      "following",
+      "crossing"
+    ],
+    "subject": "skis",
+    "object": "shadow",
+    "level": 4
+  },
+  {
+    "image_id": 2382960,
+    "question": "Based on the image, what is the relationship between rack and skis? Choose only from the options provided",
+    "answer": "holding",
+    "options": [
+      "storing",
+      "securing",
+      "carrying"
+    ],
+    "subject": "rack",
+    "object": "skis",
+    "level": 4
+  },
+  {
+    "image_id": 2382861,
+    "question": "Based on the image, what is the relationship between signpost and sign? Choose only from the options provided",
+    "answer": "holding",
+    "options": [
+      "pointing",
+      "displaying",
+      "indicating"
+    ],
+    "subject": "signpost",
+    "object": "sign",
+    "level": 4
+  },
+  {
+    "image_id": 2381462,
+    "question": "Based on the image, what is the relationship between water and air? Choose only from the options provided",
+    "answer": "spraying",
+    "options": [
+      "mixing",
+      "evaporating",
+      "cooling"
+    ],
+    "subject": "water",
+    "object": "air",
+    "level": 4
+  },
+  {
+    "image_id": 2381462,
+    "question": "Based on the image, what is the relationship between man and surfboard? Choose only from the options provided",
+    "answer": "riding",
+    "options": [
+      "carrying",
+      "holding",
+      "balancing"
+    ],
+    "subject": "man",
+    "object": "surfboard",
+    "level": 4
+  },
+  {
+    "image_id": 2381350,
+    "question": "Based on the image, what is the relationship between man and ski poles? Choose only from the options provided",
+    "answer": "holding",
+    "options": [
+      "using",
+      "leaning",
+      "gripping"
+    ],
+    "subject": "man",
+    "object": "ski poles",
+    "level": 4
+  },
+  {
+    "image_id": 2381350,
+    "question": "Based on the image, what is the relationship between man and helmet? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "carrying",
+      "adjusting",
+      "removing"
+    ],
+    "subject": "man",
+    "object": "helmet",
+    "level": 4
+  },
+  {
+    "image_id": 2379198,
+    "question": "Based on the image, what is the relationship between person and baseline? Choose only from the options provided",
+    "answer": "standing",
+    "options": [
+      "measuring",
+      "comparing",
+      "observing"
+    ],
+    "subject": "person",
+    "object": "baseline",
+    "level": 4
+  },
+  {
+    "image_id": 2379198,
+    "question": "Based on the image, what is the relationship between person and baseball? Choose only from the options provided",
+    "answer": "laying",
+    "options": [
+      "playing",
+      "watching",
+      "throwing"
+    ],
+    "subject": "person",
+    "object": "baseball",
+    "level": 4
+  },
+  {
+    "image_id": 2379198,
+    "question": "Based on the image, what is the relationship between person and belt? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "fastening",
+      "tightening",
+      "buckling"
+    ],
+    "subject": "person",
+    "object": "belt",
+    "level": 4
+  },
+  {
+    "image_id": 2379198,
+    "question": "Based on the image, what is the relationship between person and trousers? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "folding"
+    ],
+    "subject": "person",
+    "object": "trousers",
+    "level": 4
+  },
+  {
+    "image_id": 2379133,
+    "question": "Based on the image, what is the relationship between man and surfboard? Choose only from the options provided",
+    "answer": "holding",
+    "options": [
+      "carrying",
+      "standing",
+      "balancing"
+    ],
+    "subject": "man",
+    "object": "surfboard",
+    "level": 4
+  },
+  {
+    "image_id": 2378945,
+    "question": "Based on the image, what is the relationship between rug and floor? Choose only from the options provided",
+    "answer": "covering",
+    "options": [
+      "laying",
+      "placing",
+      "spreading"
+    ],
+    "subject": "rug",
+    "object": "floor",
+    "level": 4
+  },
+  {
+    "image_id": 2378945,
+    "question": "Based on the image, what is the relationship between pillow and sofa? Choose only from the options provided",
+    "answer": "lying",
+    "options": [
+      "placing",
+      "leaning",
+      "resting"
+    ],
+    "subject": "pillow",
+    "object": "sofa",
+    "level": 4
+  },
+  {
+    "image_id": 2378546,
+    "question": "Based on the image, what is the relationship between boy and jacket? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "removing"
+    ],
+    "subject": "boy",
+    "object": "jacket",
+    "level": 4
+  },
+  {
+    "image_id": 2377743,
+    "question": "Based on the image, what is the relationship between girl and bracelet? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "admiring",
+      "buying",
+      "receiving"
+    ],
+    "subject": "girl",
+    "object": "bracelet",
+    "level": 4
+  },
+  {
+    "image_id": 2377743,
+    "question": "Based on the image, what is the relationship between girl and shirt? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "folding"
+    ],
+    "subject": "girl",
+    "object": "shirt",
+    "level": 4
+  },
+  {
+    "image_id": 2377743,
+    "question": "Based on the image, what is the relationship between plate and pizza? Choose only from the options provided",
+    "answer": "holding",
+    "options": [
+      "serving",
+      "slicing",
+      "placing"
+    ],
+    "subject": "plate",
+    "object": "pizza",
+    "level": 4
+  },
+  {
+    "image_id": 2377372,
+    "question": "Based on the image, what is the relationship between lineman and tie? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "securing",
+      "connecting",
+      "handling"
+    ],
+    "subject": "lineman",
+    "object": "tie",
+    "level": 4
+  },
+  {
+    "image_id": 2377349,
+    "question": "Based on the image, what is the relationship between surfer and wet suit? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "removing",
+      "adjusting"
+    ],
+    "subject": "surfer",
+    "object": "wet suit",
+    "level": 4
+  },
+  {
+    "image_id": 2377245,
+    "question": "Based on the image, what is the relationship between person and hat? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "removing"
+    ],
+    "subject": "person",
+    "object": "hat",
+    "level": 4
+  },
+  {
+    "image_id": 2376812,
+    "question": "Based on the image, what is the relationship between man and dog? Choose only from the options provided",
+    "answer": "kissing",
+    "options": [
+      "walking",
+      "petting",
+      "feeding"
+    ],
+    "subject": "man",
+    "object": "dog",
+    "level": 4
+  },
+  {
+    "image_id": 2376812,
+    "question": "Based on the image, what is the relationship between dog and motorcycle? Choose only from the options provided",
+    "answer": "sitting",
+    "options": [
+      "chasing",
+      "riding",
+      "following"
+    ],
+    "subject": "dog",
+    "object": "motorcycle",
+    "level": 4
+  },
+  {
+    "image_id": 2376537,
+    "question": "Based on the image, what is the relationship between antelope and giraffe? Choose only from the options provided",
+    "answer": "grazing",
+    "options": [
+      "competing",
+      "observing",
+      "fleeing"
+    ],
+    "subject": "antelope",
+    "object": "giraffe",
+    "level": 4
+  },
+  {
+    "image_id": 2376182,
+    "question": "Based on the image, what is the relationship between umpire and jacket? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "removing",
+      "adjusting",
+      "pointing"
+    ],
+    "subject": "umpire",
+    "object": "jacket",
+    "level": 4
+  },
+  {
+    "image_id": 2376182,
+    "question": "Based on the image, what is the relationship between fan and glasses? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "cleaning",
+      "adjusting",
+      "dropping"
+    ],
+    "subject": "fan",
+    "object": "glasses",
+    "level": 4
+  },
+  {
+    "image_id": 2376182,
+    "question": "Based on the image, what is the relationship between man and helmet? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "holding",
+      "carrying",
+      "inspecting"
+    ],
+    "subject": "man",
+    "object": "helmet",
+    "level": 4
+  },
+  {
+    "image_id": 2376150,
+    "question": "Based on the image, what is the relationship between bug and fruit? Choose only from the options provided",
+    "answer": "holding",
+    "options": [
+      "biting",
+      "touching",
+      "examining"
+    ],
+    "subject": "bug",
+    "object": "fruit",
+    "level": 4
+  },
+  {
+    "image_id": 2375641,
+    "question": "Based on the image, what is the relationship between hand and surfboard? Choose only from the options provided",
+    "answer": "holding",
+    "options": [
+      "gripping",
+      "balancing",
+      "waxing"
+    ],
+    "subject": "hand",
+    "object": "surfboard",
+    "level": 4
+  },
+  {
+    "image_id": 2375641,
+    "question": "Based on the image, what is the relationship between man and outside? Choose only from the options provided",
+    "answer": "walking",
+    "options": [
+      "running",
+      "looking",
+      "standing"
+    ],
+    "subject": "man",
+    "object": "outside",
+    "level": 4
+  },
+  {
+    "image_id": 2375641,
+    "question": "Based on the image, what is the relationship between arm and board? Choose only from the options provided",
+    "answer": "holding",
+    "options": [
+      "lifting",
+      "moving",
+      "supporting"
+    ],
+    "subject": "arm",
+    "object": "board",
+    "level": 4
+  },
+  {
+    "image_id": 2375293,
+    "question": "Based on the image, what is the relationship between man and umbrella? Choose only from the options provided",
+    "answer": "holding",
+    "options": [
+      "carrying",
+      "using",
+      "opening"
+    ],
+    "subject": "man",
+    "object": "umbrella",
+    "level": 4
+  },
+  {
+    "image_id": 2375293,
+    "question": "Based on the image, what is the relationship between woman and dress? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "admiring"
+    ],
+    "subject": "woman",
+    "object": "dress",
+    "level": 4
+  },
+  {
+    "image_id": 2375293,
+    "question": "Based on the image, what is the relationship between man and bow-tie? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "tying",
+      "adjusting",
+      "removing"
+    ],
+    "subject": "man",
+    "object": "bow-tie",
+    "level": 4
+  },
+  {
+    "image_id": 2375215,
+    "question": "Based on the image, what is the relationship between man and shirt? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "washing",
+      "ironing"
+    ],
+    "subject": "man",
+    "object": "shirt",
+    "level": 4
+  },
+  {
+    "image_id": 2375215,
+    "question": "Based on the image, what is the relationship between male and glasses? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "adjusting",
+      "cleaning",
+      "breaking"
+    ],
+    "subject": "male",
+    "object": "glasses",
+    "level": 4
+  },
+  {
+    "image_id": 2374995,
+    "question": "Based on the image, what is the relationship between woman and scarf? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "wrapping",
+      "tying",
+      "adjusting"
+    ],
+    "subject": "woman",
+    "object": "scarf",
+    "level": 4
+  },
+  {
+    "image_id": 2374995,
+    "question": "Based on the image, what is the relationship between napkin and flag? Choose only from the options provided",
+    "answer": "laying",
+    "options": [
+      "wiping",
+      "waving",
+      "covering"
+    ],
+    "subject": "napkin",
+    "object": "flag",
+    "level": 4
+  },
+  {
+    "image_id": 2374938,
+    "question": "Based on the image, what is the relationship between skateboarder and shadow? Choose only from the options provided",
+    "answer": "casting",
+    "options": [
+      "chasing",
+      "following",
+      "jumping"
+    ],
+    "subject": "skateboarder",
+    "object": "shadow",
+    "level": 4
+  },
+  {
+    "image_id": 2374938,
+    "question": "Based on the image, what is the relationship between man and black hoodie? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "hiding",
+      "removing"
+    ],
+    "subject": "man",
+    "object": "black hoodie",
+    "level": 4
+  },
+  {
+    "image_id": 2374938,
+    "question": "Based on the image, what is the relationship between guy and hat? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "removing"
+    ],
+    "subject": "guy",
+    "object": "hat",
+    "level": 4
+  },
+  {
+    "image_id": 2374361,
+    "question": "Based on the image, what is the relationship between people and street? Choose only from the options provided",
+    "answer": "moving",
+    "options": [
+      "crossing",
+      "watching",
+      "standing"
+    ],
+    "subject": "people",
+    "object": "street",
+    "level": 4
+  },
+  {
+    "image_id": 2374361,
+    "question": "Based on the image, what is the relationship between man and cap? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "removing",
+      "adjusting",
+      "throwing"
+    ],
+    "subject": "man",
+    "object": "cap",
+    "level": 4
+  },
+  {
+    "image_id": 2373655,
+    "question": "Based on the image, what is the relationship between surfer and rocks? Choose only from the options provided",
+    "answer": "standing",
+    "options": [
+      "hitting",
+      "avoiding",
+      "climbing"
+    ],
+    "subject": "surfer",
+    "object": "rocks",
+    "level": 4
+  },
+  {
+    "image_id": 2373429,
+    "question": "Based on the image, what is the relationship between man and platform? Choose only from the options provided",
+    "answer": "walking",
+    "options": [
+      "standing",
+      "jumping",
+      "sitting"
+    ],
+    "subject": "man",
+    "object": "platform",
+    "level": 4
+  },
+  {
+    "image_id": 2373429,
+    "question": "Based on the image, what is the relationship between man and jacket? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "removing"
+    ],
+    "subject": "man",
+    "object": "jacket",
+    "level": 4
+  },
+  {
+    "image_id": 2373429,
+    "question": "Based on the image, what is the relationship between man and hat? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "tipping",
+      "removing"
+    ],
+    "subject": "man",
+    "object": "hat",
+    "level": 4
+  },
+  {
+    "image_id": 2373112,
+    "question": "Based on the image, what is the relationship between horse and bridle? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "controlling",
+      "adjusting",
+      "fitting"
+    ],
+    "subject": "horse",
+    "object": "bridle",
+    "level": 4
+  },
+  {
+    "image_id": 2373112,
+    "question": "Based on the image, what is the relationship between glove and reign? Choose only from the options provided",
+    "answer": "holding",
+    "options": [
+      "grasping",
+      "gripping",
+      "clutching"
+    ],
+    "subject": "glove",
+    "object": "reign",
+    "level": 4
+  },
+  {
+    "image_id": 2373112,
+    "question": "Based on the image, what is the relationship between man and cap? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "removing",
+      "throwing",
+      "adjusting"
+    ],
+    "subject": "man",
+    "object": "cap",
+    "level": 4
+  },
+  {
+    "image_id": 2372215,
+    "question": "Based on the image, what is the relationship between boy and pants? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "pulling",
+      "tugging",
+      "removing"
+    ],
+    "subject": "boy",
+    "object": "pants",
+    "level": 4
+  },
+  {
+    "image_id": 2372215,
+    "question": "Based on the image, what is the relationship between child and baseball? Choose only from the options provided",
+    "answer": "laying",
+    "options": [
+      "playing",
+      "watching",
+      "throwing"
+    ],
+    "subject": "child",
+    "object": "baseball",
+    "level": 4
+  },
+  {
+    "image_id": 2372215,
+    "question": "Based on the image, what is the relationship between player and dirt? Choose only from the options provided",
+    "answer": "standing",
+    "options": [
+      "kicking",
+      "digging",
+      "throwing"
+    ],
+    "subject": "player",
+    "object": "dirt",
+    "level": 4
+  },
+  {
+    "image_id": 2372100,
+    "question": "Based on the image, what is the relationship between black tire and bears? Choose only from the options provided",
+    "answer": "hanging",
+    "options": [
+      "rolling",
+      "leaning",
+      "touching"
+    ],
+    "subject": "black tire",
+    "object": "bears",
+    "level": 4
+  },
+  {
+    "image_id": 2372100,
+    "question": "Based on the image, what is the relationship between metal chain and platform? Choose only from the options provided",
+    "answer": "supporting",
+    "options": [
+      "connecting",
+      "securing",
+      "lifting"
+    ],
+    "subject": "metal chain",
+    "object": "platform",
+    "level": 4
+  },
+  {
+    "image_id": 2372100,
+    "question": "Based on the image, what is the relationship between two bears and ground? Choose only from the options provided",
+    "answer": "laying",
+    "options": [
+      "digging",
+      "rolling",
+      "walking"
+    ],
+    "subject": "two bears",
+    "object": "ground",
+    "level": 4
+  },
+  {
+    "image_id": 2372035,
+    "question": "Based on the image, what is the relationship between child and sandal? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "kicking",
+      "throwing",
+      "tying"
+    ],
+    "subject": "child",
+    "object": "sandal",
+    "level": 4
+  },
+  {
+    "image_id": 2371976,
+    "question": "Based on the image, what is the relationship between person and horse? Choose only from the options provided",
+    "answer": "riding",
+    "options": [
+      "feeding",
+      "grooming",
+      "training"
+    ],
+    "subject": "person",
+    "object": "horse",
+    "level": 4
+  },
+  {
+    "image_id": 2371261,
+    "question": "Based on the image, what is the relationship between horses and buggy? Choose only from the options provided",
+    "answer": "pulling",
+    "options": [
+      "driving",
+      "riding",
+      "leading"
+    ],
+    "subject": "horses",
+    "object": "buggy",
+    "level": 4
+  },
+  {
+    "image_id": 2371261,
+    "question": "Based on the image, what is the relationship between horses and hat? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "riding",
+      "avoiding",
+      "smelling"
+    ],
+    "subject": "horses",
+    "object": "hat",
+    "level": 4
+  },
+  {
+    "image_id": 2370859,
+    "question": "Based on the image, what is the relationship between keyboard and hand? Choose only from the options provided",
+    "answer": "touching",
+    "options": [
+      "using",
+      "pressing",
+      "typing"
+    ],
+    "subject": "keyboard",
+    "object": "hand",
+    "level": 4
+  },
+  {
+    "image_id": 2369947,
+    "question": "Based on the image, what is the relationship between weeds and plant? Choose only from the options provided",
+    "answer": "growing",
+    "options": [
+      "competing",
+      "choking",
+      "removing"
+    ],
+    "subject": "weeds",
+    "object": "plant",
+    "level": 4
+  },
+  {
+    "image_id": 2369947,
+    "question": "Based on the image, what is the relationship between brocolli and garden? Choose only from the options provided",
+    "answer": "growing",
+    "options": [
+      "planting",
+      "harvesting",
+      "tending"
+    ],
+    "subject": "brocolli",
+    "object": "garden",
+    "level": 4
+  },
+  {
+    "image_id": 2368820,
+    "question": "Based on the image, what is the relationship between boulder and wall? Choose only from the options provided",
+    "answer": "supporting",
+    "options": [
+      "hitting",
+      "leaning",
+      "blocking"
+    ],
+    "subject": "boulder",
+    "object": "wall",
+    "level": 4
+  },
+  {
+    "image_id": 2368384,
+    "question": "Based on the image, what is the relationship between car and street? Choose only from the options provided",
+    "answer": "driving",
+    "options": [
+      "parking",
+      "crossing",
+      "turning"
+    ],
+    "subject": "car",
+    "object": "street",
+    "level": 4
+  },
+  {
+    "image_id": 2368384,
+    "question": "Based on the image, what is the relationship between person and sidewalk? Choose only from the options provided",
+    "answer": "walking",
+    "options": [
+      "standing",
+      "crossing",
+      "sitting"
+    ],
+    "subject": "person",
+    "object": "sidewalk",
+    "level": 4
+  },
+  {
+    "image_id": 2367231,
+    "question": "Based on the image, what is the relationship between hands and cake? Choose only from the options provided",
+    "answer": "cutting",
+    "options": [
+      "holding",
+      "mixing",
+      "icing"
+    ],
+    "subject": "hands",
+    "object": "cake",
+    "level": 4
+  },
+  {
+    "image_id": 2367231,
+    "question": "Based on the image, what is the relationship between lady and wedding dress? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "choosing",
+      "trying",
+      "admiring"
+    ],
+    "subject": "lady",
+    "object": "wedding dress",
+    "level": 4
+  },
+  {
+    "image_id": 2366845,
+    "question": "Based on the image, what is the relationship between man and gate? Choose only from the options provided",
+    "answer": "opening",
+    "options": [
+      "guarding",
+      "entering",
+      "locking"
+    ],
+    "subject": "man",
+    "object": "gate",
+    "level": 4
+  },
+  {
+    "image_id": 2366380,
+    "question": "Based on the image, what is the relationship between man and shirt? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "washing",
+      "folding"
+    ],
+    "subject": "man",
+    "object": "shirt",
+    "level": 4
+  },
+  {
+    "image_id": 2366380,
+    "question": "Based on the image, what is the relationship between man and camera? Choose only from the options provided",
+    "answer": "holding",
+    "options": [
+      "using",
+      "pointing",
+      "carrying"
+    ],
+    "subject": "man",
+    "object": "camera",
+    "level": 4
+  },
+  {
+    "image_id": 2366380,
+    "question": "Based on the image, what is the relationship between man and sunglasses? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "adjusting"
+    ],
+    "subject": "man",
+    "object": "sunglasses",
+    "level": 4
+  },
+  {
+    "image_id": 2366380,
+    "question": "Based on the image, what is the relationship between man and watch? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "repairing",
+      "checking"
+    ],
+    "subject": "man",
+    "object": "watch",
+    "level": 4
+  },
+  {
+    "image_id": 2366121,
+    "question": "Based on the image, what is the relationship between bird and up? Choose only from the options provided",
+    "answer": "looking",
+    "options": [
+      "flying",
+      "soaring",
+      "perching"
+    ],
+    "subject": "bird",
+    "object": "up",
+    "level": 4
+  },
+  {
+    "image_id": 2366121,
+    "question": "Based on the image, what is the relationship between bird and around? Choose only from the options provided",
+    "answer": "walking",
+    "options": [
+      "flying",
+      "circling",
+      "perching"
+    ],
+    "subject": "bird",
+    "object": "around",
+    "level": 4
+  },
+  {
+    "image_id": 2365542,
+    "question": "Based on the image, what is the relationship between man and snowpants? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "removing"
+    ],
+    "subject": "man",
+    "object": "snowpants",
+    "level": 4
+  },
+  {
+    "image_id": 2365542,
+    "question": "Based on the image, what is the relationship between he and goggles? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "adjusting",
+      "removing",
+      "holding"
+    ],
+    "subject": "he",
+    "object": "goggles",
+    "level": 4
+  },
+  {
+    "image_id": 2364730,
+    "question": "Based on the image, what is the relationship between man and shirt? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "washing",
+      "folding"
+    ],
+    "subject": "man",
+    "object": "shirt",
+    "level": 4
+  },
+  {
+    "image_id": 2364730,
+    "question": "Based on the image, what is the relationship between man and shorts? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "folding"
+    ],
+    "subject": "man",
+    "object": "shorts",
+    "level": 4
+  },
+  {
+    "image_id": 2364305,
+    "question": "Based on the image, what is the relationship between man and shirt? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "washing",
+      "ironing"
+    ],
+    "subject": "man",
+    "object": "shirt",
+    "level": 4
+  },
+  {
+    "image_id": 2363354,
+    "question": "Based on the image, what is the relationship between girl and shirt? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "folding"
+    ],
+    "subject": "girl",
+    "object": "shirt",
+    "level": 4
+  },
+  {
+    "image_id": 2363354,
+    "question": "Based on the image, what is the relationship between man and glasses? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "adjusting",
+      "cleaning",
+      "dropping"
+    ],
+    "subject": "man",
+    "object": "glasses",
+    "level": 4
+  },
+  {
+    "image_id": 2363315,
+    "question": "Based on the image, what is the relationship between man and chaps? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "talking",
+      "greeting",
+      "laughing"
+    ],
+    "subject": "man",
+    "object": "chaps",
+    "level": 4
+  },
+  {
+    "image_id": 2361591,
+    "question": "Based on the image, what is the relationship between elephant and road? Choose only from the options provided",
+    "answer": "walking",
+    "options": [
+      "crossing",
+      "blocking",
+      "approaching"
+    ],
+    "subject": "elephant",
+    "object": "road",
+    "level": 4
+  },
+  {
+    "image_id": 2360278,
+    "question": "Based on the image, what is the relationship between ski-jumping man and jump? Choose only from the options provided",
+    "answer": "doing",
+    "options": [
+      "performing",
+      "attempting",
+      "practicing"
+    ],
+    "subject": "ski-jumping man",
+    "object": "jump",
+    "level": 4
+  },
+  {
+    "image_id": 2357883,
+    "question": "Based on the image, what is the relationship between man and suit? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "tailoring"
+    ],
+    "subject": "man",
+    "object": "suit",
+    "level": 4
+  },
+  {
+    "image_id": 2357883,
+    "question": "Based on the image, what is the relationship between man and tie? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "tying",
+      "adjusting",
+      "removing"
+    ],
+    "subject": "man",
+    "object": "tie",
+    "level": 4
+  },
+  {
+    "image_id": 2357883,
+    "question": "Based on the image, what is the relationship between man and pants? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "removing"
+    ],
+    "subject": "man",
+    "object": "pants",
+    "level": 4
+  },
+  {
+    "image_id": 2357581,
+    "question": "Based on the image, what is the relationship between boys and ground? Choose only from the options provided",
+    "answer": "laying",
+    "options": [
+      "playing",
+      "sitting",
+      "running"
+    ],
+    "subject": "boys",
+    "object": "ground",
+    "level": 4
+  },
+  {
+    "image_id": 2357581,
+    "question": "Based on the image, what is the relationship between boy and helmet? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "carrying",
+      "adjusting",
+      "removing"
+    ],
+    "subject": "boy",
+    "object": "helmet",
+    "level": 4
+  },
+  {
+    "image_id": 2357328,
+    "question": "Based on the image, what is the relationship between boy and bat? Choose only from the options provided",
+    "answer": "holding",
+    "options": [
+      "playing",
+      "throwing",
+      "catching"
+    ],
+    "subject": "boy",
+    "object": "bat",
+    "level": 4
+  },
+  {
+    "image_id": 2357328,
+    "question": "Based on the image, what is the relationship between boy and person? Choose only from the options provided",
+    "answer": "standing",
+    "options": [
+      "talking",
+      "playing",
+      "watching"
+    ],
+    "subject": "boy",
+    "object": "person",
+    "level": 4
+  },
+  {
+    "image_id": 2357328,
+    "question": "Based on the image, what is the relationship between boy and ball? Choose only from the options provided",
+    "answer": "hitting",
+    "options": [
+      "throwing",
+      "kicking",
+      "catching"
+    ],
+    "subject": "boy",
+    "object": "ball",
+    "level": 4
+  },
+  {
+    "image_id": 2357191,
+    "question": "Based on the image, what is the relationship between man and dog? Choose only from the options provided",
+    "answer": "holding",
+    "options": [
+      "walking",
+      "petting",
+      "feeding"
+    ],
+    "subject": "man",
+    "object": "dog",
+    "level": 4
+  },
+  {
+    "image_id": 2357074,
+    "question": "Based on the image, what is the relationship between man and shirt? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "folding",
+      "ironing"
+    ],
+    "subject": "man",
+    "object": "shirt",
+    "level": 4
+  },
+  {
+    "image_id": 2357074,
+    "question": "Based on the image, what is the relationship between man and glasses? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "adjusting",
+      "cleaning",
+      "dropping"
+    ],
+    "subject": "man",
+    "object": "glasses",
+    "level": 4
+  },
+  {
+    "image_id": 2356369,
+    "question": "Based on the image, what is the relationship between picture and display? Choose only from the options provided",
+    "answer": "hanging",
+    "options": [
+      "showing",
+      "featuring",
+      "presenting"
+    ],
+    "subject": "picture",
+    "object": "display",
+    "level": 4
+  },
+  {
+    "image_id": 2355592,
+    "question": "Based on the image, what is the relationship between hand and slice? Choose only from the options provided",
+    "answer": "grabbing",
+    "options": [
+      "cutting",
+      "holding",
+      "using"
+    ],
+    "subject": "hand",
+    "object": "slice",
+    "level": 4
+  },
+  {
+    "image_id": 2355558,
+    "question": "Based on the image, what is the relationship between man and wooden surface? Choose only from the options provided",
+    "answer": "holding",
+    "options": [
+      "carving",
+      "sitting",
+      "leaning"
+    ],
+    "subject": "man",
+    "object": "wooden surface",
+    "level": 4
+  },
+  {
+    "image_id": 2355237,
+    "question": "Based on the image, what is the relationship between man and beer can? Choose only from the options provided",
+    "answer": "holding",
+    "options": [
+      "drinking",
+      "opening",
+      "crushing"
+    ],
+    "subject": "man",
+    "object": "beer can",
+    "level": 4
+  },
+  {
+    "image_id": 2355237,
+    "question": "Based on the image, what is the relationship between man and cellphone? Choose only from the options provided",
+    "answer": "talking",
+    "options": [
+      "using",
+      "looking",
+      "typing"
+    ],
+    "subject": "man",
+    "object": "cellphone",
+    "level": 4
+  },
+  {
+    "image_id": 2355237,
+    "question": "Based on the image, what is the relationship between woman and chair? Choose only from the options provided",
+    "answer": "sitting",
+    "options": [
+      "lifting",
+      "leaning",
+      "pushing"
+    ],
+    "subject": "woman",
+    "object": "chair",
+    "level": 4
+  },
+  {
+    "image_id": 2354914,
+    "question": "Based on the image, what is the relationship between person and trench coat? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "removing",
+      "buttoning"
+    ],
+    "subject": "person",
+    "object": "trench coat",
+    "level": 4
+  },
+  {
+    "image_id": 2354213,
+    "question": "Based on the image, what is the relationship between man and folder? Choose only from the options provided",
+    "answer": "holding",
+    "options": [
+      "opening",
+      "closing",
+      "organizing"
+    ],
+    "subject": "man",
+    "object": "folder",
+    "level": 4
+  },
+  {
+    "image_id": 2354213,
+    "question": "Based on the image, what is the relationship between plants and building? Choose only from the options provided",
+    "answer": "growing",
+    "options": [
+      "covering",
+      "surrounding",
+      "shading"
+    ],
+    "subject": "plants",
+    "object": "building",
+    "level": 4
+  },
+  {
+    "image_id": 2354213,
+    "question": "Based on the image, what is the relationship between man and street? Choose only from the options provided",
+    "answer": "walking",
+    "options": [
+      "crossing",
+      "standing",
+      "running"
+    ],
+    "subject": "man",
+    "object": "street",
+    "level": 4
+  },
+  {
+    "image_id": 2354213,
+    "question": "Based on the image, what is the relationship between man and folder? Choose only from the options provided",
+    "answer": "carrying",
+    "options": [
+      "opening",
+      "organizing",
+      "placing"
+    ],
+    "subject": "man",
+    "object": "folder",
+    "level": 4
+  },
+  {
+    "image_id": 2353930,
+    "question": "Based on the image, what is the relationship between horse and shadow? Choose only from the options provided",
+    "answer": "casting",
+    "options": [
+      "chasing",
+      "following",
+      "hiding"
+    ],
+    "subject": "horse",
+    "object": "shadow",
+    "level": 4
+  },
+  {
+    "image_id": 2353203,
+    "question": "Based on the image, what is the relationship between catcher and face mask? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "adjusting",
+      "removing",
+      "securing"
+    ],
+    "subject": "catcher",
+    "object": "face mask",
+    "level": 4
+  },
+  {
+    "image_id": 2353093,
+    "question": "Based on the image, what is the relationship between man and train? Choose only from the options provided",
+    "answer": "fixing",
+    "options": [
+      "driving",
+      "boarding",
+      "waiting"
+    ],
+    "subject": "man",
+    "object": "train",
+    "level": 4
+  },
+  {
+    "image_id": 2353093,
+    "question": "Based on the image, what is the relationship between man and train? Choose only from the options provided",
+    "answer": "working",
+    "options": [
+      "boarding",
+      "driving",
+      "waiting"
+    ],
+    "subject": "man",
+    "object": "train",
+    "level": 4
+  },
+  {
+    "image_id": 2352573,
+    "question": "Based on the image, what is the relationship between woman and surfboard? Choose only from the options provided",
+    "answer": "holding",
+    "options": [
+      "riding",
+      "balancing",
+      "carrying"
+    ],
+    "subject": "woman",
+    "object": "surfboard",
+    "level": 4
+  },
+  {
+    "image_id": 2352573,
+    "question": "Based on the image, what is the relationship between woman and denim shorts? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "modeling"
+    ],
+    "subject": "woman",
+    "object": "denim shorts",
+    "level": 4
+  },
+  {
+    "image_id": 2352521,
+    "question": "Based on the image, what is the relationship between man and shirt? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "folding",
+      "ironing"
+    ],
+    "subject": "man",
+    "object": "shirt",
+    "level": 4
+  },
+  {
+    "image_id": 2352042,
+    "question": "Based on the image, what is the relationship between lady and glasses? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "adjusting",
+      "cleaning",
+      "removing"
+    ],
+    "subject": "lady",
+    "object": "glasses",
+    "level": 4
+  },
+  {
+    "image_id": 2352042,
+    "question": "Based on the image, what is the relationship between lady and menu? Choose only from the options provided",
+    "answer": "looking",
+    "options": [
+      "choosing",
+      "studying",
+      "ordering"
+    ],
+    "subject": "lady",
+    "object": "menu",
+    "level": 4
+  },
+  {
+    "image_id": 2352001,
+    "question": "Based on the image, what is the relationship between woman and shorts? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "folding"
+    ],
+    "subject": "woman",
+    "object": "shorts",
+    "level": 4
+  },
+  {
+    "image_id": 2352001,
+    "question": "Based on the image, what is the relationship between woman and top? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "reaching",
+      "lifting",
+      "pushing"
+    ],
+    "subject": "woman",
+    "object": "top",
+    "level": 4
+  },
+  {
+    "image_id": 2352001,
+    "question": "Based on the image, what is the relationship between woman and tube? Choose only from the options provided",
+    "answer": "carrying",
+    "options": [
+      "using",
+      "holding",
+      "inserting"
+    ],
+    "subject": "woman",
+    "object": "tube",
+    "level": 4
+  },
+  {
+    "image_id": 2351767,
+    "question": "Based on the image, what is the relationship between man and shirt? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "folding",
+      "ironing"
+    ],
+    "subject": "man",
+    "object": "shirt",
+    "level": 4
+  },
+  {
+    "image_id": 2351398,
+    "question": "Based on the image, what is the relationship between person and pants? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "removing"
+    ],
+    "subject": "person",
+    "object": "pants",
+    "level": 4
+  },
+  {
+    "image_id": 2350489,
+    "question": "Based on the image, what is the relationship between man and paper stack? Choose only from the options provided",
+    "answer": "carrying",
+    "options": [
+      "lifting",
+      "reading",
+      "sorting"
+    ],
+    "subject": "man",
+    "object": "paper stack",
+    "level": 4
+  },
+  {
+    "image_id": 2350489,
+    "question": "Based on the image, what is the relationship between man and road? Choose only from the options provided",
+    "answer": "standing",
+    "options": [
+      "walking",
+      "crossing",
+      "driving"
+    ],
+    "subject": "man",
+    "object": "road",
+    "level": 4
+  },
+  {
+    "image_id": 2350489,
+    "question": "Based on the image, what is the relationship between man and papers? Choose only from the options provided",
+    "answer": "carrying",
+    "options": [
+      "reading",
+      "writing",
+      "signing"
+    ],
+    "subject": "man",
+    "object": "papers",
+    "level": 4
+  },
+  {
+    "image_id": 2350489,
+    "question": "Based on the image, what is the relationship between man and vest? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "removing"
+    ],
+    "subject": "man",
+    "object": "vest",
+    "level": 4
+  },
+  {
+    "image_id": 2350489,
+    "question": "Based on the image, what is the relationship between person and pants? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "removing"
+    ],
+    "subject": "person",
+    "object": "pants",
+    "level": 4
+  },
+  {
+    "image_id": 2349436,
+    "question": "Based on the image, what is the relationship between man and watch? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "repairing",
+      "admiring"
+    ],
+    "subject": "man",
+    "object": "watch",
+    "level": 4
+  },
+  {
+    "image_id": 2349436,
+    "question": "Based on the image, what is the relationship between man and glasses? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "adjusting",
+      "cleaning",
+      "dropping"
+    ],
+    "subject": "man",
+    "object": "glasses",
+    "level": 4
+  },
+  {
+    "image_id": 2348925,
+    "question": "Based on the image, what is the relationship between surfer and surfboard? Choose only from the options provided",
+    "answer": "riding",
+    "options": [
+      "holding",
+      "carrying",
+      "waxing"
+    ],
+    "subject": "surfer",
+    "object": "surfboard",
+    "level": 4
+  },
+  {
+    "image_id": 2348732,
+    "question": "Based on the image, what is the relationship between man and surfboard? Choose only from the options provided",
+    "answer": "carrying",
+    "options": [
+      "riding",
+      "standing",
+      "paddling"
+    ],
+    "subject": "man",
+    "object": "surfboard",
+    "level": 4
+  },
+  {
+    "image_id": 2348525,
+    "question": "Based on the image, what is the relationship between man and suit? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "tailoring"
+    ],
+    "subject": "man",
+    "object": "suit",
+    "level": 4
+  },
+  {
+    "image_id": 2348525,
+    "question": "Based on the image, what is the relationship between man and tie? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "tying",
+      "adjusting",
+      "removing"
+    ],
+    "subject": "man",
+    "object": "tie",
+    "level": 4
+  },
+  {
+    "image_id": 2348508,
+    "question": "Based on the image, what is the relationship between man and plane? Choose only from the options provided",
+    "answer": "standing",
+    "options": [
+      "flying",
+      "piloting",
+      "boarding"
+    ],
+    "subject": "man",
+    "object": "plane",
+    "level": 4
+  },
+  {
+    "image_id": 2348430,
+    "question": "Based on the image, what is the relationship between man and shirt? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "washing",
+      "folding"
+    ],
+    "subject": "man",
+    "object": "shirt",
+    "level": 4
+  },
+  {
+    "image_id": 2348430,
+    "question": "Based on the image, what is the relationship between everyone and racquets? Choose only from the options provided",
+    "answer": "holding",
+    "options": [
+      "playing",
+      "swinging",
+      "using"
+    ],
+    "subject": "everyone",
+    "object": "racquets",
+    "level": 4
+  },
+  {
+    "image_id": 2348430,
+    "question": "Based on the image, what is the relationship between woman and shirt? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "folding",
+      "ironing"
+    ],
+    "subject": "woman",
+    "object": "shirt",
+    "level": 4
+  },
+  {
+    "image_id": 2348420,
+    "question": "Based on the image, what is the relationship between lady and shirt? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "removing"
+    ],
+    "subject": "lady",
+    "object": "shirt",
+    "level": 4
+  },
+  {
+    "image_id": 2348420,
+    "question": "Based on the image, what is the relationship between man and shorts? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "folding"
+    ],
+    "subject": "man",
+    "object": "shorts",
+    "level": 4
+  },
+  {
+    "image_id": 2347350,
+    "question": "Based on the image, what is the relationship between twig and window? Choose only from the options provided",
+    "answer": "blocking",
+    "options": [
+      "covering",
+      "touching",
+      "hitting"
+    ],
+    "subject": "twig",
+    "object": "window",
+    "level": 4
+  },
+  {
+    "image_id": 2347350,
+    "question": "Based on the image, what is the relationship between twig and clock? Choose only from the options provided",
+    "answer": "blocking",
+    "options": [
+      "measuring",
+      "adjusting",
+      "winding"
+    ],
+    "subject": "twig",
+    "object": "clock",
+    "level": 4
+  },
+  {
+    "image_id": 2346161,
+    "question": "Based on the image, what is the relationship between rider and motorbike? Choose only from the options provided",
+    "answer": "jumping",
+    "options": [
+      "riding",
+      "repairing",
+      "starting"
+    ],
+    "subject": "rider",
+    "object": "motorbike",
+    "level": 4
+  },
+  {
+    "image_id": 2346161,
+    "question": "Based on the image, what is the relationship between man and bike? Choose only from the options provided",
+    "answer": "racing",
+    "options": [
+      "riding",
+      "fixing",
+      "pushing"
+    ],
+    "subject": "man",
+    "object": "bike",
+    "level": 4
+  },
+  {
+    "image_id": 2344531,
+    "question": "Based on the image, what is the relationship between man and tie? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "tying",
+      "adjusting",
+      "removing"
+    ],
+    "subject": "man",
+    "object": "tie",
+    "level": 4
+  },
+  {
+    "image_id": 2344531,
+    "question": "Based on the image, what is the relationship between man and holster? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "drawing",
+      "securing",
+      "removing"
+    ],
+    "subject": "man",
+    "object": "holster",
+    "level": 4
+  },
+  {
+    "image_id": 2344531,
+    "question": "Based on the image, what is the relationship between man and shirt? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "folding",
+      "ironing"
+    ],
+    "subject": "man",
+    "object": "shirt",
+    "level": 4
+  },
+  {
+    "image_id": 2344531,
+    "question": "Based on the image, what is the relationship between man and belt? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "fastening",
+      "tightening",
+      "removing"
+    ],
+    "subject": "man",
+    "object": "belt",
+    "level": 4
+  },
+  {
+    "image_id": 2343204,
+    "question": "Based on the image, what is the relationship between guy and jeans? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "washing"
+    ],
+    "subject": "guy",
+    "object": "jeans",
+    "level": 4
+  },
+  {
+    "image_id": 2341501,
+    "question": "Based on the image, what is the relationship between man and pants? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "removing"
+    ],
+    "subject": "man",
+    "object": "pants",
+    "level": 4
+  },
+  {
+    "image_id": 2341501,
+    "question": "Based on the image, what is the relationship between man and cap? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "holding",
+      "adjusting",
+      "removing"
+    ],
+    "subject": "man",
+    "object": "cap",
+    "level": 4
+  },
+  {
+    "image_id": 2341491,
+    "question": "Based on the image, what is the relationship between woman and hat? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "adjusting"
+    ],
+    "subject": "woman",
+    "object": "hat",
+    "level": 4
+  },
+  {
+    "image_id": 2341491,
+    "question": "Based on the image, what is the relationship between person and horse? Choose only from the options provided",
+    "answer": "riding",
+    "options": [
+      "feeding",
+      "grooming",
+      "training"
+    ],
+    "subject": "person",
+    "object": "horse",
+    "level": 4
+  },
+  {
+    "image_id": 2341491,
+    "question": "Based on the image, what is the relationship between woman and riding boot? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "removing"
+    ],
+    "subject": "woman",
+    "object": "riding boot",
+    "level": 4
+  },
+  {
+    "image_id": 2341491,
+    "question": "Based on the image, what is the relationship between woman and horse? Choose only from the options provided",
+    "answer": "riding",
+    "options": [
+      "grooming",
+      "feeding",
+      "leading"
+    ],
+    "subject": "woman",
+    "object": "horse",
+    "level": 4
+  },
+  {
+    "image_id": 2341266,
+    "question": "Based on the image, what is the relationship between hand and cell phone? Choose only from the options provided",
+    "answer": "holding",
+    "options": [
+      "using",
+      "dialing",
+      "dropping"
+    ],
+    "subject": "hand",
+    "object": "cell phone",
+    "level": 4
+  },
+  {
+    "image_id": 2341266,
+    "question": "Based on the image, what is the relationship between he and jeans? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "washing"
+    ],
+    "subject": "he",
+    "object": "jeans",
+    "level": 4
+  },
+  {
+    "image_id": 2340930,
+    "question": "Based on the image, what is the relationship between giraffe and water? Choose only from the options provided",
+    "answer": "drinking",
+    "options": [
+      "bathing",
+      "crossing",
+      "approaching"
+    ],
+    "subject": "giraffe",
+    "object": "water",
+    "level": 4
+  },
+  {
+    "image_id": 2340930,
+    "question": "Based on the image, what is the relationship between giraffe and lake edge? Choose only from the options provided",
+    "answer": "drinking",
+    "options": [
+      "observing",
+      "approaching",
+      "grazing"
+    ],
+    "subject": "giraffe",
+    "object": "lake edge",
+    "level": 4
+  },
+  {
+    "image_id": 2340211,
+    "question": "Based on the image, what is the relationship between guy and laptop? Choose only from the options provided",
+    "answer": "using",
+    "options": [
+      "buying",
+      "fixing",
+      "carrying"
+    ],
+    "subject": "guy",
+    "object": "laptop",
+    "level": 4
+  },
+  {
+    "image_id": 2340174,
+    "question": "Based on the image, what is the relationship between man and pants? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "removing"
+    ],
+    "subject": "man",
+    "object": "pants",
+    "level": 4
+  },
+  {
+    "image_id": 2340174,
+    "question": "Based on the image, what is the relationship between man and shirt? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "washing",
+      "folding"
+    ],
+    "subject": "man",
+    "object": "shirt",
+    "level": 4
+  },
+  {
+    "image_id": 2339949,
+    "question": "Based on the image, what is the relationship between sunlight and tree? Choose only from the options provided",
+    "answer": "shining",
+    "options": [
+      "filtering",
+      "absorbing",
+      "blocking"
+    ],
+    "subject": "sunlight",
+    "object": "tree",
+    "level": 4
+  },
+  {
+    "image_id": 2339949,
+    "question": "Based on the image, what is the relationship between snow and tree? Choose only from the options provided",
+    "answer": "covering",
+    "options": [
+      "falling",
+      "resting",
+      "touching"
+    ],
+    "subject": "snow",
+    "object": "tree",
+    "level": 4
+  },
+  {
+    "image_id": 2339949,
+    "question": "Based on the image, what is the relationship between guy and jacket? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "removing"
+    ],
+    "subject": "guy",
+    "object": "jacket",
+    "level": 4
+  },
+  {
+    "image_id": 2339532,
+    "question": "Based on the image, what is the relationship between hand and liquid? Choose only from the options provided",
+    "answer": "holding",
+    "options": [
+      "pouring",
+      "washing",
+      "touching"
+    ],
+    "subject": "hand",
+    "object": "liquid",
+    "level": 4
+  },
+  {
+    "image_id": 2339532,
+    "question": "Based on the image, what is the relationship between man and mask? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "removing",
+      "adjusting",
+      "buying"
+    ],
+    "subject": "man",
+    "object": "mask",
+    "level": 4
+  },
+  {
+    "image_id": 2339532,
+    "question": "Based on the image, what is the relationship between man and blazer? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "removing"
+    ],
+    "subject": "man",
+    "object": "blazer",
+    "level": 4
+  },
+  {
+    "image_id": 2339105,
+    "question": "Based on the image, what is the relationship between person and beach? Choose only from the options provided",
+    "answer": "standing",
+    "options": [
+      "walking",
+      "sitting",
+      "playing"
+    ],
+    "subject": "person",
+    "object": "beach",
+    "level": 4
+  },
+  {
+    "image_id": 2339105,
+    "question": "Based on the image, what is the relationship between man and surfboard? Choose only from the options provided",
+    "answer": "holding",
+    "options": [
+      "riding",
+      "carrying",
+      "balancing"
+    ],
+    "subject": "man",
+    "object": "surfboard",
+    "level": 4
+  },
+  {
+    "image_id": 2337188,
+    "question": "Based on the image, what is the relationship between man and hat? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "removing",
+      "adjusting"
+    ],
+    "subject": "man",
+    "object": "hat",
+    "level": 4
+  },
+  {
+    "image_id": 2337188,
+    "question": "Based on the image, what is the relationship between girl and dress? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "admiring"
+    ],
+    "subject": "girl",
+    "object": "dress",
+    "level": 4
+  },
+  {
+    "image_id": 2337188,
+    "question": "Based on the image, what is the relationship between girl and jumper? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "removing"
+    ],
+    "subject": "girl",
+    "object": "jumper",
+    "level": 4
+  },
+  {
+    "image_id": 2336588,
+    "question": "Based on the image, what is the relationship between man and sandal? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "making",
+      "throwing"
+    ],
+    "subject": "man",
+    "object": "sandal",
+    "level": 4
+  },
+  {
+    "image_id": 2336588,
+    "question": "Based on the image, what is the relationship between man and shirt? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "folding",
+      "ironing"
+    ],
+    "subject": "man",
+    "object": "shirt",
+    "level": 4
+  },
+  {
+    "image_id": 2336588,
+    "question": "Based on the image, what is the relationship between man and hat? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "removing",
+      "adjusting"
+    ],
+    "subject": "man",
+    "object": "hat",
+    "level": 4
+  },
+  {
+    "image_id": 2335371,
+    "question": "Based on the image, what is the relationship between child and shirt? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buttoning",
+      "pulling",
+      "tugging"
+    ],
+    "subject": "child",
+    "object": "shirt",
+    "level": 4
+  },
+  {
+    "image_id": 2335371,
+    "question": "Based on the image, what is the relationship between man and watch? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "checking",
+      "buying",
+      "repairing"
+    ],
+    "subject": "man",
+    "object": "watch",
+    "level": 4
+  },
+  {
+    "image_id": 2334761,
+    "question": "Based on the image, what is the relationship between man and jacket? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "removing"
+    ],
+    "subject": "man",
+    "object": "jacket",
+    "level": 4
+  },
+  {
+    "image_id": 2334748,
+    "question": "Based on the image, what is the relationship between person and surfboard? Choose only from the options provided",
+    "answer": "riding",
+    "options": [
+      "carrying",
+      "holding",
+      "balancing"
+    ],
+    "subject": "person",
+    "object": "surfboard",
+    "level": 4
+  },
+  {
+    "image_id": 2332604,
+    "question": "Based on the image, what is the relationship between people and beach? Choose only from the options provided",
+    "answer": "standing",
+    "options": [
+      "walking",
+      "playing",
+      "relaxing"
+    ],
+    "subject": "people",
+    "object": "beach",
+    "level": 4
+  },
+  {
+    "image_id": 2331694,
+    "question": "Based on the image, what is the relationship between boy and bat? Choose only from the options provided",
+    "answer": "holding",
+    "options": [
+      "swinging",
+      "hitting",
+      "throwing"
+    ],
+    "subject": "boy",
+    "object": "bat",
+    "level": 4
+  },
+  {
+    "image_id": 2331694,
+    "question": "Based on the image, what is the relationship between man and shirt? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "folding",
+      "ironing"
+    ],
+    "subject": "man",
+    "object": "shirt",
+    "level": 4
+  },
+  {
+    "image_id": 2331694,
+    "question": "Based on the image, what is the relationship between boy and shirt? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "removing"
+    ],
+    "subject": "boy",
+    "object": "shirt",
+    "level": 4
+  },
+  {
+    "image_id": 2331433,
+    "question": "Based on the image, what is the relationship between man and sidewalk? Choose only from the options provided",
+    "answer": "sitting",
+    "options": [
+      "walking",
+      "standing",
+      "crossing"
+    ],
+    "subject": "man",
+    "object": "sidewalk",
+    "level": 4
+  },
+  {
+    "image_id": 2331433,
+    "question": "Based on the image, what is the relationship between man and pants? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "removing"
+    ],
+    "subject": "man",
+    "object": "pants",
+    "level": 4
+  },
+  {
+    "image_id": 2330414,
+    "question": "Based on the image, what is the relationship between horse and obstacle? Choose only from the options provided",
+    "answer": "jumping",
+    "options": [
+      "clearing",
+      "avoiding",
+      "approaching"
+    ],
+    "subject": "horse",
+    "object": "obstacle",
+    "level": 4
+  },
+  {
+    "image_id": 2328693,
+    "question": "Based on the image, what is the relationship between guy and shirt? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "removing"
+    ],
+    "subject": "guy",
+    "object": "shirt",
+    "level": 4
+  },
+  {
+    "image_id": 2328693,
+    "question": "Based on the image, what is the relationship between guy and shorts? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "folding"
+    ],
+    "subject": "guy",
+    "object": "shorts",
+    "level": 4
+  },
+  {
+    "image_id": 2328693,
+    "question": "Based on the image, what is the relationship between frisbee and beach? Choose only from the options provided",
+    "answer": "laying",
+    "options": [
+      "throwing",
+      "playing",
+      "tossing"
+    ],
+    "subject": "frisbee",
+    "object": "beach",
+    "level": 4
+  },
+  {
+    "image_id": 2328227,
+    "question": "Based on the image, what is the relationship between train and tracks? Choose only from the options provided",
+    "answer": "moving",
+    "options": [
+      "running",
+      "following",
+      "crossing"
+    ],
+    "subject": "train",
+    "object": "tracks",
+    "level": 4
+  },
+  {
+    "image_id": 2328227,
+    "question": "Based on the image, what is the relationship between train engine and train cars? Choose only from the options provided",
+    "answer": "pulling",
+    "options": [
+      "driving",
+      "connecting",
+      "pushing"
+    ],
+    "subject": "train engine",
+    "object": "train cars",
+    "level": 4
+  },
+  {
+    "image_id": 2326992,
+    "question": "Based on the image, what is the relationship between woman and shoes? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "admiring"
+    ],
+    "subject": "woman",
+    "object": "shoes",
+    "level": 4
+  },
+  {
+    "image_id": 2326992,
+    "question": "Based on the image, what is the relationship between man and shirt? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "washing",
+      "folding"
+    ],
+    "subject": "man",
+    "object": "shirt",
+    "level": 4
+  },
+  {
+    "image_id": 2326663,
+    "question": "Based on the image, what is the relationship between batter and helmet? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "hitting",
+      "adjusting",
+      "removing"
+    ],
+    "subject": "batter",
+    "object": "helmet",
+    "level": 4
+  },
+  {
+    "image_id": 2326663,
+    "question": "Based on the image, what is the relationship between player and pants? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "pulling",
+      "tugging",
+      "removing"
+    ],
+    "subject": "player",
+    "object": "pants",
+    "level": 4
+  },
+  {
+    "image_id": 2326663,
+    "question": "Based on the image, what is the relationship between home plate and field? Choose only from the options provided",
+    "answer": "lying",
+    "options": [
+      "covering",
+      "crossing",
+      "approaching"
+    ],
+    "subject": "home plate",
+    "object": "field",
+    "level": 4
+  },
+  {
+    "image_id": 2325703,
+    "question": "Based on the image, what is the relationship between woman and necklaces? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "admiring",
+      "selecting",
+      "designing"
+    ],
+    "subject": "woman",
+    "object": "necklaces",
+    "level": 4
+  },
+  {
+    "image_id": 2325703,
+    "question": "Based on the image, what is the relationship between woman and glasses? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "adjusting",
+      "cleaning",
+      "removing"
+    ],
+    "subject": "woman",
+    "object": "glasses",
+    "level": 4
+  },
+  {
+    "image_id": 2325525,
+    "question": "Based on the image, what is the relationship between branch and tree? Choose only from the options provided",
+    "answer": "growing",
+    "options": [
+      "extending",
+      "supporting",
+      "connecting"
+    ],
+    "subject": "branch",
+    "object": "tree",
+    "level": 4
+  },
+  {
+    "image_id": 2324640,
+    "question": "Based on the image, what is the relationship between person and beach sand? Choose only from the options provided",
+    "answer": "sitting",
+    "options": [
+      "playing",
+      "digging",
+      "relaxing"
+    ],
+    "subject": "person",
+    "object": "beach sand",
+    "level": 4
+  },
+  {
+    "image_id": 2324640,
+    "question": "Based on the image, what is the relationship between person and sea water? Choose only from the options provided",
+    "answer": "swimming",
+    "options": [
+      "drinking",
+      "diving",
+      "floating"
+    ],
+    "subject": "person",
+    "object": "sea water",
+    "level": 4
+  },
+  {
+    "image_id": 2324598,
+    "question": "Based on the image, what is the relationship between batter and bat? Choose only from the options provided",
+    "answer": "swinging",
+    "options": [
+      "hitting",
+      "gripping",
+      "holding"
+    ],
+    "subject": "batter",
+    "object": "bat",
+    "level": 4
+  },
+  {
+    "image_id": 2324598,
+    "question": "Based on the image, what is the relationship between umpire and face mask? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "adjusting",
+      "removing",
+      "securing"
+    ],
+    "subject": "umpire",
+    "object": "face mask",
+    "level": 4
+  },
+  {
+    "image_id": 2324398,
+    "question": "Based on the image, what is the relationship between girl and spoon? Choose only from the options provided",
+    "answer": "licking",
+    "options": [
+      "holding",
+      "stirring",
+      "eating"
+    ],
+    "subject": "girl",
+    "object": "spoon",
+    "level": 4
+  },
+  {
+    "image_id": 2323703,
+    "question": "Based on the image, what is the relationship between curl and wave? Choose only from the options provided",
+    "answer": "crashing",
+    "options": [
+      "forming",
+      "creating",
+      "following"
+    ],
+    "subject": "curl",
+    "object": "wave",
+    "level": 4
+  },
+  {
+    "image_id": 2323698,
+    "question": "Based on the image, what is the relationship between boy and skateboard? Choose only from the options provided",
+    "answer": "riding",
+    "options": [
+      "pushing",
+      "jumping",
+      "holding"
+    ],
+    "subject": "boy",
+    "object": "skateboard",
+    "level": 4
+  },
+  {
+    "image_id": 2323698,
+    "question": "Based on the image, what is the relationship between skateboarder and shoes? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "tying",
+      "choosing"
+    ],
+    "subject": "skateboarder",
+    "object": "shoes",
+    "level": 4
+  },
+  {
+    "image_id": 2323695,
+    "question": "Based on the image, what is the relationship between person and bicycle? Choose only from the options provided",
+    "answer": "riding",
+    "options": [
+      "repairing",
+      "pushing",
+      "pedaling"
+    ],
+    "subject": "person",
+    "object": "bicycle",
+    "level": 4
+  },
+  {
+    "image_id": 2323282,
+    "question": "Based on the image, what is the relationship between players and hands? Choose only from the options provided",
+    "answer": "shaking",
+    "options": [
+      "raising",
+      "folding",
+      "holding"
+    ],
+    "subject": "players",
+    "object": "hands",
+    "level": 4
+  },
+  {
+    "image_id": 2322749,
+    "question": "Based on the image, what is the relationship between soap and soap dish? Choose only from the options provided",
+    "answer": "resting",
+    "options": [
+      "placing",
+      "fitting",
+      "holding"
+    ],
+    "subject": "soap",
+    "object": "soap dish",
+    "level": 4
+  },
+  {
+    "image_id": 2322749,
+    "question": "Based on the image, what is the relationship between picture and wall? Choose only from the options provided",
+    "answer": "hanging",
+    "options": [
+      "displaying",
+      "mounting",
+      "framing"
+    ],
+    "subject": "picture",
+    "object": "wall",
+    "level": 4
+  },
+  {
+    "image_id": 2322502,
+    "question": "Based on the image, what is the relationship between girl and horse? Choose only from the options provided",
+    "answer": "riding",
+    "options": [
+      "feeding",
+      "grooming",
+      "petting"
+    ],
+    "subject": "girl",
+    "object": "horse",
+    "level": 4
+  },
+  {
+    "image_id": 2322374,
+    "question": "Based on the image, what is the relationship between people and hill? Choose only from the options provided",
+    "answer": "standing",
+    "options": [
+      "climbing",
+      "descending",
+      "observing"
+    ],
+    "subject": "people",
+    "object": "hill",
+    "level": 4
+  },
+  {
+    "image_id": 2322374,
+    "question": "Based on the image, what is the relationship between person and hill? Choose only from the options provided",
+    "answer": "standing",
+    "options": [
+      "climbing",
+      "descending",
+      "observing"
+    ],
+    "subject": "person",
+    "object": "hill",
+    "level": 4
+  },
+  {
+    "image_id": 2321836,
+    "question": "Based on the image, what is the relationship between flag and balcony? Choose only from the options provided",
+    "answer": "lying",
+    "options": [
+      "waving",
+      "hanging",
+      "displaying"
+    ],
+    "subject": "flag",
+    "object": "balcony",
+    "level": 4
+  },
+  {
+    "image_id": 2321370,
+    "question": "Based on the image, what is the relationship between clock face and structure? Choose only from the options provided",
+    "answer": "hanging",
+    "options": [
+      "displaying",
+      "featuring",
+      "showing"
+    ],
+    "subject": "clock face",
+    "object": "structure",
+    "level": 4
+  },
+  {
+    "image_id": 2321370,
+    "question": "Based on the image, what is the relationship between structure and ceiling? Choose only from the options provided",
+    "answer": "hanging",
+    "options": [
+      "supports",
+      "covers",
+      "touches"
+    ],
+    "subject": "structure",
+    "object": "ceiling",
+    "level": 4
+  },
+  {
+    "image_id": 2320476,
+    "question": "Based on the image, what is the relationship between man and shirt? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "washing",
+      "ironing"
+    ],
+    "subject": "man",
+    "object": "shirt",
+    "level": 4
+  },
+  {
+    "image_id": 2320476,
+    "question": "Based on the image, what is the relationship between child and shirt? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buttoning",
+      "pulling",
+      "removing"
+    ],
+    "subject": "child",
+    "object": "shirt",
+    "level": 4
+  },
+  {
+    "image_id": 2319322,
+    "question": "Based on the image, what is the relationship between batter and shoe? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "tying",
+      "removing"
+    ],
+    "subject": "batter",
+    "object": "shoe",
+    "level": 4
+  },
+  {
+    "image_id": 2319322,
+    "question": "Based on the image, what is the relationship between catcher and mitt? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "throwing",
+      "holding",
+      "adjusting"
+    ],
+    "subject": "catcher",
+    "object": "mitt",
+    "level": 4
+  },
+  {
+    "image_id": 2319009,
+    "question": "Based on the image, what is the relationship between girl and tiara? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "admiring",
+      "adjusting",
+      "receiving"
+    ],
+    "subject": "girl",
+    "object": "tiara",
+    "level": 4
+  },
+  {
+    "image_id": 2319009,
+    "question": "Based on the image, what is the relationship between girl and bear? Choose only from the options provided",
+    "answer": "holding",
+    "options": [
+      "chasing",
+      "feeding",
+      "watching"
+    ],
+    "subject": "girl",
+    "object": "bear",
+    "level": 4
+  },
+  {
+    "image_id": 2318747,
+    "question": "Based on the image, what is the relationship between boy and frisbee? Choose only from the options provided",
+    "answer": "catching",
+    "options": [
+      "throwing",
+      "chasing",
+      "holding"
+    ],
+    "subject": "boy",
+    "object": "frisbee",
+    "level": 4
+  },
+  {
+    "image_id": 2318331,
+    "question": "Based on the image, what is the relationship between player and clothes? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "removing"
+    ],
+    "subject": "player",
+    "object": "clothes",
+    "level": 4
+  },
+  {
+    "image_id": 2317951,
+    "question": "Based on the image, what is the relationship between brown spots and bananas? Choose only from the options provided",
+    "answer": "covering",
+    "options": [
+      "appearing",
+      "forming",
+      "indicating"
+    ],
+    "subject": "brown spots",
+    "object": "bananas",
+    "level": 4
+  },
+  {
+    "image_id": 2317739,
+    "question": "Based on the image, what is the relationship between man and goggles? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "adjusting",
+      "removing",
+      "holding"
+    ],
+    "subject": "man",
+    "object": "goggles",
+    "level": 4
+  },
+  {
+    "image_id": 2317739,
+    "question": "Based on the image, what is the relationship between man and coat? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "removing"
+    ],
+    "subject": "man",
+    "object": "coat",
+    "level": 4
+  },
+  {
+    "image_id": 2317435,
+    "question": "Based on the image, what is the relationship between spoke and railing? Choose only from the options provided",
+    "answer": "supporting",
+    "options": [
+      "holding",
+      "leaning",
+      "touching"
+    ],
+    "subject": "spoke",
+    "object": "railing",
+    "level": 4
+  },
+  {
+    "image_id": 2317163,
+    "question": "Based on the image, what is the relationship between boy and hat? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "throwing",
+      "finding"
+    ],
+    "subject": "boy",
+    "object": "hat",
+    "level": 4
+  },
+  {
+    "image_id": 2317163,
+    "question": "Based on the image, what is the relationship between person and skateboard? Choose only from the options provided",
+    "answer": "doing",
+    "options": [
+      "riding",
+      "pushing",
+      "holding"
+    ],
+    "subject": "person",
+    "object": "skateboard",
+    "level": 4
+  },
+  {
+    "image_id": 2317030,
+    "question": "Based on the image, what is the relationship between boy and kite? Choose only from the options provided",
+    "answer": "holding",
+    "options": [
+      "flying",
+      "chasing",
+      "watching"
+    ],
+    "subject": "boy",
+    "object": "kite",
+    "level": 4
+  },
+  {
+    "image_id": 2317030,
+    "question": "Based on the image, what is the relationship between man and kite? Choose only from the options provided",
+    "answer": "holding",
+    "options": [
+      "flying",
+      "launching",
+      "watching"
+    ],
+    "subject": "man",
+    "object": "kite",
+    "level": 4
+  },
+  {
+    "image_id": 2414679,
+    "question": "Based on the image, what is the relationship between surfer and shirt? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "washing",
+      "removing"
+    ],
+    "subject": "surfer",
+    "object": "shirt",
+    "level": 4
+  },
+  {
+    "image_id": 2416037,
+    "question": "Based on the image, what is the relationship between thin wires and poles? Choose only from the options provided",
+    "answer": "crossing",
+    "options": [
+      "connecting",
+      "supporting",
+      "wrapping"
+    ],
+    "subject": "thin wires",
+    "object": "poles",
+    "level": 4
+  },
+  {
+    "image_id": 2416037,
+    "question": "Based on the image, what is the relationship between street lamp and wires? Choose only from the options provided",
+    "answer": "hanging",
+    "options": [
+      "connecting",
+      "supporting",
+      "powering"
+    ],
+    "subject": "street lamp",
+    "object": "wires",
+    "level": 4
+  },
+  {
+    "image_id": 2416037,
+    "question": "Based on the image, what is the relationship between green light and right arrow? Choose only from the options provided",
+    "answer": "illuminating",
+    "options": [
+      "activating",
+      "signaling",
+      "indicating"
+    ],
+    "subject": "green light",
+    "object": "right arrow",
+    "level": 4
+  },
+  {
+    "image_id": 2416037,
+    "question": "Based on the image, what is the relationship between traffic light and white bicycles? Choose only from the options provided",
+    "answer": "showing",
+    "options": [
+      "controlling",
+      "signaling",
+      "passing"
+    ],
+    "subject": "traffic light",
+    "object": "white bicycles",
+    "level": 4
+  },
+  {
+    "image_id": 2416540,
+    "question": "Based on the image, what is the relationship between cloud and sky? Choose only from the options provided",
+    "answer": "hanging",
+    "options": [
+      "floating",
+      "covering",
+      "drifting"
+    ],
+    "subject": "cloud",
+    "object": "sky",
+    "level": 4
+  },
+  {
+    "image_id": 2416935,
+    "question": "Based on the image, what is the relationship between woman and cell phone? Choose only from the options provided",
+    "answer": "holding",
+    "options": [
+      "using",
+      "talking",
+      "looking"
+    ],
+    "subject": "woman",
+    "object": "cell phone",
+    "level": 4
+  },
+  {
+    "image_id": 2417250,
+    "question": "Based on the image, what is the relationship between pillar and bridge? Choose only from the options provided",
+    "answer": "supporting",
+    "options": [
+      "reinforcing",
+      "connecting",
+      "stabilizing"
+    ],
+    "subject": "pillar",
+    "object": "bridge",
+    "level": 4
+  },
+  {
+    "image_id": 2417652,
+    "question": "Based on the image, what is the relationship between man and hatch? Choose only from the options provided",
+    "answer": "pushing",
+    "options": [
+      "opening",
+      "closing",
+      "lifting"
+    ],
+    "subject": "man",
+    "object": "hatch",
+    "level": 4
+  },
+  {
+    "image_id": 2417652,
+    "question": "Based on the image, what is the relationship between man and shorts? Choose only from the options provided",
+    "answer": "wearing",
+    "options": [
+      "buying",
+      "trying",
+      "folding"
+    ],
+    "subject": "man",
+    "object": "shorts",
+    "level": 4
+  }
+]

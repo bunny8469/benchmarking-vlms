@@ -1,0 +1,25 @@
+[
+  {
+    "image_id": 615,
+    "query": "what is the relationship between man and jacket?",
+    "ground_truth": "wearing",
+    "prediction": "he is wearing a jacket",
+    "word_probs": {}
+  },
+  {
+    "image_id": 1523,
+    "query": "what is the relationship between light and keyboard?",
+    "ground_truth": "hitting",
+    "prediction": "'I can't tell you that",
+    "word_probs": {
+      "pointing": 0.00970484219219403
+    }
+  },
+  {
+    "image_id": 1901,
+    "query": "what is the relationship between person and boat?",
+    "ground_truth": "standing",
+    "prediction": "a small boat",
+    "word_probs": {}
+  }
+]

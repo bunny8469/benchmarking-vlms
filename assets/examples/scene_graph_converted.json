@@ -1,0 +1,474 @@
+{
+  "url": "",
+  "objects": [
+    {
+      "name": "clock"
+    },
+    {
+      "name": "street"
+    },
+    {
+      "name": "shade"
+    },
+    {
+      "name": "man"
+    },
+    {
+      "name": "sneakers"
+    },
+    {
+      "name": "headlight"
+    },
+    {
+      "name": "car"
+    },
+    {
+      "name": "bike"
+    },
+    {
+      "name": "bike"
+    },
+    {
+      "name": "sign"
+    },
+    {
+      "name": "building"
+    },
+    {
+      "name": "tree trunk"
+    },
+    {
+      "name": "sidewalk"
+    },
+    {
+      "name": "shirt"
+    },
+    {
+      "name": "street"
+    },
+    {
+      "name": "car"
+    },
+    {
+      "name": "back"
+    },
+    {
+      "name": "glasses"
+    },
+    {
+      "name": "parking meter"
+    },
+    {
+      "name": "shoes"
+    },
+    {
+      "name": "man"
+    },
+    {
+      "name": "pants"
+    },
+    {
+      "name": "jacket"
+    },
+    {
+      "name": "pants"
+    },
+    {
+      "name": "work truck"
+    },
+    {
+      "name": "sidewalk"
+    },
+    {
+      "name": "chin"
+    },
+    {
+      "name": "guy"
+    },
+    {
+      "name": "van"
+    },
+    {
+      "name": "wall"
+    },
+    {
+      "name": "tree"
+    },
+    {
+      "name": "bikes"
+    },
+    {
+      "name": "arm"
+    },
+    {
+      "name": "shirt"
+    },
+    {
+      "name": "man"
+    },
+    {
+      "name": "man"
+    },
+    {
+      "name": "road"
+    },
+    {
+      "name": "lamp post"
+    },
+    {
+      "name": "trees"
+    },
+    {
+      "name": "windows"
+    }
+  ],
+  "attributes": [
+    {
+      "attribute": "green",
+      "object": 0
+    },
+    {
+      "attribute": "tall",
+      "object": 0
+    },
+    {
+      "attribute": "sidewalk",
+      "object": 1
+    },
+    {
+      "attribute": "grey",
+      "object": 4
+    },
+    {
+      "attribute": "off",
+      "object": 5
+    },
+    {
+      "attribute": "parked",
+      "object": 7
+    },
+    {
+      "attribute": "far away",
+      "object": 7
+    },
+    {
+      "attribute": "parked",
+      "object": 8
+    },
+    {
+      "attribute": "far away",
+      "object": 8
+    },
+    {
+      "attribute": "chained",
+      "object": 8
+    },
+    {
+      "attribute": "black",
+      "object": 9
+    },
+    {
+      "attribute": "tall",
+      "object": 10
+    },
+    {
+      "attribute": "brick",
+      "object": 10
+    },
+    {
+      "attribute": "made of bricks",
+      "object": 10
+    },
+    {
+      "attribute": "brick",
+      "object": 12
+    },
+    {
+      "attribute": "red",
+      "object": 13
+    },
+    {
+      "attribute": "orange",
+      "object": 13
+    },
+    {
+      "attribute": "clean",
+      "object": 14
+    },
+    {
+      "attribute": "white",
+      "object": 15
+    },
+    {
+      "attribute": "parked",
+      "object": 15
+    },
+    {
+      "attribute": "orange",
+      "object": 18
+    },
+    {
+      "attribute": "brown",
+      "object": 19
+    },
+    {
+      "attribute": "black",
+      "object": 21
+    },
+    {
+      "attribute": "gray",
+      "object": 22
+    },
+    {
+      "attribute": "grey",
+      "object": 22
+    },
+    {
+      "attribute": "gray",
+      "object": 23
+    },
+    {
+      "attribute": "grey",
+      "object": 23
+    },
+    {
+      "attribute": "white",
+      "object": 24
+    },
+    {
+      "attribute": "raised",
+      "object": 26
+    },
+    {
+      "attribute": "parked",
+      "object": 28
+    },
+    {
+      "attribute": "white",
+      "object": 28
+    },
+    {
+      "attribute": "grey",
+      "object": 29
+    },
+    {
+      "attribute": "raised",
+      "object": 32
+    },
+    {
+      "attribute": "grey",
+      "object": 33
+    },
+    {
+      "attribute": "sparse",
+      "object": 38
+    }
+  ],
+  "relationships": [
+    {
+      "predicate": "ON",
+      "object": 1,
+      "subject": 2
+    },
+    {
+      "predicate": "wears",
+      "object": 4,
+      "subject": 3
+    },
+    {
+      "predicate": "has",
+      "object": 5,
+      "subject": 6
+    },
+    {
+      "predicate": "ON",
+      "object": 10,
+      "subject": 9
+    },
+    {
+      "predicate": "ON",
+      "object": 12,
+      "subject": 11
+    },
+    {
+      "predicate": "has",
+      "object": 13,
+      "subject": 3
+    },
+    {
+      "predicate": "next to",
+      "object": 14,
+      "subject": 12
+    },
+    {
+      "predicate": "has",
+      "object": 16,
+      "subject": 15
+    },
+    {
+      "predicate": "has",
+      "object": 17,
+      "subject": 3
+    },
+    {
+      "predicate": "ON",
+      "object": 12,
+      "subject": 18
+    },
+    {
+      "predicate": "wears",
+      "object": 4,
+      "subject": 3
+    },
+    {
+      "predicate": "has",
+      "object": 19,
+      "subject": 20
+    },
+    {
+      "predicate": "has",
+      "object": 13,
+      "subject": 3
+    },
+    {
+      "predicate": "wears",
+      "object": 21,
+      "subject": 3
+    },
+    {
+      "predicate": "has",
+      "object": 22,
+      "subject": 20
+    },
+    {
+      "predicate": "has",
+      "object": 23,
+      "subject": 20
+    },
+    {
+      "predicate": "parked on",
+      "object": 12,
+      "subject": 7
+    },
+    {
+      "predicate": "parked on",
+      "object": 12,
+      "subject": 8
+    },
+    {
+      "predicate": "parked on",
+      "object": 14,
+      "subject": 24
+    },
+    {
+      "predicate": "parked on",
+      "object": 14,
+      "subject": 15
+    },
+    {
+      "predicate": "ON",
+      "object": 25,
+      "subject": 8
+    },
+    {
+      "predicate": "behind",
+      "object": 20,
+      "subject": 18
+    },
+    {
+      "predicate": "holding",
+      "object": 26,
+      "subject": 27
+    },
+    {
+      "predicate": "WEARING",
+      "object": 13,
+      "subject": 3
+    },
+    {
+      "predicate": "holding",
+      "object": 26,
+      "subject": 20
+    },
+    {
+      "predicate": "near",
+      "object": 30,
+      "subject": 31
+    },
+    {
+      "predicate": "WEARING",
+      "object": 19,
+      "subject": 20
+    },
+    {
+      "predicate": "near",
+      "object": 30,
+      "subject": 31
+    },
+    {
+      "predicate": "ON",
+      "object": 3,
+      "subject": 13
+    },
+    {
+      "predicate": "holding",
+      "object": 26,
+      "subject": 34
+    },
+    {
+      "predicate": "WEARING",
+      "object": 17,
+      "subject": 35
+    },
+    {
+      "predicate": "along",
+      "object": 36,
+      "subject": 37
+    },
+    {
+      "predicate": "IN",
+      "object": 13,
+      "subject": 3
+    },
+    {
+      "predicate": "WEARING",
+      "object": 21,
+      "subject": 3
+    },
+    {
+      "predicate": "on top of",
+      "object": 14,
+      "subject": 18
+    },
+    {
+      "predicate": "next to",
+      "object": 14,
+      "subject": 30
+    },
+    {
+      "predicate": "WEARING",
+      "object": 17,
+      "subject": 3
+    },
+    {
+      "predicate": "behind",
+      "object": 3,
+      "subject": 31
+    },
+    {
+      "predicate": "by",
+      "object": 12,
+      "subject": 38
+    },
+    {
+      "predicate": "WEARING",
+      "object": 22,
+      "subject": 20
+    },
+    {
+      "predicate": "with",
+      "object": 39,
+      "subject": 10
+    }
+  ]
+}

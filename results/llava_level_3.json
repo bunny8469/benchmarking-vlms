@@ -1,0 +1,21 @@
+[
+  {
+    "image_id": 615,
+    "query": "Based on the image, what is the relationship between man and jacket?",
+    "ground_truth": "wearing",
+    "prediction": "Carry",
+    "word_probs": {
+      "carrying": 0.2963502539669314,
+      "creating": 0.0723152607679367
+    }
+  },
+  {
+    "image_id": 1523,
+    "query": "Based on the image, what is the relationship between light and keyboard?",
+    "ground_truth": "hitting",
+    "prediction": "I do not have enough information to determine the relationship between light and keyboard based solely on this single sentence description of an office desk setup.",
+    "word_probs": {
+      "creating": 0.11399250477552414
+    }
+  }
+]

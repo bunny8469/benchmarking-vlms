@@ -1,0 +1,1368 @@
+{
+  "color": [
+    {
+      "image_id": 2406881,
+      "object": "sky",
+      "attribute": "blue",
+      "query": "What color is the sky?",
+      "answer": "blue"
+    },
+    {
+      "image_id": 2406881,
+      "object": "shirt",
+      "attribute": "white",
+      "query": "What color is the shirt?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2406881,
+      "object": "pants",
+      "attribute": "black",
+      "query": "What color is the pants?",
+      "answer": "black"
+    },
+    {
+      "image_id": 2406881,
+      "object": "pants",
+      "attribute": "brown",
+      "query": "What color is the pants?",
+      "answer": "brown"
+    },
+    {
+      "image_id": 2406881,
+      "object": "shoes",
+      "attribute": "black",
+      "query": "What color is the shoes?",
+      "answer": "black"
+    },
+    {
+      "image_id": 2406881,
+      "object": "shoes",
+      "attribute": "white",
+      "query": "What color is the shoes?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2406881,
+      "object": "wheels",
+      "attribute": "yellow",
+      "query": "What color is the wheels?",
+      "answer": "yellow"
+    },
+    {
+      "image_id": 2406881,
+      "object": "wheels",
+      "attribute": "white",
+      "query": "What color is the wheels?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2406881,
+      "object": "board",
+      "attribute": "black",
+      "query": "What color is the board?",
+      "answer": "black"
+    },
+    {
+      "image_id": 2406881,
+      "object": "trees",
+      "attribute": "green",
+      "query": "What color is the trees?",
+      "answer": "green"
+    },
+    {
+      "image_id": 2406881,
+      "object": "hair",
+      "attribute": "black",
+      "query": "What color is the hair?",
+      "answer": "black"
+    },
+    {
+      "image_id": 2406881,
+      "object": "graffiti",
+      "attribute": "blue",
+      "query": "What color is the graffiti?",
+      "answer": "blue"
+    },
+    {
+      "image_id": 2406881,
+      "object": "pole",
+      "attribute": "white",
+      "query": "What color is the pole?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2406881,
+      "object": "lettering",
+      "attribute": "blue",
+      "query": "What color is the lettering?",
+      "answer": "blue"
+    },
+    {
+      "image_id": 2406881,
+      "object": "balls",
+      "attribute": "pink",
+      "query": "What color is the balls?",
+      "answer": "pink"
+    },
+    {
+      "image_id": 2406881,
+      "object": "container",
+      "attribute": "green",
+      "query": "What color is the container?",
+      "answer": "green"
+    },
+    {
+      "image_id": 2406881,
+      "object": "edge",
+      "attribute": "white",
+      "query": "What color is the edge?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2406881,
+      "object": "logo",
+      "attribute": "white",
+      "query": "What color is the logo?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2406881,
+      "object": "soles",
+      "attribute": "white",
+      "query": "What color is the soles?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2398232,
+      "object": "horse",
+      "attribute": "white",
+      "query": "What color is the horse?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2398232,
+      "object": "legs",
+      "attribute": "brown",
+      "query": "What color is the legs on the right?",
+      "answer": "brown"
+    },
+    {
+      "image_id": 2398232,
+      "object": "head",
+      "attribute": "brown",
+      "query": "What color is the head?",
+      "answer": "brown"
+    },
+    {
+      "image_id": 2390184,
+      "object": "sign",
+      "attribute": "black",
+      "query": "What color is the sign?",
+      "answer": "black"
+    },
+    {
+      "image_id": 2390184,
+      "object": "sign",
+      "attribute": "white",
+      "query": "What color is the sign?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2390184,
+      "object": "numbers",
+      "attribute": "black",
+      "query": "What color is the numbers?",
+      "answer": "black"
+    },
+    {
+      "image_id": 2390184,
+      "object": "vehicle",
+      "attribute": "gray",
+      "query": "What color is the vehicle?",
+      "answer": "gray"
+    },
+    {
+      "image_id": 2390184,
+      "object": "pick up truck",
+      "attribute": "blue",
+      "query": "What color is the pick up truck?",
+      "answer": "blue"
+    },
+    {
+      "image_id": 2390184,
+      "object": "frames",
+      "attribute": "white",
+      "query": "What color is the frames?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2390184,
+      "object": "box",
+      "attribute": "red",
+      "query": "What color is the box?",
+      "answer": "red"
+    },
+    {
+      "image_id": 2390184,
+      "object": "window frame",
+      "attribute": "blue",
+      "query": "What color is the window frame?",
+      "answer": "blue"
+    },
+    {
+      "image_id": 2388483,
+      "object": "grass",
+      "attribute": "green",
+      "query": "What color is the grass?",
+      "answer": "green"
+    },
+    {
+      "image_id": 2388483,
+      "object": "road",
+      "attribute": "black",
+      "query": "What color is the road in the center?",
+      "answer": "black"
+    },
+    {
+      "image_id": 2388483,
+      "object": "road",
+      "attribute": "black",
+      "query": "What color is the road in the center?",
+      "answer": "black"
+    },
+    {
+      "image_id": 2388483,
+      "object": "road",
+      "attribute": "black",
+      "query": "What color is the road on the right?",
+      "answer": "black"
+    },
+    {
+      "image_id": 2388483,
+      "object": "road",
+      "attribute": "black",
+      "query": "What color is the road in the center?",
+      "answer": "black"
+    },
+    {
+      "image_id": 2388483,
+      "object": "road",
+      "attribute": "black",
+      "query": "What color is the road in the center?",
+      "answer": "black"
+    },
+    {
+      "image_id": 2388483,
+      "object": "road",
+      "attribute": "black",
+      "query": "What color is the road on the left?",
+      "answer": "black"
+    },
+    {
+      "image_id": 2388483,
+      "object": "road",
+      "attribute": "black",
+      "query": "What color is the road in the center?",
+      "answer": "black"
+    },
+    {
+      "image_id": 2387230,
+      "object": "bike",
+      "attribute": "black",
+      "query": "What color is the bike?",
+      "answer": "black"
+    },
+    {
+      "image_id": 2387230,
+      "object": "road",
+      "attribute": "black",
+      "query": "What color is the road?",
+      "answer": "black"
+    },
+    {
+      "image_id": 2387230,
+      "object": "car",
+      "attribute": "blue",
+      "query": "What color is the car?",
+      "answer": "blue"
+    },
+    {
+      "image_id": 2387230,
+      "object": "trees",
+      "attribute": "green",
+      "query": "What color is the trees?",
+      "answer": "green"
+    },
+    {
+      "image_id": 2387230,
+      "object": "sign",
+      "attribute": "white",
+      "query": "What color is the sign?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2387230,
+      "object": "post",
+      "attribute": "black",
+      "query": "What color is the post?",
+      "answer": "black"
+    },
+    {
+      "image_id": 2387230,
+      "object": "wheel",
+      "attribute": "black",
+      "query": "What color is the wheel?",
+      "answer": "black"
+    },
+    {
+      "image_id": 2383091,
+      "object": "shoe",
+      "attribute": "white",
+      "query": "What color is the shoe on the left?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2383091,
+      "object": "shoe",
+      "attribute": "white",
+      "query": "What color is the shoe in the center?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2383091,
+      "object": "shoe",
+      "attribute": "white",
+      "query": "What color is the shoe on the right?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2383091,
+      "object": "tennis ball",
+      "attribute": "green",
+      "query": "What color is the tennis ball on the right?",
+      "answer": "green"
+    },
+    {
+      "image_id": 2383091,
+      "object": "band",
+      "attribute": "white",
+      "query": "What color is the band?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2383091,
+      "object": "tennis shoe",
+      "attribute": "white",
+      "query": "What color is the tennis shoe?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2383091,
+      "object": "lines",
+      "attribute": "white",
+      "query": "What color is the lines?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2383091,
+      "object": "text print",
+      "attribute": "white",
+      "query": "What color is the text print on the left?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2383091,
+      "object": "text print",
+      "attribute": "white",
+      "query": "What color is the text print on the right?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2383091,
+      "object": "visor",
+      "attribute": "white",
+      "query": "What color is the visor on the right?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2376050,
+      "object": "bike",
+      "attribute": "black",
+      "query": "What color is the bike?",
+      "answer": "black"
+    },
+    {
+      "image_id": 2371699,
+      "object": "plate",
+      "attribute": "white",
+      "query": "What color is the plate in the center?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2371699,
+      "object": "white plate",
+      "attribute": "white",
+      "query": "What color is the white plate on the left?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2371699,
+      "object": "table",
+      "attribute": "brown",
+      "query": "What color is the table?",
+      "answer": "brown"
+    },
+    {
+      "image_id": 2371699,
+      "object": "sugar",
+      "attribute": "white",
+      "query": "What color is the sugar on the right?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2371699,
+      "object": "brown syrup",
+      "attribute": "brown",
+      "query": "What color is the brown syrup?",
+      "answer": "brown"
+    },
+    {
+      "image_id": 2371699,
+      "object": "syrup",
+      "attribute": "brown",
+      "query": "What color is the syrup in the center?",
+      "answer": "brown"
+    },
+    {
+      "image_id": 2371699,
+      "object": "syrup",
+      "attribute": "brown",
+      "query": "What color is the syrup on the right?",
+      "answer": "brown"
+    },
+    {
+      "image_id": 2371699,
+      "object": "white plate",
+      "attribute": "white",
+      "query": "What color is the white plate on the right?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2371314,
+      "object": "cows",
+      "attribute": "black",
+      "query": "What color is the cows in the center?",
+      "answer": "black"
+    },
+    {
+      "image_id": 2371314,
+      "object": "cows",
+      "attribute": "white",
+      "query": "What color is the cows in the center?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2371314,
+      "object": "plate",
+      "attribute": "black",
+      "query": "What color is the plate?",
+      "answer": "black"
+    },
+    {
+      "image_id": 2371314,
+      "object": "plate",
+      "attribute": "white",
+      "query": "What color is the plate?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2371314,
+      "object": "car",
+      "attribute": "black",
+      "query": "What color is the car on the left?",
+      "answer": "black"
+    },
+    {
+      "image_id": 2371314,
+      "object": "light",
+      "attribute": "red",
+      "query": "What color is the light in the center?",
+      "answer": "red"
+    },
+    {
+      "image_id": 2371314,
+      "object": "light",
+      "attribute": "red",
+      "query": "What color is the light in the center?",
+      "answer": "red"
+    },
+    {
+      "image_id": 2371314,
+      "object": "farm",
+      "attribute": "white",
+      "query": "What color is the farm?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2371314,
+      "object": "hood",
+      "attribute": "red",
+      "query": "What color is the hood?",
+      "answer": "red"
+    },
+    {
+      "image_id": 2371314,
+      "object": "cow",
+      "attribute": "white",
+      "query": "What color is the cow in the center?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2371314,
+      "object": "car",
+      "attribute": "red",
+      "query": "What color is the car on the right?",
+      "answer": "red"
+    },
+    {
+      "image_id": 2371314,
+      "object": "mark",
+      "attribute": "white",
+      "query": "What color is the mark?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2371314,
+      "object": "light",
+      "attribute": "orange",
+      "query": "What color is the light on the right?",
+      "answer": "orange"
+    },
+    {
+      "image_id": 2371314,
+      "object": "light",
+      "attribute": "orange",
+      "query": "What color is the light on the left?",
+      "answer": "orange"
+    },
+    {
+      "image_id": 2371314,
+      "object": "lines",
+      "attribute": "white",
+      "query": "What color is the lines?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2371314,
+      "object": "marker",
+      "attribute": "white",
+      "query": "What color is the marker?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2370746,
+      "object": "spray",
+      "attribute": "white",
+      "query": "What color is the spray?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2370746,
+      "object": "water",
+      "attribute": "green",
+      "query": "What color is the water in the center?",
+      "answer": "green"
+    },
+    {
+      "image_id": 2370746,
+      "object": "wetsuit",
+      "attribute": "black",
+      "query": "What color is the wetsuit on the left?",
+      "answer": "black"
+    },
+    {
+      "image_id": 2370746,
+      "object": "wetsuit",
+      "attribute": "black",
+      "query": "What color is the wetsuit on the right?",
+      "answer": "black"
+    },
+    {
+      "image_id": 2370746,
+      "object": "water",
+      "attribute": "white",
+      "query": "What color is the water in the center?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2370746,
+      "object": "surfboard",
+      "attribute": "white",
+      "query": "What color is the surfboard on the left?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2370746,
+      "object": "foam",
+      "attribute": "white",
+      "query": "What color is the foam on the right?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2370746,
+      "object": "surfboard",
+      "attribute": "white",
+      "query": "What color is the surfboard in the center?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2370746,
+      "object": "foam",
+      "attribute": "white",
+      "query": "What color is the foam on the left?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2370746,
+      "object": "white foam",
+      "attribute": "white",
+      "query": "What color is the white foam on the right?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2370746,
+      "object": "white foam",
+      "attribute": "white",
+      "query": "What color is the white foam on the left?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2370746,
+      "object": "white foam",
+      "attribute": "white",
+      "query": "What color is the white foam in the center?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2370746,
+      "object": "white foam",
+      "attribute": "white",
+      "query": "What color is the white foam in the center?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2368217,
+      "object": "whiteplane",
+      "attribute": "white",
+      "query": "What color is the whiteplane?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2368217,
+      "object": "sky",
+      "attribute": "blue",
+      "query": "What color is the sky?",
+      "answer": "blue"
+    },
+    {
+      "image_id": 2368217,
+      "object": "plane",
+      "attribute": "white",
+      "query": "What color is the plane in the center?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2368217,
+      "object": "tail",
+      "attribute": "blue",
+      "query": "What color is the tail on the right?",
+      "answer": "blue"
+    },
+    {
+      "image_id": 2368217,
+      "object": "plane",
+      "attribute": "blue",
+      "query": "What color is the plane in the center?",
+      "answer": "blue"
+    },
+    {
+      "image_id": 2368217,
+      "object": "plane",
+      "attribute": "white",
+      "query": "What color is the plane in the center?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2368217,
+      "object": "stripes",
+      "attribute": "red",
+      "query": "What color is the stripes?",
+      "answer": "red"
+    },
+    {
+      "image_id": 2368217,
+      "object": "stripes",
+      "attribute": "white",
+      "query": "What color is the stripes?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2368217,
+      "object": "stripes",
+      "attribute": "blue",
+      "query": "What color is the stripes?",
+      "answer": "blue"
+    },
+    {
+      "image_id": 2368217,
+      "object": "airplane",
+      "attribute": "white",
+      "query": "What color is the airplane in the center?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2368217,
+      "object": "plane",
+      "attribute": "white",
+      "query": "What color is the plane on the left?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2368217,
+      "object": "blue tail",
+      "attribute": "blue",
+      "query": "What color is the blue tail?",
+      "answer": "blue"
+    },
+    {
+      "image_id": 2368217,
+      "object": "airplane",
+      "attribute": "blue",
+      "query": "What color is the airplane on the right?",
+      "answer": "blue"
+    },
+    {
+      "image_id": 2368217,
+      "object": "airplane",
+      "attribute": "red",
+      "query": "What color is the airplane on the right?",
+      "answer": "red"
+    },
+    {
+      "image_id": 2368217,
+      "object": "lines",
+      "attribute": "black",
+      "query": "What color is the lines?",
+      "answer": "black"
+    },
+    {
+      "image_id": 2368217,
+      "object": "lines",
+      "attribute": "yellow",
+      "query": "What color is the lines?",
+      "answer": "yellow"
+    },
+    {
+      "image_id": 2368217,
+      "object": "snow",
+      "attribute": "white",
+      "query": "What color is the snow?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2355451,
+      "object": "shorts",
+      "attribute": "pink",
+      "query": "What color is the shorts on the left?",
+      "answer": "pink"
+    },
+    {
+      "image_id": 2355451,
+      "object": "shoes",
+      "attribute": "white",
+      "query": "What color is the shoes?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2355451,
+      "object": "shirt",
+      "attribute": "white",
+      "query": "What color is the shirt on the left?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2355451,
+      "object": "visor",
+      "attribute": "white",
+      "query": "What color is the visor?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2355451,
+      "object": "shirt",
+      "attribute": "yellow",
+      "query": "What color is the shirt on the right?",
+      "answer": "yellow"
+    },
+    {
+      "image_id": 2355451,
+      "object": "tennis ball",
+      "attribute": "yellow",
+      "query": "What color is the tennis ball?",
+      "answer": "yellow"
+    },
+    {
+      "image_id": 2355451,
+      "object": "tennis court",
+      "attribute": "blue",
+      "query": "What color is the tennis court?",
+      "answer": "blue"
+    },
+    {
+      "image_id": 2355451,
+      "object": "wall",
+      "attribute": "blue",
+      "query": "What color is the wall?",
+      "answer": "blue"
+    },
+    {
+      "image_id": 2355451,
+      "object": "empty seats",
+      "attribute": "blue",
+      "query": "What color is the empty seats?",
+      "answer": "blue"
+    },
+    {
+      "image_id": 2355451,
+      "object": "baseline",
+      "attribute": "white",
+      "query": "What color is the baseline?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2355374,
+      "object": "man",
+      "attribute": "black",
+      "query": "What color is the man on the left?",
+      "answer": "black"
+    },
+    {
+      "image_id": 2355374,
+      "object": "man",
+      "attribute": "white",
+      "query": "What color is the man on the left?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2355374,
+      "object": "shirt",
+      "attribute": "white",
+      "query": "What color is the shirt on the left?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2355374,
+      "object": "box",
+      "attribute": "white",
+      "query": "What color is the box?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2355374,
+      "object": "necklace",
+      "attribute": "brown",
+      "query": "What color is the necklace on the left?",
+      "answer": "brown"
+    },
+    {
+      "image_id": 2355374,
+      "object": "shorts",
+      "attribute": "white",
+      "query": "What color is the shorts on the left?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2355374,
+      "object": "shorts",
+      "attribute": "black",
+      "query": "What color is the shorts on the left?",
+      "answer": "black"
+    },
+    {
+      "image_id": 2355374,
+      "object": "door",
+      "attribute": "white",
+      "query": "What color is the door on the left?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2355374,
+      "object": "glasses",
+      "attribute": "black",
+      "query": "What color is the glasses on the left?",
+      "answer": "black"
+    },
+    {
+      "image_id": 2355374,
+      "object": "sock",
+      "attribute": "black",
+      "query": "What color is the sock?",
+      "answer": "black"
+    },
+    {
+      "image_id": 2355374,
+      "object": "shirt",
+      "attribute": "white",
+      "query": "What color is the shirt on the right?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2345057,
+      "object": "peel",
+      "attribute": "yellow",
+      "query": "What color is the peel?",
+      "answer": "yellow"
+    },
+    {
+      "image_id": 2345057,
+      "object": "carpet",
+      "attribute": "white",
+      "query": "What color is the carpet?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2345057,
+      "object": "ear",
+      "attribute": "pink",
+      "query": "What color is the ear on the right?",
+      "answer": "pink"
+    },
+    {
+      "image_id": 2345057,
+      "object": "banana",
+      "attribute": "yellow",
+      "query": "What color is the banana?",
+      "answer": "yellow"
+    },
+    {
+      "image_id": 2342191,
+      "object": "luggage",
+      "attribute": "black",
+      "query": "What color is the luggage?",
+      "answer": "black"
+    },
+    {
+      "image_id": 2342191,
+      "object": "floor",
+      "attribute": "white",
+      "query": "What color is the floor?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2342191,
+      "object": "bag",
+      "attribute": "yellow",
+      "query": "What color is the bag on the right?",
+      "answer": "yellow"
+    },
+    {
+      "image_id": 2342191,
+      "object": "bag",
+      "attribute": "blue",
+      "query": "What color is the bag on the left?",
+      "answer": "blue"
+    },
+    {
+      "image_id": 2342191,
+      "object": "bag",
+      "attribute": "black",
+      "query": "What color is the bag on the left?",
+      "answer": "black"
+    },
+    {
+      "image_id": 2342191,
+      "object": "jacket",
+      "attribute": "blue",
+      "query": "What color is the jacket?",
+      "answer": "blue"
+    },
+    {
+      "image_id": 2342191,
+      "object": "curtains",
+      "attribute": "white",
+      "query": "What color is the curtains?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2341973,
+      "object": "tail",
+      "attribute": "red",
+      "query": "What color is the tail?",
+      "answer": "red"
+    },
+    {
+      "image_id": 2341973,
+      "object": "pole",
+      "attribute": "yellow",
+      "query": "What color is the pole?",
+      "answer": "yellow"
+    },
+    {
+      "image_id": 2323495,
+      "object": "bike",
+      "attribute": "black",
+      "query": "What color is the bike on the left?",
+      "answer": "black"
+    },
+    {
+      "image_id": 2323495,
+      "object": "helmet",
+      "attribute": "black",
+      "query": "What color is the helmet on the left?",
+      "answer": "black"
+    },
+    {
+      "image_id": 2318030,
+      "object": "helmet",
+      "attribute": "blue",
+      "query": "What color is the helmet on the right?",
+      "answer": "blue"
+    },
+    {
+      "image_id": 2318030,
+      "object": "car",
+      "attribute": "red",
+      "query": "What color is the car on the left?",
+      "answer": "red"
+    },
+    {
+      "image_id": 2318030,
+      "object": "stripe",
+      "attribute": "red",
+      "query": "What color is the stripe in the center?",
+      "answer": "red"
+    },
+    {
+      "image_id": 2318030,
+      "object": "vehicle",
+      "attribute": "black",
+      "query": "What color is the vehicle?",
+      "answer": "black"
+    },
+    {
+      "image_id": 2318030,
+      "object": "helmet",
+      "attribute": "green",
+      "query": "What color is the helmet in the center?",
+      "answer": "green"
+    },
+    {
+      "image_id": 2318030,
+      "object": "paw",
+      "attribute": "white",
+      "query": "What color is the paw?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2318030,
+      "object": "nose",
+      "attribute": "black",
+      "query": "What color is the nose?",
+      "answer": "black"
+    },
+    {
+      "image_id": 2318030,
+      "object": "helmet",
+      "attribute": "blue",
+      "query": "What color is the helmet in the center?",
+      "answer": "blue"
+    },
+    {
+      "image_id": 2318030,
+      "object": "stripe",
+      "attribute": "red",
+      "query": "What color is the stripe in the center?",
+      "answer": "red"
+    },
+    {
+      "image_id": 2318030,
+      "object": "car",
+      "attribute": "red",
+      "query": "What color is the car in the center?",
+      "answer": "red"
+    },
+    {
+      "image_id": 2318030,
+      "object": "leash",
+      "attribute": "orange",
+      "query": "What color is the leash?",
+      "answer": "orange"
+    },
+    {
+      "image_id": 2318030,
+      "object": "jacket",
+      "attribute": "brown",
+      "query": "What color is the jacket in the center?",
+      "answer": "brown"
+    },
+    {
+      "image_id": 2318030,
+      "object": "helmet",
+      "attribute": "blue",
+      "query": "What color is the helmet in the center?",
+      "answer": "blue"
+    },
+    {
+      "image_id": 2318030,
+      "object": "stripe",
+      "attribute": "yellow",
+      "query": "What color is the stripe in the center?",
+      "answer": "yellow"
+    },
+    {
+      "image_id": 2318030,
+      "object": "stripe",
+      "attribute": "white",
+      "query": "What color is the stripe in the center?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2318030,
+      "object": "stripe",
+      "attribute": "white",
+      "query": "What color is the stripe on the right?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2318030,
+      "object": "jacket",
+      "attribute": "brown",
+      "query": "What color is the jacket in the center?",
+      "answer": "brown"
+    },
+    {
+      "image_id": 2318030,
+      "object": "yellow stripe",
+      "attribute": "yellow",
+      "query": "What color is the yellow stripe?",
+      "answer": "yellow"
+    },
+    {
+      "image_id": 2318030,
+      "object": "brown jacket",
+      "attribute": "brown",
+      "query": "What color is the brown jacket?",
+      "answer": "brown"
+    },
+    {
+      "image_id": 2318030,
+      "object": "white dog",
+      "attribute": "white",
+      "query": "What color is the white dog?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2318030,
+      "object": "eye",
+      "attribute": "black",
+      "query": "What color is the eye in the center?",
+      "answer": "black"
+    },
+    {
+      "image_id": 2318030,
+      "object": "eye",
+      "attribute": "black",
+      "query": "What color is the eye on the left?",
+      "answer": "black"
+    },
+    {
+      "image_id": 2413651,
+      "object": "plane",
+      "attribute": "white",
+      "query": "What color is the plane on the left?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2413651,
+      "object": "car",
+      "attribute": "gray",
+      "query": "What color is the car on the left?",
+      "answer": "gray"
+    },
+    {
+      "image_id": 2413651,
+      "object": "sign",
+      "attribute": "red",
+      "query": "What color is the sign?",
+      "answer": "red"
+    },
+    {
+      "image_id": 2413651,
+      "object": "sign",
+      "attribute": "white",
+      "query": "What color is the sign?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2413651,
+      "object": "sky",
+      "attribute": "gray",
+      "query": "What color is the sky?",
+      "answer": "gray"
+    },
+    {
+      "image_id": 2413651,
+      "object": "cone",
+      "attribute": "orange",
+      "query": "What color is the cone on the right?",
+      "answer": "orange"
+    },
+    {
+      "image_id": 2413651,
+      "object": "cone",
+      "attribute": "white",
+      "query": "What color is the cone on the right?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2413651,
+      "object": "cone",
+      "attribute": "orange",
+      "query": "What color is the cone in the center?",
+      "answer": "orange"
+    },
+    {
+      "image_id": 2413651,
+      "object": "cone",
+      "attribute": "white",
+      "query": "What color is the cone in the center?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2413651,
+      "object": "cone",
+      "attribute": "orange",
+      "query": "What color is the cone on the left?",
+      "answer": "orange"
+    },
+    {
+      "image_id": 2413651,
+      "object": "cone",
+      "attribute": "white",
+      "query": "What color is the cone on the left?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2413651,
+      "object": "car",
+      "attribute": "white",
+      "query": "What color is the car on the right?",
+      "answer": "white"
+    },
+    {
+      "image_id": 2413651,
+      "object": "tail",
+      "attribute": "red",
+      "query": "What color is the tail?",
+      "answer": "red"
+    }
+  ],
+  "shape": [
+    {
+      "image_id": 2406881,
+      "object": "balls",
+      "attribute": "round",
+      "query": "What is the shape of the balls?",
+      "answer": "round"
+    },
+    {
+      "image_id": 2383091,
+      "object": "designs",
+      "attribute": "round",
+      "query": "What is the shape of the designs?",
+      "answer": "round"
+    }
+  ],
+  "material": [
+    {
+      "image_id": 2390184,
+      "object": "grates",
+      "attribute": "metal",
+      "query": "What material is the grates made of?",
+      "answer": "metal"
+    },
+    {
+      "image_id": 2355374,
+      "object": "coffee table",
+      "attribute": "glass",
+      "query": "What material is the coffee table on the right made of?",
+      "answer": "glass"
+    },
+    {
+      "image_id": 2355374,
+      "object": "tray",
+      "attribute": "wooden",
+      "query": "What material is the tray on the left made of?",
+      "answer": "wooden"
+    },
+    {
+      "image_id": 2355374,
+      "object": "coffee table",
+      "attribute": "glass",
+      "query": "What material is the coffee table on the left made of?",
+      "answer": "glass"
+    },
+    {
+      "image_id": 2355374,
+      "object": "table",
+      "attribute": "glass",
+      "query": "What material is the table in the center made of?",
+      "answer": "glass"
+    },
+    {
+      "image_id": 2342191,
+      "object": "coat rack",
+      "attribute": "wooden",
+      "query": "What material is the coat rack made of?",
+      "answer": "wooden"
+    },
+    {
+      "image_id": 2342191,
+      "object": "stand",
+      "attribute": "wooden",
+      "query": "What material is the stand made of?",
+      "answer": "wooden"
+    },
+    {
+      "image_id": 2323495,
+      "object": "bench",
+      "attribute": "wooden",
+      "query": "What material is the bench made of?",
+      "answer": "wooden"
+    }
+  ],
+  "condition": [
+    {
+      "image_id": 2388483,
+      "object": "grass",
+      "attribute": "wet",
+      "query": "What is the condition of the grass?",
+      "answer": "wet"
+    },
+    {
+      "image_id": 2341973,
+      "object": "dry grass",
+      "attribute": "dry",
+      "query": "What is the condition of the dry grass?",
+      "answer": "dry"
+    },
+    {
+      "image_id": 2413651,
+      "object": "runway",
+      "attribute": "wet",
+      "query": "What is the condition of the runway?",
+      "answer": "wet"
+    }
+  ]
+}

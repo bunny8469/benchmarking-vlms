@@ -1,0 +1,31 @@
+  {
+    "image_id": 1901,
+    "query": "Is there tie in the image?",
+    "ground_truth": "No",
+    "prediction": "yes",
+    "word_probs": {}
+  }
+
+  {
+    "image_id": 1901,
+    "query": "Does the image contain any beard?",
+    "ground_truth": "No",
+    "prediction": "Yes, the man is clearly visible with a beard on his face.",
+    "word_probs": {}
+  }
+
+    {
+    "image_id": 3963,
+    "query": "Is there glove in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a glove clearly visible in the image.",
+    "word_probs": {}
+  }
+
+  {
+    "image_id": 286004,
+    "query": "Is there chimney in the image?",
+    "ground_truth": "No",
+    "prediction": "Yes, there is a chimney in the image.",
+    "word_probs": {}
+  }

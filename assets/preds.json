@@ -1,0 +1,162 @@
+[
+  {
+    "image_id": 2321829,
+    "query": "What is the relationship between stripe and pants?",
+    "ground_truth": "adorning",
+    "prediction": "wear",
+    "subject": "stripe",
+    "object": "pants"
+  },
+  {
+    "image_id": 2352786,
+    "query": "What is the relationship between herder and sheep?",
+    "ground_truth": "herding",
+    "prediction": "guiding",
+    "subject": "herder",
+    "object": "sheep"
+  },
+  {
+    "image_id": 2341140,
+    "query": "What is the relationship between hand and skateboard?",
+    "ground_truth": "holding",
+    "prediction": "holding",
+    "subject": "hand",
+    "object": "skateboard"
+  },
+  {
+    "image_id": 2400789,
+    "query": "What is the relationship between man and goats?",
+    "ground_truth": "helping",
+    "prediction": "herding",
+    "subject": "man",
+    "object": "goats"
+  },
+  {
+    "image_id": 2377813,
+    "query": "What is the relationship between window and row?",
+    "ground_truth": "forming",
+    "prediction": "open",
+    "subject": "window",
+    "object": "row"
+  },
+  {
+    "image_id": 2317539,
+    "query": "What is the relationship between man and shirt?",
+    "ground_truth": "wearing",
+    "prediction": "wear",
+    "subject": "man",
+    "object": "shirt"
+  },
+  {
+    "image_id": 2317320,
+    "query": "What is the relationship between woman and fork?",
+    "ground_truth": "holding",
+    "prediction": "holding",
+    "subject": "woman",
+    "object": "fork"
+  },
+  {
+    "image_id": 2409056,
+    "query": "What is the relationship between athlete and tennis?",
+    "ground_truth": "playing",
+    "prediction": "play",
+    "subject": "athlete",
+    "object": "tennis"
+  },
+  {
+    "image_id": 4418,
+    "query": "What is the relationship between knob and faucet?",
+    "ground_truth": "controlling",
+    "prediction": "turning",
+    "subject": "knob",
+    "object": "faucet"
+  },
+  {
+    "image_id": 2415122,
+    "query": "What is the relationship between man and train?",
+    "ground_truth": "exiting",
+    "prediction": "walking",
+    "subject": "man",
+    "object": "train"
+  },
+  {
+    "image_id": 2352251,
+    "query": "What is the relationship between hands and racket?",
+    "ground_truth": "gripping",
+    "prediction": "holding",
+    "subject": "hands",
+    "object": "racket"
+  },
+  {
+    "image_id": 2369087,
+    "query": "What is the relationship between kid and skier?",
+    "ground_truth": "watching",
+    "prediction": "ride",
+    "subject": "kid",
+    "object": "skier"
+  },
+  {
+    "image_id": 2386012,
+    "query": "What is the relationship between pole and traffic light?",
+    "ground_truth": "holding",
+    "prediction": "stand",
+    "subject": "pole",
+    "object": "traffic light"
+  },
+  {
+    "image_id": 2390343,
+    "query": "What is the relationship between poster and wall?",
+    "ground_truth": "covering",
+    "prediction": "hang",
+    "subject": "poster",
+    "object": "wall"
+  },
+  {
+    "image_id": 2343726,
+    "query": "What is the relationship between fencepost and fence?",
+    "ground_truth": "holding",
+    "prediction": "attach",
+    "subject": "fencepost",
+    "object": "fence"
+  },
+  {
+    "image_id": 2398762,
+    "query": "What is the relationship between mother and bag?",
+    "ground_truth": "using",
+    "prediction": "holding",
+    "subject": "mother",
+    "object": "bag"
+  },
+  {
+    "image_id": 2360163,
+    "query": "What is the relationship between snow and building?",
+    "ground_truth": "covering",
+    "prediction": "cover",
+    "subject": "snow",
+    "object": "building"
+  },
+  {
+    "image_id": 2332136,
+    "query": "What is the relationship between hand and bread?",
+    "ground_truth": "taking",
+    "prediction": "holding",
+    "subject": "hand",
+    "object": "bread"
+  },
+  {
+    "image_id": 2402500,
+    "query": "What is the relationship between people and laptops?",
+    "ground_truth": "using",
+    "prediction": "holding",
+    "subject": "people",
+    "object": "laptops"
+  },
+  {
+    "image_id": 2368465,
+    "query": "What is the relationship between snow and tree?",
+    "ground_truth": "covering",
+    "prediction": "cover",
+    "subject": "snow",
+    "object": "tree"
+  }
+]

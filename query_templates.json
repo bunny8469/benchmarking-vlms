@@ -1,0 +1,28 @@
+{
+    "level_1": {
+        "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+        "templates": [
+            "Is there <object> in the image?",
+            "Does the image contain any <object>?",
+            "Can you see <object> in this picture?"
+        ]
+    },
+    
+    "level_2": {
+        "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+        "templates": [
+            "Is there <object> in the image?",
+            "Does the image contain any <object>?"
+        ]
+    },
+    "level_3": {
+        "templates": [
+            "Based on the image, what is the relationship between <subject> and <object>?"
+        ]
+    },
+    "level_4": {
+        "templates": [
+            "Based on the image, what is the relationship between <subject> and <object>? Choose only from the options provided"
+        ]
+    }
+}

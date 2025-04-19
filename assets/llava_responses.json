@@ -1,0 +1,712 @@
+[
+  {
+    "image_id": 2406881,
+    "question": "Is there a logo in the image?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1,
+    "llava_response": "Yes"
+  },
+  {
+    "image_id": 2406881,
+    "question": "Is there a leg in the image?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1,
+    "llava_response": "Yes"
+  },
+  {
+    "image_id": 2406881,
+    "question": "Is there a sky in the image?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1,
+    "llava_response": "Yes"
+  },
+  {
+    "image_id": 2406881,
+    "question": "Can you see a hair in this picture?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1,
+    "llava_response": "Yes"
+  },
+  {
+    "image_id": 2406881,
+    "question": "Does the image contain any soles?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1,
+    "llava_response": "Yes"
+  },
+  {
+    "image_id": 2398232,
+    "question": "Can you see a legs in this picture?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1,
+    "llava_response": "Yes"
+  },
+  {
+    "image_id": 2398232,
+    "question": "Does the image contain any rainbow car?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1,
+    "llava_response": "Yes"
+  },
+  {
+    "image_id": 2398232,
+    "question": "Does the image contain any head?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1,
+    "llava_response": "Yes"
+  },
+  {
+    "image_id": 2398232,
+    "question": "Can you see a aeroplane in this picture?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1,
+    "llava_response": "No"
+  },
+  {
+    "image_id": 2398232,
+    "question": "Does the image contain any flowers?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1,
+    "llava_response": "Yes"
+  },
+  {
+    "image_id": 2390184,
+    "question": "Can you see a red pole in this picture?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2390184,
+    "question": "Is there a lower windows in the image?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2390184,
+    "question": "Can you see a vehicle in this picture?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2390184,
+    "question": "Can you see a building in this picture?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2390184,
+    "question": "Is there a pick up truck in the image?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2388483,
+    "question": "Is there a road in the image?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2388483,
+    "question": "Does the image contain any man?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2388483,
+    "question": "Is there a umbrella in the image?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2388483,
+    "question": "Is there a grass in the image?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2388483,
+    "question": "Does the image contain any bicycle?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2387230,
+    "question": "Does the image contain any glasses?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2387230,
+    "question": "Can you see a wall in this picture?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2387230,
+    "question": "Does the image contain any hair?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2387230,
+    "question": "Is there a front tire in the image?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2387230,
+    "question": "Can you see a man in this picture?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2383091,
+    "question": "Is there a shoe in the image?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2383091,
+    "question": "Does the image contain any tennis ball?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2383091,
+    "question": "Is there a tennis player in the image?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2383091,
+    "question": "Does the image contain any shadow?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2383091,
+    "question": "Is there a tennis court in the image?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2376050,
+    "question": "Does the image contain any front wheel?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2376050,
+    "question": "Is there a tag in the image?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2376050,
+    "question": "Is there a mirror in the image?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2376050,
+    "question": "Can you see a arm in this picture?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2376050,
+    "question": "Can you see a rear tire in this picture?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2371699,
+    "question": "Does the image contain any ground?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2371699,
+    "question": "Can you see a drizzle in this picture?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2371699,
+    "question": "Can you see a sugar in this picture?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2371699,
+    "question": "Is there a syrup in the image?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2371699,
+    "question": "Is there a sauce in the image?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2371314,
+    "question": "Can you see a cows in this picture?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2371314,
+    "question": "Can you see a leaf in this picture?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2371314,
+    "question": "Can you see a windshield in this picture?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2371314,
+    "question": "Can you see a pasture in this picture?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2371314,
+    "question": "Is there a mark in the image?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2370746,
+    "question": "Can you see a foam in this picture?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2370746,
+    "question": "Does the image contain any vehicles?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2370746,
+    "question": "Can you see a spray in this picture?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2370746,
+    "question": "Is there a shrubbery in the image?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2370746,
+    "question": "Can you see a water in this picture?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2368217,
+    "question": "Is there a wheel in the image?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2368217,
+    "question": "Does the image contain any logo?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2368217,
+    "question": "Does the image contain any airplane?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2368217,
+    "question": "Can you see a sky in this picture?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2368217,
+    "question": "Can you see a plane tail in this picture?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2355451,
+    "question": "Can you see a stands in this picture?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2355451,
+    "question": "Can you see a pants in this picture?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2355451,
+    "question": "Is there a baseline in the image?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2355451,
+    "question": "Can you see a woman in this picture?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2355451,
+    "question": "Can you see a steps in this picture?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2355374,
+    "question": "Does the image contain any watch?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2355374,
+    "question": "Can you see a floor in this picture?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2355374,
+    "question": "Is there a room in the image?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2355374,
+    "question": "Can you see a paper in this picture?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2355374,
+    "question": "Is there a box in the image?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2351062,
+    "question": "Does the image contain any animal?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2351062,
+    "question": "Does the image contain any round table?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2351062,
+    "question": "Is there a form in the image?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2351062,
+    "question": "Does the image contain any man?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2351062,
+    "question": "Does the image contain any chairs?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2345057,
+    "question": "Does the image contain any wall?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2345057,
+    "question": "Is there a carpet in the image?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2345057,
+    "question": "Does the image contain any shirt?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2345057,
+    "question": "Does the image contain any tail?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2345057,
+    "question": "Can you see a person in this picture?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2342191,
+    "question": "Is there a coat rack in the image?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2342191,
+    "question": "Can you see a stand in this picture?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2342191,
+    "question": "Is there a floor in the image?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2342191,
+    "question": "Does the image contain any leg?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2342191,
+    "question": "Does the image contain any flowers?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2341973,
+    "question": "Is there a wing in the image?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2341973,
+    "question": "Is there a person in the image?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2341973,
+    "question": "Is there a tail in the image?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2341973,
+    "question": "Can you see a airplane in this picture?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2341973,
+    "question": "Does the image contain any wings?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2323495,
+    "question": "Does the image contain any ground?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2323495,
+    "question": "Does the image contain any tree?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2323495,
+    "question": "Can you see a helmet in this picture?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2323495,
+    "question": "Can you see a windshield in this picture?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2323495,
+    "question": "Can you see a leg in this picture?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2318030,
+    "question": "Does the image contain any leash?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2318030,
+    "question": "Is there a paw in the image?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2318030,
+    "question": "Can you see a dog in this picture?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2318030,
+    "question": "Does the image contain any windshield?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2318030,
+    "question": "Does the image contain any paws?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2413651,
+    "question": "Does the image contain any rotor?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2413651,
+    "question": "Does the image contain any akbank?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2413651,
+    "question": "Does the image contain any airport?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2413651,
+    "question": "Can you see a wheels in this picture?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  },
+  {
+    "image_id": 2413651,
+    "question": "Does the image contain any ground?",
+    "answer": "Yes",
+    "instruction": "Answer ONLY 'Yes' or 'No' based on: 1. 'Yes' - Object is clearly and unambiguously visible 2. 'No' - Object is absent or uncertain Never explain.",
+    "level": 1
+  }
+]

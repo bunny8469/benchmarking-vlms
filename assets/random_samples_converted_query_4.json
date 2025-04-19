@@ -1,0 +1,1273 @@
+[
+  {
+    "image_id": 2406881,
+    "relations": [
+      {
+        "subject": "person",
+        "object": "shoes",
+        "relationship": "WEARING"
+      },
+      {
+        "subject": "person",
+        "object": "shoes",
+        "relationship": "wearing"
+      },
+      {
+        "subject": "person",
+        "object": "shirt",
+        "relationship": "WEARING"
+      },
+      {
+        "subject": "wall",
+        "object": "graffiti",
+        "relationship": "covered in"
+      },
+      {
+        "subject": "person",
+        "object": "shirt",
+        "relationship": "WEARING"
+      }
+    ]
+  },
+  {
+    "image_id": 2398232,
+    "relations": [
+      {
+        "subject": "legs",
+        "object": "horse",
+        "relationship": "attached to"
+      },
+      {
+        "subject": "legs",
+        "object": "horse",
+        "relationship": "are part of"
+      },
+      {
+        "subject": "legs",
+        "object": "horse",
+        "relationship": "are part of"
+      },
+      {
+        "subject": "flowers",
+        "object": "horse",
+        "relationship": "are behind"
+      },
+      {
+        "subject": "flowers",
+        "object": "horse",
+        "relationship": "are behind"
+      },
+      {
+        "subject": "grass",
+        "object": "horse",
+        "relationship": "being eaten by"
+      },
+      {
+        "subject": "grass",
+        "object": "horse",
+        "relationship": "below"
+      },
+      {
+        "subject": "grass",
+        "object": "horse",
+        "relationship": "below"
+      },
+      {
+        "subject": "fence",
+        "object": "horse",
+        "relationship": "behind"
+      },
+      {
+        "subject": "flowers",
+        "object": "horse",
+        "relationship": "are behind"
+      },
+      {
+        "subject": "trees",
+        "object": "fence",
+        "relationship": "are behind"
+      },
+      {
+        "subject": "horse",
+        "object": "grass",
+        "relationship": "above"
+      },
+      {
+        "subject": "grass",
+        "object": "horse",
+        "relationship": "below"
+      },
+      {
+        "subject": "grass",
+        "object": "horse",
+        "relationship": "below"
+      },
+      {
+        "subject": "grass",
+        "object": "horse",
+        "relationship": "below"
+      },
+      {
+        "subject": "grass",
+        "object": "horse",
+        "relationship": "below"
+      },
+      {
+        "subject": "flowers",
+        "object": "horse",
+        "relationship": "behind"
+      },
+      {
+        "subject": "flowers",
+        "object": "horse",
+        "relationship": "behind"
+      },
+      {
+        "subject": "grass",
+        "object": "horse",
+        "relationship": "below"
+      }
+    ]
+  },
+  {
+    "image_id": 2390184,
+    "relations": [
+      {
+        "subject": "vehicle",
+        "object": "curb",
+        "relationship": "parked by"
+      },
+      {
+        "subject": "windows",
+        "object": "frames",
+        "relationship": "have"
+      },
+      {
+        "subject": "grates",
+        "object": "window",
+        "relationship": "over"
+      },
+      {
+        "subject": "pedestrian signal",
+        "object": "pole",
+        "relationship": "attached to"
+      },
+      {
+        "subject": "white lines",
+        "object": "road",
+        "relationship": "painted on"
+      },
+      {
+        "subject": "vehicle",
+        "object": "curb",
+        "relationship": "parked on"
+      },
+      {
+        "subject": "pick up truck",
+        "object": "road",
+        "relationship": "on side of"
+      },
+      {
+        "subject": "grates",
+        "object": "building",
+        "relationship": "hanging on"
+      },
+      {
+        "subject": "road",
+        "object": "sidewalk",
+        "relationship": "by"
+      },
+      {
+        "subject": "road",
+        "object": "curb",
+        "relationship": "by"
+      },
+      {
+        "subject": "road",
+        "object": "red pole",
+        "relationship": "by"
+      },
+      {
+        "subject": "vehicle",
+        "object": "curb",
+        "relationship": "parked on"
+      },
+      {
+        "subject": "pick up truck",
+        "object": "road",
+        "relationship": "parked on"
+      },
+      {
+        "subject": "white lines",
+        "object": "road",
+        "relationship": "painted on"
+      },
+      {
+        "subject": "pole",
+        "object": "sign",
+        "relationship": "holding"
+      },
+      {
+        "subject": "pole",
+        "object": "traffic signal",
+        "relationship": "holding"
+      },
+      {
+        "subject": "building",
+        "object": "road",
+        "relationship": "by"
+      },
+      {
+        "subject": "vehicle",
+        "object": "pick up truck",
+        "relationship": "close to"
+      },
+      {
+        "subject": "pick up truck",
+        "object": "plywood",
+        "relationship": "has"
+      }
+    ]
+  },
+  {
+    "image_id": 2388483,
+    "relations": [
+      {
+        "subject": "man",
+        "object": "umbrella",
+        "relationship": "carrying an"
+      },
+      {
+        "subject": "man",
+        "object": "umbrella",
+        "relationship": "carrying"
+      },
+      {
+        "subject": "man",
+        "object": "umbrella",
+        "relationship": "carrying"
+      },
+      {
+        "subject": "man",
+        "object": "umbrella",
+        "relationship": "carrying"
+      },
+      {
+        "subject": "man",
+        "object": "bicycle",
+        "relationship": "riding"
+      }
+    ]
+  },
+  {
+    "image_id": 2387230,
+    "relations": [
+      {
+        "subject": "man",
+        "object": "bike",
+        "relationship": "riding"
+      },
+      {
+        "subject": "trees",
+        "object": "road",
+        "relationship": "behind"
+      },
+      {
+        "subject": "man",
+        "object": "bike",
+        "relationship": "riding"
+      },
+      {
+        "subject": "tent",
+        "object": "trees",
+        "relationship": "by"
+      },
+      {
+        "subject": "man",
+        "object": "bike",
+        "relationship": "riding"
+      },
+      {
+        "subject": "trees",
+        "object": "car",
+        "relationship": "behind"
+      },
+      {
+        "subject": "man",
+        "object": "bicycle",
+        "relationship": "riding"
+      },
+      {
+        "subject": "man",
+        "object": "glasses",
+        "relationship": "WEARING"
+      },
+      {
+        "subject": "people",
+        "object": "sidewalk",
+        "relationship": "standing on"
+      }
+    ]
+  },
+  {
+    "image_id": 2383091,
+    "relations": [
+      {
+        "subject": "tennis racket",
+        "object": "player",
+        "relationship": "in hand of"
+      },
+      {
+        "subject": "tennis shoe",
+        "object": "player",
+        "relationship": "on foot of"
+      },
+      {
+        "subject": "tennis player",
+        "object": "ball",
+        "relationship": "swinging at a"
+      },
+      {
+        "subject": "visor",
+        "object": "player",
+        "relationship": "on head of"
+      },
+      {
+        "subject": "woman",
+        "object": "ball",
+        "relationship": "hitting a"
+      },
+      {
+        "subject": "woman",
+        "object": "ball",
+        "relationship": "hitting a"
+      },
+      {
+        "subject": "woman",
+        "object": "tennis court",
+        "relationship": "on a"
+      },
+      {
+        "subject": "woman",
+        "object": "tennis court",
+        "relationship": "on a"
+      },
+      {
+        "subject": "woman",
+        "object": "visor",
+        "relationship": "with a"
+      },
+      {
+        "subject": "tennis player",
+        "object": "ball",
+        "relationship": "hitting"
+      }
+    ]
+  },
+  {
+    "image_id": 2376050,
+    "relations": [
+      {
+        "subject": "bike",
+        "object": "wheel",
+        "relationship": "has"
+      },
+      {
+        "subject": "exhaust pipe",
+        "object": "motorcycle",
+        "relationship": "on a"
+      },
+      {
+        "subject": "man",
+        "object": "hair",
+        "relationship": "has"
+      },
+      {
+        "subject": "front wheel",
+        "object": "motorcycle",
+        "relationship": "of a"
+      },
+      {
+        "subject": "handlebar",
+        "object": "motorcycle",
+        "relationship": "of a"
+      },
+      {
+        "subject": "seat",
+        "object": "motorcycle",
+        "relationship": "on a"
+      },
+      {
+        "subject": "license plate",
+        "object": "motorcycle",
+        "relationship": "of a"
+      },
+      {
+        "subject": "bike",
+        "object": "tail light",
+        "relationship": "has"
+      },
+      {
+        "subject": "man",
+        "object": "necklace",
+        "relationship": "has"
+      },
+      {
+        "subject": "face",
+        "object": "man",
+        "relationship": "of a"
+      },
+      {
+        "subject": "man",
+        "object": "arm",
+        "relationship": "has"
+      }
+    ]
+  },
+  {
+    "image_id": 2371699,
+    "relations": [
+      {
+        "subject": "cream",
+        "object": "dessert",
+        "relationship": "on top of"
+      },
+      {
+        "subject": "banana",
+        "object": "plate",
+        "relationship": "on top of"
+      },
+      {
+        "subject": "powdered sugar",
+        "object": "banana",
+        "relationship": "on top of"
+      }
+    ]
+  },
+  {
+    "image_id": 2371314,
+    "relations": [
+      {
+        "subject": "cows",
+        "object": "road",
+        "relationship": "are crossing"
+      },
+      {
+        "subject": "plate",
+        "object": "car",
+        "relationship": "on back of"
+      },
+      {
+        "subject": "light",
+        "object": "car",
+        "relationship": "on back of"
+      },
+      {
+        "subject": "car",
+        "object": "tire",
+        "relationship": "has"
+      },
+      {
+        "subject": "car",
+        "object": "tire",
+        "relationship": "has"
+      },
+      {
+        "subject": "cows",
+        "object": "road",
+        "relationship": "are on"
+      },
+      {
+        "subject": "plate",
+        "object": "license",
+        "relationship": "has"
+      },
+      {
+        "subject": "cows",
+        "object": "road",
+        "relationship": "are on"
+      },
+      {
+        "subject": "pasture",
+        "object": "cows",
+        "relationship": "has"
+      },
+      {
+        "subject": "pasture",
+        "object": "cows",
+        "relationship": "has"
+      },
+      {
+        "subject": "plate",
+        "object": "car",
+        "relationship": "on back of"
+      }
+    ]
+  },
+  {
+    "image_id": 2370746,
+    "relations": [
+      {
+        "subject": "man",
+        "object": "surfboard",
+        "relationship": "riding"
+      },
+      {
+        "subject": "spray",
+        "object": "wave",
+        "relationship": "coming off"
+      },
+      {
+        "subject": "man",
+        "object": "wetsuit",
+        "relationship": "WEARING"
+      },
+      {
+        "subject": "mountain",
+        "object": "houses",
+        "relationship": "supports"
+      },
+      {
+        "subject": "man",
+        "object": "water",
+        "relationship": "surfing in"
+      },
+      {
+        "subject": "surfer",
+        "object": "wetsuit",
+        "relationship": "WEARING"
+      },
+      {
+        "subject": "surfer",
+        "object": "surfboard",
+        "relationship": "crouching on"
+      },
+      {
+        "subject": "surfer",
+        "object": "wave",
+        "relationship": "riding"
+      },
+      {
+        "subject": "hand",
+        "object": "surfboard",
+        "relationship": "touching"
+      }
+    ]
+  },
+  null,
+  {
+    "image_id": 2355451,
+    "relations": [
+      {
+        "subject": "woman",
+        "object": "shorts",
+        "relationship": "WEARING"
+      },
+      {
+        "subject": "woman",
+        "object": "shoes",
+        "relationship": "WEARING"
+      },
+      {
+        "subject": "woman",
+        "object": "shirt",
+        "relationship": "wearing a"
+      },
+      {
+        "subject": "woman",
+        "object": "visor",
+        "relationship": "wearing a"
+      },
+      {
+        "subject": "woman",
+        "object": "racket",
+        "relationship": "swinging a"
+      },
+      {
+        "subject": "woman",
+        "object": "tennis",
+        "relationship": "playing"
+      },
+      {
+        "subject": "man",
+        "object": "shirt",
+        "relationship": "wearing a"
+      },
+      {
+        "subject": "man",
+        "object": "pants",
+        "relationship": "WEARING"
+      },
+      {
+        "subject": "man",
+        "object": "shorts",
+        "relationship": "WEARING"
+      },
+      {
+        "subject": "woman",
+        "object": "shorts",
+        "relationship": "WEARING"
+      },
+      {
+        "subject": "woman",
+        "object": "visor",
+        "relationship": "has"
+      },
+      {
+        "subject": "net",
+        "object": "tennis court",
+        "relationship": "over"
+      },
+      {
+        "subject": "people",
+        "object": "stands",
+        "relationship": "are in"
+      },
+      {
+        "subject": "wall",
+        "object": "advertisements",
+        "relationship": "has"
+      },
+      {
+        "subject": "wall",
+        "object": "players",
+        "relationship": "behind"
+      },
+      {
+        "subject": "stands",
+        "object": "empty seats",
+        "relationship": "has"
+      },
+      {
+        "subject": "tennis court",
+        "object": "baseline",
+        "relationship": "has"
+      },
+      {
+        "subject": "steps",
+        "object": "handrail",
+        "relationship": "has"
+      },
+      {
+        "subject": "woman",
+        "object": "tennis",
+        "relationship": "playing"
+      },
+      {
+        "subject": "woman",
+        "object": "tennis court",
+        "relationship": "standing on"
+      },
+      {
+        "subject": "woman",
+        "object": "tennis court",
+        "relationship": "standing on"
+      },
+      {
+        "subject": "woman",
+        "object": "racket",
+        "relationship": "holding"
+      },
+      {
+        "subject": "woman",
+        "object": "racket",
+        "relationship": "holding"
+      },
+      {
+        "subject": "woman",
+        "object": "racket",
+        "relationship": "swinging a"
+      },
+      {
+        "subject": "woman",
+        "object": "racket",
+        "relationship": "swinging a"
+      },
+      {
+        "subject": "woman",
+        "object": "shirt",
+        "relationship": "wearing a"
+      },
+      {
+        "subject": "woman",
+        "object": "visor",
+        "relationship": "wearing a"
+      },
+      {
+        "subject": "woman",
+        "object": "shorts",
+        "relationship": "WEARING"
+      },
+      {
+        "subject": "players",
+        "object": "tennis",
+        "relationship": "are playing"
+      },
+      {
+        "subject": "woman",
+        "object": "tennis ball",
+        "relationship": "returning"
+      },
+      {
+        "subject": "woman",
+        "object": "tennis ball",
+        "relationship": "returning"
+      },
+      {
+        "subject": "stands",
+        "object": "empty seats",
+        "relationship": "has"
+      },
+      {
+        "subject": "people",
+        "object": "tennis",
+        "relationship": "are watching"
+      },
+      {
+        "subject": "woman",
+        "object": "tennis",
+        "relationship": "playing"
+      },
+      {
+        "subject": "woman",
+        "object": "shorts",
+        "relationship": "WEARING"
+      },
+      {
+        "subject": "woman",
+        "object": "ponytail",
+        "relationship": "has"
+      },
+      {
+        "subject": "woman",
+        "object": "legs",
+        "relationship": "has"
+      },
+      {
+        "subject": "woman",
+        "object": "visor",
+        "relationship": "wearing a"
+      },
+      {
+        "subject": "net",
+        "object": "tennis court",
+        "relationship": "in middle of"
+      },
+      {
+        "subject": "people",
+        "object": "stands",
+        "relationship": "are sitting in"
+      }
+    ]
+  },
+  {
+    "image_id": 2355374,
+    "relations": [
+      {
+        "subject": "man",
+        "object": "glasses",
+        "relationship": "WEARING"
+      },
+      {
+        "subject": "man",
+        "object": "necklace",
+        "relationship": "WEARING"
+      },
+      {
+        "subject": "man",
+        "object": "remote",
+        "relationship": "holding"
+      },
+      {
+        "subject": "man",
+        "object": "shirt",
+        "relationship": "WEARING"
+      },
+      {
+        "subject": "man",
+        "object": "shirt",
+        "relationship": "WEARING"
+      },
+      {
+        "subject": "man",
+        "object": "wii remote",
+        "relationship": "playing with"
+      },
+      {
+        "subject": "man",
+        "object": "shorts",
+        "relationship": "WEARING"
+      },
+      {
+        "subject": "man",
+        "object": "blanket",
+        "relationship": "standing on"
+      },
+      {
+        "subject": "man",
+        "object": "glasses",
+        "relationship": "WEARING"
+      },
+      {
+        "subject": "man",
+        "object": "sock",
+        "relationship": "has"
+      },
+      {
+        "subject": "man",
+        "object": "necklace",
+        "relationship": "has"
+      },
+      {
+        "subject": "door",
+        "object": "man",
+        "relationship": "behind"
+      },
+      {
+        "subject": "man",
+        "object": "video games",
+        "relationship": "playing"
+      },
+      {
+        "subject": "man",
+        "object": "watch",
+        "relationship": "has"
+      },
+      {
+        "subject": "man",
+        "object": "eyeglasses",
+        "relationship": "WEARING"
+      }
+    ]
+  },
+  {
+    "image_id": 2351062,
+    "relations": [
+      {
+        "subject": "woman",
+        "object": "tank top",
+        "relationship": "WEARING"
+      },
+      {
+        "subject": "woman",
+        "object": "tank top",
+        "relationship": "WEARING"
+      },
+      {
+        "subject": "woman",
+        "object": "round table",
+        "relationship": "sitting at"
+      },
+      {
+        "subject": "woman",
+        "object": "form",
+        "relationship": "filling out"
+      },
+      {
+        "subject": "man",
+        "object": "table",
+        "relationship": "standing in front of"
+      }
+    ]
+  },
+  {
+    "image_id": 2345057,
+    "relations": [
+      {
+        "subject": "cat",
+        "object": "peel",
+        "relationship": "licks"
+      },
+      {
+        "subject": "cat",
+        "object": "peel",
+        "relationship": "licks"
+      },
+      {
+        "subject": "cat",
+        "object": "legs",
+        "relationship": "has"
+      },
+      {
+        "subject": "cat",
+        "object": "banana",
+        "relationship": "eats"
+      },
+      {
+        "subject": "banana",
+        "object": "cat",
+        "relationship": "for"
+      },
+      {
+        "subject": "banana",
+        "object": "cat",
+        "relationship": "for"
+      },
+      {
+        "subject": "cat",
+        "object": "banana",
+        "relationship": "eats"
+      },
+      {
+        "subject": "person",
+        "object": "banana",
+        "relationship": "holds"
+      },
+      {
+        "subject": "person",
+        "object": "cat",
+        "relationship": "feeds"
+      },
+      {
+        "subject": "cat",
+        "object": "eye",
+        "relationship": "has"
+      },
+      {
+        "subject": "cat",
+        "object": "ear",
+        "relationship": "has"
+      },
+      {
+        "subject": "cat",
+        "object": "ear",
+        "relationship": "has"
+      },
+      {
+        "subject": "cat",
+        "object": "tongue",
+        "relationship": "has"
+      },
+      {
+        "subject": "cat",
+        "object": "tail",
+        "relationship": "has"
+      },
+      {
+        "subject": "person",
+        "object": "banana",
+        "relationship": "holds"
+      },
+      {
+        "subject": "cat",
+        "object": "eye",
+        "relationship": "has"
+      }
+    ]
+  },
+  {
+    "image_id": 2342191,
+    "relations": [
+      {
+        "subject": "bed",
+        "object": "floral cover",
+        "relationship": "has"
+      },
+      {
+        "subject": "coat rack",
+        "object": "bed",
+        "relationship": "by"
+      },
+      {
+        "subject": "stand",
+        "object": "cloth",
+        "relationship": "has"
+      },
+      {
+        "subject": "luggage",
+        "object": "tag",
+        "relationship": "has"
+      },
+      {
+        "subject": "stand",
+        "object": "bed",
+        "relationship": "by"
+      },
+      {
+        "subject": "stand",
+        "object": "bed",
+        "relationship": "by"
+      },
+      {
+        "subject": "jacket",
+        "object": "coat rack",
+        "relationship": "hanging on"
+      },
+      {
+        "subject": "paper",
+        "object": "bed",
+        "relationship": "above"
+      },
+      {
+        "subject": "frame",
+        "object": "bed",
+        "relationship": "over"
+      }
+    ]
+  },
+  {
+    "image_id": 2341973,
+    "relations": [
+      {
+        "subject": "person",
+        "object": "airport",
+        "relationship": "watching"
+      },
+      {
+        "subject": "person",
+        "object": "airport",
+        "relationship": "watching"
+      },
+      {
+        "subject": "aircraft",
+        "object": "wings",
+        "relationship": "has"
+      },
+      {
+        "subject": "tree",
+        "object": "runway",
+        "relationship": "near"
+      },
+      {
+        "subject": "hangar",
+        "object": "airport",
+        "relationship": "at"
+      },
+      {
+        "subject": "sky",
+        "object": "airplane",
+        "relationship": "above"
+      },
+      {
+        "subject": "pole",
+        "object": "grass",
+        "relationship": "near"
+      }
+    ]
+  },
+  {
+    "image_id": 2323495,
+    "relations": [
+      {
+        "subject": "motorcycle",
+        "object": "road",
+        "relationship": "on side of"
+      },
+      {
+        "subject": "bike",
+        "object": "kickstand",
+        "relationship": "has"
+      },
+      {
+        "subject": "helmet",
+        "object": "bike",
+        "relationship": "hanging off"
+      },
+      {
+        "subject": "bike",
+        "object": "windshield",
+        "relationship": "has"
+      },
+      {
+        "subject": "bike",
+        "object": "shadow",
+        "relationship": "casting"
+      },
+      {
+        "subject": "helmet",
+        "object": "handlebar",
+        "relationship": "hangs on"
+      },
+      {
+        "subject": "weeds",
+        "object": "bench",
+        "relationship": "growing around"
+      }
+    ]
+  },
+  {
+    "image_id": 2318030,
+    "relations": [
+      {
+        "subject": "dog",
+        "object": "wheel",
+        "relationship": "behind"
+      },
+      {
+        "subject": "dog",
+        "object": "helmet",
+        "relationship": "WEARING"
+      },
+      {
+        "subject": "dog",
+        "object": "harness",
+        "relationship": "WEARING"
+      },
+      {
+        "subject": "dog",
+        "object": "paw",
+        "relationship": "has"
+      },
+      {
+        "subject": "dog",
+        "object": "nose",
+        "relationship": "has"
+      },
+      {
+        "subject": "person",
+        "object": "helmet",
+        "relationship": "WEARING"
+      },
+      {
+        "subject": "dog",
+        "object": "helmet",
+        "relationship": "WEARING"
+      },
+      {
+        "subject": "girl",
+        "object": "helmet",
+        "relationship": "WEARING"
+      },
+      {
+        "subject": "girl",
+        "object": "helmet",
+        "relationship": "WEARING"
+      },
+      {
+        "subject": "girl",
+        "object": "jacket",
+        "relationship": "WEARING"
+      },
+      {
+        "subject": "white dog",
+        "object": "hat",
+        "relationship": "WEARING"
+      },
+      {
+        "subject": "face",
+        "object": "mouth",
+        "relationship": "has"
+      },
+      {
+        "subject": "face",
+        "object": "eye",
+        "relationship": "has"
+      },
+      {
+        "subject": "face",
+        "object": "eye",
+        "relationship": "has"
+      },
+      {
+        "subject": "dog",
+        "object": "eye",
+        "relationship": "has"
+      },
+      {
+        "subject": "dog",
+        "object": "eye",
+        "relationship": "has"
+      }
+    ]
+  },
+  {
+    "image_id": 2413651,
+    "relations": [
+      {
+        "subject": "words",
+        "object": "plane",
+        "relationship": "written on"
+      },
+      {
+        "subject": "tower",
+        "object": "airport",
+        "relationship": "at"
+      },
+      {
+        "subject": "wheels",
+        "object": "plane",
+        "relationship": "are on"
+      },
+      {
+        "subject": "plane engine",
+        "object": "rotor",
+        "relationship": "has"
+      },
+      {
+        "subject": "plane",
+        "object": "airport",
+        "relationship": "at"
+      },
+      {
+        "subject": "plane",
+        "object": "words",
+        "relationship": "has"
+      },
+      {
+        "subject": "walkway",
+        "object": "plane",
+        "relationship": "connected to"
+      },
+      {
+        "subject": "tower",
+        "object": "plane",
+        "relationship": "behind"
+      },
+      {
+        "subject": "car",
+        "object": "runway",
+        "relationship": "parked on"
+      },
+      {
+        "subject": "walkway",
+        "object": "akbank",
+        "relationship": "reads"
+      },
+      {
+        "subject": "cone",
+        "object": "plane",
+        "relationship": "near"
+      },
+      {
+        "subject": "tower",
+        "object": "plane",
+        "relationship": "behind"
+      },
+      {
+        "subject": "wheels",
+        "object": "plane",
+        "relationship": "are under"
+      },
+      {
+        "subject": "car",
+        "object": "plane",
+        "relationship": "next to"
+      },
+      {
+        "subject": "car",
+        "object": "car",
+        "relationship": "next to"
+      },
+      {
+        "subject": "plane",
+        "object": "tail",
+        "relationship": "has"
+      },
+      {
+        "subject": "trees",
+        "object": "tower",
+        "relationship": "near"
+      },
+      {
+        "subject": "plane engine",
+        "object": "wing",
+        "relationship": "near"
+      },
+      {
+        "subject": "plane",
+        "object": "airport",
+        "relationship": "at"
+      }
+    ]
+  }
+]

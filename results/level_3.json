@@ -1,0 +1,142 @@
+[
+  {
+    "image_id": 86,
+    "query": "Fill in the blank with most appropriate verb, person _____ train",
+    "ground_truth": "sitting",
+    "prediction": "Sorry, as a base VLM I am not trained to answer this question.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 86,
+    "query": "Fill in the blank with most appropriate verb, man _____ subway",
+    "ground_truth": "sitting",
+    "prediction": "Sorry, as a base VLM I am not trained to answer this question.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 86,
+    "query": "Fill in the blank with most appropriate verb, man _____ pants",
+    "ground_truth": "wearing",
+    "prediction": "Sorry, as a base VLM I am not trained to answer this question.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 86,
+    "query": "Based on the image, what is the relationship between man and book?",
+    "ground_truth": "reading",
+    "prediction": "MAN IS READING BOOK",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2416478,
+    "query": "Fill in the blank with most appropriate verb, grass _____ ground",
+    "ground_truth": "rowing",
+    "prediction": "Sorry, as a base VLM I am not trained to answer this question.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2416478,
+    "query": "Fill in the blank with most appropriate verb, baseball player _____ leg",
+    "ground_truth": "standing",
+    "prediction": "Sorry, as a base VLM I am not trained to answer this question.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2416478,
+    "query": "Based on the image, what is the relationship between grass and infield?",
+    "ground_truth": "covering",
+    "prediction": "In this image, grass is higher than infield, so the answer is \"grass\".",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2416478,
+    "query": "Fill in the blank with most appropriate verb, pitcher _____ cleats",
+    "ground_truth": "wearing",
+    "prediction": "Sorry, as a base VLM I am not trained to answer this question.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2416545,
+    "query": "Based on the image, what is the relationship between person and water?",
+    "ground_truth": "surfing",
+    "prediction": "Person is surfing in water.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2417265,
+    "query": "Based on the image, what is the relationship between he and hotdog?",
+    "ground_truth": "eating",
+    "prediction": "Sorry, as a base VLM I am not trained to answer this question.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2417300,
+    "query": "Based on the image, what is the relationship between man and pants?",
+    "ground_truth": "wearing",
+    "prediction": "Sorry, as a base VLM I am not trained to answer this question.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2417415,
+    "query": "Based on the image, what is the relationship between person and donut?",
+    "ground_truth": "holding",
+    "prediction": "person holds donut",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2417415,
+    "query": "Based on the image, what is the relationship between hand and donut?",
+    "ground_truth": "holding",
+    "prediction": "The image shows a hand holding a donut, so the answer is hand.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2417415,
+    "query": "Fill in the blank with most appropriate verb, woman's hand _____ donut",
+    "ground_truth": "holding",
+    "prediction": "Sorry, as a base VLM I am not trained to answer this question.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2417820,
+    "query": "Based on the image, what is the relationship between man and orange jersey?",
+    "ground_truth": "wearing",
+    "prediction": "Sorry, as a base VLM I am not trained to answer this question.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2417820,
+    "query": "Fill in the blank with most appropriate verb, man _____ pants",
+    "ground_truth": "wearing",
+    "prediction": "Sorry, as a base VLM I am not trained to answer this question.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2417820,
+    "query": "Fill in the blank with most appropriate verb, man _____ shirt",
+    "ground_truth": "wearing",
+    "prediction": "Sorry, as a base VLM I am not trained to answer this question.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2417820,
+    "query": "Fill in the blank with most appropriate verb, player _____ jersey",
+    "ground_truth": "wearing",
+    "prediction": "Sorry, as a base VLM I am not trained to answer this question.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2417952,
+    "query": "Fill in the blank with most appropriate verb, light _____ ceiling",
+    "ground_truth": "hanging",
+    "prediction": "Sorry, as a base VLM I am not trained to answer this question.",
+    "word_probs": {}
+  },
+  {
+    "image_id": 2417952,
+    "query": "Based on the image, what is the relationship between light and floor?",
+    "ground_truth": "hitting",
+    "prediction": "Light comes from windows, so it goes through the window towards the floor. Floor is dark because there is no light inside.",
+    "word_probs": {}
+  }
+]

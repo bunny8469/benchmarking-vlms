@@ -1,0 +1,7482 @@
+[
+  {
+    "image_id": 615,
+    "question": "what is the relationship between man and jacket?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "jacket",
+    "level": 3
+  },
+  {
+    "image_id": 1523,
+    "question": "what is the relationship between light and keyboard?",
+    "answer": "hitting",
+    "subject": "light",
+    "object": "keyboard",
+    "level": 3
+  },
+  {
+    "image_id": 1901,
+    "question": "what is the relationship between person and boat?",
+    "answer": "standing",
+    "subject": "person",
+    "object": "boat",
+    "level": 3
+  },
+  {
+    "image_id": 1901,
+    "question": "what is the relationship between man and shirt?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 3963,
+    "question": "what is the relationship between woman and shirt?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 3963,
+    "question": "what is the relationship between human and shirt?",
+    "answer": "wearing",
+    "subject": "human",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 3963,
+    "question": "what is the relationship between woman and bracelet?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "bracelet",
+    "level": 3
+  },
+  {
+    "image_id": 3963,
+    "question": "what is the relationship between hand and paintbrush?",
+    "answer": "holding",
+    "subject": "hand",
+    "object": "paintbrush",
+    "level": 3
+  },
+  {
+    "image_id": 4146,
+    "question": "what is the relationship between person and glasses?",
+    "answer": "wearing",
+    "subject": "person",
+    "object": "glasses",
+    "level": 3
+  },
+  {
+    "image_id": 4146,
+    "question": "what is the relationship between man and bowtie?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "bowtie",
+    "level": 3
+  },
+  {
+    "image_id": 4146,
+    "question": "what is the relationship between dealer and casino?",
+    "answer": "standing",
+    "subject": "dealer",
+    "object": "casino",
+    "level": 3
+  },
+  {
+    "image_id": 4146,
+    "question": "what is the relationship between poker chips and table?",
+    "answer": "sitting",
+    "subject": "poker chips",
+    "object": "table",
+    "level": 3
+  },
+  {
+    "image_id": 4146,
+    "question": "what is the relationship between woman and casino?",
+    "answer": "standing",
+    "subject": "woman",
+    "object": "casino",
+    "level": 3
+  },
+  {
+    "image_id": 150517,
+    "question": "what is the relationship between man and shorts?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shorts",
+    "level": 3
+  },
+  {
+    "image_id": 285832,
+    "question": "what is the relationship between woman and dress?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "dress",
+    "level": 3
+  },
+  {
+    "image_id": 285832,
+    "question": "what is the relationship between woman and motorcycle?",
+    "answer": "sitting",
+    "subject": "woman",
+    "object": "motorcycle",
+    "level": 3
+  },
+  {
+    "image_id": 285832,
+    "question": "what is the relationship between woman and band?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "band",
+    "level": 3
+  },
+  {
+    "image_id": 285832,
+    "question": "what is the relationship between light and women?",
+    "answer": "shining",
+    "subject": "light",
+    "object": "women",
+    "level": 3
+  },
+  {
+    "image_id": 286004,
+    "question": "what is the relationship between man and shirt?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 286004,
+    "question": "what is the relationship between dog and man?",
+    "answer": "standing",
+    "subject": "dog",
+    "object": "man",
+    "level": 3
+  },
+  {
+    "image_id": 286004,
+    "question": "what is the relationship between man and bench?",
+    "answer": "sitting",
+    "subject": "man",
+    "object": "bench",
+    "level": 3
+  },
+  {
+    "image_id": 286004,
+    "question": "what is the relationship between person and shoes?",
+    "answer": "wearing",
+    "subject": "person",
+    "object": "shoes",
+    "level": 3
+  },
+  {
+    "image_id": 1159766,
+    "question": "what is the relationship between man and sand?",
+    "answer": "sitting",
+    "subject": "man",
+    "object": "sand",
+    "level": 3
+  },
+  {
+    "image_id": 1159766,
+    "question": "what is the relationship between bottle and sand?",
+    "answer": "sitting",
+    "subject": "bottle",
+    "object": "sand",
+    "level": 3
+  },
+  {
+    "image_id": 1159766,
+    "question": "what is the relationship between man and shorts?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shorts",
+    "level": 3
+  },
+  {
+    "image_id": 1159766,
+    "question": "what is the relationship between man and shirt?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 1159766,
+    "question": "what is the relationship between person and shorts?",
+    "answer": "wearing",
+    "subject": "person",
+    "object": "shorts",
+    "level": 3
+  },
+  {
+    "image_id": 1159766,
+    "question": "what is the relationship between man and trunks?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "trunks",
+    "level": 3
+  },
+  {
+    "image_id": 1159766,
+    "question": "what is the relationship between man and chair?",
+    "answer": "laying",
+    "subject": "man",
+    "object": "chair",
+    "level": 3
+  },
+  {
+    "image_id": 1159789,
+    "question": "what is the relationship between man and plate?",
+    "answer": "holding",
+    "subject": "man",
+    "object": "plate",
+    "level": 3
+  },
+  {
+    "image_id": 1159789,
+    "question": "what is the relationship between guy and jacket?",
+    "answer": "wearing",
+    "subject": "guy",
+    "object": "jacket",
+    "level": 3
+  },
+  {
+    "image_id": 1159789,
+    "question": "what is the relationship between guy and skateboard?",
+    "answer": "holding",
+    "subject": "guy",
+    "object": "skateboard",
+    "level": 3
+  },
+  {
+    "image_id": 1159789,
+    "question": "what is the relationship between hand and plate?",
+    "answer": "holding",
+    "subject": "hand",
+    "object": "plate",
+    "level": 3
+  },
+  {
+    "image_id": 1592132,
+    "question": "what is the relationship between man and backpack?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "backpack",
+    "level": 3
+  },
+  {
+    "image_id": 1592132,
+    "question": "what is the relationship between man and jacket?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "jacket",
+    "level": 3
+  },
+  {
+    "image_id": 1592132,
+    "question": "what is the relationship between man and pants?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "pants",
+    "level": 3
+  },
+  {
+    "image_id": 1592132,
+    "question": "what is the relationship between man and skis?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "skis",
+    "level": 3
+  },
+  {
+    "image_id": 1592132,
+    "question": "what is the relationship between man and coat?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "coat",
+    "level": 3
+  },
+  {
+    "image_id": 1592439,
+    "question": "what is the relationship between man and pizza?",
+    "answer": "cooking",
+    "subject": "man",
+    "object": "pizza",
+    "level": 3
+  },
+  {
+    "image_id": 1592439,
+    "question": "what is the relationship between man and apron?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "apron",
+    "level": 3
+  },
+  {
+    "image_id": 1592439,
+    "question": "what is the relationship between man and pizza?",
+    "answer": "holding",
+    "subject": "man",
+    "object": "pizza",
+    "level": 3
+  },
+  {
+    "image_id": 1592439,
+    "question": "what is the relationship between hand and handle?",
+    "answer": "holding",
+    "subject": "hand",
+    "object": "handle",
+    "level": 3
+  },
+  {
+    "image_id": 1592439,
+    "question": "what is the relationship between man and shirt?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 1592439,
+    "question": "what is the relationship between man and paddle?",
+    "answer": "holding",
+    "subject": "man",
+    "object": "paddle",
+    "level": 3
+  },
+  {
+    "image_id": 2414248,
+    "question": "what is the relationship between man and lifejacket?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "lifejacket",
+    "level": 3
+  },
+  {
+    "image_id": 2414248,
+    "question": "what is the relationship between man and wave?",
+    "answer": "riding",
+    "subject": "man",
+    "object": "wave",
+    "level": 3
+  },
+  {
+    "image_id": 2414248,
+    "question": "what is the relationship between man and helmet?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "helmet",
+    "level": 3
+  },
+  {
+    "image_id": 2414101,
+    "question": "what is the relationship between child and shirt?",
+    "answer": "wearing",
+    "subject": "child",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2412511,
+    "question": "what is the relationship between rock and bird?",
+    "answer": "carrying",
+    "subject": "rock",
+    "object": "bird",
+    "level": 3
+  },
+  {
+    "image_id": 2412490,
+    "question": "what is the relationship between driver and shirt?",
+    "answer": "wearing",
+    "subject": "driver",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2411389,
+    "question": "what is the relationship between girl and racket?",
+    "answer": "swinging",
+    "subject": "girl",
+    "object": "racket",
+    "level": 3
+  },
+  {
+    "image_id": 2411389,
+    "question": "what is the relationship between girl and shoe?",
+    "answer": "wearing",
+    "subject": "girl",
+    "object": "shoe",
+    "level": 3
+  },
+  {
+    "image_id": 2411389,
+    "question": "what is the relationship between player and top?",
+    "answer": "wearing",
+    "subject": "player",
+    "object": "top",
+    "level": 3
+  },
+  {
+    "image_id": 2410331,
+    "question": "what is the relationship between man and shirt?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2410331,
+    "question": "what is the relationship between man and pants?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "pants",
+    "level": 3
+  },
+  {
+    "image_id": 2410177,
+    "question": "what is the relationship between handcuffs and briefcase?",
+    "answer": "holding",
+    "subject": "handcuffs",
+    "object": "briefcase",
+    "level": 3
+  },
+  {
+    "image_id": 2409913,
+    "question": "what is the relationship between girl and sandwich?",
+    "answer": "holding",
+    "subject": "girl",
+    "object": "sandwich",
+    "level": 3
+  },
+  {
+    "image_id": 2409581,
+    "question": "what is the relationship between man and shirt?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2409108,
+    "question": "what is the relationship between road and tracks?",
+    "answer": "crossing",
+    "subject": "road",
+    "object": "tracks",
+    "level": 3
+  },
+  {
+    "image_id": 2409108,
+    "question": "what is the relationship between train and cargo?",
+    "answer": "pulling",
+    "subject": "train",
+    "object": "cargo",
+    "level": 3
+  },
+  {
+    "image_id": 2409108,
+    "question": "what is the relationship between person and locomotive engine?",
+    "answer": "sitting",
+    "subject": "person",
+    "object": "locomotive engine",
+    "level": 3
+  },
+  {
+    "image_id": 2409108,
+    "question": "what is the relationship between ladder and train?",
+    "answer": "entering",
+    "subject": "ladder",
+    "object": "train",
+    "level": 3
+  },
+  {
+    "image_id": 2409084,
+    "question": "what is the relationship between woman and lipstick?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "lipstick",
+    "level": 3
+  },
+  {
+    "image_id": 2409084,
+    "question": "what is the relationship between woman and hat?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "hat",
+    "level": 3
+  },
+  {
+    "image_id": 2409084,
+    "question": "what is the relationship between woman and coat?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "coat",
+    "level": 3
+  },
+  {
+    "image_id": 2409084,
+    "question": "what is the relationship between woman and glasses?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "glasses",
+    "level": 3
+  },
+  {
+    "image_id": 2408930,
+    "question": "what is the relationship between boy and shirt?",
+    "answer": "wearing",
+    "subject": "boy",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2408930,
+    "question": "what is the relationship between boy and kite?",
+    "answer": "lying",
+    "subject": "boy",
+    "object": "kite",
+    "level": 3
+  },
+  {
+    "image_id": 2408930,
+    "question": "what is the relationship between man and woman?",
+    "answer": "talking",
+    "subject": "man",
+    "object": "woman",
+    "level": 3
+  },
+  {
+    "image_id": 2408930,
+    "question": "what is the relationship between man and hat?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "hat",
+    "level": 3
+  },
+  {
+    "image_id": 2408930,
+    "question": "what is the relationship between woman and hat?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "hat",
+    "level": 3
+  },
+  {
+    "image_id": 2408930,
+    "question": "what is the relationship between woman and sunglasses?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "sunglasses",
+    "level": 3
+  },
+  {
+    "image_id": 2408930,
+    "question": "what is the relationship between boy and kite?",
+    "answer": "holding",
+    "subject": "boy",
+    "object": "kite",
+    "level": 3
+  },
+  {
+    "image_id": 2408930,
+    "question": "what is the relationship between boy and shorts?",
+    "answer": "wearing",
+    "subject": "boy",
+    "object": "shorts",
+    "level": 3
+  },
+  {
+    "image_id": 2407933,
+    "question": "what is the relationship between person and sweatshirt?",
+    "answer": "wearing",
+    "subject": "person",
+    "object": "sweatshirt",
+    "level": 3
+  },
+  {
+    "image_id": 2407933,
+    "question": "what is the relationship between pole and traffic lights?",
+    "answer": "holding",
+    "subject": "pole",
+    "object": "traffic lights",
+    "level": 3
+  },
+  {
+    "image_id": 2406818,
+    "question": "what is the relationship between man and wristwatch?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "wristwatch",
+    "level": 3
+  },
+  {
+    "image_id": 2406818,
+    "question": "what is the relationship between man and band?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "band",
+    "level": 3
+  },
+  {
+    "image_id": 2406818,
+    "question": "what is the relationship between man and tie?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "tie",
+    "level": 3
+  },
+  {
+    "image_id": 2406677,
+    "question": "what is the relationship between girl and gloves?",
+    "answer": "wearing",
+    "subject": "girl",
+    "object": "gloves",
+    "level": 3
+  },
+  {
+    "image_id": 2406677,
+    "question": "what is the relationship between foot and ball?",
+    "answer": "kicking",
+    "subject": "foot",
+    "object": "ball",
+    "level": 3
+  },
+  {
+    "image_id": 2406429,
+    "question": "what is the relationship between man and helmet?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "helmet",
+    "level": 3
+  },
+  {
+    "image_id": 2406429,
+    "question": "what is the relationship between man and pants?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "pants",
+    "level": 3
+  },
+  {
+    "image_id": 2406429,
+    "question": "what is the relationship between man and suit?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "suit",
+    "level": 3
+  },
+  {
+    "image_id": 2406429,
+    "question": "what is the relationship between woman and red?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "red",
+    "level": 3
+  },
+  {
+    "image_id": 2406039,
+    "question": "what is the relationship between hand and tennis racket?",
+    "answer": "holding",
+    "subject": "hand",
+    "object": "tennis racket",
+    "level": 3
+  },
+  {
+    "image_id": 2406039,
+    "question": "what is the relationship between lady and tennis ball?",
+    "answer": "hitting",
+    "subject": "lady",
+    "object": "tennis ball",
+    "level": 3
+  },
+  {
+    "image_id": 2406039,
+    "question": "what is the relationship between person and chair?",
+    "answer": "sitting",
+    "subject": "person",
+    "object": "chair",
+    "level": 3
+  },
+  {
+    "image_id": 2406039,
+    "question": "what is the relationship between person and shorts?",
+    "answer": "wearing",
+    "subject": "person",
+    "object": "shorts",
+    "level": 3
+  },
+  {
+    "image_id": 2406039,
+    "question": "what is the relationship between person and shirt?",
+    "answer": "wearing",
+    "subject": "person",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2406039,
+    "question": "what is the relationship between person and skirt?",
+    "answer": "wearing",
+    "subject": "person",
+    "object": "skirt",
+    "level": 3
+  },
+  {
+    "image_id": 2406039,
+    "question": "what is the relationship between player and ball?",
+    "answer": "serving",
+    "subject": "player",
+    "object": "ball",
+    "level": 3
+  },
+  {
+    "image_id": 2406039,
+    "question": "what is the relationship between judge and chair?",
+    "answer": "sitting",
+    "subject": "judge",
+    "object": "chair",
+    "level": 3
+  },
+  {
+    "image_id": 2406039,
+    "question": "what is the relationship between shingle and roof?",
+    "answer": "covering",
+    "subject": "shingle",
+    "object": "roof",
+    "level": 3
+  },
+  {
+    "image_id": 2406039,
+    "question": "what is the relationship between roof and building?",
+    "answer": "covering",
+    "subject": "roof",
+    "object": "building",
+    "level": 3
+  },
+  {
+    "image_id": 2405887,
+    "question": "what is the relationship between man's hand and cell phone?",
+    "answer": "holding",
+    "subject": "man's hand",
+    "object": "cell phone",
+    "level": 3
+  },
+  {
+    "image_id": 2405887,
+    "question": "what is the relationship between man and phone?",
+    "answer": "talking",
+    "subject": "man",
+    "object": "phone",
+    "level": 3
+  },
+  {
+    "image_id": 2405887,
+    "question": "what is the relationship between woman and blouse?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "blouse",
+    "level": 3
+  },
+  {
+    "image_id": 2405887,
+    "question": "what is the relationship between hand and cell phone?",
+    "answer": "holding",
+    "subject": "hand",
+    "object": "cell phone",
+    "level": 3
+  },
+  {
+    "image_id": 2405887,
+    "question": "what is the relationship between man and cell phone?",
+    "answer": "talking",
+    "subject": "man",
+    "object": "cell phone",
+    "level": 3
+  },
+  {
+    "image_id": 2405887,
+    "question": "what is the relationship between man and cell phone?",
+    "answer": "holding",
+    "subject": "man",
+    "object": "cell phone",
+    "level": 3
+  },
+  {
+    "image_id": 2405887,
+    "question": "what is the relationship between man and phone?",
+    "answer": "holding",
+    "subject": "man",
+    "object": "phone",
+    "level": 3
+  },
+  {
+    "image_id": 2405887,
+    "question": "what is the relationship between thumb and cell phone?",
+    "answer": "holding",
+    "subject": "thumb",
+    "object": "cell phone",
+    "level": 3
+  },
+  {
+    "image_id": 2405887,
+    "question": "what is the relationship between person and top?",
+    "answer": "wearing",
+    "subject": "person",
+    "object": "top",
+    "level": 3
+  },
+  {
+    "image_id": 2405866,
+    "question": "what is the relationship between person and shorts?",
+    "answer": "wearing",
+    "subject": "person",
+    "object": "shorts",
+    "level": 3
+  },
+  {
+    "image_id": 2405866,
+    "question": "what is the relationship between person and shirt?",
+    "answer": "wearing",
+    "subject": "person",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2405866,
+    "question": "what is the relationship between person and shoes?",
+    "answer": "wearing",
+    "subject": "person",
+    "object": "shoes",
+    "level": 3
+  },
+  {
+    "image_id": 2405866,
+    "question": "what is the relationship between man and frisbee?",
+    "answer": "holding",
+    "subject": "man",
+    "object": "frisbee",
+    "level": 3
+  },
+  {
+    "image_id": 2405866,
+    "question": "what is the relationship between man and frisbee?",
+    "answer": "laying",
+    "subject": "man",
+    "object": "frisbee",
+    "level": 3
+  },
+  {
+    "image_id": 2405866,
+    "question": "what is the relationship between guy and frisbee?",
+    "answer": "laying",
+    "subject": "guy",
+    "object": "frisbee",
+    "level": 3
+  },
+  {
+    "image_id": 2405347,
+    "question": "what is the relationship between shoe and foot?",
+    "answer": "covering",
+    "subject": "shoe",
+    "object": "foot",
+    "level": 3
+  },
+  {
+    "image_id": 2405347,
+    "question": "what is the relationship between feet and shoes?",
+    "answer": "wearing",
+    "subject": "feet",
+    "object": "shoes",
+    "level": 3
+  },
+  {
+    "image_id": 2405347,
+    "question": "what is the relationship between feet and surface?",
+    "answer": "standing",
+    "subject": "feet",
+    "object": "surface",
+    "level": 3
+  },
+  {
+    "image_id": 2405284,
+    "question": "what is the relationship between bear and carrot?",
+    "answer": "holding",
+    "subject": "bear",
+    "object": "carrot",
+    "level": 3
+  },
+  {
+    "image_id": 2404950,
+    "question": "what is the relationship between woman and jacket?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "jacket",
+    "level": 3
+  },
+  {
+    "image_id": 2404950,
+    "question": "what is the relationship between man and jacket?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "jacket",
+    "level": 3
+  },
+  {
+    "image_id": 2404341,
+    "question": "what is the relationship between kids and snow?",
+    "answer": "laying",
+    "subject": "kids",
+    "object": "snow",
+    "level": 3
+  },
+  {
+    "image_id": 2404341,
+    "question": "what is the relationship between kids and snow?",
+    "answer": "eating",
+    "subject": "kids",
+    "object": "snow",
+    "level": 3
+  },
+  {
+    "image_id": 2403791,
+    "question": "what is the relationship between kid and skateboard?",
+    "answer": "standing",
+    "subject": "kid",
+    "object": "skateboard",
+    "level": 3
+  },
+  {
+    "image_id": 2403791,
+    "question": "what is the relationship between kid and helmet?",
+    "answer": "wearing",
+    "subject": "kid",
+    "object": "helmet",
+    "level": 3
+  },
+  {
+    "image_id": 2403791,
+    "question": "what is the relationship between kid and blue jeans?",
+    "answer": "wearing",
+    "subject": "kid",
+    "object": "blue jeans",
+    "level": 3
+  },
+  {
+    "image_id": 2403791,
+    "question": "what is the relationship between kid and t shirt?",
+    "answer": "wearing",
+    "subject": "kid",
+    "object": "t shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2403783,
+    "question": "what is the relationship between woman and cup?",
+    "answer": "holding",
+    "subject": "woman",
+    "object": "cup",
+    "level": 3
+  },
+  {
+    "image_id": 2403783,
+    "question": "what is the relationship between woman and bottle?",
+    "answer": "pouring",
+    "subject": "woman",
+    "object": "bottle",
+    "level": 3
+  },
+  {
+    "image_id": 2403783,
+    "question": "what is the relationship between man and cup?",
+    "answer": "holding",
+    "subject": "man",
+    "object": "cup",
+    "level": 3
+  },
+  {
+    "image_id": 2403623,
+    "question": "what is the relationship between player and number?",
+    "answer": "wearing",
+    "subject": "player",
+    "object": "number",
+    "level": 3
+  },
+  {
+    "image_id": 2403623,
+    "question": "what is the relationship between player and uniform?",
+    "answer": "wearing",
+    "subject": "player",
+    "object": "uniform",
+    "level": 3
+  },
+  {
+    "image_id": 2403363,
+    "question": "what is the relationship between person and brown?",
+    "answer": "wearing",
+    "subject": "person",
+    "object": "brown",
+    "level": 3
+  },
+  {
+    "image_id": 2403363,
+    "question": "what is the relationship between person and white?",
+    "answer": "wearing",
+    "subject": "person",
+    "object": "white",
+    "level": 3
+  },
+  {
+    "image_id": 2403363,
+    "question": "what is the relationship between bear and street?",
+    "answer": "crossing",
+    "subject": "bear",
+    "object": "street",
+    "level": 3
+  },
+  {
+    "image_id": 2403363,
+    "question": "what is the relationship between bus and passengers?",
+    "answer": "carrying",
+    "subject": "bus",
+    "object": "passengers",
+    "level": 3
+  },
+  {
+    "image_id": 2403363,
+    "question": "what is the relationship between man and street?",
+    "answer": "walking",
+    "subject": "man",
+    "object": "street",
+    "level": 3
+  },
+  {
+    "image_id": 2403363,
+    "question": "what is the relationship between people and street?",
+    "answer": "crossing",
+    "subject": "people",
+    "object": "street",
+    "level": 3
+  },
+  {
+    "image_id": 2403363,
+    "question": "what is the relationship between yellow and lines?",
+    "answer": "crossing",
+    "subject": "yellow",
+    "object": "lines",
+    "level": 3
+  },
+  {
+    "image_id": 2403363,
+    "question": "what is the relationship between bus and bear?",
+    "answer": "driving",
+    "subject": "bus",
+    "object": "bear",
+    "level": 3
+  },
+  {
+    "image_id": 2402361,
+    "question": "what is the relationship between woman and pink shirt?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "pink shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2402361,
+    "question": "what is the relationship between woman and black skirt?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "black skirt",
+    "level": 3
+  },
+  {
+    "image_id": 2402361,
+    "question": "what is the relationship between woman and yellow racket?",
+    "answer": "holding",
+    "subject": "woman",
+    "object": "yellow racket",
+    "level": 3
+  },
+  {
+    "image_id": 2402361,
+    "question": "what is the relationship between woman and white shoe?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "white shoe",
+    "level": 3
+  },
+  {
+    "image_id": 2402361,
+    "question": "what is the relationship between man and white shirt?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "white shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2402361,
+    "question": "what is the relationship between man and white shoe?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "white shoe",
+    "level": 3
+  },
+  {
+    "image_id": 2402361,
+    "question": "what is the relationship between woman and tennis court?",
+    "answer": "standing",
+    "subject": "woman",
+    "object": "tennis court",
+    "level": 3
+  },
+  {
+    "image_id": 2402361,
+    "question": "what is the relationship between woman and racket?",
+    "answer": "holding",
+    "subject": "woman",
+    "object": "racket",
+    "level": 3
+  },
+  {
+    "image_id": 2402361,
+    "question": "what is the relationship between woman and tennis court?",
+    "answer": "laying",
+    "subject": "woman",
+    "object": "tennis court",
+    "level": 3
+  },
+  {
+    "image_id": 2402361,
+    "question": "what is the relationship between man and black shorts?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "black shorts",
+    "level": 3
+  },
+  {
+    "image_id": 2401506,
+    "question": "what is the relationship between woman and pastry?",
+    "answer": "eating",
+    "subject": "woman",
+    "object": "pastry",
+    "level": 3
+  },
+  {
+    "image_id": 2401506,
+    "question": "what is the relationship between hand and doughnut?",
+    "answer": "holding",
+    "subject": "hand",
+    "object": "doughnut",
+    "level": 3
+  },
+  {
+    "image_id": 2401506,
+    "question": "what is the relationship between woman and camera?",
+    "answer": "looking",
+    "subject": "woman",
+    "object": "camera",
+    "level": 3
+  },
+  {
+    "image_id": 2401506,
+    "question": "what is the relationship between man and bag?",
+    "answer": "holding",
+    "subject": "man",
+    "object": "bag",
+    "level": 3
+  },
+  {
+    "image_id": 2401506,
+    "question": "what is the relationship between man and doughnut?",
+    "answer": "eating",
+    "subject": "man",
+    "object": "doughnut",
+    "level": 3
+  },
+  {
+    "image_id": 2401506,
+    "question": "what is the relationship between man and watch?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "watch",
+    "level": 3
+  },
+  {
+    "image_id": 2401506,
+    "question": "what is the relationship between woman and rings?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "rings",
+    "level": 3
+  },
+  {
+    "image_id": 2401506,
+    "question": "what is the relationship between \"girl and bracelet?",
+    "answer": "wearing",
+    "subject": "\"girl",
+    "object": "bracelet",
+    "level": 3
+  },
+  {
+    "image_id": 2401506,
+    "question": "what is the relationship between man and red shirt?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "red shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2401506,
+    "question": "what is the relationship between woman and pastry?",
+    "answer": "looking",
+    "subject": "woman",
+    "object": "pastry",
+    "level": 3
+  },
+  {
+    "image_id": 2401431,
+    "question": "what is the relationship between man and green?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "green",
+    "level": 3
+  },
+  {
+    "image_id": 2401033,
+    "question": "what is the relationship between man and hat?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "hat",
+    "level": 3
+  },
+  {
+    "image_id": 2401033,
+    "question": "what is the relationship between man and uniform?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "uniform",
+    "level": 3
+  },
+  {
+    "image_id": 2401033,
+    "question": "what is the relationship between man and watch?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "watch",
+    "level": 3
+  },
+  {
+    "image_id": 2401033,
+    "question": "what is the relationship between man and knife?",
+    "answer": "holding",
+    "subject": "man",
+    "object": "knife",
+    "level": 3
+  },
+  {
+    "image_id": 2401033,
+    "question": "what is the relationship between man and glasses?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "glasses",
+    "level": 3
+  },
+  {
+    "image_id": 2401033,
+    "question": "what is the relationship between man and glove?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "glove",
+    "level": 3
+  },
+  {
+    "image_id": 2401033,
+    "question": "what is the relationship between man and shirt?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2401033,
+    "question": "what is the relationship between man and apron?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "apron",
+    "level": 3
+  },
+  {
+    "image_id": 2397681,
+    "question": "what is the relationship between man and window?",
+    "answer": "sitting",
+    "subject": "man",
+    "object": "window",
+    "level": 3
+  },
+  {
+    "image_id": 2397681,
+    "question": "what is the relationship between apple and bowl?",
+    "answer": "lying",
+    "subject": "apple",
+    "object": "bowl",
+    "level": 3
+  },
+  {
+    "image_id": 2397681,
+    "question": "what is the relationship between glass and wine?",
+    "answer": "containing",
+    "subject": "glass",
+    "object": "wine",
+    "level": 3
+  },
+  {
+    "image_id": 2397554,
+    "question": "what is the relationship between rider and orange?",
+    "answer": "wearing",
+    "subject": "rider",
+    "object": "orange",
+    "level": 3
+  },
+  {
+    "image_id": 2397554,
+    "question": "what is the relationship between rider and white?",
+    "answer": "wearing",
+    "subject": "rider",
+    "object": "white",
+    "level": 3
+  },
+  {
+    "image_id": 2397554,
+    "question": "what is the relationship between rider and hat?",
+    "answer": "wearing",
+    "subject": "rider",
+    "object": "hat",
+    "level": 3
+  },
+  {
+    "image_id": 2397554,
+    "question": "what is the relationship between rider and top?",
+    "answer": "wearing",
+    "subject": "rider",
+    "object": "top",
+    "level": 3
+  },
+  {
+    "image_id": 2397554,
+    "question": "what is the relationship between rider and reins?",
+    "answer": "holding",
+    "subject": "rider",
+    "object": "reins",
+    "level": 3
+  },
+  {
+    "image_id": 2397554,
+    "question": "what is the relationship between people and horses?",
+    "answer": "riding",
+    "subject": "people",
+    "object": "horses",
+    "level": 3
+  },
+  {
+    "image_id": 2397554,
+    "question": "what is the relationship between horse and water?",
+    "answer": "walking",
+    "subject": "horse",
+    "object": "water",
+    "level": 3
+  },
+  {
+    "image_id": 2397554,
+    "question": "what is the relationship between rider and horse?",
+    "answer": "riding",
+    "subject": "rider",
+    "object": "horse",
+    "level": 3
+  },
+  {
+    "image_id": 2397554,
+    "question": "what is the relationship between horse and shore?",
+    "answer": "walking",
+    "subject": "horse",
+    "object": "shore",
+    "level": 3
+  },
+  {
+    "image_id": 2397554,
+    "question": "what is the relationship between rider and shirt?",
+    "answer": "wearing",
+    "subject": "rider",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2397554,
+    "question": "what is the relationship between rider and horse?",
+    "answer": "sitting",
+    "subject": "rider",
+    "object": "horse",
+    "level": 3
+  },
+  {
+    "image_id": 2397554,
+    "question": "what is the relationship between waves and water?",
+    "answer": "forming",
+    "subject": "waves",
+    "object": "water",
+    "level": 3
+  },
+  {
+    "image_id": 2397035,
+    "question": "what is the relationship between people and calves?",
+    "answer": "herding",
+    "subject": "people",
+    "object": "calves",
+    "level": 3
+  },
+  {
+    "image_id": 2397035,
+    "question": "what is the relationship between man and stick?",
+    "answer": "holding",
+    "subject": "man",
+    "object": "stick",
+    "level": 3
+  },
+  {
+    "image_id": 2396734,
+    "question": "what is the relationship between skateboarder and shorts?",
+    "answer": "wearing",
+    "subject": "skateboarder",
+    "object": "shorts",
+    "level": 3
+  },
+  {
+    "image_id": 2396734,
+    "question": "what is the relationship between woman and dress?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "dress",
+    "level": 3
+  },
+  {
+    "image_id": 2396122,
+    "question": "what is the relationship between man and pizza?",
+    "answer": "eating",
+    "subject": "man",
+    "object": "pizza",
+    "level": 3
+  },
+  {
+    "image_id": 2396122,
+    "question": "what is the relationship between man and shirt?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2396122,
+    "question": "what is the relationship between hand and keyboard?",
+    "answer": "touching",
+    "subject": "hand",
+    "object": "keyboard",
+    "level": 3
+  },
+  {
+    "image_id": 2396122,
+    "question": "what is the relationship between string lights and ceiling?",
+    "answer": "hanging",
+    "subject": "string lights",
+    "object": "ceiling",
+    "level": 3
+  },
+  {
+    "image_id": 2395290,
+    "question": "what is the relationship between women and hat?",
+    "answer": "wearing",
+    "subject": "women",
+    "object": "hat",
+    "level": 3
+  },
+  {
+    "image_id": 2395290,
+    "question": "what is the relationship between man and hat?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "hat",
+    "level": 3
+  },
+  {
+    "image_id": 2395290,
+    "question": "what is the relationship between woman and blue?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "blue",
+    "level": 3
+  },
+  {
+    "image_id": 2395290,
+    "question": "what is the relationship between pole and umbrella?",
+    "answer": "holding",
+    "subject": "pole",
+    "object": "umbrella",
+    "level": 3
+  },
+  {
+    "image_id": 2394926,
+    "question": "what is the relationship between man and donut?",
+    "answer": "eating",
+    "subject": "man",
+    "object": "donut",
+    "level": 3
+  },
+  {
+    "image_id": 2394926,
+    "question": "what is the relationship between man and donut?",
+    "answer": "holding",
+    "subject": "man",
+    "object": "donut",
+    "level": 3
+  },
+  {
+    "image_id": 2393957,
+    "question": "what is the relationship between man and shirt?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2393957,
+    "question": "what is the relationship between men and hands?",
+    "answer": "shaking",
+    "subject": "men",
+    "object": "hands",
+    "level": 3
+  },
+  {
+    "image_id": 2393957,
+    "question": "what is the relationship between man and tennis racket?",
+    "answer": "holding",
+    "subject": "man",
+    "object": "tennis racket",
+    "level": 3
+  },
+  {
+    "image_id": 2393957,
+    "question": "what is the relationship between man and shorts?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shorts",
+    "level": 3
+  },
+  {
+    "image_id": 2393783,
+    "question": "what is the relationship between woman and hotdog?",
+    "answer": "eating",
+    "subject": "woman",
+    "object": "hotdog",
+    "level": 3
+  },
+  {
+    "image_id": 2393783,
+    "question": "what is the relationship between woman and red?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "red",
+    "level": 3
+  },
+  {
+    "image_id": 2393728,
+    "question": "what is the relationship between woman and table?",
+    "answer": "sitting",
+    "subject": "woman",
+    "object": "table",
+    "level": 3
+  },
+  {
+    "image_id": 2393728,
+    "question": "what is the relationship between knife and table?",
+    "answer": "laying",
+    "subject": "knife",
+    "object": "table",
+    "level": 3
+  },
+  {
+    "image_id": 2393728,
+    "question": "what is the relationship between woman and candle?",
+    "answer": "taking",
+    "subject": "woman",
+    "object": "candle",
+    "level": 3
+  },
+  {
+    "image_id": 2393720,
+    "question": "what is the relationship between dog and street?",
+    "answer": "standing",
+    "subject": "dog",
+    "object": "street",
+    "level": 3
+  },
+  {
+    "image_id": 2393720,
+    "question": "what is the relationship between woman and leash?",
+    "answer": "holding",
+    "subject": "woman",
+    "object": "leash",
+    "level": 3
+  },
+  {
+    "image_id": 2393720,
+    "question": "what is the relationship between woman and skirt?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "skirt",
+    "level": 3
+  },
+  {
+    "image_id": 2393720,
+    "question": "what is the relationship between woman and dress?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "dress",
+    "level": 3
+  },
+  {
+    "image_id": 2393720,
+    "question": "what is the relationship between man and shirt?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2393720,
+    "question": "what is the relationship between people and van?",
+    "answer": "standing",
+    "subject": "people",
+    "object": "van",
+    "level": 3
+  },
+  {
+    "image_id": 2393720,
+    "question": "what is the relationship between woman and man?",
+    "answer": "talking",
+    "subject": "woman",
+    "object": "man",
+    "level": 3
+  },
+  {
+    "image_id": 2393720,
+    "question": "what is the relationship between man and bag?",
+    "answer": "holding",
+    "subject": "man",
+    "object": "bag",
+    "level": 3
+  },
+  {
+    "image_id": 2393720,
+    "question": "what is the relationship between man and flipflops?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "flipflops",
+    "level": 3
+  },
+  {
+    "image_id": 2393720,
+    "question": "what is the relationship between woman and keys?",
+    "answer": "holding",
+    "subject": "woman",
+    "object": "keys",
+    "level": 3
+  },
+  {
+    "image_id": 2393720,
+    "question": "what is the relationship between woman and watch?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "watch",
+    "level": 3
+  },
+  {
+    "image_id": 2392460,
+    "question": "what is the relationship between man and shorts?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shorts",
+    "level": 3
+  },
+  {
+    "image_id": 2390079,
+    "question": "what is the relationship between person and snowboard?",
+    "answer": "holding",
+    "subject": "person",
+    "object": "snowboard",
+    "level": 3
+  },
+  {
+    "image_id": 2390079,
+    "question": "what is the relationship between person and pants?",
+    "answer": "wearing",
+    "subject": "person",
+    "object": "pants",
+    "level": 3
+  },
+  {
+    "image_id": 2390079,
+    "question": "what is the relationship between person and helmet?",
+    "answer": "wearing",
+    "subject": "person",
+    "object": "helmet",
+    "level": 3
+  },
+  {
+    "image_id": 2390079,
+    "question": "what is the relationship between net and slope?",
+    "answer": "running",
+    "subject": "net",
+    "object": "slope",
+    "level": 3
+  },
+  {
+    "image_id": 2390079,
+    "question": "what is the relationship between snow and slope?",
+    "answer": "covering",
+    "subject": "snow",
+    "object": "slope",
+    "level": 3
+  },
+  {
+    "image_id": 2390079,
+    "question": "what is the relationship between person and skis?",
+    "answer": "standing",
+    "subject": "person",
+    "object": "skis",
+    "level": 3
+  },
+  {
+    "image_id": 2390079,
+    "question": "what is the relationship between snow and mountain?",
+    "answer": "covering",
+    "subject": "snow",
+    "object": "mountain",
+    "level": 3
+  },
+  {
+    "image_id": 2390079,
+    "question": "what is the relationship between white snow and mountain?",
+    "answer": "covering",
+    "subject": "white snow",
+    "object": "mountain",
+    "level": 3
+  },
+  {
+    "image_id": 2390079,
+    "question": "what is the relationship between man and skis?",
+    "answer": "fixing",
+    "subject": "man",
+    "object": "skis",
+    "level": 3
+  },
+  {
+    "image_id": 2390079,
+    "question": "what is the relationship between snow and mountains?",
+    "answer": "covering",
+    "subject": "snow",
+    "object": "mountains",
+    "level": 3
+  },
+  {
+    "image_id": 2389815,
+    "question": "what is the relationship between hand and racket?",
+    "answer": "holding",
+    "subject": "hand",
+    "object": "racket",
+    "level": 3
+  },
+  {
+    "image_id": 2389815,
+    "question": "what is the relationship between woman and racket?",
+    "answer": "holding",
+    "subject": "woman",
+    "object": "racket",
+    "level": 3
+  },
+  {
+    "image_id": 2389740,
+    "question": "what is the relationship between man and glasses?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "glasses",
+    "level": 3
+  },
+  {
+    "image_id": 2389740,
+    "question": "what is the relationship between man and suit?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "suit",
+    "level": 3
+  },
+  {
+    "image_id": 2389740,
+    "question": "what is the relationship between security officer and camera?",
+    "answer": "using",
+    "subject": "security officer",
+    "object": "camera",
+    "level": 3
+  },
+  {
+    "image_id": 2389259,
+    "question": "what is the relationship between woman and tennis racket?",
+    "answer": "holding",
+    "subject": "woman",
+    "object": "tennis racket",
+    "level": 3
+  },
+  {
+    "image_id": 2389259,
+    "question": "what is the relationship between man and tennis ball?",
+    "answer": "swinging",
+    "subject": "man",
+    "object": "tennis ball",
+    "level": 3
+  },
+  {
+    "image_id": 2389259,
+    "question": "what is the relationship between person and tennis?",
+    "answer": "standing",
+    "subject": "person",
+    "object": "tennis",
+    "level": 3
+  },
+  {
+    "image_id": 2389259,
+    "question": "what is the relationship between man and raquet?",
+    "answer": "swinging",
+    "subject": "man",
+    "object": "raquet",
+    "level": 3
+  },
+  {
+    "image_id": 2389259,
+    "question": "what is the relationship between four persons and tennis?",
+    "answer": "laying",
+    "subject": "four persons",
+    "object": "tennis",
+    "level": 3
+  },
+  {
+    "image_id": 2389259,
+    "question": "what is the relationship between person and capri pants?",
+    "answer": "wearing",
+    "subject": "person",
+    "object": "capri pants",
+    "level": 3
+  },
+  {
+    "image_id": 2389192,
+    "question": "what is the relationship between electrical pole and wires?",
+    "answer": "holding",
+    "subject": "electrical pole",
+    "object": "wires",
+    "level": 3
+  },
+  {
+    "image_id": 2387142,
+    "question": "what is the relationship between person and bus?",
+    "answer": "riding",
+    "subject": "person",
+    "object": "bus",
+    "level": 3
+  },
+  {
+    "image_id": 2387095,
+    "question": "what is the relationship between man and tie?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "tie",
+    "level": 3
+  },
+  {
+    "image_id": 2387095,
+    "question": "what is the relationship between man and jacket?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "jacket",
+    "level": 3
+  },
+  {
+    "image_id": 2387095,
+    "question": "what is the relationship between man and shirt?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2387076,
+    "question": "what is the relationship between glass and toothbrush?",
+    "answer": "holding",
+    "subject": "glass",
+    "object": "toothbrush",
+    "level": 3
+  },
+  {
+    "image_id": 2387076,
+    "question": "what is the relationship between toothbrush and glass?",
+    "answer": "sitting",
+    "subject": "toothbrush",
+    "object": "glass",
+    "level": 3
+  },
+  {
+    "image_id": 2386250,
+    "question": "what is the relationship between mary poppins and tv?",
+    "answer": "showing",
+    "subject": "mary poppins",
+    "object": "tv",
+    "level": 3
+  },
+  {
+    "image_id": 2386250,
+    "question": "what is the relationship between person and eyeglasses?",
+    "answer": "wearing",
+    "subject": "person",
+    "object": "eyeglasses",
+    "level": 3
+  },
+  {
+    "image_id": 2386250,
+    "question": "what is the relationship between person and jacket?",
+    "answer": "wearing",
+    "subject": "person",
+    "object": "jacket",
+    "level": 3
+  },
+  {
+    "image_id": 2386250,
+    "question": "what is the relationship between person and room?",
+    "answer": "walking",
+    "subject": "person",
+    "object": "room",
+    "level": 3
+  },
+  {
+    "image_id": 2386250,
+    "question": "what is the relationship between person and window?",
+    "answer": "standing",
+    "subject": "person",
+    "object": "window",
+    "level": 3
+  },
+  {
+    "image_id": 2386250,
+    "question": "what is the relationship between person and store?",
+    "answer": "standing",
+    "subject": "person",
+    "object": "store",
+    "level": 3
+  },
+  {
+    "image_id": 2386250,
+    "question": "what is the relationship between person and store?",
+    "answer": "exiting",
+    "subject": "person",
+    "object": "store",
+    "level": 3
+  },
+  {
+    "image_id": 2386250,
+    "question": "what is the relationship between person and phone?",
+    "answer": "talking",
+    "subject": "person",
+    "object": "phone",
+    "level": 3
+  },
+  {
+    "image_id": 2385687,
+    "question": "what is the relationship between man and shoes?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shoes",
+    "level": 3
+  },
+  {
+    "image_id": 2385687,
+    "question": "what is the relationship between man and cellphone?",
+    "answer": "talking",
+    "subject": "man",
+    "object": "cellphone",
+    "level": 3
+  },
+  {
+    "image_id": 2385687,
+    "question": "what is the relationship between man and glasses?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "glasses",
+    "level": 3
+  },
+  {
+    "image_id": 2385687,
+    "question": "what is the relationship between man and jacket?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "jacket",
+    "level": 3
+  },
+  {
+    "image_id": 2385687,
+    "question": "what is the relationship between man and shirt?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2385687,
+    "question": "what is the relationship between man and belt?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "belt",
+    "level": 3
+  },
+  {
+    "image_id": 2385687,
+    "question": "what is the relationship between man and jeans?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "jeans",
+    "level": 3
+  },
+  {
+    "image_id": 2385637,
+    "question": "what is the relationship between man and shirt?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2385637,
+    "question": "what is the relationship between man and tie?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "tie",
+    "level": 3
+  },
+  {
+    "image_id": 2385637,
+    "question": "what is the relationship between man and cuff?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "cuff",
+    "level": 3
+  },
+  {
+    "image_id": 2384566,
+    "question": "what is the relationship between woman and headband?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "headband",
+    "level": 3
+  },
+  {
+    "image_id": 2384566,
+    "question": "what is the relationship between girl and glasses?",
+    "answer": "wearing",
+    "subject": "girl",
+    "object": "glasses",
+    "level": 3
+  },
+  {
+    "image_id": 2384566,
+    "question": "what is the relationship between woman and girl?",
+    "answer": "talking",
+    "subject": "woman",
+    "object": "girl",
+    "level": 3
+  },
+  {
+    "image_id": 2384536,
+    "question": "what is the relationship between person and fork?",
+    "answer": "holding",
+    "subject": "person",
+    "object": "fork",
+    "level": 3
+  },
+  {
+    "image_id": 2384536,
+    "question": "what is the relationship between hand and fork?",
+    "answer": "holding",
+    "subject": "hand",
+    "object": "fork",
+    "level": 3
+  },
+  {
+    "image_id": 2384536,
+    "question": "what is the relationship between hand and knife?",
+    "answer": "holding",
+    "subject": "hand",
+    "object": "knife",
+    "level": 3
+  },
+  {
+    "image_id": 2384536,
+    "question": "what is the relationship between hands and food?",
+    "answer": "eating",
+    "subject": "hands",
+    "object": "food",
+    "level": 3
+  },
+  {
+    "image_id": 2384536,
+    "question": "what is the relationship between person and ring?",
+    "answer": "wearing",
+    "subject": "person",
+    "object": "ring",
+    "level": 3
+  },
+  {
+    "image_id": 2384536,
+    "question": "what is the relationship between person and knife?",
+    "answer": "holding",
+    "subject": "person",
+    "object": "knife",
+    "level": 3
+  },
+  {
+    "image_id": 2384327,
+    "question": "what is the relationship between man and men?",
+    "answer": "sitting",
+    "subject": "man",
+    "object": "men",
+    "level": 3
+  },
+  {
+    "image_id": 2384327,
+    "question": "what is the relationship between clock and wall?",
+    "answer": "hanging",
+    "subject": "clock",
+    "object": "wall",
+    "level": 3
+  },
+  {
+    "image_id": 2384327,
+    "question": "what is the relationship between man and glasses?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "glasses",
+    "level": 3
+  },
+  {
+    "image_id": 2383950,
+    "question": "what is the relationship between dog and frisbee?",
+    "answer": "catching",
+    "subject": "dog",
+    "object": "frisbee",
+    "level": 3
+  },
+  {
+    "image_id": 2383950,
+    "question": "what is the relationship between dog and grass?",
+    "answer": "standing",
+    "subject": "dog",
+    "object": "grass",
+    "level": 3
+  },
+  {
+    "image_id": 2383950,
+    "question": "what is the relationship between frisbee and shadow?",
+    "answer": "casting",
+    "subject": "frisbee",
+    "object": "shadow",
+    "level": 3
+  },
+  {
+    "image_id": 2383950,
+    "question": "what is the relationship between dog and shadow?",
+    "answer": "casting",
+    "subject": "dog",
+    "object": "shadow",
+    "level": 3
+  },
+  {
+    "image_id": 2383950,
+    "question": "what is the relationship between tree and shadow?",
+    "answer": "casting",
+    "subject": "tree",
+    "object": "shadow",
+    "level": 3
+  },
+  {
+    "image_id": 2383437,
+    "question": "what is the relationship between man and camera?",
+    "answer": "holding",
+    "subject": "man",
+    "object": "camera",
+    "level": 3
+  },
+  {
+    "image_id": 2383437,
+    "question": "what is the relationship between people and exhibit?",
+    "answer": "walking",
+    "subject": "people",
+    "object": "exhibit",
+    "level": 3
+  },
+  {
+    "image_id": 2383437,
+    "question": "what is the relationship between woman and purse?",
+    "answer": "carrying",
+    "subject": "woman",
+    "object": "purse",
+    "level": 3
+  },
+  {
+    "image_id": 2383437,
+    "question": "what is the relationship between man and ballcap?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "ballcap",
+    "level": 3
+  },
+  {
+    "image_id": 2383437,
+    "question": "what is the relationship between ball and air?",
+    "answer": "hanging",
+    "subject": "ball",
+    "object": "air",
+    "level": 3
+  },
+  {
+    "image_id": 2383437,
+    "question": "what is the relationship between man and hat?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "hat",
+    "level": 3
+  },
+  {
+    "image_id": 2383254,
+    "question": "what is the relationship between woman and heels?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "heels",
+    "level": 3
+  },
+  {
+    "image_id": 2383254,
+    "question": "what is the relationship between woman and dress?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "dress",
+    "level": 3
+  },
+  {
+    "image_id": 2383254,
+    "question": "what is the relationship between man and shirt?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2383254,
+    "question": "what is the relationship between man and pants?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "pants",
+    "level": 3
+  },
+  {
+    "image_id": 2383254,
+    "question": "what is the relationship between people and motorcycle?",
+    "answer": "riding",
+    "subject": "people",
+    "object": "motorcycle",
+    "level": 3
+  },
+  {
+    "image_id": 2383254,
+    "question": "what is the relationship between man and motorcycle?",
+    "answer": "driving",
+    "subject": "man",
+    "object": "motorcycle",
+    "level": 3
+  },
+  {
+    "image_id": 2382960,
+    "question": "what is the relationship between rack and skis?",
+    "answer": "holding",
+    "subject": "rack",
+    "object": "skis",
+    "level": 3
+  },
+  {
+    "image_id": 2382960,
+    "question": "what is the relationship between skis and shadow?",
+    "answer": "making",
+    "subject": "skis",
+    "object": "shadow",
+    "level": 3
+  },
+  {
+    "image_id": 2382861,
+    "question": "what is the relationship between signpost and sign?",
+    "answer": "holding",
+    "subject": "signpost",
+    "object": "sign",
+    "level": 3
+  },
+  {
+    "image_id": 2382861,
+    "question": "what is the relationship between screw and sign?",
+    "answer": "holding",
+    "subject": "screw",
+    "object": "sign",
+    "level": 3
+  },
+  {
+    "image_id": 2382485,
+    "question": "what is the relationship between woman and child?",
+    "answer": "holding",
+    "subject": "woman",
+    "object": "child",
+    "level": 3
+  },
+  {
+    "image_id": 2381462,
+    "question": "what is the relationship between man and surfboard?",
+    "answer": "riding",
+    "subject": "man",
+    "object": "surfboard",
+    "level": 3
+  },
+  {
+    "image_id": 2381462,
+    "question": "what is the relationship between man and wave?",
+    "answer": "riding",
+    "subject": "man",
+    "object": "wave",
+    "level": 3
+  },
+  {
+    "image_id": 2381462,
+    "question": "what is the relationship between surfboard and wave?",
+    "answer": "riding",
+    "subject": "surfboard",
+    "object": "wave",
+    "level": 3
+  },
+  {
+    "image_id": 2381462,
+    "question": "what is the relationship between man and wetsuit?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "wetsuit",
+    "level": 3
+  },
+  {
+    "image_id": 2381462,
+    "question": "what is the relationship between wave and ocean?",
+    "answer": "forming",
+    "subject": "wave",
+    "object": "ocean",
+    "level": 3
+  },
+  {
+    "image_id": 2381462,
+    "question": "what is the relationship between water and air?",
+    "answer": "spraying",
+    "subject": "water",
+    "object": "air",
+    "level": 3
+  },
+  {
+    "image_id": 2381462,
+    "question": "what is the relationship between man and ocean?",
+    "answer": "surfing",
+    "subject": "man",
+    "object": "ocean",
+    "level": 3
+  },
+  {
+    "image_id": 2381350,
+    "question": "what is the relationship between man and helmet?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "helmet",
+    "level": 3
+  },
+  {
+    "image_id": 2381350,
+    "question": "what is the relationship between man and ski poles?",
+    "answer": "holding",
+    "subject": "man",
+    "object": "ski poles",
+    "level": 3
+  },
+  {
+    "image_id": 2381350,
+    "question": "what is the relationship between man and beanie?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "beanie",
+    "level": 3
+  },
+  {
+    "image_id": 2381350,
+    "question": "what is the relationship between man and sunglasses?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "sunglasses",
+    "level": 3
+  },
+  {
+    "image_id": 2381350,
+    "question": "what is the relationship between man and jacket?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "jacket",
+    "level": 3
+  },
+  {
+    "image_id": 2381350,
+    "question": "what is the relationship between man and backpack?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "backpack",
+    "level": 3
+  },
+  {
+    "image_id": 2379198,
+    "question": "what is the relationship between person and baseball?",
+    "answer": "laying",
+    "subject": "person",
+    "object": "baseball",
+    "level": 3
+  },
+  {
+    "image_id": 2379198,
+    "question": "what is the relationship between person and ball?",
+    "answer": "rowing",
+    "subject": "person",
+    "object": "ball",
+    "level": 3
+  },
+  {
+    "image_id": 2379198,
+    "question": "what is the relationship between person and mound?",
+    "answer": "standing",
+    "subject": "person",
+    "object": "mound",
+    "level": 3
+  },
+  {
+    "image_id": 2379198,
+    "question": "what is the relationship between person and hat?",
+    "answer": "wearing",
+    "subject": "person",
+    "object": "hat",
+    "level": 3
+  },
+  {
+    "image_id": 2379198,
+    "question": "what is the relationship between person and baseline?",
+    "answer": "standing",
+    "subject": "person",
+    "object": "baseline",
+    "level": 3
+  },
+  {
+    "image_id": 2379198,
+    "question": "what is the relationship between person and t shirt?",
+    "answer": "wearing",
+    "subject": "person",
+    "object": "t shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2379198,
+    "question": "what is the relationship between person and ball?",
+    "answer": "swinging",
+    "subject": "person",
+    "object": "ball",
+    "level": 3
+  },
+  {
+    "image_id": 2379198,
+    "question": "what is the relationship between person and belt?",
+    "answer": "wearing",
+    "subject": "person",
+    "object": "belt",
+    "level": 3
+  },
+  {
+    "image_id": 2379198,
+    "question": "what is the relationship between person and shoes?",
+    "answer": "wearing",
+    "subject": "person",
+    "object": "shoes",
+    "level": 3
+  },
+  {
+    "image_id": 2379198,
+    "question": "what is the relationship between person and trousers?",
+    "answer": "wearing",
+    "subject": "person",
+    "object": "trousers",
+    "level": 3
+  },
+  {
+    "image_id": 2379198,
+    "question": "what is the relationship between person and uniform?",
+    "answer": "wearing",
+    "subject": "person",
+    "object": "uniform",
+    "level": 3
+  },
+  {
+    "image_id": 2379133,
+    "question": "what is the relationship between man and water?",
+    "answer": "surfing",
+    "subject": "man",
+    "object": "water",
+    "level": 3
+  },
+  {
+    "image_id": 2379133,
+    "question": "what is the relationship between man and striped pants?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "striped pants",
+    "level": 3
+  },
+  {
+    "image_id": 2379133,
+    "question": "what is the relationship between man and wave?",
+    "answer": "laying",
+    "subject": "man",
+    "object": "wave",
+    "level": 3
+  },
+  {
+    "image_id": 2379133,
+    "question": "what is the relationship between man and wave?",
+    "answer": "riding",
+    "subject": "man",
+    "object": "wave",
+    "level": 3
+  },
+  {
+    "image_id": 2379133,
+    "question": "what is the relationship between man and ocean?",
+    "answer": "surfing",
+    "subject": "man",
+    "object": "ocean",
+    "level": 3
+  },
+  {
+    "image_id": 2379133,
+    "question": "what is the relationship between man and surfboard?",
+    "answer": "holding",
+    "subject": "man",
+    "object": "surfboard",
+    "level": 3
+  },
+  {
+    "image_id": 2378945,
+    "question": "what is the relationship between painting and wall?",
+    "answer": "hanging",
+    "subject": "painting",
+    "object": "wall",
+    "level": 3
+  },
+  {
+    "image_id": 2378945,
+    "question": "what is the relationship between pillow and sofa?",
+    "answer": "lying",
+    "subject": "pillow",
+    "object": "sofa",
+    "level": 3
+  },
+  {
+    "image_id": 2378945,
+    "question": "what is the relationship between rug and floor?",
+    "answer": "covering",
+    "subject": "rug",
+    "object": "floor",
+    "level": 3
+  },
+  {
+    "image_id": 2378945,
+    "question": "what is the relationship between pillow and sofa?",
+    "answer": "sitting",
+    "subject": "pillow",
+    "object": "sofa",
+    "level": 3
+  },
+  {
+    "image_id": 2378546,
+    "question": "what is the relationship between boy and kite?",
+    "answer": "lying",
+    "subject": "boy",
+    "object": "kite",
+    "level": 3
+  },
+  {
+    "image_id": 2378546,
+    "question": "what is the relationship between boy and pants?",
+    "answer": "wearing",
+    "subject": "boy",
+    "object": "pants",
+    "level": 3
+  },
+  {
+    "image_id": 2378546,
+    "question": "what is the relationship between boy and jacket?",
+    "answer": "wearing",
+    "subject": "boy",
+    "object": "jacket",
+    "level": 3
+  },
+  {
+    "image_id": 2378546,
+    "question": "what is the relationship between boy and kite?",
+    "answer": "holding",
+    "subject": "boy",
+    "object": "kite",
+    "level": 3
+  },
+  {
+    "image_id": 2377743,
+    "question": "what is the relationship between plate and pizza?",
+    "answer": "holding",
+    "subject": "plate",
+    "object": "pizza",
+    "level": 3
+  },
+  {
+    "image_id": 2377743,
+    "question": "what is the relationship between girl and shirt?",
+    "answer": "wearing",
+    "subject": "girl",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2377743,
+    "question": "what is the relationship between girl and wrist band?",
+    "answer": "wearing",
+    "subject": "girl",
+    "object": "wrist band",
+    "level": 3
+  },
+  {
+    "image_id": 2377743,
+    "question": "what is the relationship between girl and bracelet?",
+    "answer": "wearing",
+    "subject": "girl",
+    "object": "bracelet",
+    "level": 3
+  },
+  {
+    "image_id": 2377743,
+    "question": "what is the relationship between girl and band?",
+    "answer": "wearing",
+    "subject": "girl",
+    "object": "band",
+    "level": 3
+  },
+  {
+    "image_id": 2377590,
+    "question": "what is the relationship between woman and microphone?",
+    "answer": "holding",
+    "subject": "woman",
+    "object": "microphone",
+    "level": 3
+  },
+  {
+    "image_id": 2377372,
+    "question": "what is the relationship between man and tennis racket?",
+    "answer": "holding",
+    "subject": "man",
+    "object": "tennis racket",
+    "level": 3
+  },
+  {
+    "image_id": 2377372,
+    "question": "what is the relationship between lineman and tie?",
+    "answer": "wearing",
+    "subject": "lineman",
+    "object": "tie",
+    "level": 3
+  },
+  {
+    "image_id": 2377372,
+    "question": "what is the relationship between players and shirts?",
+    "answer": "wearing",
+    "subject": "players",
+    "object": "shirts",
+    "level": 3
+  },
+  {
+    "image_id": 2377349,
+    "question": "what is the relationship between surfer and wet suit?",
+    "answer": "wearing",
+    "subject": "surfer",
+    "object": "wet suit",
+    "level": 3
+  },
+  {
+    "image_id": 2377245,
+    "question": "what is the relationship between person and hat?",
+    "answer": "wearing",
+    "subject": "person",
+    "object": "hat",
+    "level": 3
+  },
+  {
+    "image_id": 2377245,
+    "question": "what is the relationship between woman and hat?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "hat",
+    "level": 3
+  },
+  {
+    "image_id": 2376812,
+    "question": "what is the relationship between man and dog?",
+    "answer": "kissing",
+    "subject": "man",
+    "object": "dog",
+    "level": 3
+  },
+  {
+    "image_id": 2376812,
+    "question": "what is the relationship between man and shirt?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2376812,
+    "question": "what is the relationship between dog and motorcycle?",
+    "answer": "sitting",
+    "subject": "dog",
+    "object": "motorcycle",
+    "level": 3
+  },
+  {
+    "image_id": 2376812,
+    "question": "what is the relationship between man and car?",
+    "answer": "standing",
+    "subject": "man",
+    "object": "car",
+    "level": 3
+  },
+  {
+    "image_id": 2376812,
+    "question": "what is the relationship between dog and man?",
+    "answer": "looking",
+    "subject": "dog",
+    "object": "man",
+    "level": 3
+  },
+  {
+    "image_id": 2376537,
+    "question": "what is the relationship between path and grass?",
+    "answer": "running",
+    "subject": "path",
+    "object": "grass",
+    "level": 3
+  },
+  {
+    "image_id": 2376537,
+    "question": "what is the relationship between dirt and path?",
+    "answer": "covering",
+    "subject": "dirt",
+    "object": "path",
+    "level": 3
+  },
+  {
+    "image_id": 2376537,
+    "question": "what is the relationship between antelope and giraffe?",
+    "answer": "grazing",
+    "subject": "antelope",
+    "object": "giraffe",
+    "level": 3
+  },
+  {
+    "image_id": 2376537,
+    "question": "what is the relationship between giraffe and road?",
+    "answer": "standing",
+    "subject": "giraffe",
+    "object": "road",
+    "level": 3
+  },
+  {
+    "image_id": 2376182,
+    "question": "what is the relationship between batter and batter's box?",
+    "answer": "walking",
+    "subject": "batter",
+    "object": "batter's box",
+    "level": 3
+  },
+  {
+    "image_id": 2376182,
+    "question": "what is the relationship between umpire and jacket?",
+    "answer": "wearing",
+    "subject": "umpire",
+    "object": "jacket",
+    "level": 3
+  },
+  {
+    "image_id": 2376182,
+    "question": "what is the relationship between fan and glasses?",
+    "answer": "wearing",
+    "subject": "fan",
+    "object": "glasses",
+    "level": 3
+  },
+  {
+    "image_id": 2376182,
+    "question": "what is the relationship between man and helmet?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "helmet",
+    "level": 3
+  },
+  {
+    "image_id": 2376150,
+    "question": "what is the relationship between bug and fruit?",
+    "answer": "eating",
+    "subject": "bug",
+    "object": "fruit",
+    "level": 3
+  },
+  {
+    "image_id": 2376150,
+    "question": "what is the relationship between bug and fruit?",
+    "answer": "holding",
+    "subject": "bug",
+    "object": "fruit",
+    "level": 3
+  },
+  {
+    "image_id": 2375790,
+    "question": "what is the relationship between dirt and ground?",
+    "answer": "covering",
+    "subject": "dirt",
+    "object": "ground",
+    "level": 3
+  },
+  {
+    "image_id": 2375641,
+    "question": "what is the relationship between man and surfboard?",
+    "answer": "carrying",
+    "subject": "man",
+    "object": "surfboard",
+    "level": 3
+  },
+  {
+    "image_id": 2375641,
+    "question": "what is the relationship between man and shirt?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2375641,
+    "question": "what is the relationship between man and outside?",
+    "answer": "walking",
+    "subject": "man",
+    "object": "outside",
+    "level": 3
+  },
+  {
+    "image_id": 2375641,
+    "question": "what is the relationship between arm and board?",
+    "answer": "holding",
+    "subject": "arm",
+    "object": "board",
+    "level": 3
+  },
+  {
+    "image_id": 2375641,
+    "question": "what is the relationship between man and surfboard?",
+    "answer": "holding",
+    "subject": "man",
+    "object": "surfboard",
+    "level": 3
+  },
+  {
+    "image_id": 2375641,
+    "question": "what is the relationship between hand and surfboard?",
+    "answer": "holding",
+    "subject": "hand",
+    "object": "surfboard",
+    "level": 3
+  },
+  {
+    "image_id": 2375293,
+    "question": "what is the relationship between woman and dress?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "dress",
+    "level": 3
+  },
+  {
+    "image_id": 2375293,
+    "question": "what is the relationship between man and tuxedo?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "tuxedo",
+    "level": 3
+  },
+  {
+    "image_id": 2375293,
+    "question": "what is the relationship between man and camera?",
+    "answer": "holding",
+    "subject": "man",
+    "object": "camera",
+    "level": 3
+  },
+  {
+    "image_id": 2375293,
+    "question": "what is the relationship between woman and lipstick?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "lipstick",
+    "level": 3
+  },
+  {
+    "image_id": 2375293,
+    "question": "what is the relationship between man and suit?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "suit",
+    "level": 3
+  },
+  {
+    "image_id": 2375293,
+    "question": "what is the relationship between man and bow-tie?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "bow-tie",
+    "level": 3
+  },
+  {
+    "image_id": 2375293,
+    "question": "what is the relationship between man and umbrella?",
+    "answer": "holding",
+    "subject": "man",
+    "object": "umbrella",
+    "level": 3
+  },
+  {
+    "image_id": 2375293,
+    "question": "what is the relationship between woman and shawl?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "shawl",
+    "level": 3
+  },
+  {
+    "image_id": 2375215,
+    "question": "what is the relationship between glasses and shadow?",
+    "answer": "casting",
+    "subject": "glasses",
+    "object": "shadow",
+    "level": 3
+  },
+  {
+    "image_id": 2375215,
+    "question": "what is the relationship between man and glasses?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "glasses",
+    "level": 3
+  },
+  {
+    "image_id": 2375215,
+    "question": "what is the relationship between man and helmet?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "helmet",
+    "level": 3
+  },
+  {
+    "image_id": 2375215,
+    "question": "what is the relationship between man and shirt?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2375215,
+    "question": "what is the relationship between man and banana?",
+    "answer": "eating",
+    "subject": "man",
+    "object": "banana",
+    "level": 3
+  },
+  {
+    "image_id": 2375215,
+    "question": "what is the relationship between man and banana?",
+    "answer": "holding",
+    "subject": "man",
+    "object": "banana",
+    "level": 3
+  },
+  {
+    "image_id": 2375215,
+    "question": "what is the relationship between male and glasses?",
+    "answer": "wearing",
+    "subject": "male",
+    "object": "glasses",
+    "level": 3
+  },
+  {
+    "image_id": 2375215,
+    "question": "what is the relationship between male and banana?",
+    "answer": "eating",
+    "subject": "male",
+    "object": "banana",
+    "level": 3
+  },
+  {
+    "image_id": 2375215,
+    "question": "what is the relationship between man and moustache stubble?",
+    "answer": "growing",
+    "subject": "man",
+    "object": "moustache stubble",
+    "level": 3
+  },
+  {
+    "image_id": 2374995,
+    "question": "what is the relationship between woman and fork?",
+    "answer": "using",
+    "subject": "woman",
+    "object": "fork",
+    "level": 3
+  },
+  {
+    "image_id": 2374995,
+    "question": "what is the relationship between person and shirt?",
+    "answer": "wearing",
+    "subject": "person",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2374995,
+    "question": "what is the relationship between person and jeans?",
+    "answer": "wearing",
+    "subject": "person",
+    "object": "jeans",
+    "level": 3
+  },
+  {
+    "image_id": 2374995,
+    "question": "what is the relationship between person and plate.?",
+    "answer": "holding",
+    "subject": "person",
+    "object": "plate.",
+    "level": 3
+  },
+  {
+    "image_id": 2374995,
+    "question": "what is the relationship between person and fork?",
+    "answer": "holding",
+    "subject": "person",
+    "object": "fork",
+    "level": 3
+  },
+  {
+    "image_id": 2374995,
+    "question": "what is the relationship between woman and fork?",
+    "answer": "holding",
+    "subject": "woman",
+    "object": "fork",
+    "level": 3
+  },
+  {
+    "image_id": 2374995,
+    "question": "what is the relationship between woman and scarf?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "scarf",
+    "level": 3
+  },
+  {
+    "image_id": 2374995,
+    "question": "what is the relationship between woman and sofa?",
+    "answer": "sitting",
+    "subject": "woman",
+    "object": "sofa",
+    "level": 3
+  },
+  {
+    "image_id": 2374995,
+    "question": "what is the relationship between cup and sofa?",
+    "answer": "sitting",
+    "subject": "cup",
+    "object": "sofa",
+    "level": 3
+  },
+  {
+    "image_id": 2374995,
+    "question": "what is the relationship between napkin and flag?",
+    "answer": "laying",
+    "subject": "napkin",
+    "object": "flag",
+    "level": 3
+  },
+  {
+    "image_id": 2374995,
+    "question": "what is the relationship between cup and ledge?",
+    "answer": "sitting",
+    "subject": "cup",
+    "object": "ledge",
+    "level": 3
+  },
+  {
+    "image_id": 2374995,
+    "question": "what is the relationship between woman and wrap?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "wrap",
+    "level": 3
+  },
+  {
+    "image_id": 2374938,
+    "question": "what is the relationship between man and skateboard?",
+    "answer": "riding",
+    "subject": "man",
+    "object": "skateboard",
+    "level": 3
+  },
+  {
+    "image_id": 2374938,
+    "question": "what is the relationship between guy and hat?",
+    "answer": "wearing",
+    "subject": "guy",
+    "object": "hat",
+    "level": 3
+  },
+  {
+    "image_id": 2374938,
+    "question": "what is the relationship between man and sweater?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "sweater",
+    "level": 3
+  },
+  {
+    "image_id": 2374938,
+    "question": "what is the relationship between man and baseball hat?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "baseball hat",
+    "level": 3
+  },
+  {
+    "image_id": 2374938,
+    "question": "what is the relationship between skateboarder and shadow?",
+    "answer": "casting",
+    "subject": "skateboarder",
+    "object": "shadow",
+    "level": 3
+  },
+  {
+    "image_id": 2374938,
+    "question": "what is the relationship between man and black hoodie?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "black hoodie",
+    "level": 3
+  },
+  {
+    "image_id": 2374361,
+    "question": "what is the relationship between people and wagon?",
+    "answer": "riding",
+    "subject": "people",
+    "object": "wagon",
+    "level": 3
+  },
+  {
+    "image_id": 2374361,
+    "question": "what is the relationship between man and cap?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "cap",
+    "level": 3
+  },
+  {
+    "image_id": 2374361,
+    "question": "what is the relationship between hand and magazine?",
+    "answer": "holding",
+    "subject": "hand",
+    "object": "magazine",
+    "level": 3
+  },
+  {
+    "image_id": 2374361,
+    "question": "what is the relationship between people and street?",
+    "answer": "moving",
+    "subject": "people",
+    "object": "street",
+    "level": 3
+  },
+  {
+    "image_id": 2374361,
+    "question": "what is the relationship between horse and street?",
+    "answer": "walking",
+    "subject": "horse",
+    "object": "street",
+    "level": 3
+  },
+  {
+    "image_id": 2374361,
+    "question": "what is the relationship between horse and wagon?",
+    "answer": "walking",
+    "subject": "horse",
+    "object": "wagon",
+    "level": 3
+  },
+  {
+    "image_id": 2374361,
+    "question": "what is the relationship between people and wagon?",
+    "answer": "sitting",
+    "subject": "people",
+    "object": "wagon",
+    "level": 3
+  },
+  {
+    "image_id": 2373655,
+    "question": "what is the relationship between guy and surfboard?",
+    "answer": "holding",
+    "subject": "guy",
+    "object": "surfboard",
+    "level": 3
+  },
+  {
+    "image_id": 2373655,
+    "question": "what is the relationship between surfer and rocks?",
+    "answer": "standing",
+    "subject": "surfer",
+    "object": "rocks",
+    "level": 3
+  },
+  {
+    "image_id": 2373429,
+    "question": "what is the relationship between man and platform?",
+    "answer": "walking",
+    "subject": "man",
+    "object": "platform",
+    "level": 3
+  },
+  {
+    "image_id": 2373429,
+    "question": "what is the relationship between man and jacket?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "jacket",
+    "level": 3
+  },
+  {
+    "image_id": 2373429,
+    "question": "what is the relationship between man and pants?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "pants",
+    "level": 3
+  },
+  {
+    "image_id": 2373429,
+    "question": "what is the relationship between man and hat?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "hat",
+    "level": 3
+  },
+  {
+    "image_id": 2373429,
+    "question": "what is the relationship between person and sidewalk?",
+    "answer": "walking",
+    "subject": "person",
+    "object": "sidewalk",
+    "level": 3
+  },
+  {
+    "image_id": 2373112,
+    "question": "what is the relationship between man and horse?",
+    "answer": "riding",
+    "subject": "man",
+    "object": "horse",
+    "level": 3
+  },
+  {
+    "image_id": 2373112,
+    "question": "what is the relationship between man and cap?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "cap",
+    "level": 3
+  },
+  {
+    "image_id": 2373112,
+    "question": "what is the relationship between horse and gate?",
+    "answer": "jumping",
+    "subject": "horse",
+    "object": "gate",
+    "level": 3
+  },
+  {
+    "image_id": 2373112,
+    "question": "what is the relationship between man and jacket?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "jacket",
+    "level": 3
+  },
+  {
+    "image_id": 2373112,
+    "question": "what is the relationship between man and glove?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "glove",
+    "level": 3
+  },
+  {
+    "image_id": 2373112,
+    "question": "what is the relationship between horse and bridle?",
+    "answer": "wearing",
+    "subject": "horse",
+    "object": "bridle",
+    "level": 3
+  },
+  {
+    "image_id": 2373112,
+    "question": "what is the relationship between man and pants?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "pants",
+    "level": 3
+  },
+  {
+    "image_id": 2373112,
+    "question": "what is the relationship between glove and reign?",
+    "answer": "holding",
+    "subject": "glove",
+    "object": "reign",
+    "level": 3
+  },
+  {
+    "image_id": 2373112,
+    "question": "what is the relationship between horse and obstacle bar?",
+    "answer": "jumping",
+    "subject": "horse",
+    "object": "obstacle bar",
+    "level": 3
+  },
+  {
+    "image_id": 2372215,
+    "question": "what is the relationship between child and baseball?",
+    "answer": "laying",
+    "subject": "child",
+    "object": "baseball",
+    "level": 3
+  },
+  {
+    "image_id": 2372215,
+    "question": "what is the relationship between batter and bat?",
+    "answer": "swinging",
+    "subject": "batter",
+    "object": "bat",
+    "level": 3
+  },
+  {
+    "image_id": 2372215,
+    "question": "what is the relationship between player and dirt?",
+    "answer": "standing",
+    "subject": "player",
+    "object": "dirt",
+    "level": 3
+  },
+  {
+    "image_id": 2372215,
+    "question": "what is the relationship between boy and pants?",
+    "answer": "wearing",
+    "subject": "boy",
+    "object": "pants",
+    "level": 3
+  },
+  {
+    "image_id": 2372215,
+    "question": "what is the relationship between boy and helmet?",
+    "answer": "wearing",
+    "subject": "boy",
+    "object": "helmet",
+    "level": 3
+  },
+  {
+    "image_id": 2372215,
+    "question": "what is the relationship between boy and bat?",
+    "answer": "swinging",
+    "subject": "boy",
+    "object": "bat",
+    "level": 3
+  },
+  {
+    "image_id": 2372215,
+    "question": "what is the relationship between boy and baseball uniform?",
+    "answer": "wearing",
+    "subject": "boy",
+    "object": "baseball uniform",
+    "level": 3
+  },
+  {
+    "image_id": 2372100,
+    "question": "what is the relationship between bear and platform?",
+    "answer": "standing",
+    "subject": "bear",
+    "object": "platform",
+    "level": 3
+  },
+  {
+    "image_id": 2372100,
+    "question": "what is the relationship between two bears and ground?",
+    "answer": "laying",
+    "subject": "two bears",
+    "object": "ground",
+    "level": 3
+  },
+  {
+    "image_id": 2372100,
+    "question": "what is the relationship between metal chain and platform?",
+    "answer": "supporting",
+    "subject": "metal chain",
+    "object": "platform",
+    "level": 3
+  },
+  {
+    "image_id": 2372100,
+    "question": "what is the relationship between black tire and bears?",
+    "answer": "hanging",
+    "subject": "black tire",
+    "object": "bears",
+    "level": 3
+  },
+  {
+    "image_id": 2372100,
+    "question": "what is the relationship between black bear and ground?",
+    "answer": "sitting",
+    "subject": "black bear",
+    "object": "ground",
+    "level": 3
+  },
+  {
+    "image_id": 2372100,
+    "question": "what is the relationship between bear climbing and wood object?",
+    "answer": "climbing",
+    "subject": "bear climbing",
+    "object": "wood object",
+    "level": 3
+  },
+  {
+    "image_id": 2372035,
+    "question": "what is the relationship between child and shirt?",
+    "answer": "wearing",
+    "subject": "child",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2372035,
+    "question": "what is the relationship between child and umbrella?",
+    "answer": "holding",
+    "subject": "child",
+    "object": "umbrella",
+    "level": 3
+  },
+  {
+    "image_id": 2372035,
+    "question": "what is the relationship between child and sandal?",
+    "answer": "wearing",
+    "subject": "child",
+    "object": "sandal",
+    "level": 3
+  },
+  {
+    "image_id": 2372035,
+    "question": "what is the relationship between child and shoe?",
+    "answer": "wearing",
+    "subject": "child",
+    "object": "shoe",
+    "level": 3
+  },
+  {
+    "image_id": 2371976,
+    "question": "what is the relationship between person and horse?",
+    "answer": "riding",
+    "subject": "person",
+    "object": "horse",
+    "level": 3
+  },
+  {
+    "image_id": 2371976,
+    "question": "what is the relationship between person and pants?",
+    "answer": "wearing",
+    "subject": "person",
+    "object": "pants",
+    "level": 3
+  },
+  {
+    "image_id": 2371976,
+    "question": "what is the relationship between person and shirt?",
+    "answer": "wearing",
+    "subject": "person",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2371976,
+    "question": "what is the relationship between person and away?",
+    "answer": "riding",
+    "subject": "person",
+    "object": "away",
+    "level": 3
+  },
+  {
+    "image_id": 2371976,
+    "question": "what is the relationship between person and helmet?",
+    "answer": "wearing",
+    "subject": "person",
+    "object": "helmet",
+    "level": 3
+  },
+  {
+    "image_id": 2371976,
+    "question": "what is the relationship between person and sunglasses?",
+    "answer": "wearing",
+    "subject": "person",
+    "object": "sunglasses",
+    "level": 3
+  },
+  {
+    "image_id": 2371976,
+    "question": "what is the relationship between people and horses?",
+    "answer": "riding",
+    "subject": "people",
+    "object": "horses",
+    "level": 3
+  },
+  {
+    "image_id": 2371261,
+    "question": "what is the relationship between man and pants?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "pants",
+    "level": 3
+  },
+  {
+    "image_id": 2371261,
+    "question": "what is the relationship between man and black hat?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "black hat",
+    "level": 3
+  },
+  {
+    "image_id": 2371261,
+    "question": "what is the relationship between man and black tie?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "black tie",
+    "level": 3
+  },
+  {
+    "image_id": 2371261,
+    "question": "what is the relationship between horses and buggy?",
+    "answer": "pulling",
+    "subject": "horses",
+    "object": "buggy",
+    "level": 3
+  },
+  {
+    "image_id": 2371261,
+    "question": "what is the relationship between horses and hat?",
+    "answer": "wearing",
+    "subject": "horses",
+    "object": "hat",
+    "level": 3
+  },
+  {
+    "image_id": 2371261,
+    "question": "what is the relationship between men and horses?",
+    "answer": "steering",
+    "subject": "men",
+    "object": "horses",
+    "level": 3
+  },
+  {
+    "image_id": 2371261,
+    "question": "what is the relationship between horse and carriage?",
+    "answer": "pulling",
+    "subject": "horse",
+    "object": "carriage",
+    "level": 3
+  },
+  {
+    "image_id": 2370859,
+    "question": "what is the relationship between hand and cat?",
+    "answer": "holding",
+    "subject": "hand",
+    "object": "cat",
+    "level": 3
+  },
+  {
+    "image_id": 2370859,
+    "question": "what is the relationship between keyboard and hand?",
+    "answer": "touching",
+    "subject": "keyboard",
+    "object": "hand",
+    "level": 3
+  },
+  {
+    "image_id": 2369947,
+    "question": "what is the relationship between brocolli and garden?",
+    "answer": "growing",
+    "subject": "brocolli",
+    "object": "garden",
+    "level": 3
+  },
+  {
+    "image_id": 2369947,
+    "question": "what is the relationship between dirt and ground?",
+    "answer": "covering",
+    "subject": "dirt",
+    "object": "ground",
+    "level": 3
+  },
+  {
+    "image_id": 2369947,
+    "question": "what is the relationship between twigs and ground?",
+    "answer": "covering",
+    "subject": "twigs",
+    "object": "ground",
+    "level": 3
+  },
+  {
+    "image_id": 2369947,
+    "question": "what is the relationship between weeds and plant?",
+    "answer": "growing",
+    "subject": "weeds",
+    "object": "plant",
+    "level": 3
+  },
+  {
+    "image_id": 2369565,
+    "question": "what is the relationship between trunk and ground?",
+    "answer": "touching",
+    "subject": "trunk",
+    "object": "ground",
+    "level": 3
+  },
+  {
+    "image_id": 2368820,
+    "question": "what is the relationship between animal and rock?",
+    "answer": "sitting",
+    "subject": "animal",
+    "object": "rock",
+    "level": 3
+  },
+  {
+    "image_id": 2368820,
+    "question": "what is the relationship between boulder and wall?",
+    "answer": "supporting",
+    "subject": "boulder",
+    "object": "wall",
+    "level": 3
+  },
+  {
+    "image_id": 2368820,
+    "question": "what is the relationship between wall and background?",
+    "answer": "standing",
+    "subject": "wall",
+    "object": "background",
+    "level": 3
+  },
+  {
+    "image_id": 2368820,
+    "question": "what is the relationship between bear and log?",
+    "answer": "lying",
+    "subject": "bear",
+    "object": "log",
+    "level": 3
+  },
+  {
+    "image_id": 2368820,
+    "question": "what is the relationship between fur and bear?",
+    "answer": "covering",
+    "subject": "fur",
+    "object": "bear",
+    "level": 3
+  },
+  {
+    "image_id": 2368384,
+    "question": "what is the relationship between people and sidewalk?",
+    "answer": "walking",
+    "subject": "people",
+    "object": "sidewalk",
+    "level": 3
+  },
+  {
+    "image_id": 2368384,
+    "question": "what is the relationship between car and street?",
+    "answer": "driving",
+    "subject": "car",
+    "object": "street",
+    "level": 3
+  },
+  {
+    "image_id": 2368384,
+    "question": "what is the relationship between person and sidewalk?",
+    "answer": "walking",
+    "subject": "person",
+    "object": "sidewalk",
+    "level": 3
+  },
+  {
+    "image_id": 2367231,
+    "question": "what is the relationship between hands and cake?",
+    "answer": "cutting",
+    "subject": "hands",
+    "object": "cake",
+    "level": 3
+  },
+  {
+    "image_id": 2367231,
+    "question": "what is the relationship between rose pattern and cake?",
+    "answer": "covering",
+    "subject": "rose pattern",
+    "object": "cake",
+    "level": 3
+  },
+  {
+    "image_id": 2367231,
+    "question": "what is the relationship between wall and cake?",
+    "answer": "cutting",
+    "subject": "wall",
+    "object": "cake",
+    "level": 3
+  },
+  {
+    "image_id": 2367231,
+    "question": "what is the relationship between lady and wedding dress?",
+    "answer": "wearing",
+    "subject": "lady",
+    "object": "wedding dress",
+    "level": 3
+  },
+  {
+    "image_id": 2366845,
+    "question": "what is the relationship between man and gate?",
+    "answer": "opening",
+    "subject": "man",
+    "object": "gate",
+    "level": 3
+  },
+  {
+    "image_id": 2366845,
+    "question": "what is the relationship between man and stick?",
+    "answer": "holding",
+    "subject": "man",
+    "object": "stick",
+    "level": 3
+  },
+  {
+    "image_id": 2366380,
+    "question": "what is the relationship between man and camera?",
+    "answer": "holding",
+    "subject": "man",
+    "object": "camera",
+    "level": 3
+  },
+  {
+    "image_id": 2366380,
+    "question": "what is the relationship between man and shirt?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2366380,
+    "question": "what is the relationship between hands and camera?",
+    "answer": "holding",
+    "subject": "hands",
+    "object": "camera",
+    "level": 3
+  },
+  {
+    "image_id": 2366380,
+    "question": "what is the relationship between man and sunglasses?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "sunglasses",
+    "level": 3
+  },
+  {
+    "image_id": 2366380,
+    "question": "what is the relationship between man and watch?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "watch",
+    "level": 3
+  },
+  {
+    "image_id": 2366121,
+    "question": "what is the relationship between bird and around?",
+    "answer": "walking",
+    "subject": "bird",
+    "object": "around",
+    "level": 3
+  },
+  {
+    "image_id": 2366121,
+    "question": "what is the relationship between bird and mate?",
+    "answer": "looking",
+    "subject": "bird",
+    "object": "mate",
+    "level": 3
+  },
+  {
+    "image_id": 2366121,
+    "question": "what is the relationship between bird and up?",
+    "answer": "looking",
+    "subject": "bird",
+    "object": "up",
+    "level": 3
+  },
+  {
+    "image_id": 2365542,
+    "question": "what is the relationship between man and cap?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "cap",
+    "level": 3
+  },
+  {
+    "image_id": 2365542,
+    "question": "what is the relationship between man and skiboard?",
+    "answer": "standing",
+    "subject": "man",
+    "object": "skiboard",
+    "level": 3
+  },
+  {
+    "image_id": 2365542,
+    "question": "what is the relationship between person and snowboard?",
+    "answer": "doing",
+    "subject": "person",
+    "object": "snowboard",
+    "level": 3
+  },
+  {
+    "image_id": 2365542,
+    "question": "what is the relationship between he and goggles?",
+    "answer": "wearing",
+    "subject": "he",
+    "object": "goggles",
+    "level": 3
+  },
+  {
+    "image_id": 2365542,
+    "question": "what is the relationship between man and snowpants?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "snowpants",
+    "level": 3
+  },
+  {
+    "image_id": 2364730,
+    "question": "what is the relationship between man and sunglasses?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "sunglasses",
+    "level": 3
+  },
+  {
+    "image_id": 2364730,
+    "question": "what is the relationship between man and shirt?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2364730,
+    "question": "what is the relationship between man and cell phone?",
+    "answer": "holding",
+    "subject": "man",
+    "object": "cell phone",
+    "level": 3
+  },
+  {
+    "image_id": 2364730,
+    "question": "what is the relationship between man and cap?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "cap",
+    "level": 3
+  },
+  {
+    "image_id": 2364730,
+    "question": "what is the relationship between man and jeans?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "jeans",
+    "level": 3
+  },
+  {
+    "image_id": 2364730,
+    "question": "what is the relationship between man and shorts?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shorts",
+    "level": 3
+  },
+  {
+    "image_id": 2364730,
+    "question": "what is the relationship between man and pants?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "pants",
+    "level": 3
+  },
+  {
+    "image_id": 2364730,
+    "question": "what is the relationship between man and watch?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "watch",
+    "level": 3
+  },
+  {
+    "image_id": 2364305,
+    "question": "what is the relationship between man and shirt?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2364305,
+    "question": "what is the relationship between man and tie?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "tie",
+    "level": 3
+  },
+  {
+    "image_id": 2363354,
+    "question": "what is the relationship between girl and shirt?",
+    "answer": "wearing",
+    "subject": "girl",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2363354,
+    "question": "what is the relationship between man and glasses?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "glasses",
+    "level": 3
+  },
+  {
+    "image_id": 2363315,
+    "question": "what is the relationship between man and chaps?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "chaps",
+    "level": 3
+  },
+  {
+    "image_id": 2363315,
+    "question": "what is the relationship between man and gloves?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "gloves",
+    "level": 3
+  },
+  {
+    "image_id": 2361591,
+    "question": "what is the relationship between people and picture?",
+    "answer": "taking",
+    "subject": "people",
+    "object": "picture",
+    "level": 3
+  },
+  {
+    "image_id": 2361591,
+    "question": "what is the relationship between elephant and road?",
+    "answer": "walking",
+    "subject": "elephant",
+    "object": "road",
+    "level": 3
+  },
+  {
+    "image_id": 2360278,
+    "question": "what is the relationship between ski-jumping man and jump?",
+    "answer": "doing",
+    "subject": "ski-jumping man",
+    "object": "jump",
+    "level": 3
+  },
+  {
+    "image_id": 2358174,
+    "question": "what is the relationship between screw and sign?",
+    "answer": "connecting",
+    "subject": "screw",
+    "object": "sign",
+    "level": 3
+  },
+  {
+    "image_id": 2358174,
+    "question": "what is the relationship between screw and post?",
+    "answer": "connecting",
+    "subject": "screw",
+    "object": "post",
+    "level": 3
+  },
+  {
+    "image_id": 2357883,
+    "question": "what is the relationship between man and black suit?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "black suit",
+    "level": 3
+  },
+  {
+    "image_id": 2357883,
+    "question": "what is the relationship between man and bed?",
+    "answer": "sitting",
+    "subject": "man",
+    "object": "bed",
+    "level": 3
+  },
+  {
+    "image_id": 2357883,
+    "question": "what is the relationship between man and tube?",
+    "answer": "holding",
+    "subject": "man",
+    "object": "tube",
+    "level": 3
+  },
+  {
+    "image_id": 2357883,
+    "question": "what is the relationship between man and suit?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "suit",
+    "level": 3
+  },
+  {
+    "image_id": 2357883,
+    "question": "what is the relationship between man and hookah?",
+    "answer": "holding",
+    "subject": "man",
+    "object": "hookah",
+    "level": 3
+  },
+  {
+    "image_id": 2357883,
+    "question": "what is the relationship between man and tie?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "tie",
+    "level": 3
+  },
+  {
+    "image_id": 2357883,
+    "question": "what is the relationship between man and pants?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "pants",
+    "level": 3
+  },
+  {
+    "image_id": 2357883,
+    "question": "what is the relationship between man and shirt?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2357883,
+    "question": "what is the relationship between man and sofa?",
+    "answer": "sitting",
+    "subject": "man",
+    "object": "sofa",
+    "level": 3
+  },
+  {
+    "image_id": 2357581,
+    "question": "what is the relationship between people and field?",
+    "answer": "laying",
+    "subject": "people",
+    "object": "field",
+    "level": 3
+  },
+  {
+    "image_id": 2357581,
+    "question": "what is the relationship between boys and field?",
+    "answer": "laying",
+    "subject": "boys",
+    "object": "field",
+    "level": 3
+  },
+  {
+    "image_id": 2357581,
+    "question": "what is the relationship between boys and ground?",
+    "answer": "laying",
+    "subject": "boys",
+    "object": "ground",
+    "level": 3
+  },
+  {
+    "image_id": 2357581,
+    "question": "what is the relationship between boy and ball?",
+    "answer": "pitching",
+    "subject": "boy",
+    "object": "ball",
+    "level": 3
+  },
+  {
+    "image_id": 2357581,
+    "question": "what is the relationship between boy and bat?",
+    "answer": "swinging",
+    "subject": "boy",
+    "object": "bat",
+    "level": 3
+  },
+  {
+    "image_id": 2357581,
+    "question": "what is the relationship between boy and helmet?",
+    "answer": "wearing",
+    "subject": "boy",
+    "object": "helmet",
+    "level": 3
+  },
+  {
+    "image_id": 2357581,
+    "question": "what is the relationship between kid and bat?",
+    "answer": "holding",
+    "subject": "kid",
+    "object": "bat",
+    "level": 3
+  },
+  {
+    "image_id": 2357328,
+    "question": "what is the relationship between boy and person?",
+    "answer": "standing",
+    "subject": "boy",
+    "object": "person",
+    "level": 3
+  },
+  {
+    "image_id": 2357328,
+    "question": "what is the relationship between boy and bat?",
+    "answer": "swinging",
+    "subject": "boy",
+    "object": "bat",
+    "level": 3
+  },
+  {
+    "image_id": 2357328,
+    "question": "what is the relationship between boy and bat?",
+    "answer": "hitting",
+    "subject": "boy",
+    "object": "bat",
+    "level": 3
+  },
+  {
+    "image_id": 2357328,
+    "question": "what is the relationship between boy and baseball bat?",
+    "answer": "laying",
+    "subject": "boy",
+    "object": "baseball bat",
+    "level": 3
+  },
+  {
+    "image_id": 2357328,
+    "question": "what is the relationship between boy and bat?",
+    "answer": "laying",
+    "subject": "boy",
+    "object": "bat",
+    "level": 3
+  },
+  {
+    "image_id": 2357328,
+    "question": "what is the relationship between boy and shirt?",
+    "answer": "wearing",
+    "subject": "boy",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2357328,
+    "question": "what is the relationship between boy and shorts?",
+    "answer": "wearing",
+    "subject": "boy",
+    "object": "shorts",
+    "level": 3
+  },
+  {
+    "image_id": 2357328,
+    "question": "what is the relationship between boy and play thing?",
+    "answer": "holding",
+    "subject": "boy",
+    "object": "play thing",
+    "level": 3
+  },
+  {
+    "image_id": 2357328,
+    "question": "what is the relationship between kids and field?",
+    "answer": "laying",
+    "subject": "kids",
+    "object": "field",
+    "level": 3
+  },
+  {
+    "image_id": 2357328,
+    "question": "what is the relationship between boy and bat?",
+    "answer": "holding",
+    "subject": "boy",
+    "object": "bat",
+    "level": 3
+  },
+  {
+    "image_id": 2357328,
+    "question": "what is the relationship between boy and ball?",
+    "answer": "hitting",
+    "subject": "boy",
+    "object": "ball",
+    "level": 3
+  },
+  {
+    "image_id": 2357191,
+    "question": "what is the relationship between man and dog?",
+    "answer": "holding",
+    "subject": "man",
+    "object": "dog",
+    "level": 3
+  },
+  {
+    "image_id": 2357191,
+    "question": "what is the relationship between man and surfboard?",
+    "answer": "standing",
+    "subject": "man",
+    "object": "surfboard",
+    "level": 3
+  },
+  {
+    "image_id": 2357074,
+    "question": "what is the relationship between picture and wall?",
+    "answer": "hanging",
+    "subject": "picture",
+    "object": "wall",
+    "level": 3
+  },
+  {
+    "image_id": 2357074,
+    "question": "what is the relationship between phone and wall?",
+    "answer": "hanging",
+    "subject": "phone",
+    "object": "wall",
+    "level": 3
+  },
+  {
+    "image_id": 2357074,
+    "question": "what is the relationship between man and glasses?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "glasses",
+    "level": 3
+  },
+  {
+    "image_id": 2357074,
+    "question": "what is the relationship between man and shirt?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2356369,
+    "question": "what is the relationship between pin and picture?",
+    "answer": "holding",
+    "subject": "pin",
+    "object": "picture",
+    "level": 3
+  },
+  {
+    "image_id": 2356369,
+    "question": "what is the relationship between leaf and plant?",
+    "answer": "hanging",
+    "subject": "leaf",
+    "object": "plant",
+    "level": 3
+  },
+  {
+    "image_id": 2356369,
+    "question": "what is the relationship between picture and cord?",
+    "answer": "hanging",
+    "subject": "picture",
+    "object": "cord",
+    "level": 3
+  },
+  {
+    "image_id": 2356369,
+    "question": "what is the relationship between pictures and cord?",
+    "answer": "hanging",
+    "subject": "pictures",
+    "object": "cord",
+    "level": 3
+  },
+  {
+    "image_id": 2356369,
+    "question": "what is the relationship between picture and display?",
+    "answer": "hanging",
+    "subject": "picture",
+    "object": "display",
+    "level": 3
+  },
+  {
+    "image_id": 2356369,
+    "question": "what is the relationship between suitcase and picture?",
+    "answer": "holding",
+    "subject": "suitcase",
+    "object": "picture",
+    "level": 3
+  },
+  {
+    "image_id": 2355592,
+    "question": "what is the relationship between hand and pizza?",
+    "answer": "getting",
+    "subject": "hand",
+    "object": "pizza",
+    "level": 3
+  },
+  {
+    "image_id": 2355592,
+    "question": "what is the relationship between hand and slice?",
+    "answer": "grabbing",
+    "subject": "hand",
+    "object": "slice",
+    "level": 3
+  },
+  {
+    "image_id": 2355558,
+    "question": "what is the relationship between man and wooden surface?",
+    "answer": "holding",
+    "subject": "man",
+    "object": "wooden surface",
+    "level": 3
+  },
+  {
+    "image_id": 2355558,
+    "question": "what is the relationship between man and surfboard?",
+    "answer": "holding",
+    "subject": "man",
+    "object": "surfboard",
+    "level": 3
+  },
+  {
+    "image_id": 2355558,
+    "question": "what is the relationship between man and jacket?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "jacket",
+    "level": 3
+  },
+  {
+    "image_id": 2355237,
+    "question": "what is the relationship between man and beer can?",
+    "answer": "holding",
+    "subject": "man",
+    "object": "beer can",
+    "level": 3
+  },
+  {
+    "image_id": 2355237,
+    "question": "what is the relationship between man and shirt?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2355237,
+    "question": "what is the relationship between man and shorts?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shorts",
+    "level": 3
+  },
+  {
+    "image_id": 2355237,
+    "question": "what is the relationship between woman and ring?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "ring",
+    "level": 3
+  },
+  {
+    "image_id": 2355237,
+    "question": "what is the relationship between woman and chair?",
+    "answer": "sitting",
+    "subject": "woman",
+    "object": "chair",
+    "level": 3
+  },
+  {
+    "image_id": 2355237,
+    "question": "what is the relationship between man and cellphone?",
+    "answer": "talking",
+    "subject": "man",
+    "object": "cellphone",
+    "level": 3
+  },
+  {
+    "image_id": 2355237,
+    "question": "what is the relationship between man and hat?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "hat",
+    "level": 3
+  },
+  {
+    "image_id": 2355237,
+    "question": "what is the relationship between hand and beer can?",
+    "answer": "holding",
+    "subject": "hand",
+    "object": "beer can",
+    "level": 3
+  },
+  {
+    "image_id": 2354914,
+    "question": "what is the relationship between man and umbrella?",
+    "answer": "holding",
+    "subject": "man",
+    "object": "umbrella",
+    "level": 3
+  },
+  {
+    "image_id": 2354914,
+    "question": "what is the relationship between man and coat?",
+    "answer": "holding",
+    "subject": "man",
+    "object": "coat",
+    "level": 3
+  },
+  {
+    "image_id": 2354914,
+    "question": "what is the relationship between person and boots?",
+    "answer": "wearing",
+    "subject": "person",
+    "object": "boots",
+    "level": 3
+  },
+  {
+    "image_id": 2354914,
+    "question": "what is the relationship between person and trench coat?",
+    "answer": "wearing",
+    "subject": "person",
+    "object": "trench coat",
+    "level": 3
+  },
+  {
+    "image_id": 2354914,
+    "question": "what is the relationship between person and street?",
+    "answer": "walking",
+    "subject": "person",
+    "object": "street",
+    "level": 3
+  },
+  {
+    "image_id": 2354914,
+    "question": "what is the relationship between person and umbrella?",
+    "answer": "carrying",
+    "subject": "person",
+    "object": "umbrella",
+    "level": 3
+  },
+  {
+    "image_id": 2354914,
+    "question": "what is the relationship between tree and sidewalk?",
+    "answer": "growing",
+    "subject": "tree",
+    "object": "sidewalk",
+    "level": 3
+  },
+  {
+    "image_id": 2354213,
+    "question": "what is the relationship between man and motorcycle?",
+    "answer": "riding",
+    "subject": "man",
+    "object": "motorcycle",
+    "level": 3
+  },
+  {
+    "image_id": 2354213,
+    "question": "what is the relationship between man and folder?",
+    "answer": "holding",
+    "subject": "man",
+    "object": "folder",
+    "level": 3
+  },
+  {
+    "image_id": 2354213,
+    "question": "what is the relationship between man and folder?",
+    "answer": "carrying",
+    "subject": "man",
+    "object": "folder",
+    "level": 3
+  },
+  {
+    "image_id": 2354213,
+    "question": "what is the relationship between plants and building?",
+    "answer": "growing",
+    "subject": "plants",
+    "object": "building",
+    "level": 3
+  },
+  {
+    "image_id": 2354213,
+    "question": "what is the relationship between man and street?",
+    "answer": "walking",
+    "subject": "man",
+    "object": "street",
+    "level": 3
+  },
+  {
+    "image_id": 2354213,
+    "question": "what is the relationship between girl and bicycle?",
+    "answer": "walking",
+    "subject": "girl",
+    "object": "bicycle",
+    "level": 3
+  },
+  {
+    "image_id": 2353930,
+    "question": "what is the relationship between horses and grass?",
+    "answer": "standing",
+    "subject": "horses",
+    "object": "grass",
+    "level": 3
+  },
+  {
+    "image_id": 2353930,
+    "question": "what is the relationship between horse and shadow?",
+    "answer": "casting",
+    "subject": "horse",
+    "object": "shadow",
+    "level": 3
+  },
+  {
+    "image_id": 2353203,
+    "question": "what is the relationship between catcher and face mask?",
+    "answer": "wearing",
+    "subject": "catcher",
+    "object": "face mask",
+    "level": 3
+  },
+  {
+    "image_id": 2353203,
+    "question": "what is the relationship between white baseball and mid air?",
+    "answer": "lying",
+    "subject": "white baseball",
+    "object": "mid air",
+    "level": 3
+  },
+  {
+    "image_id": 2353093,
+    "question": "what is the relationship between man and train?",
+    "answer": "fixing",
+    "subject": "man",
+    "object": "train",
+    "level": 3
+  },
+  {
+    "image_id": 2353093,
+    "question": "what is the relationship between man and train?",
+    "answer": "working",
+    "subject": "man",
+    "object": "train",
+    "level": 3
+  },
+  {
+    "image_id": 2353093,
+    "question": "what is the relationship between steam and ground?",
+    "answer": "blowing",
+    "subject": "steam",
+    "object": "ground",
+    "level": 3
+  },
+  {
+    "image_id": 2353093,
+    "question": "what is the relationship between steam and ground?",
+    "answer": "using",
+    "subject": "steam",
+    "object": "ground",
+    "level": 3
+  },
+  {
+    "image_id": 2352573,
+    "question": "what is the relationship between person and shirt?",
+    "answer": "wearing",
+    "subject": "person",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2352573,
+    "question": "what is the relationship between person and shorts?",
+    "answer": "wearing",
+    "subject": "person",
+    "object": "shorts",
+    "level": 3
+  },
+  {
+    "image_id": 2352573,
+    "question": "what is the relationship between person and beach?",
+    "answer": "walking",
+    "subject": "person",
+    "object": "beach",
+    "level": 3
+  },
+  {
+    "image_id": 2352573,
+    "question": "what is the relationship between person and surfboard?",
+    "answer": "carrying",
+    "subject": "person",
+    "object": "surfboard",
+    "level": 3
+  },
+  {
+    "image_id": 2352573,
+    "question": "what is the relationship between lady and surfboard?",
+    "answer": "carrying",
+    "subject": "lady",
+    "object": "surfboard",
+    "level": 3
+  },
+  {
+    "image_id": 2352573,
+    "question": "what is the relationship between dog and beach?",
+    "answer": "running",
+    "subject": "dog",
+    "object": "beach",
+    "level": 3
+  },
+  {
+    "image_id": 2352573,
+    "question": "what is the relationship between lady and wetsuit?",
+    "answer": "wearing",
+    "subject": "lady",
+    "object": "wetsuit",
+    "level": 3
+  },
+  {
+    "image_id": 2352573,
+    "question": "what is the relationship between seaweed and sand?",
+    "answer": "laying",
+    "subject": "seaweed",
+    "object": "sand",
+    "level": 3
+  },
+  {
+    "image_id": 2352573,
+    "question": "what is the relationship between woman and shorts?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "shorts",
+    "level": 3
+  },
+  {
+    "image_id": 2352573,
+    "question": "what is the relationship between woman and surfboard?",
+    "answer": "holding",
+    "subject": "woman",
+    "object": "surfboard",
+    "level": 3
+  },
+  {
+    "image_id": 2352573,
+    "question": "what is the relationship between woman and wetsuit?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "wetsuit",
+    "level": 3
+  },
+  {
+    "image_id": 2352573,
+    "question": "what is the relationship between woman and denim shorts?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "denim shorts",
+    "level": 3
+  },
+  {
+    "image_id": 2352521,
+    "question": "what is the relationship between man and shirt?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2352521,
+    "question": "what is the relationship between man and jeans?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "jeans",
+    "level": 3
+  },
+  {
+    "image_id": 2352042,
+    "question": "what is the relationship between lady and glasses?",
+    "answer": "wearing",
+    "subject": "lady",
+    "object": "glasses",
+    "level": 3
+  },
+  {
+    "image_id": 2352042,
+    "question": "what is the relationship between lady and necklace?",
+    "answer": "wearing",
+    "subject": "lady",
+    "object": "necklace",
+    "level": 3
+  },
+  {
+    "image_id": 2352042,
+    "question": "what is the relationship between lady and menu?",
+    "answer": "looking",
+    "subject": "lady",
+    "object": "menu",
+    "level": 3
+  },
+  {
+    "image_id": 2352042,
+    "question": "what is the relationship between lady and pendant?",
+    "answer": "wearing",
+    "subject": "lady",
+    "object": "pendant",
+    "level": 3
+  },
+  {
+    "image_id": 2352042,
+    "question": "what is the relationship between waiter and shirt?",
+    "answer": "wearing",
+    "subject": "waiter",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2352001,
+    "question": "what is the relationship between woman and shorts?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "shorts",
+    "level": 3
+  },
+  {
+    "image_id": 2352001,
+    "question": "what is the relationship between woman and sunglasses?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "sunglasses",
+    "level": 3
+  },
+  {
+    "image_id": 2352001,
+    "question": "what is the relationship between woman and top?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "top",
+    "level": 3
+  },
+  {
+    "image_id": 2352001,
+    "question": "what is the relationship between woman and necklace?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "necklace",
+    "level": 3
+  },
+  {
+    "image_id": 2352001,
+    "question": "what is the relationship between woman and tube?",
+    "answer": "carrying",
+    "subject": "woman",
+    "object": "tube",
+    "level": 3
+  },
+  {
+    "image_id": 2351767,
+    "question": "what is the relationship between man and shirt?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2351767,
+    "question": "what is the relationship between man and sweater?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "sweater",
+    "level": 3
+  },
+  {
+    "image_id": 2351767,
+    "question": "what is the relationship between girl and shirt?",
+    "answer": "wearing",
+    "subject": "girl",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2351398,
+    "question": "what is the relationship between person and frisbee?",
+    "answer": "catching",
+    "subject": "person",
+    "object": "frisbee",
+    "level": 3
+  },
+  {
+    "image_id": 2351398,
+    "question": "what is the relationship between person and pants?",
+    "answer": "wearing",
+    "subject": "person",
+    "object": "pants",
+    "level": 3
+  },
+  {
+    "image_id": 2350489,
+    "question": "what is the relationship between man and paper stack?",
+    "answer": "carrying",
+    "subject": "man",
+    "object": "paper stack",
+    "level": 3
+  },
+  {
+    "image_id": 2350489,
+    "question": "what is the relationship between person and pants?",
+    "answer": "wearing",
+    "subject": "person",
+    "object": "pants",
+    "level": 3
+  },
+  {
+    "image_id": 2350489,
+    "question": "what is the relationship between man and hat?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "hat",
+    "level": 3
+  },
+  {
+    "image_id": 2350489,
+    "question": "what is the relationship between man and papers?",
+    "answer": "carrying",
+    "subject": "man",
+    "object": "papers",
+    "level": 3
+  },
+  {
+    "image_id": 2350489,
+    "question": "what is the relationship between man and vest?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "vest",
+    "level": 3
+  },
+  {
+    "image_id": 2350489,
+    "question": "what is the relationship between man and road?",
+    "answer": "standing",
+    "subject": "man",
+    "object": "road",
+    "level": 3
+  },
+  {
+    "image_id": 2349436,
+    "question": "what is the relationship between men and table?",
+    "answer": "sitting",
+    "subject": "men",
+    "object": "table",
+    "level": 3
+  },
+  {
+    "image_id": 2349436,
+    "question": "what is the relationship between couple and background?",
+    "answer": "walking",
+    "subject": "couple",
+    "object": "background",
+    "level": 3
+  },
+  {
+    "image_id": 2349436,
+    "question": "what is the relationship between forehead and hand?",
+    "answer": "resting",
+    "subject": "forehead",
+    "object": "hand",
+    "level": 3
+  },
+  {
+    "image_id": 2349436,
+    "question": "what is the relationship between men and shirts?",
+    "answer": "wearing",
+    "subject": "men",
+    "object": "shirts",
+    "level": 3
+  },
+  {
+    "image_id": 2349436,
+    "question": "what is the relationship between man and sunglasses?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "sunglasses",
+    "level": 3
+  },
+  {
+    "image_id": 2349436,
+    "question": "what is the relationship between man and headphones?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "headphones",
+    "level": 3
+  },
+  {
+    "image_id": 2349436,
+    "question": "what is the relationship between man and glasses?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "glasses",
+    "level": 3
+  },
+  {
+    "image_id": 2349436,
+    "question": "what is the relationship between hand and phone?",
+    "answer": "holding",
+    "subject": "hand",
+    "object": "phone",
+    "level": 3
+  },
+  {
+    "image_id": 2349436,
+    "question": "what is the relationship between man and shirt?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2349436,
+    "question": "what is the relationship between man and background?",
+    "answer": "standing",
+    "subject": "man",
+    "object": "background",
+    "level": 3
+  },
+  {
+    "image_id": 2349436,
+    "question": "what is the relationship between man and phone?",
+    "answer": "holding",
+    "subject": "man",
+    "object": "phone",
+    "level": 3
+  },
+  {
+    "image_id": 2349436,
+    "question": "what is the relationship between man and watch?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "watch",
+    "level": 3
+  },
+  {
+    "image_id": 2349436,
+    "question": "what is the relationship between glass and table?",
+    "answer": "sitting",
+    "subject": "glass",
+    "object": "table",
+    "level": 3
+  },
+  {
+    "image_id": 2348925,
+    "question": "what is the relationship between surfer and surfboard?",
+    "answer": "riding",
+    "subject": "surfer",
+    "object": "surfboard",
+    "level": 3
+  },
+  {
+    "image_id": 2348925,
+    "question": "what is the relationship between surfer and wave?",
+    "answer": "riding",
+    "subject": "surfer",
+    "object": "wave",
+    "level": 3
+  },
+  {
+    "image_id": 2348732,
+    "question": "what is the relationship between man and surfboard?",
+    "answer": "holding",
+    "subject": "man",
+    "object": "surfboard",
+    "level": 3
+  },
+  {
+    "image_id": 2348732,
+    "question": "what is the relationship between man and beach?",
+    "answer": "walking",
+    "subject": "man",
+    "object": "beach",
+    "level": 3
+  },
+  {
+    "image_id": 2348732,
+    "question": "what is the relationship between man and surfboard?",
+    "answer": "carrying",
+    "subject": "man",
+    "object": "surfboard",
+    "level": 3
+  },
+  {
+    "image_id": 2348525,
+    "question": "what is the relationship between man and tie?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "tie",
+    "level": 3
+  },
+  {
+    "image_id": 2348525,
+    "question": "what is the relationship between man and suit?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "suit",
+    "level": 3
+  },
+  {
+    "image_id": 2348508,
+    "question": "what is the relationship between person and top?",
+    "answer": "wearing",
+    "subject": "person",
+    "object": "top",
+    "level": 3
+  },
+  {
+    "image_id": 2348508,
+    "question": "what is the relationship between man and plane?",
+    "answer": "standing",
+    "subject": "man",
+    "object": "plane",
+    "level": 3
+  },
+  {
+    "image_id": 2348430,
+    "question": "what is the relationship between player and shirt?",
+    "answer": "wearing",
+    "subject": "player",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2348430,
+    "question": "what is the relationship between she and racquet?",
+    "answer": "holding",
+    "subject": "she",
+    "object": "racquet",
+    "level": 3
+  },
+  {
+    "image_id": 2348430,
+    "question": "what is the relationship between he and raquet?",
+    "answer": "holding",
+    "subject": "he",
+    "object": "raquet",
+    "level": 3
+  },
+  {
+    "image_id": 2348430,
+    "question": "what is the relationship between man and shirt?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2348430,
+    "question": "what is the relationship between guys and court?",
+    "answer": "looking",
+    "subject": "guys",
+    "object": "court",
+    "level": 3
+  },
+  {
+    "image_id": 2348430,
+    "question": "what is the relationship between lady and man?",
+    "answer": "looking",
+    "subject": "lady",
+    "object": "man",
+    "level": 3
+  },
+  {
+    "image_id": 2348430,
+    "question": "what is the relationship between everyone and racquets?",
+    "answer": "holding",
+    "subject": "everyone",
+    "object": "racquets",
+    "level": 3
+  },
+  {
+    "image_id": 2348430,
+    "question": "what is the relationship between woman and shirt?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2348430,
+    "question": "what is the relationship between woman and racket?",
+    "answer": "holding",
+    "subject": "woman",
+    "object": "racket",
+    "level": 3
+  },
+  {
+    "image_id": 2348430,
+    "question": "what is the relationship between man and white shirt?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "white shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2348430,
+    "question": "what is the relationship between man and shorts?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shorts",
+    "level": 3
+  },
+  {
+    "image_id": 2348430,
+    "question": "what is the relationship between woman and pants?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "pants",
+    "level": 3
+  },
+  {
+    "image_id": 2348430,
+    "question": "what is the relationship between man and shoe?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shoe",
+    "level": 3
+  },
+  {
+    "image_id": 2348430,
+    "question": "what is the relationship between man and hair?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "hair",
+    "level": 3
+  },
+  {
+    "image_id": 2348420,
+    "question": "what is the relationship between man and shorts?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shorts",
+    "level": 3
+  },
+  {
+    "image_id": 2348420,
+    "question": "what is the relationship between lady and tanktop?",
+    "answer": "wearing",
+    "subject": "lady",
+    "object": "tanktop",
+    "level": 3
+  },
+  {
+    "image_id": 2348420,
+    "question": "what is the relationship between lady and shirt?",
+    "answer": "wearing",
+    "subject": "lady",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2347350,
+    "question": "what is the relationship between twig and clock?",
+    "answer": "blocking",
+    "subject": "twig",
+    "object": "clock",
+    "level": 3
+  },
+  {
+    "image_id": 2347350,
+    "question": "what is the relationship between twig and window?",
+    "answer": "blocking",
+    "subject": "twig",
+    "object": "window",
+    "level": 3
+  },
+  {
+    "image_id": 2346161,
+    "question": "what is the relationship between rider and helmet?",
+    "answer": "wearing",
+    "subject": "rider",
+    "object": "helmet",
+    "level": 3
+  },
+  {
+    "image_id": 2346161,
+    "question": "what is the relationship between rider and goggles?",
+    "answer": "wearing",
+    "subject": "rider",
+    "object": "goggles",
+    "level": 3
+  },
+  {
+    "image_id": 2346161,
+    "question": "what is the relationship between rider and vest?",
+    "answer": "wearing",
+    "subject": "rider",
+    "object": "vest",
+    "level": 3
+  },
+  {
+    "image_id": 2346161,
+    "question": "what is the relationship between rider and safety vest?",
+    "answer": "wearing",
+    "subject": "rider",
+    "object": "safety vest",
+    "level": 3
+  },
+  {
+    "image_id": 2346161,
+    "question": "what is the relationship between man and bike?",
+    "answer": "racing",
+    "subject": "man",
+    "object": "bike",
+    "level": 3
+  },
+  {
+    "image_id": 2346161,
+    "question": "what is the relationship between rider and shirt?",
+    "answer": "wearing",
+    "subject": "rider",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2346161,
+    "question": "what is the relationship between rider and motorbike?",
+    "answer": "jumping",
+    "subject": "rider",
+    "object": "motorbike",
+    "level": 3
+  },
+  {
+    "image_id": 2344531,
+    "question": "what is the relationship between man and holster?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "holster",
+    "level": 3
+  },
+  {
+    "image_id": 2344531,
+    "question": "what is the relationship between man and belt?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "belt",
+    "level": 3
+  },
+  {
+    "image_id": 2344531,
+    "question": "what is the relationship between man and tie?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "tie",
+    "level": 3
+  },
+  {
+    "image_id": 2344531,
+    "question": "what is the relationship between man and jacket?",
+    "answer": "holding",
+    "subject": "man",
+    "object": "jacket",
+    "level": 3
+  },
+  {
+    "image_id": 2344531,
+    "question": "what is the relationship between man and shirt?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2344531,
+    "question": "what is the relationship between man and pants?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "pants",
+    "level": 3
+  },
+  {
+    "image_id": 2344531,
+    "question": "what is the relationship between man and cowboy hat?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "cowboy hat",
+    "level": 3
+  },
+  {
+    "image_id": 2343204,
+    "question": "what is the relationship between guy and jeans?",
+    "answer": "wearing",
+    "subject": "guy",
+    "object": "jeans",
+    "level": 3
+  },
+  {
+    "image_id": 2341501,
+    "question": "what is the relationship between woman and shirt?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2341501,
+    "question": "what is the relationship between man and pants?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "pants",
+    "level": 3
+  },
+  {
+    "image_id": 2341501,
+    "question": "what is the relationship between man and cap?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "cap",
+    "level": 3
+  },
+  {
+    "image_id": 2341501,
+    "question": "what is the relationship between man and shirt?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2341501,
+    "question": "what is the relationship between man and horse?",
+    "answer": "riding",
+    "subject": "man",
+    "object": "horse",
+    "level": 3
+  },
+  {
+    "image_id": 2341501,
+    "question": "what is the relationship between horse and wagon?",
+    "answer": "pulling",
+    "subject": "horse",
+    "object": "wagon",
+    "level": 3
+  },
+  {
+    "image_id": 2341501,
+    "question": "what is the relationship between horse walking and street?",
+    "answer": "walking",
+    "subject": "horse walking",
+    "object": "street",
+    "level": 3
+  },
+  {
+    "image_id": 2341501,
+    "question": "what is the relationship between blinder and eyes?",
+    "answer": "covering",
+    "subject": "blinder",
+    "object": "eyes",
+    "level": 3
+  },
+  {
+    "image_id": 2341501,
+    "question": "what is the relationship between man and carriage?",
+    "answer": "sitting",
+    "subject": "man",
+    "object": "carriage",
+    "level": 3
+  },
+  {
+    "image_id": 2341501,
+    "question": "what is the relationship between man and cellphone?",
+    "answer": "looking",
+    "subject": "man",
+    "object": "cellphone",
+    "level": 3
+  },
+  {
+    "image_id": 2341501,
+    "question": "what is the relationship between horse and buggy?",
+    "answer": "pulling",
+    "subject": "horse",
+    "object": "buggy",
+    "level": 3
+  },
+  {
+    "image_id": 2341501,
+    "question": "what is the relationship between man and phone?",
+    "answer": "looking",
+    "subject": "man",
+    "object": "phone",
+    "level": 3
+  },
+  {
+    "image_id": 2341501,
+    "question": "what is the relationship between man and buggy?",
+    "answer": "driving",
+    "subject": "man",
+    "object": "buggy",
+    "level": 3
+  },
+  {
+    "image_id": 2341501,
+    "question": "what is the relationship between people and building?",
+    "answer": "standing",
+    "subject": "people",
+    "object": "building",
+    "level": 3
+  },
+  {
+    "image_id": 2341501,
+    "question": "what is the relationship between bag and buggy?",
+    "answer": "sitting",
+    "subject": "bag",
+    "object": "buggy",
+    "level": 3
+  },
+  {
+    "image_id": 2341501,
+    "question": "what is the relationship between horse and blinders?",
+    "answer": "wearing",
+    "subject": "horse",
+    "object": "blinders",
+    "level": 3
+  },
+  {
+    "image_id": 2341501,
+    "question": "what is the relationship between person and buggy?",
+    "answer": "sitting",
+    "subject": "person",
+    "object": "buggy",
+    "level": 3
+  },
+  {
+    "image_id": 2341501,
+    "question": "what is the relationship between horse and cart?",
+    "answer": "pulling",
+    "subject": "horse",
+    "object": "cart",
+    "level": 3
+  },
+  {
+    "image_id": 2341501,
+    "question": "what is the relationship between man and carriage?",
+    "answer": "driving",
+    "subject": "man",
+    "object": "carriage",
+    "level": 3
+  },
+  {
+    "image_id": 2341491,
+    "question": "what is the relationship between person and horse?",
+    "answer": "riding",
+    "subject": "person",
+    "object": "horse",
+    "level": 3
+  },
+  {
+    "image_id": 2341491,
+    "question": "what is the relationship between woman and helmet?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "helmet",
+    "level": 3
+  },
+  {
+    "image_id": 2341491,
+    "question": "what is the relationship between woman and riding boot?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "riding boot",
+    "level": 3
+  },
+  {
+    "image_id": 2341491,
+    "question": "what is the relationship between woman and horse?",
+    "answer": "riding",
+    "subject": "woman",
+    "object": "horse",
+    "level": 3
+  },
+  {
+    "image_id": 2341491,
+    "question": "what is the relationship between woman and top?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "top",
+    "level": 3
+  },
+  {
+    "image_id": 2341491,
+    "question": "what is the relationship between woman and hat?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "hat",
+    "level": 3
+  },
+  {
+    "image_id": 2341266,
+    "question": "what is the relationship between hand and cell phone?",
+    "answer": "holding",
+    "subject": "hand",
+    "object": "cell phone",
+    "level": 3
+  },
+  {
+    "image_id": 2341266,
+    "question": "what is the relationship between he and jeans?",
+    "answer": "wearing",
+    "subject": "he",
+    "object": "jeans",
+    "level": 3
+  },
+  {
+    "image_id": 2340930,
+    "question": "what is the relationship between giraffe and lake edge?",
+    "answer": "drinking",
+    "subject": "giraffe",
+    "object": "lake edge",
+    "level": 3
+  },
+  {
+    "image_id": 2340930,
+    "question": "what is the relationship between giraffe and water?",
+    "answer": "drinking",
+    "subject": "giraffe",
+    "object": "water",
+    "level": 3
+  },
+  {
+    "image_id": 2340211,
+    "question": "what is the relationship between guy and laptop?",
+    "answer": "using",
+    "subject": "guy",
+    "object": "laptop",
+    "level": 3
+  },
+  {
+    "image_id": 2340211,
+    "question": "what is the relationship between guy and blue shirt?",
+    "answer": "wearing",
+    "subject": "guy",
+    "object": "blue shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2340211,
+    "question": "what is the relationship between cup and table?",
+    "answer": "sitting",
+    "subject": "cup",
+    "object": "table",
+    "level": 3
+  },
+  {
+    "image_id": 2340174,
+    "question": "what is the relationship between man and pants?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "pants",
+    "level": 3
+  },
+  {
+    "image_id": 2340174,
+    "question": "what is the relationship between man and shirt?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2340174,
+    "question": "what is the relationship between man and goggles?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "goggles",
+    "level": 3
+  },
+  {
+    "image_id": 2340174,
+    "question": "what is the relationship between man and helmet?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "helmet",
+    "level": 3
+  },
+  {
+    "image_id": 2339949,
+    "question": "what is the relationship between skier and pants?",
+    "answer": "wearing",
+    "subject": "skier",
+    "object": "pants",
+    "level": 3
+  },
+  {
+    "image_id": 2339949,
+    "question": "what is the relationship between branch and tree?",
+    "answer": "hanging",
+    "subject": "branch",
+    "object": "tree",
+    "level": 3
+  },
+  {
+    "image_id": 2339949,
+    "question": "what is the relationship between person and ski pole?",
+    "answer": "holding",
+    "subject": "person",
+    "object": "ski pole",
+    "level": 3
+  },
+  {
+    "image_id": 2339949,
+    "question": "what is the relationship between person and ski?",
+    "answer": "standing",
+    "subject": "person",
+    "object": "ski",
+    "level": 3
+  },
+  {
+    "image_id": 2339949,
+    "question": "what is the relationship between ice and utility pole?",
+    "answer": "covering",
+    "subject": "ice",
+    "object": "utility pole",
+    "level": 3
+  },
+  {
+    "image_id": 2339949,
+    "question": "what is the relationship between sunlight and tree?",
+    "answer": "shining",
+    "subject": "sunlight",
+    "object": "tree",
+    "level": 3
+  },
+  {
+    "image_id": 2339949,
+    "question": "what is the relationship between snow and tree?",
+    "answer": "covering",
+    "subject": "snow",
+    "object": "tree",
+    "level": 3
+  },
+  {
+    "image_id": 2339949,
+    "question": "what is the relationship between man and pants?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "pants",
+    "level": 3
+  },
+  {
+    "image_id": 2339949,
+    "question": "what is the relationship between pole and snow?",
+    "answer": "standing",
+    "subject": "pole",
+    "object": "snow",
+    "level": 3
+  },
+  {
+    "image_id": 2339949,
+    "question": "what is the relationship between guy and jacket?",
+    "answer": "wearing",
+    "subject": "guy",
+    "object": "jacket",
+    "level": 3
+  },
+  {
+    "image_id": 2339949,
+    "question": "what is the relationship between guy and ski?",
+    "answer": "standing",
+    "subject": "guy",
+    "object": "ski",
+    "level": 3
+  },
+  {
+    "image_id": 2339949,
+    "question": "what is the relationship between snow and telephone pole?",
+    "answer": "covering",
+    "subject": "snow",
+    "object": "telephone pole",
+    "level": 3
+  },
+  {
+    "image_id": 2339532,
+    "question": "what is the relationship between man and blazer?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "blazer",
+    "level": 3
+  },
+  {
+    "image_id": 2339532,
+    "question": "what is the relationship between hand and liquid?",
+    "answer": "holding",
+    "subject": "hand",
+    "object": "liquid",
+    "level": 3
+  },
+  {
+    "image_id": 2339532,
+    "question": "what is the relationship between man and mask?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "mask",
+    "level": 3
+  },
+  {
+    "image_id": 2339532,
+    "question": "what is the relationship between person and red cup?",
+    "answer": "holding",
+    "subject": "person",
+    "object": "red cup",
+    "level": 3
+  },
+  {
+    "image_id": 2339532,
+    "question": "what is the relationship between micrwave and kitchen counter?",
+    "answer": "sitting",
+    "subject": "micrwave",
+    "object": "kitchen counter",
+    "level": 3
+  },
+  {
+    "image_id": 2339105,
+    "question": "what is the relationship between arm and surfboard?",
+    "answer": "holding",
+    "subject": "arm",
+    "object": "surfboard",
+    "level": 3
+  },
+  {
+    "image_id": 2339105,
+    "question": "what is the relationship between man and surfboard?",
+    "answer": "holding",
+    "subject": "man",
+    "object": "surfboard",
+    "level": 3
+  },
+  {
+    "image_id": 2339105,
+    "question": "what is the relationship between hand and glove?",
+    "answer": "wearing",
+    "subject": "hand",
+    "object": "glove",
+    "level": 3
+  },
+  {
+    "image_id": 2339105,
+    "question": "what is the relationship between man and wetsuit?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "wetsuit",
+    "level": 3
+  },
+  {
+    "image_id": 2339105,
+    "question": "what is the relationship between person and beach?",
+    "answer": "standing",
+    "subject": "person",
+    "object": "beach",
+    "level": 3
+  },
+  {
+    "image_id": 2337992,
+    "question": "what is the relationship between man and helmet?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "helmet",
+    "level": 3
+  },
+  {
+    "image_id": 2337188,
+    "question": "what is the relationship between girl and jumper?",
+    "answer": "wearing",
+    "subject": "girl",
+    "object": "jumper",
+    "level": 3
+  },
+  {
+    "image_id": 2337188,
+    "question": "what is the relationship between man and hat?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "hat",
+    "level": 3
+  },
+  {
+    "image_id": 2337188,
+    "question": "what is the relationship between man and sunglasses?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "sunglasses",
+    "level": 3
+  },
+  {
+    "image_id": 2337188,
+    "question": "what is the relationship between man and shirt?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2337188,
+    "question": "what is the relationship between man and horse?",
+    "answer": "riding",
+    "subject": "man",
+    "object": "horse",
+    "level": 3
+  },
+  {
+    "image_id": 2337188,
+    "question": "what is the relationship between girl and horse?",
+    "answer": "touching",
+    "subject": "girl",
+    "object": "horse",
+    "level": 3
+  },
+  {
+    "image_id": 2337188,
+    "question": "what is the relationship between girl and dress?",
+    "answer": "wearing",
+    "subject": "girl",
+    "object": "dress",
+    "level": 3
+  },
+  {
+    "image_id": 2336588,
+    "question": "what is the relationship between person and surfboard?",
+    "answer": "carrying",
+    "subject": "person",
+    "object": "surfboard",
+    "level": 3
+  },
+  {
+    "image_id": 2336588,
+    "question": "what is the relationship between man and shirt?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2336588,
+    "question": "what is the relationship between man and shorts?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shorts",
+    "level": 3
+  },
+  {
+    "image_id": 2336588,
+    "question": "what is the relationship between man and sandal?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "sandal",
+    "level": 3
+  },
+  {
+    "image_id": 2336588,
+    "question": "what is the relationship between man and hat?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "hat",
+    "level": 3
+  },
+  {
+    "image_id": 2335371,
+    "question": "what is the relationship between child and shirt?",
+    "answer": "wearing",
+    "subject": "child",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2335371,
+    "question": "what is the relationship between man and watch?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "watch",
+    "level": 3
+  },
+  {
+    "image_id": 2335371,
+    "question": "what is the relationship between baby and shirt?",
+    "answer": "wearing",
+    "subject": "baby",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2334761,
+    "question": "what is the relationship between man and pants?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "pants",
+    "level": 3
+  },
+  {
+    "image_id": 2334761,
+    "question": "what is the relationship between man and scarf?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "scarf",
+    "level": 3
+  },
+  {
+    "image_id": 2334761,
+    "question": "what is the relationship between man and jacket?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "jacket",
+    "level": 3
+  },
+  {
+    "image_id": 2334748,
+    "question": "what is the relationship between surfer and surfboard?",
+    "answer": "catching",
+    "subject": "surfer",
+    "object": "surfboard",
+    "level": 3
+  },
+  {
+    "image_id": 2334748,
+    "question": "what is the relationship between surfer and wetsuit?",
+    "answer": "wearing",
+    "subject": "surfer",
+    "object": "wetsuit",
+    "level": 3
+  },
+  {
+    "image_id": 2334748,
+    "question": "what is the relationship between person and wetsuit?",
+    "answer": "wearing",
+    "subject": "person",
+    "object": "wetsuit",
+    "level": 3
+  },
+  {
+    "image_id": 2334748,
+    "question": "what is the relationship between person and surfboard?",
+    "answer": "riding",
+    "subject": "person",
+    "object": "surfboard",
+    "level": 3
+  },
+  {
+    "image_id": 2332604,
+    "question": "what is the relationship between people and beach?",
+    "answer": "standing",
+    "subject": "people",
+    "object": "beach",
+    "level": 3
+  },
+  {
+    "image_id": 2332604,
+    "question": "what is the relationship between person and kite?",
+    "answer": "lying",
+    "subject": "person",
+    "object": "kite",
+    "level": 3
+  },
+  {
+    "image_id": 2331694,
+    "question": "what is the relationship between man and shirt?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2331694,
+    "question": "what is the relationship between man and pants?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "pants",
+    "level": 3
+  },
+  {
+    "image_id": 2331694,
+    "question": "what is the relationship between boy and bat?",
+    "answer": "holding",
+    "subject": "boy",
+    "object": "bat",
+    "level": 3
+  },
+  {
+    "image_id": 2331694,
+    "question": "what is the relationship between boy and shirt?",
+    "answer": "wearing",
+    "subject": "boy",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2331694,
+    "question": "what is the relationship between man and blue shirt?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "blue shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2331694,
+    "question": "what is the relationship between girl and shorts?",
+    "answer": "wearing",
+    "subject": "girl",
+    "object": "shorts",
+    "level": 3
+  },
+  {
+    "image_id": 2331433,
+    "question": "what is the relationship between man and sidewalk?",
+    "answer": "sitting",
+    "subject": "man",
+    "object": "sidewalk",
+    "level": 3
+  },
+  {
+    "image_id": 2331433,
+    "question": "what is the relationship between man and pants?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "pants",
+    "level": 3
+  },
+  {
+    "image_id": 2331433,
+    "question": "what is the relationship between chain and fire hydrant?",
+    "answer": "hanging",
+    "subject": "chain",
+    "object": "fire hydrant",
+    "level": 3
+  },
+  {
+    "image_id": 2330414,
+    "question": "what is the relationship between horse and obstacle?",
+    "answer": "jumping",
+    "subject": "horse",
+    "object": "obstacle",
+    "level": 3
+  },
+  {
+    "image_id": 2330414,
+    "question": "what is the relationship between woman and horse?",
+    "answer": "riding",
+    "subject": "woman",
+    "object": "horse",
+    "level": 3
+  },
+  {
+    "image_id": 2328693,
+    "question": "what is the relationship between guy and shirt?",
+    "answer": "wearing",
+    "subject": "guy",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2328693,
+    "question": "what is the relationship between guy and pants?",
+    "answer": "wearing",
+    "subject": "guy",
+    "object": "pants",
+    "level": 3
+  },
+  {
+    "image_id": 2328693,
+    "question": "what is the relationship between guy and shorts?",
+    "answer": "wearing",
+    "subject": "guy",
+    "object": "shorts",
+    "level": 3
+  },
+  {
+    "image_id": 2328693,
+    "question": "what is the relationship between man and disc?",
+    "answer": "catching",
+    "subject": "man",
+    "object": "disc",
+    "level": 3
+  },
+  {
+    "image_id": 2328693,
+    "question": "what is the relationship between woman and bikini?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "bikini",
+    "level": 3
+  },
+  {
+    "image_id": 2328693,
+    "question": "what is the relationship between person and man?",
+    "answer": "serving",
+    "subject": "person",
+    "object": "man",
+    "level": 3
+  },
+  {
+    "image_id": 2328693,
+    "question": "what is the relationship between man and shirt?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2328693,
+    "question": "what is the relationship between frisbee and beach?",
+    "answer": "laying",
+    "subject": "frisbee",
+    "object": "beach",
+    "level": 3
+  },
+  {
+    "image_id": 2328693,
+    "question": "what is the relationship between man and frisbee?",
+    "answer": "laying",
+    "subject": "man",
+    "object": "frisbee",
+    "level": 3
+  },
+  {
+    "image_id": 2328693,
+    "question": "what is the relationship between woman and suit?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "suit",
+    "level": 3
+  },
+  {
+    "image_id": 2328693,
+    "question": "what is the relationship between man and short?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "short",
+    "level": 3
+  },
+  {
+    "image_id": 2328693,
+    "question": "what is the relationship between man and sand?",
+    "answer": "standing",
+    "subject": "man",
+    "object": "sand",
+    "level": 3
+  },
+  {
+    "image_id": 2328693,
+    "question": "what is the relationship between woman and sunglasses?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "sunglasses",
+    "level": 3
+  },
+  {
+    "image_id": 2328227,
+    "question": "what is the relationship between train and tracks?",
+    "answer": "moving",
+    "subject": "train",
+    "object": "tracks",
+    "level": 3
+  },
+  {
+    "image_id": 2328227,
+    "question": "what is the relationship between train engine and train cars?",
+    "answer": "pulling",
+    "subject": "train engine",
+    "object": "train cars",
+    "level": 3
+  },
+  {
+    "image_id": 2328034,
+    "question": "what is the relationship between man and overalls?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "overalls",
+    "level": 3
+  },
+  {
+    "image_id": 2328034,
+    "question": "what is the relationship between man and box?",
+    "answer": "holding",
+    "subject": "man",
+    "object": "box",
+    "level": 3
+  },
+  {
+    "image_id": 2326992,
+    "question": "what is the relationship between man and shoes?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shoes",
+    "level": 3
+  },
+  {
+    "image_id": 2326992,
+    "question": "what is the relationship between man and socks?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "socks",
+    "level": 3
+  },
+  {
+    "image_id": 2326992,
+    "question": "what is the relationship between man and shirt?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2326992,
+    "question": "what is the relationship between woman and shoes?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "shoes",
+    "level": 3
+  },
+  {
+    "image_id": 2326663,
+    "question": "what is the relationship between player and uniform?",
+    "answer": "wearing",
+    "subject": "player",
+    "object": "uniform",
+    "level": 3
+  },
+  {
+    "image_id": 2326663,
+    "question": "what is the relationship between batter and gloves?",
+    "answer": "wearing",
+    "subject": "batter",
+    "object": "gloves",
+    "level": 3
+  },
+  {
+    "image_id": 2326663,
+    "question": "what is the relationship between batter and helmet?",
+    "answer": "wearing",
+    "subject": "batter",
+    "object": "helmet",
+    "level": 3
+  },
+  {
+    "image_id": 2326663,
+    "question": "what is the relationship between player and pants?",
+    "answer": "wearing",
+    "subject": "player",
+    "object": "pants",
+    "level": 3
+  },
+  {
+    "image_id": 2326663,
+    "question": "what is the relationship between player and hat?",
+    "answer": "wearing",
+    "subject": "player",
+    "object": "hat",
+    "level": 3
+  },
+  {
+    "image_id": 2326663,
+    "question": "what is the relationship between baseball player and number \"24\"?",
+    "answer": "wearing",
+    "subject": "baseball player",
+    "object": "number \"24\"",
+    "level": 3
+  },
+  {
+    "image_id": 2326663,
+    "question": "what is the relationship between batter and bat?",
+    "answer": "holding",
+    "subject": "batter",
+    "object": "bat",
+    "level": 3
+  },
+  {
+    "image_id": 2326663,
+    "question": "what is the relationship between baseball player and dugout?",
+    "answer": "sitting",
+    "subject": "baseball player",
+    "object": "dugout",
+    "level": 3
+  },
+  {
+    "image_id": 2326663,
+    "question": "what is the relationship between laces and shoe?",
+    "answer": "tying",
+    "subject": "laces",
+    "object": "shoe",
+    "level": 3
+  },
+  {
+    "image_id": 2326663,
+    "question": "what is the relationship between grass and field?",
+    "answer": "growing",
+    "subject": "grass",
+    "object": "field",
+    "level": 3
+  },
+  {
+    "image_id": 2326663,
+    "question": "what is the relationship between home plate and field?",
+    "answer": "lying",
+    "subject": "home plate",
+    "object": "field",
+    "level": 3
+  },
+  {
+    "image_id": 2325703,
+    "question": "what is the relationship between woman and watch?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "watch",
+    "level": 3
+  },
+  {
+    "image_id": 2325703,
+    "question": "what is the relationship between woman and necklaces?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "necklaces",
+    "level": 3
+  },
+  {
+    "image_id": 2325703,
+    "question": "what is the relationship between woman and black chair?",
+    "answer": "sitting",
+    "subject": "woman",
+    "object": "black chair",
+    "level": 3
+  },
+  {
+    "image_id": 2325703,
+    "question": "what is the relationship between woman and shirt?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2325703,
+    "question": "what is the relationship between woman and sunglasses?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "sunglasses",
+    "level": 3
+  },
+  {
+    "image_id": 2325703,
+    "question": "what is the relationship between woman and glasses?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "glasses",
+    "level": 3
+  },
+  {
+    "image_id": 2325703,
+    "question": "what is the relationship between hands and phone?",
+    "answer": "holding",
+    "subject": "hands",
+    "object": "phone",
+    "level": 3
+  },
+  {
+    "image_id": 2325525,
+    "question": "what is the relationship between man and jacket?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "jacket",
+    "level": 3
+  },
+  {
+    "image_id": 2325525,
+    "question": "what is the relationship between pole and man?",
+    "answer": "standing",
+    "subject": "pole",
+    "object": "man",
+    "level": 3
+  },
+  {
+    "image_id": 2325525,
+    "question": "what is the relationship between branch and tree?",
+    "answer": "growing",
+    "subject": "branch",
+    "object": "tree",
+    "level": 3
+  },
+  {
+    "image_id": 2324910,
+    "question": "what is the relationship between pole and fence?",
+    "answer": "connecting",
+    "subject": "pole",
+    "object": "fence",
+    "level": 3
+  },
+  {
+    "image_id": 2324640,
+    "question": "what is the relationship between person and ball?",
+    "answer": "laying",
+    "subject": "person",
+    "object": "ball",
+    "level": 3
+  },
+  {
+    "image_id": 2324640,
+    "question": "what is the relationship between person and sea water?",
+    "answer": "swimming",
+    "subject": "person",
+    "object": "sea water",
+    "level": 3
+  },
+  {
+    "image_id": 2324640,
+    "question": "what is the relationship between girl and costumes?",
+    "answer": "wearing",
+    "subject": "girl",
+    "object": "costumes",
+    "level": 3
+  },
+  {
+    "image_id": 2324640,
+    "question": "what is the relationship between person and beach?",
+    "answer": "walking",
+    "subject": "person",
+    "object": "beach",
+    "level": 3
+  },
+  {
+    "image_id": 2324640,
+    "question": "what is the relationship between person and beach?",
+    "answer": "bending",
+    "subject": "person",
+    "object": "beach",
+    "level": 3
+  },
+  {
+    "image_id": 2324640,
+    "question": "what is the relationship between girl and sand?",
+    "answer": "laying",
+    "subject": "girl",
+    "object": "sand",
+    "level": 3
+  },
+  {
+    "image_id": 2324640,
+    "question": "what is the relationship between person and beach sand?",
+    "answer": "sitting",
+    "subject": "person",
+    "object": "beach sand",
+    "level": 3
+  },
+  {
+    "image_id": 2324598,
+    "question": "what is the relationship between batter and bat?",
+    "answer": "swinging",
+    "subject": "batter",
+    "object": "bat",
+    "level": 3
+  },
+  {
+    "image_id": 2324598,
+    "question": "what is the relationship between spectators and stands?",
+    "answer": "sitting",
+    "subject": "spectators",
+    "object": "stands",
+    "level": 3
+  },
+  {
+    "image_id": 2324598,
+    "question": "what is the relationship between man and bat?",
+    "answer": "swinging",
+    "subject": "man",
+    "object": "bat",
+    "level": 3
+  },
+  {
+    "image_id": 2324598,
+    "question": "what is the relationship between man and helmet?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "helmet",
+    "level": 3
+  },
+  {
+    "image_id": 2324598,
+    "question": "what is the relationship between umpire and face mask?",
+    "answer": "wearing",
+    "subject": "umpire",
+    "object": "face mask",
+    "level": 3
+  },
+  {
+    "image_id": 2324598,
+    "question": "what is the relationship between man and face mask?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "face mask",
+    "level": 3
+  },
+  {
+    "image_id": 2324598,
+    "question": "what is the relationship between man and shirt?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2324598,
+    "question": "what is the relationship between man and uniform?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "uniform",
+    "level": 3
+  },
+  {
+    "image_id": 2324398,
+    "question": "what is the relationship between girl and spoon?",
+    "answer": "licking",
+    "subject": "girl",
+    "object": "spoon",
+    "level": 3
+  },
+  {
+    "image_id": 2323703,
+    "question": "what is the relationship between man and wave?",
+    "answer": "surfing",
+    "subject": "man",
+    "object": "wave",
+    "level": 3
+  },
+  {
+    "image_id": 2323703,
+    "question": "what is the relationship between curl and wave?",
+    "answer": "crashing",
+    "subject": "curl",
+    "object": "wave",
+    "level": 3
+  },
+  {
+    "image_id": 2323703,
+    "question": "what is the relationship between person and surf board?",
+    "answer": "holding",
+    "subject": "person",
+    "object": "surf board",
+    "level": 3
+  },
+  {
+    "image_id": 2323698,
+    "question": "what is the relationship between boy and skateboard?",
+    "answer": "riding",
+    "subject": "boy",
+    "object": "skateboard",
+    "level": 3
+  },
+  {
+    "image_id": 2323698,
+    "question": "what is the relationship between boy and shirt?",
+    "answer": "wearing",
+    "subject": "boy",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2323698,
+    "question": "what is the relationship between boy and shorts?",
+    "answer": "wearing",
+    "subject": "boy",
+    "object": "shorts",
+    "level": 3
+  },
+  {
+    "image_id": 2323698,
+    "question": "what is the relationship between skateboarder and hat?",
+    "answer": "wearing",
+    "subject": "skateboarder",
+    "object": "hat",
+    "level": 3
+  },
+  {
+    "image_id": 2323698,
+    "question": "what is the relationship between skateboarder and shorts?",
+    "answer": "wearing",
+    "subject": "skateboarder",
+    "object": "shorts",
+    "level": 3
+  },
+  {
+    "image_id": 2323698,
+    "question": "what is the relationship between skateboarder and shoes?",
+    "answer": "wearing",
+    "subject": "skateboarder",
+    "object": "shoes",
+    "level": 3
+  },
+  {
+    "image_id": 2323695,
+    "question": "what is the relationship between person and helmet?",
+    "answer": "wearing",
+    "subject": "person",
+    "object": "helmet",
+    "level": 3
+  },
+  {
+    "image_id": 2323695,
+    "question": "what is the relationship between man and clothes?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "clothes",
+    "level": 3
+  },
+  {
+    "image_id": 2323695,
+    "question": "what is the relationship between man and bike?",
+    "answer": "standing",
+    "subject": "man",
+    "object": "bike",
+    "level": 3
+  },
+  {
+    "image_id": 2323695,
+    "question": "what is the relationship between person and bicycle?",
+    "answer": "riding",
+    "subject": "person",
+    "object": "bicycle",
+    "level": 3
+  },
+  {
+    "image_id": 2323695,
+    "question": "what is the relationship between people and bikes?",
+    "answer": "riding",
+    "subject": "people",
+    "object": "bikes",
+    "level": 3
+  },
+  {
+    "image_id": 2323695,
+    "question": "what is the relationship between man and helmet?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "helmet",
+    "level": 3
+  },
+  {
+    "image_id": 2323282,
+    "question": "what is the relationship between players and hands?",
+    "answer": "shaking",
+    "subject": "players",
+    "object": "hands",
+    "level": 3
+  },
+  {
+    "image_id": 2322786,
+    "question": "what is the relationship between boy and shirt?",
+    "answer": "wearing",
+    "subject": "boy",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2322749,
+    "question": "what is the relationship between towel and rack?",
+    "answer": "hanging",
+    "subject": "towel",
+    "object": "rack",
+    "level": 3
+  },
+  {
+    "image_id": 2322749,
+    "question": "what is the relationship between toilet and floor?",
+    "answer": "sitting",
+    "subject": "toilet",
+    "object": "floor",
+    "level": 3
+  },
+  {
+    "image_id": 2322749,
+    "question": "what is the relationship between soap dish and wall?",
+    "answer": "hanging",
+    "subject": "soap dish",
+    "object": "wall",
+    "level": 3
+  },
+  {
+    "image_id": 2322749,
+    "question": "what is the relationship between picture and wall?",
+    "answer": "hanging",
+    "subject": "picture",
+    "object": "wall",
+    "level": 3
+  },
+  {
+    "image_id": 2322749,
+    "question": "what is the relationship between towel and towel rack?",
+    "answer": "hanging",
+    "subject": "towel",
+    "object": "towel rack",
+    "level": 3
+  },
+  {
+    "image_id": 2322749,
+    "question": "what is the relationship between soap and soap dish?",
+    "answer": "resting",
+    "subject": "soap",
+    "object": "soap dish",
+    "level": 3
+  },
+  {
+    "image_id": 2322749,
+    "question": "what is the relationship between towel rack and wall?",
+    "answer": "hanging",
+    "subject": "towel rack",
+    "object": "wall",
+    "level": 3
+  },
+  {
+    "image_id": 2322502,
+    "question": "what is the relationship between girl and horse?",
+    "answer": "riding",
+    "subject": "girl",
+    "object": "horse",
+    "level": 3
+  },
+  {
+    "image_id": 2322502,
+    "question": "what is the relationship between brown horse and rider?",
+    "answer": "carrying",
+    "subject": "brown horse",
+    "object": "rider",
+    "level": 3
+  },
+  {
+    "image_id": 2322374,
+    "question": "what is the relationship between man standing and jeans?",
+    "answer": "standing",
+    "subject": "man standing",
+    "object": "jeans",
+    "level": 3
+  },
+  {
+    "image_id": 2322374,
+    "question": "what is the relationship between woman and jacket?",
+    "answer": "standing",
+    "subject": "woman",
+    "object": "jacket",
+    "level": 3
+  },
+  {
+    "image_id": 2322374,
+    "question": "what is the relationship between small child and hill?",
+    "answer": "standing",
+    "subject": "small child",
+    "object": "hill",
+    "level": 3
+  },
+  {
+    "image_id": 2322374,
+    "question": "what is the relationship between woman and jeans?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "jeans",
+    "level": 3
+  },
+  {
+    "image_id": 2322374,
+    "question": "what is the relationship between people and hill?",
+    "answer": "standing",
+    "subject": "people",
+    "object": "hill",
+    "level": 3
+  },
+  {
+    "image_id": 2322374,
+    "question": "what is the relationship between peaple and hill?",
+    "answer": "standing",
+    "subject": "peaple",
+    "object": "hill",
+    "level": 3
+  },
+  {
+    "image_id": 2322374,
+    "question": "what is the relationship between person and hill?",
+    "answer": "standing",
+    "subject": "person",
+    "object": "hill",
+    "level": 3
+  },
+  {
+    "image_id": 2322374,
+    "question": "what is the relationship between man and kite?",
+    "answer": "lying",
+    "subject": "man",
+    "object": "kite",
+    "level": 3
+  },
+  {
+    "image_id": 2321836,
+    "question": "what is the relationship between flag and balcony?",
+    "answer": "lying",
+    "subject": "flag",
+    "object": "balcony",
+    "level": 3
+  },
+  {
+    "image_id": 2321836,
+    "question": "what is the relationship between box and newspapers?",
+    "answer": "laying",
+    "subject": "box",
+    "object": "newspapers",
+    "level": 3
+  },
+  {
+    "image_id": 2321370,
+    "question": "what is the relationship between rod and ball clock?",
+    "answer": "holding",
+    "subject": "rod",
+    "object": "ball clock",
+    "level": 3
+  },
+  {
+    "image_id": 2321370,
+    "question": "what is the relationship between ball clock and ceiling?",
+    "answer": "hanging",
+    "subject": "ball clock",
+    "object": "ceiling",
+    "level": 3
+  },
+  {
+    "image_id": 2321370,
+    "question": "what is the relationship between structure and ceiling?",
+    "answer": "hanging",
+    "subject": "structure",
+    "object": "ceiling",
+    "level": 3
+  },
+  {
+    "image_id": 2321370,
+    "question": "what is the relationship between clock face and structure?",
+    "answer": "hanging",
+    "subject": "clock face",
+    "object": "structure",
+    "level": 3
+  },
+  {
+    "image_id": 2320476,
+    "question": "what is the relationship between child and shorts?",
+    "answer": "wearing",
+    "subject": "child",
+    "object": "shorts",
+    "level": 3
+  },
+  {
+    "image_id": 2320476,
+    "question": "what is the relationship between man and shirt?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2320476,
+    "question": "what is the relationship between man and pants?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "pants",
+    "level": 3
+  },
+  {
+    "image_id": 2320476,
+    "question": "what is the relationship between child and shirt?",
+    "answer": "wearing",
+    "subject": "child",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2319322,
+    "question": "what is the relationship between referee and catcher?",
+    "answer": "standing",
+    "subject": "referee",
+    "object": "catcher",
+    "level": 3
+  },
+  {
+    "image_id": 2319322,
+    "question": "what is the relationship between batter and shoe?",
+    "answer": "wearing",
+    "subject": "batter",
+    "object": "shoe",
+    "level": 3
+  },
+  {
+    "image_id": 2319322,
+    "question": "what is the relationship between catcher and mitt?",
+    "answer": "wearing",
+    "subject": "catcher",
+    "object": "mitt",
+    "level": 3
+  },
+  {
+    "image_id": 2319009,
+    "question": "what is the relationship between girl and tiara?",
+    "answer": "wearing",
+    "subject": "girl",
+    "object": "tiara",
+    "level": 3
+  },
+  {
+    "image_id": 2319009,
+    "question": "what is the relationship between girl and kid?",
+    "answer": "hugging",
+    "subject": "girl",
+    "object": "kid",
+    "level": 3
+  },
+  {
+    "image_id": 2319009,
+    "question": "what is the relationship between girl and bear?",
+    "answer": "holding",
+    "subject": "girl",
+    "object": "bear",
+    "level": 3
+  },
+  {
+    "image_id": 2318747,
+    "question": "what is the relationship between boy and frisbee?",
+    "answer": "catching",
+    "subject": "boy",
+    "object": "frisbee",
+    "level": 3
+  },
+  {
+    "image_id": 2318747,
+    "question": "what is the relationship between boy and frisbee?",
+    "answer": "laying",
+    "subject": "boy",
+    "object": "frisbee",
+    "level": 3
+  },
+  {
+    "image_id": 2318747,
+    "question": "what is the relationship between boy and socks?",
+    "answer": "wearing",
+    "subject": "boy",
+    "object": "socks",
+    "level": 3
+  },
+  {
+    "image_id": 2318747,
+    "question": "what is the relationship between boy and shoes?",
+    "answer": "wearing",
+    "subject": "boy",
+    "object": "shoes",
+    "level": 3
+  },
+  {
+    "image_id": 2318747,
+    "question": "what is the relationship between boy and shoe?",
+    "answer": "wearing",
+    "subject": "boy",
+    "object": "shoe",
+    "level": 3
+  },
+  {
+    "image_id": 2318747,
+    "question": "what is the relationship between boy and shorts?",
+    "answer": "wearing",
+    "subject": "boy",
+    "object": "shorts",
+    "level": 3
+  },
+  {
+    "image_id": 2318331,
+    "question": "what is the relationship between arm and ball?",
+    "answer": "catching",
+    "subject": "arm",
+    "object": "ball",
+    "level": 3
+  },
+  {
+    "image_id": 2318331,
+    "question": "what is the relationship between man and ball?",
+    "answer": "rowing",
+    "subject": "man",
+    "object": "ball",
+    "level": 3
+  },
+  {
+    "image_id": 2318331,
+    "question": "what is the relationship between player and clothes?",
+    "answer": "wearing",
+    "subject": "player",
+    "object": "clothes",
+    "level": 3
+  },
+  {
+    "image_id": 2317951,
+    "question": "what is the relationship between brown spots and bananas?",
+    "answer": "covering",
+    "subject": "brown spots",
+    "object": "bananas",
+    "level": 3
+  },
+  {
+    "image_id": 2317739,
+    "question": "what is the relationship between couple and snow?",
+    "answer": "sitting",
+    "subject": "couple",
+    "object": "snow",
+    "level": 3
+  },
+  {
+    "image_id": 2317739,
+    "question": "what is the relationship between woman and goggles?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "goggles",
+    "level": 3
+  },
+  {
+    "image_id": 2317739,
+    "question": "what is the relationship between woman and coat?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "coat",
+    "level": 3
+  },
+  {
+    "image_id": 2317739,
+    "question": "what is the relationship between man and goggles?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "goggles",
+    "level": 3
+  },
+  {
+    "image_id": 2317739,
+    "question": "what is the relationship between woman and pants?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "pants",
+    "level": 3
+  },
+  {
+    "image_id": 2317739,
+    "question": "what is the relationship between couple and snowboots?",
+    "answer": "wearing",
+    "subject": "couple",
+    "object": "snowboots",
+    "level": 3
+  },
+  {
+    "image_id": 2317739,
+    "question": "what is the relationship between man and coat?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "coat",
+    "level": 3
+  },
+  {
+    "image_id": 2317739,
+    "question": "what is the relationship between woman and helmet?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "helmet",
+    "level": 3
+  },
+  {
+    "image_id": 2317739,
+    "question": "what is the relationship between woman and snowboard?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "snowboard",
+    "level": 3
+  },
+  {
+    "image_id": 2317739,
+    "question": "what is the relationship between woman and snowboots?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "snowboots",
+    "level": 3
+  },
+  {
+    "image_id": 2317739,
+    "question": "what is the relationship between man and helmet?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "helmet",
+    "level": 3
+  },
+  {
+    "image_id": 2317435,
+    "question": "what is the relationship between spoke and railing?",
+    "answer": "supporting",
+    "subject": "spoke",
+    "object": "railing",
+    "level": 3
+  },
+  {
+    "image_id": 2317435,
+    "question": "what is the relationship between wall and building?",
+    "answer": "supporting",
+    "subject": "wall",
+    "object": "building",
+    "level": 3
+  },
+  {
+    "image_id": 2317435,
+    "question": "what is the relationship between ceiling and area?",
+    "answer": "covering",
+    "subject": "ceiling",
+    "object": "area",
+    "level": 3
+  },
+  {
+    "image_id": 2317435,
+    "question": "what is the relationship between wall and background?",
+    "answer": "standing",
+    "subject": "wall",
+    "object": "background",
+    "level": 3
+  },
+  {
+    "image_id": 2317163,
+    "question": "what is the relationship between boy and shirt?",
+    "answer": "wearing",
+    "subject": "boy",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2317163,
+    "question": "what is the relationship between person and skateboard?",
+    "answer": "doing",
+    "subject": "person",
+    "object": "skateboard",
+    "level": 3
+  },
+  {
+    "image_id": 2317163,
+    "question": "what is the relationship between boy and skateboard?",
+    "answer": "riding",
+    "subject": "boy",
+    "object": "skateboard",
+    "level": 3
+  },
+  {
+    "image_id": 2317163,
+    "question": "what is the relationship between boy and pants?",
+    "answer": "wearing",
+    "subject": "boy",
+    "object": "pants",
+    "level": 3
+  },
+  {
+    "image_id": 2317163,
+    "question": "what is the relationship between boy and hat?",
+    "answer": "wearing",
+    "subject": "boy",
+    "object": "hat",
+    "level": 3
+  },
+  {
+    "image_id": 2317030,
+    "question": "what is the relationship between woman and kite?",
+    "answer": "lying",
+    "subject": "woman",
+    "object": "kite",
+    "level": 3
+  },
+  {
+    "image_id": 2317030,
+    "question": "what is the relationship between boy and kite?",
+    "answer": "holding",
+    "subject": "boy",
+    "object": "kite",
+    "level": 3
+  },
+  {
+    "image_id": 2317030,
+    "question": "what is the relationship between woman and boots?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "boots",
+    "level": 3
+  },
+  {
+    "image_id": 2317030,
+    "question": "what is the relationship between child and shirt?",
+    "answer": "wearing",
+    "subject": "child",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2317030,
+    "question": "what is the relationship between woman and jeans?",
+    "answer": "wearing",
+    "subject": "woman",
+    "object": "jeans",
+    "level": 3
+  },
+  {
+    "image_id": 2317030,
+    "question": "what is the relationship between child and pants?",
+    "answer": "wearing",
+    "subject": "child",
+    "object": "pants",
+    "level": 3
+  },
+  {
+    "image_id": 2317030,
+    "question": "what is the relationship between man and shirt?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2317030,
+    "question": "what is the relationship between lady and jacket?",
+    "answer": "wearing",
+    "subject": "lady",
+    "object": "jacket",
+    "level": 3
+  },
+  {
+    "image_id": 2317030,
+    "question": "what is the relationship between man and coat?",
+    "answer": "holding",
+    "subject": "man",
+    "object": "coat",
+    "level": 3
+  },
+  {
+    "image_id": 2317030,
+    "question": "what is the relationship between man and kite?",
+    "answer": "holding",
+    "subject": "man",
+    "object": "kite",
+    "level": 3
+  },
+  {
+    "image_id": 2317030,
+    "question": "what is the relationship between people and path?",
+    "answer": "walking",
+    "subject": "people",
+    "object": "path",
+    "level": 3
+  },
+  {
+    "image_id": 2414679,
+    "question": "what is the relationship between surfer and shirt?",
+    "answer": "wearing",
+    "subject": "surfer",
+    "object": "shirt",
+    "level": 3
+  },
+  {
+    "image_id": 2415565,
+    "question": "what is the relationship between man and jacket?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "jacket",
+    "level": 3
+  },
+  {
+    "image_id": 2415565,
+    "question": "what is the relationship between people and dock?",
+    "answer": "walking",
+    "subject": "people",
+    "object": "dock",
+    "level": 3
+  },
+  {
+    "image_id": 2416037,
+    "question": "what is the relationship between street lamp and wires?",
+    "answer": "hanging",
+    "subject": "street lamp",
+    "object": "wires",
+    "level": 3
+  },
+  {
+    "image_id": 2416037,
+    "question": "what is the relationship between light and wire?",
+    "answer": "hanging",
+    "subject": "light",
+    "object": "wire",
+    "level": 3
+  },
+  {
+    "image_id": 2416037,
+    "question": "what is the relationship between green light and right arrow?",
+    "answer": "showing",
+    "subject": "green light",
+    "object": "right arrow",
+    "level": 3
+  },
+  {
+    "image_id": 2416037,
+    "question": "what is the relationship between traffic light and white bicycles?",
+    "answer": "showing",
+    "subject": "traffic light",
+    "object": "white bicycles",
+    "level": 3
+  },
+  {
+    "image_id": 2416037,
+    "question": "what is the relationship between thin wires and buildings?",
+    "answer": "crossing",
+    "subject": "thin wires",
+    "object": "buildings",
+    "level": 3
+  },
+  {
+    "image_id": 2416037,
+    "question": "what is the relationship between thin wires and poles?",
+    "answer": "crossing",
+    "subject": "thin wires",
+    "object": "poles",
+    "level": 3
+  },
+  {
+    "image_id": 2416037,
+    "question": "what is the relationship between green light and right arrow?",
+    "answer": "illuminating",
+    "subject": "green light",
+    "object": "right arrow",
+    "level": 3
+  },
+  {
+    "image_id": 2416540,
+    "question": "what is the relationship between tree and ramp?",
+    "answer": "standing",
+    "subject": "tree",
+    "object": "ramp",
+    "level": 3
+  },
+  {
+    "image_id": 2416540,
+    "question": "what is the relationship between cloud and sky?",
+    "answer": "hanging",
+    "subject": "cloud",
+    "object": "sky",
+    "level": 3
+  },
+  {
+    "image_id": 2416540,
+    "question": "what is the relationship between ramp and shadow?",
+    "answer": "casting",
+    "subject": "ramp",
+    "object": "shadow",
+    "level": 3
+  },
+  {
+    "image_id": 2416540,
+    "question": "what is the relationship between skier and pants?",
+    "answer": "wearing",
+    "subject": "skier",
+    "object": "pants",
+    "level": 3
+  },
+  {
+    "image_id": 2416935,
+    "question": "what is the relationship between woman and cell phone?",
+    "answer": "holding",
+    "subject": "woman",
+    "object": "cell phone",
+    "level": 3
+  },
+  {
+    "image_id": 2417250,
+    "question": "what is the relationship between pillar and bridge?",
+    "answer": "supporting",
+    "subject": "pillar",
+    "object": "bridge",
+    "level": 3
+  },
+  {
+    "image_id": 2417652,
+    "question": "what is the relationship between man and shorts?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "shorts",
+    "level": 3
+  },
+  {
+    "image_id": 2417652,
+    "question": "what is the relationship between man and hatch?",
+    "answer": "pushing",
+    "subject": "man",
+    "object": "hatch",
+    "level": 3
+  },
+  {
+    "image_id": 2417652,
+    "question": "what is the relationship between man and hat?",
+    "answer": "wearing",
+    "subject": "man",
+    "object": "hat",
+    "level": 3
+  }
+]
